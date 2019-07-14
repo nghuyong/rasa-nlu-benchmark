@@ -33,7 +33,7 @@ directly use them in your Rasa NLU system.
 
 <h2 align="center">Datasets</h2>
 
-**All the datasets have been organized and archived in the `data` directory**
+**All the datasets have been organized and archived in the [`data`](https://github.com/nghuyong/rasa-nlu-benchmark/blob/master/data) directory**
 
 Following information is included for each dataset:
 - Name
