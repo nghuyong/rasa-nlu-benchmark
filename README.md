@@ -45,5 +45,5 @@ Following information is included for each dataset:
 
 |Name|Language|Task|Size|Intent & Entity nums|Description & Link|
 |:----:|:----:|:----:|:----:|:----:|:----:|
-|ATIS|en|rasa|train(4977)+test(892)+dev(499)|intent:Airline Travel Information
+|ATIS|en|rasa|train(4978)+test(893)+dev(500)|intent:Airline Travel Information
 |Snips|en|rasa|train(13802)+val(699)|7 intent 72 slot labels|
