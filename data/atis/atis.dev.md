@@ -498,3 +498,5 @@
 - do you have any flights from [denver](B-fromloc.city_name) to [baltimore](B-toloc.city_name) via [dallas](B-stoploc.city_name)
 - which airlines fly into and out of [denver](B-city_name)
 - does [continental](B-airline_name) fly from [boston](B-fromloc.city_name) to [san](B-toloc.city_name) [francisco](I-toloc.city_name) with a stop in [denver](B-stoploc.city_name)
+- is there a delta B-airline_name flight from [denver](B-fromloc.city_name) to [san](B-toloc.city_name) [francisco](I-toloc.city_name)
+
