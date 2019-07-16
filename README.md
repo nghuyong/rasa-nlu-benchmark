@@ -46,4 +46,4 @@ Following information is included for each dataset:
 |Name|Language|Task|Size|Intent & Entity nums|Description & Link|
 |:----:|:----:|:----:|:----:|:----:|:----:|
 |ATIS|en|
-|Snips|en|
+|Snips|en|rasa|train(13802)+val(699)|7 intent 72 slot labels|
