@@ -1,6 +1,6 @@
-## intent atis_dev
--what is the [least](B-cost_relative) [expensive](I-cost_relative) [one](B-round_trip) [way](I-round_trip) fare from [boston](B-fromloc.city_name) to [san](B-toloc.city_name) [francisco](I-toloc.city_name) 
--is there ground transportation in [dallas](B-city_name) from the [dallas](B-fromloc.airport_name) [airport](I-fromloc.airport_name) to downtown [dallas](B-toloc.city_name) 
+## intent Airline Travel Information
+-what is the [least](B-cost_relative) [expensive](I-cost_relative) [one](B-round_trip) [way](I-round_trip) fare from [boston](B-fromloc.city_name) to [san](B-toloc.city_name) [francisco](I-toloc.city_name)
+-is there ground transportation in [dallas](B-city_name) from the [dallas](B-fromloc.airport_name) [airport](I-fromloc.airport_name) to downtown [dallas](B-toloc.city_name)
 -show me the [cheapest](B-cost_relative) fare from [dallas](B-fromloc.city_name) to [baltimore](B-toloc.city_name) 
 -what 's the [smallest](B-mod) plane flying from [pittsburgh](B-fromloc.city_name) to [baltimore](B-toloc.city_name) on [december](B-depart_date.month_name) [seventeenth](B-depart_date.day_number) 
 -show me [first](B-class_type) [class](I-class_type) flights [one](B-round_trip) [way](I-round_trip) [tampa](B-fromloc.city_name) to [st.](B-toloc.city_name) [louis](I-toloc.city_name) 
