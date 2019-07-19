@@ -2,31 +2,31 @@
 - what is meal code[ sb](meal_code)
 - what is fare code[ m](fare_basis_code)
 - what is fare code[ f](fare_basis_code)
-- what does[ hp](airline_code)
-- what does fare code[ bn](fare_basis_code)
-- what does[ ua](airline_code)
-- what does[ q](fare_basis_code)
-- what does[ m](fare_basis_code)
-- what does[ ap 57](restriction_code)
-- what does[ ap 20](restriction_code)
+- what does[ hp](airline_code) stand for
+- what does fare code[ bn](fare_basis_code) mean
+- what does[ ua](airline_code) mean
+- what does[ q](fare_basis_code) mean
+- what does[ m](fare_basis_code) mean
+- what does[ ap 57](restriction_code) mean
+- what does[ ap 20](restriction_code) mean
 - what is[ phl](airport_code)
 - what is[ mci](airport_code)
-- what does[ not](mod)[ sa](days_code)
+- what does[ not](mod)[ sa](days_code) mean
 - what is[ tpa](airport_code)
-- what does fare code[ qo](fare_basis_code)
-- what the abbreviation[ us](airline_code)
-- what does fare code[ f](fare_basis_code)
-- what does fare code[ h](fare_basis_code)
-- what does fare code[ y](fare_basis_code)
+- what does fare code[ qo](fare_basis_code) mean
+- what the abbreviation[ us](airline_code) stand for
+- what does fare code[ f](fare_basis_code) mean
+- what does fare code[ h](fare_basis_code) mean
+- what does fare code[ y](fare_basis_code) mean
 - what are restrictions[ ap 57](restriction_code)
-- what does fare code[ bh](fare_basis_code)
-- what does fare code[ bh](fare_basis_code)
-- what does fare code[ bh](fare_basis_code)
-- what does fare code[ bh](fare_basis_code)
-- what does fare code[ bh](fare_basis_code)
-- what does fare code[ f](fare_basis_code)
-- what does the restriction[ ap58](restriction_code)
-- what does fare code[ h](fare_basis_code)
+- what does fare code[ bh](fare_basis_code) mean
+- what does fare code[ bh](fare_basis_code) mean
+- what does fare code[ bh](fare_basis_code) mean
+- what does fare code[ bh](fare_basis_code) mean
+- what does fare code[ bh](fare_basis_code) mean
+- what does fare code[ f](fare_basis_code) mean
+- what does the restriction[ ap58](restriction_code) mean
+- what does fare code[ h](fare_basis_code) mean
 - what class is fare code[ q](booking_class)
 - what is a[ d9s](aircraft_code)
 - what is a[ d9s](aircraft_code)
@@ -40,8 +40,8 @@
 - what type of aircraft are flying from[ cleveland](fromloc.city_name) to[ dallas](toloc.city_name)[ before](depart_time.time_relative)[ noon](depart_time.period_of_day)
 - list type of aircraft for all flights from[ charlotte](fromloc.city_name)
 - what type of plane is a[ d9s](aircraft_code)
-- tell me about the[ m80](aircraft_code)
-- tell me about the[ m80](aircraft_code)
+- tell me about the[ m80](aircraft_code) aircraft
+- tell me about the[ m80](aircraft_code) aircraft
 - tell me about the type of aircraft called an[ m80](aircraft_code)
 - what type of aircraft is used for the[ american](airline_name) flight leaving at[ 419 pm](depart_time.time)
 
@@ -67,7 +67,7 @@
 - what is the[ lowest](cost_relative) fare from[ washington](fromloc.city_name)[ dc](fromloc.state_code) to[ montreal](toloc.city_name)
 - what is the[ lowest](cost_relative) fare from[ toronto](fromloc.city_name) to[ washington](toloc.city_name)[ dc](toloc.state_code)
 - list fares from[ washington](fromloc.city_name)[ dc](fromloc.state_code) to[ montreal](toloc.city_name)
-- list fares from[ washington](fromloc.city_name)[ dc](fromloc.state_code) to[ toronto](toloc.city_name)
+- list fares from[ washington](fromloc.city_name)[ dc](fromloc.state_code) to[ toronto](toloc.city_name) that should be good
 - list fares from[ washington](fromloc.city_name)[ dc](fromloc.state_code) to[ boston](toloc.city_name)
 - i need the fares on flights from[ washington](fromloc.city_name) to[ toronto](toloc.city_name) on a[ saturday](depart_date.day_name)
 - get fares from[ washington](fromloc.city_name) to[ boston](toloc.city_name)
@@ -104,11 +104,11 @@
 ## intent: airport
 - i would like to know what airports are in[ los angeles](city_name)
 - which airport is[ closest](mod) to[ ontario](city_name)[ california](state_name)
-- list airports in[ arizona nevada](state_name) and[ california](state_name)
-- list[ california](state_name)[ nevada](state_name)[ arizona](state_name)
-- list the[ arizona](state_name)
-- list[ california](state_name)
-- list[ california](state_name)
+- list airports in[ arizona nevada](state_name) and[ california](state_name) please
+- list[ california](state_name)[ nevada](state_name)[ arizona](state_name) airports
+- list the[ arizona](state_name) airport
+- list[ california](state_name) airports
+- list[ california](state_name) airports
 - list airports
 - list airports in[ new york](city_name)
 - list airports in[ new york](city_name)
@@ -119,7 +119,7 @@
 - list the airports in[ la](city_name)
 - show me the airports serviced by[ tower air](airline_name)
 - tell me all the airports near[ westchester county](city_name)
-- tell me all the airports in the[ new york city](city_name)
+- tell me all the airports in the[ new york city](city_name) area
 
 
 ## intent airline
@@ -153,7 +153,7 @@
 - what airline is[ as](airline_code)
 - what airline is[ as](airline_code)
 - what airline is[ as](airline_code)
-- what airline is[ as](airline_code)
+- what airline is[ as](airline_code) as in sam
 - what airline is[ hp](airline_code)
 - list airlines that fly from[ seattle](fromloc.city_name) to[ salt lake city](toloc.city_name)
 - what airlines serve[ denver](city_name)
@@ -166,7 +166,7 @@
 ## intent capacity
 - what is the seating capacity for aircraft[ l10](aircraft_code)
 - what is the seating capacity for[ delta](airline_name)[ be1](aircraft_code)
-- how many passengers can an[ l1011](aircraft_code)
+- how many passengers can an[ l1011](aircraft_code) aircraft hold
 - what is the seating capacity of a[ dc9](aircraft_code)
 - what is the seating capacity for the aircraft[ m80](aircraft_code)
 - list seating capacities of[ delta](airline_name) flights from[ seattle](fromloc.city_name) to[ salt lake city](toloc.city_name)
@@ -179,7 +179,7 @@
 - what is the capacity of the[ 73s](aircraft_code)
 - what is seating capacity on the aircraft[ 73s](aircraft_code)
 - what is the seating capacity of a[ 757](aircraft_code)
-- how many people will a[ 757](aircraft_code)
+- how many people will a[ 757](aircraft_code) hold
 - how many passengers can fly on a[ 757](aircraft_code)
 - what is the seating capacity of the[ 757](aircraft_code)
 - what is the seating capacity of the[ 733](aircraft_code)
@@ -191,26 +191,26 @@
 - to what cities from[ boston](fromloc.city_name) does[ america west](airline_name) fly[ first class](class_type)
 - list[ la](city_name)
 - list[ la](city_name)
-- what cities does[ northwest](airline_name)
-- list the cities from which[ northwest](airline_name)
-- what cities does[ northwest](airline_name)
+- what cities does[ northwest](airline_name) fly out of
+- list the cities from which[ northwest](airline_name) flies
+- what cities does[ northwest](airline_name) fly to
 
 
 ## intent day_name
-- what day of the week do flights from[ nashville](fromloc.city_name) to[ tacoma](toloc.city_name)
-- what days of the week do flights from[ san jose](fromloc.city_name) to[ nashville](toloc.city_name)
+- what day of the week do flights from[ nashville](fromloc.city_name) to[ tacoma](toloc.city_name) fly on
+- what days of the week do flights from[ san jose](fromloc.city_name) to[ nashville](toloc.city_name) fly on
 
 
 ## intent distance
-- how far is[ new york 's](city_name)[ la guardia](airport_name)
-- how far is[ toronto international](airport_name)
-- how far is[ los angeles international](airport_name)
-- how far is[ san francisco international](airport_name)
-- how long does a flight from[ baltimore](fromloc.city_name) to[ san francisco](toloc.city_name)
+- how far is[ new york 's](city_name)[ la guardia](airport_name) from downtown
+- how far is[ toronto international](airport_name) from downtown
+- how far is[ los angeles international](airport_name) from downtown
+- how far is[ san francisco international](airport_name) from downtown
+- how long does a flight from[ baltimore](fromloc.city_name) to[ san francisco](toloc.city_name) take
 - list the distance in miles from[ boston airport](fromloc.airport_name) to downtown[ boston](city_name)
 - list the distance in miles from[ new york 's](fromloc.city_name)[ la guardia airport](fromloc.airport_name) to downtown[ new york city](city_name)
 - list the distance in miles from[ toronto international airport](fromloc.airport_name) to downtown[ toronto](city_name)
-- list the distance in miles from[ san francisco international airport](fromloc.airport_name) to[ san francisco](toloc.city_name)
+- list the distance in miles from[ san francisco international airport](fromloc.airport_name) to[ san francisco](toloc.city_name) downtown
 - list distance from airports to downtown in[ new york](city_name)
 
 
@@ -275,7 +275,7 @@
 - which flights leave[ chicago](fromloc.city_name) on[ april](depart_date.month_name)[ twelfth](depart_date.day_number) and arrive in[ indianapolis](toloc.city_name) in the[ morning](arrive_time.period_of_day)
 - which flights leave on[ wednesday](depart_date.day_name)[ april](depart_date.month_name)[ thirteenth](depart_date.day_number) from[ indianapolis](fromloc.city_name) and arrive in[ montreal](toloc.city_name) in the[ morning](arrive_time.period_of_day)
 - which flights leave[ april](depart_date.month_name)[ twelfth](depart_date.day_number) from[ indianapolis](fromloc.city_name) and arrive in[ montreal](toloc.city_name)[ around](arrive_time.time_relative)[ 10 pm](arrive_time.time)
-- i 'd like to go from[ long beach](fromloc.city_name) to[ st. louis](toloc.city_name) and i 'd like to stop in[ dallas](stoploc.city_name) i 'd also like to have[ lunch](meal_description)
+- i 'd like to go from[ long beach](fromloc.city_name) to[ st. louis](toloc.city_name) and i 'd like to stop in[ dallas](stoploc.city_name) i 'd also like to have[ lunch](meal_description) during my flight
 - [next ](depart_date.date_relative)[ wednesday](depart_date.day_name) i would like to leave[ kansas city](fromloc.city_name) on a trip to[ chicago](toloc.city_name) which arrives in[ chicago](toloc.city_name)[ around](arrive_time.time_relative)[ 7 pm](arrive_time.time)
 - i would like to return from[ chicago](fromloc.city_name)[ around](depart_time.time_relative)[ 7 pm](depart_time.time) to[ kansas city](toloc.city_name)
 - i would like to leave[ this](depart_date.today_relative)[ afternoon](depart_time.period_of_day) on an[ american](airline_name) flight from[ cincinnati](fromloc.city_name) to[ burbank](toloc.city_name)
@@ -294,7 +294,7 @@
 - please find a flight from[ st. petersburg](fromloc.city_name) to[ miami](toloc.city_name) on[ thursday](depart_date.day_name)
 - please find a flight from[ san diego](fromloc.city_name) to[ toronto](toloc.city_name) on[ alaska airlines](airline_name)
 - please find the flights from[ columbus](fromloc.city_name) to[ houston](toloc.city_name) with a layover in[ nashville](stoploc.city_name)[ tomorrow](depart_date.today_relative)
-- please give me the flights from[ nashville](fromloc.city_name) to[ houston](toloc.city_name)[ nonstop](flight_stop) with[ dinner](meal_description)
+- please give me the flights from[ nashville](fromloc.city_name) to[ houston](toloc.city_name)[ nonstop](flight_stop) with[ dinner](meal_description) served
 - please find flights available from[ kansas city](fromloc.city_name) to[ newark](toloc.city_name)
 - please find a flight that goes from[ kansas city](fromloc.city_name) to[ newark](toloc.city_name) to[ orlando](toloc.city_name) back to[ kansas city](toloc.city_name)
 - please find a flight from[ kansas city](fromloc.city_name) to[ newark](toloc.city_name)
@@ -316,7 +316,7 @@
 - show me all[ lufthansa](airline_name) flights from[ seattle](fromloc.city_name) to[ boston](toloc.city_name) with stopovers in[ minneapolis](stoploc.city_name)
 - show me all flights from[ seattle](fromloc.city_name) to[ boston](toloc.city_name) with stopovers in[ minneapolis](stoploc.city_name)
 - list[ philadelphia](fromloc.city_name) to[ san francisco](toloc.city_name) flights with stopovers in[ dallas](stoploc.city_name)
-- show me the[ connecting](connect) flights between[ boston](fromloc.city_name) and[ denver](toloc.city_name)
+- show me the[ connecting](connect) flights between[ boston](fromloc.city_name) and[ denver](toloc.city_name) and the types of aircraft used
 - show me all the[ morning](depart_time.period_of_day) flights from[ philadelphia](fromloc.city_name) to[ fort worth](toloc.city_name)
 - show me all the flights from[ kansas city](fromloc.city_name) to[ st. paul](toloc.city_name)
 - show me[ northwest](airline_name) flight[ 608](flight_number) from[ kansas city](fromloc.city_name) to[ st. paul](toloc.city_name)
@@ -324,7 +324,7 @@
 - show me all the flights from[ charlotte](fromloc.city_name) to[ minneapolis](toloc.city_name) that leave at[ 2 pm](depart_time.time) or[ later](depart_time.time_relative) on[ monday](depart_date.day_name)
 - show me all the flights from[ charlotte](fromloc.city_name) to[ minneapolis](toloc.city_name) on[ tuesday](depart_date.day_name)[ morning](depart_time.period_of_day)
 - show me the[ direct](connect) flights from[ charlotte](fromloc.city_name) to[ minneapolis](toloc.city_name) on[ tuesday](depart_date.day_name)[ morning](depart_time.period_of_day)
-- show me flight[ us](airline_code)[ 1500](flight_number) on[ monday](depart_date.day_name) from[ charlotte](fromloc.city_name) to[ minneapolis](toloc.city_name)
+- show me flight[ us](airline_code)[ 1500](flight_number) on[ monday](depart_date.day_name) from[ charlotte](fromloc.city_name) to[ minneapolis](toloc.city_name) please
 - show me all the flights from[ minneapolis](fromloc.city_name) to[ indianapolis](toloc.city_name) on[ tuesday](depart_date.day_name) that leave[ after](depart_time.time_relative)[ 2 pm](depart_time.time)
 - show me the flights from[ minneapolis](fromloc.city_name) to[ indiana](toloc.state_name)
 - show me the flights in from[ minneapolis](fromloc.city_name) to[ indianapolis](toloc.city_name) on[ tuesday](depart_date.day_name)[ afternoon](depart_time.period_of_day)
@@ -363,7 +363,7 @@
 - show me the flights from[ houston](fromloc.city_name) to[ orlando](toloc.city_name)
 - show me the flights from[ orlando](fromloc.city_name) to[ houston](toloc.city_name)
 - show me the flights from[ detroit](fromloc.city_name) to[ las vegas](toloc.city_name)
-- show me the[ delta](airline_name) flights which serve a[ snack](meal_description) to[ coach](compartment)
+- show me the[ delta](airline_name) flights which serve a[ snack](meal_description) to[ coach](compartment) passengers
 - show me the[ delta](airline_name) flights from[ tampa](fromloc.city_name) to[ san francisco](toloc.city_name)
 - show me[ delta](airline_name) flight[ 486](flight_number)
 - list the[ tower air](airline_name) flights on[ mondays](day_name)
@@ -388,7 +388,7 @@
 - which flights are leaving from[ kansas city](fromloc.city_name) to[ atlanta](toloc.city_name)[ early](depart_time.period_mod)[ monday](depart_date.day_name)[ morning](depart_time.period_of_day)
 - which flights are leaving[ atlanta](fromloc.city_name) and arriving in[ st. louis](toloc.city_name)[ close](arrive_time.time_relative) to[ 230 pm](arrive_time.time) on[ tuesday](arrive_date.day_name)
 - please list flights from[ st. louis](fromloc.city_name) to[ st. paul](toloc.city_name) which depart[ after](depart_time.time_relative)[ 10 am](depart_time.time)[ thursday](depart_date.day_name)[ morning](depart_time.period_of_day)
-- list flights from[ st. paul](fromloc.city_name) to[ kansas city](toloc.city_name)[ friday](depart_date.day_name) in the[ evening](depart_time.period_of_day) with a[ meal](meal)
+- list flights from[ st. paul](fromloc.city_name) to[ kansas city](toloc.city_name)[ friday](depart_date.day_name) in the[ evening](depart_time.period_of_day) with a[ meal](meal) included
 - list[ early](depart_time.period_of_day)[ morning](depart_time.period_of_day) flights from[ cincinnati](fromloc.city_name) to[ tampa](toloc.city_name)
 - list[ early](depart_time.period_of_day)[ evening](depart_time.period_of_day) flights from[ tampa](fromloc.city_name) to[ cincinnati](toloc.city_name)
 - list[ evening](depart_time.period_of_day) flights from[ tampa](fromloc.city_name) to[ cincinnati](toloc.city_name)
@@ -417,10 +417,10 @@
 - list flights from[ salt lake city](fromloc.city_name)[ utah](fromloc.state_name) to[ phoenix](toloc.city_name)[ arizona](toloc.state_name)[ monday](depart_date.day_name)
 - list flights from[ salt lake city](fromloc.city_name) to[ phoenix](toloc.city_name)[ arizona](toloc.state_name)[ tuesday](depart_date.day_name)
 - list flights from[ phoenix](fromloc.city_name)[ arizona](fromloc.state_name) to[ ontario](toloc.city_name)[ california](toloc.state_name)[ wednesday](depart_date.day_name)
-- [kansas city ](fromloc.city_name)to[ atlanta](toloc.city_name)[ monday](depart_date.day_name)[ morning](depart_time.period_of_day)
+- [kansas city ](fromloc.city_name)to[ atlanta](toloc.city_name)[ monday](depart_date.day_name)[ morning](depart_time.period_of_day) flights
 - [monday ](depart_date.day_name)[ morning](depart_time.period_of_day) flights from[ atlanta](fromloc.city_name) to[ kansas city](toloc.city_name)
-- [kansas city ](fromloc.city_name)to[ atlanta](toloc.city_name)[ monday](depart_date.day_name)[ morning](depart_time.period_of_day)
-- [atlanta ](fromloc.city_name)to[ st. louis](toloc.city_name)[ tuesday](depart_date.day_name)[ before](depart_time.time_relative)[ 230 pm](depart_time.time)
+- [kansas city ](fromloc.city_name)to[ atlanta](toloc.city_name)[ monday](depart_date.day_name)[ morning](depart_time.period_of_day) flights
+- [atlanta ](fromloc.city_name)to[ st. louis](toloc.city_name)[ tuesday](depart_date.day_name)[ before](depart_time.time_relative)[ 230 pm](depart_time.time) flights
 - [st. louis ](fromloc.city_name)to[ st. paul](toloc.city_name)[ thursday](depart_date.day_name)[ after](depart_time.time_relative)[ 10 am](depart_time.time)
 - [st. paul ](fromloc.city_name)to[ kansas city](toloc.city_name)[ friday](depart_date.day_name)[ night](depart_time.period_of_day)
 - [cleveland ](fromloc.city_name)to[ kansas city](toloc.city_name) arrive[ monday](arrive_date.day_name)[ before](arrive_time.time_relative)[ 3 pm](arrive_time.time)
@@ -430,8 +430,8 @@
 - [first class ](class_type)flights[ pittsburgh](fromloc.city_name) to[ newark](toloc.city_name)[ monday](depart_date.day_name)[ morning](depart_time.period_of_day)
 - flights[ newark](fromloc.city_name) to[ los angeles](toloc.city_name)[ wednesday](depart_date.day_name)[ morning](depart_time.period_of_day)
 - [los angeles ](fromloc.city_name)to[ minneapolis](toloc.city_name)[ thursday](depart_date.day_name)[ afternoon](depart_time.period_of_day)
-- [minneapolis ](fromloc.city_name)to[ pittsburgh](toloc.city_name)
-- [minneapolis ](fromloc.city_name)to[ pittsburgh](toloc.city_name)[ first class](class_type)
+- [minneapolis ](fromloc.city_name)to[ pittsburgh](toloc.city_name) flight
+- [minneapolis ](fromloc.city_name)to[ pittsburgh](toloc.city_name)[ first class](class_type) flight
 - i would like flights leaving from[ milwaukee](fromloc.city_name) to[ orlando](toloc.city_name)
 - i would like flights from[ ontario](fromloc.city_name) to[ tacoma](toloc.city_name)
 - i would like flights from[ minneapolis](fromloc.city_name) to[ san diego](toloc.city_name)
@@ -493,12 +493,12 @@
 - what is the[ latest](flight_mod)[ daily](flight_days) flight between[ oakland](fromloc.city_name) and[ salt lake city](toloc.city_name)
 - show me the flights between[ los angeles](fromloc.city_name) and[ dallas](toloc.city_name)
 - what are the flights between[ dallas](fromloc.city_name) and[ phoenix](toloc.city_name)
-- are there any flights between[ dallas](fromloc.city_name) and[ phoenix](toloc.city_name) using a[ dc10](aircraft_code)
+- are there any flights between[ dallas](fromloc.city_name) and[ phoenix](toloc.city_name) using a[ dc10](aircraft_code) aircraft
 - show me the flights between[ milwaukee](fromloc.city_name) and[ indiana](toloc.state_name)
 - what are the flights between[ milwaukee](fromloc.city_name) and[ pittsburgh](toloc.city_name)
 - show me the flights between[ pittsburgh](fromloc.city_name) and[ washington](toloc.city_name)[ dc](toloc.state_code)
 - what are the flights between[ dca](airport_code) and[ milwaukee](city_name)
-- find a flight between[ st. petersburg](fromloc.city_name) and[ charlotte](toloc.city_name) the flight should leave in the[ afternoon](depart_time.period_of_day) and arrive as soon[ after](arrive_time.time_relative)[ 5 pm](arrive_time.time) as possible it should be a[ nonstop](flight_stop)
+- find a flight between[ st. petersburg](fromloc.city_name) and[ charlotte](toloc.city_name) the flight should leave in the[ afternoon](depart_time.period_of_day) and arrive as soon[ after](arrive_time.time_relative)[ 5 pm](arrive_time.time) as possible it should be a[ nonstop](flight_stop) flight
 - list a flight on[ delta airlines](airline_name) from[ toronto](fromloc.city_name) to[ san diego](toloc.city_name)
 - list a flight on[ american airlines](airline_name) from[ toronto](fromloc.city_name) to[ san diego](toloc.city_name)
 - list a flight from[ toronto](fromloc.city_name) to[ san diego](toloc.city_name)
@@ -526,8 +526,8 @@
 - i need a flight from[ indianapolis](fromloc.city_name) to[ seattle](toloc.city_name) arriving in[ seattle](toloc.city_name) at[ 1205 pm](arrive_time.time)
 - i want a flight[ round trip](round_trip) from[ memphis](fromloc.city_name) to[ seattle](toloc.city_name)
 - i want to fly from[ nashville](fromloc.city_name) to[ seattle](toloc.city_name) and i want the[ cheapest](cost_relative) fare[ round trip](round_trip)
-- i want to fly from[ memphis](fromloc.city_name) to[ seattle](toloc.city_name)[ round trip](round_trip) with the[ cheapest](cost_relative)
-- i want to fly from[ indianapolis](fromloc.city_name) to[ seattle](toloc.city_name)[ round trip](round_trip) with the[ cheapest](cost_relative)
+- i want to fly from[ memphis](fromloc.city_name) to[ seattle](toloc.city_name)[ round trip](round_trip) with the[ cheapest](cost_relative) fare
+- i want to fly from[ indianapolis](fromloc.city_name) to[ seattle](toloc.city_name)[ round trip](round_trip) with the[ cheapest](cost_relative) fare
 - please list flights from[ orlando](fromloc.city_name) to[ philadelphia](toloc.city_name)
 - please list flights from[ san francisco](fromloc.city_name) to[ charlotte](toloc.city_name)
 - please list flights from[ milwaukee](fromloc.city_name) to[ philadelphia](toloc.city_name)
@@ -559,13 +559,13 @@
 - flights from[ atlanta](fromloc.city_name) to[ seattle](toloc.city_name)
 - flights from[ san diego](fromloc.city_name) to[ seattle](toloc.city_name)
 - i would like flight information from[ phoenix](fromloc.city_name) to[ denver](toloc.city_name)
-- could i have flight information on flights from[ salt lake city](fromloc.city_name) to[ phoenix](toloc.city_name)
-- could i have flight information on flights from[ pittsburgh](fromloc.city_name) to[ phoenix](toloc.city_name)
+- could i have flight information on flights from[ salt lake city](fromloc.city_name) to[ phoenix](toloc.city_name) please
+- could i have flight information on flights from[ pittsburgh](fromloc.city_name) to[ phoenix](toloc.city_name) please
 - i would like information on flights leaving from[ washington](fromloc.city_name)[ dc](fromloc.state_code) to[ denver](toloc.city_name)
 - i need information on flights from[ washington](fromloc.city_name) to[ boston](toloc.city_name) that leave on a[ saturday](depart_date.day_name)
 - i need the flights from[ washington](fromloc.city_name) to[ montreal](toloc.city_name) on a[ saturday](depart_date.day_name)
 - i want to go from[ boston](fromloc.city_name) to[ washington](toloc.city_name) on a[ saturday](depart_date.day_name)
-- i need a flight from[ cleveland](fromloc.city_name) to[ dallas](toloc.city_name) that leaves[ before](depart_time.time_relative)[ noon](depart_time.time)
+- i need a flight from[ cleveland](fromloc.city_name) to[ dallas](toloc.city_name) that leaves[ before](depart_time.time_relative)[ noon](depart_time.time) see if too much information
 - list[ saturday](depart_date.day_name) flights from[ washington](fromloc.city_name) to[ boston](toloc.city_name)
 - list[ saturday](depart_date.day_name) flights from[ boston](fromloc.city_name) to[ washington](toloc.city_name)
 - get flights from[ milwaukee](fromloc.city_name) to[ dtw](toloc.airport_code)
@@ -603,16 +603,16 @@
 - i need information on flights from[ toronto](fromloc.city_name) to[ san diego](toloc.city_name)
 - i want a flight from[ toronto](fromloc.city_name) to[ san diego](toloc.city_name)
 - i need information on flights between[ st. petersburg](fromloc.city_name) and[ charlotte](toloc.city_name)
-- which flights go from[ new york](fromloc.city_name) to[ miami](toloc.city_name)
+- which flights go from[ new york](fromloc.city_name) to[ miami](toloc.city_name) and back
 - show me flights from[ milwaukee](fromloc.city_name) to[ orlando](toloc.city_name)[ one way](round_trip)
 - show me flights from[ milwaukee](fromloc.city_name) to[ orlando](toloc.city_name)
 - please show me[ first class](class_type) flights from[ indianapolis](fromloc.city_name) to[ memphis](toloc.city_name)[ one way](round_trip) leaving[ before](depart_time.time_relative)[ 10 am](depart_time.time)
 - now show me all[ round trip](round_trip) flights from[ burbank](fromloc.city_name) to[ seattle](toloc.city_name) that arrive[ before](arrive_time.time_relative)[ 7 pm](arrive_time.time) in[ seattle](toloc.city_name)
-- [round trip ](round_trip)flights from[ orlando](fromloc.city_name) to[ montreal](toloc.city_name)
+- [round trip ](round_trip)flights from[ orlando](fromloc.city_name) to[ montreal](toloc.city_name) please
 - show me all[ delta airlines](airline_name) flights from[ montreal](fromloc.city_name) to[ orlando](toloc.city_name)
-- show me all flights from[ orlando](fromloc.city_name) to[ montreal](toloc.city_name)
-- please list all flights from[ new york](fromloc.city_name) to[ miami](toloc.city_name)
-- show me a[ return](round_trip) flight from[ miami](fromloc.city_name) to[ jfk](toloc.airport_code)
+- show me all flights from[ orlando](fromloc.city_name) to[ montreal](toloc.city_name) please
+- please list all flights from[ new york](fromloc.city_name) to[ miami](toloc.city_name) any any type of class
+- show me a[ return](round_trip) flight from[ miami](fromloc.city_name) to[ jfk](toloc.airport_code) please
 - show me[ one way](round_trip) flights from[ milwaukee](fromloc.city_name) to[ orlando](toloc.city_name)[ after](depart_time.time_relative)[ 6 pm](depart_time.time) on[ wednesday](depart_date.day_name)
 - show me the flights from[ indianapolis](fromloc.city_name) to[ memphis](toloc.city_name)
 - show me[ round trip](round_trip) flights from[ burbank](fromloc.city_name) to[ seattle](toloc.city_name)
@@ -640,7 +640,7 @@
 - show me[ first class](class_type) flights from[ new york](fromloc.city_name) to[ miami](toloc.city_name)[ round trip](round_trip)
 - show me all[ round trip](round_trip) flights from[ new york](fromloc.city_name) to[ miami](toloc.city_name)[ nonstop](flight_stop)
 - show me all[ round trip](round_trip) flights from[ miami](fromloc.city_name) to[ new york](toloc.city_name)[ nonstop](flight_stop)
-- show me[ one way](round_trip) flights from[ indianapolis](fromloc.city_name) to[ memphis](toloc.city_name)[ before](depart_time.time_relative)[ 10 am](depart_time.time)
+- show me[ one way](round_trip) flights from[ indianapolis](fromloc.city_name) to[ memphis](toloc.city_name)[ before](depart_time.time_relative)[ 10 am](depart_time.time) on any day
 - show me[ round trip](round_trip) flights from[ burbank](fromloc.city_name) to[ tacoma](toloc.city_name)
 - show me[ nonstop](flight_stop) flights from[ st. petersburg](fromloc.city_name) to[ toronto](toloc.city_name)
 - show me[ nonstop](flight_stop) flights from[ toronto](fromloc.city_name) to[ st. petersburg](toloc.city_name)
@@ -676,7 +676,7 @@
 - list flights from[ cincinnati](fromloc.city_name) to[ tampa](toloc.city_name)[ before](depart_time.time_relative)[ noon](depart_time.period_of_day)
 - list flights from[ tampa](fromloc.city_name) to[ cincinnati](toloc.city_name)[ after](depart_time.time_relative)[ 3 pm](depart_time.time)
 - list[ delta](airline_name) flights from[ seattle](fromloc.city_name) to[ salt lake city](toloc.city_name)
-- list[ delta](airline_name) flights from[ seattle](fromloc.city_name) to[ salt lake city](toloc.city_name)
+- list[ delta](airline_name) flights from[ seattle](fromloc.city_name) to[ salt lake city](toloc.city_name) with aircraft type
 - list flights from[ baltimore](fromloc.city_name) to[ san francisco](toloc.city_name) on[ friday](depart_date.day_name)
 - give me the flights from[ los angeles](fromloc.city_name) to[ pittsburgh](toloc.city_name) on[ tuesday](depart_date.day_name)
 - give me the flights from[ pittsburgh](fromloc.city_name) to[ los angeles](toloc.city_name)[ thursday](depart_date.day_name)[ evening](depart_time.period_of_day)
@@ -702,7 +702,7 @@
 - i need a[ friday](depart_date.day_name) flight from[ newark](fromloc.city_name) to[ tampa](toloc.city_name)
 - i need a[ sunday](depart_date.day_name) flight from[ tampa](fromloc.city_name) to[ charlotte](toloc.city_name)
 - give me a flight from[ charlotte](fromloc.city_name) to[ baltimore](toloc.city_name) on[ tuesday](depart_date.day_name)[ morning](depart_time.period_of_day)
-- can i have a[ morning](depart_time.period_of_day) flight from[ baltimore](fromloc.city_name) to[ newark](toloc.city_name)
+- can i have a[ morning](depart_time.period_of_day) flight from[ baltimore](fromloc.city_name) to[ newark](toloc.city_name) please
 - [saturday ](depart_date.day_name)flight on[ american airlines](airline_name) from[ milwaukee](fromloc.city_name) to[ phoenix](toloc.city_name)
 - [newark ](fromloc.city_name)to[ tampa](toloc.city_name) on[ friday](depart_date.day_name)
 - [tampa ](fromloc.city_name)to[ charlotte](toloc.city_name)[ sunday](depart_date.day_name)[ morning](depart_time.period_of_day)
@@ -764,11 +764,11 @@
 - give me the flights from[ new york city](fromloc.city_name) to[ nashville](toloc.city_name) leaving[ after](depart_time.time_relative)[ 5 pm](depart_time.time) on[ wednesday](depart_date.day_name)
 - what are the[ nonstop](flight_stop) flights from[ cincinnati](fromloc.city_name) to[ charlotte](toloc.city_name) leaving[ after](depart_time.time_relative)[ noon](depart_time.period_of_day) and arriving[ before](arrive_time.time_relative)[ 7 pm](arrive_time.time)
 - how many flights does[ alaska airlines](airline_name) have to[ burbank](toloc.city_name)
-- list the[ alaska airline](airline_name) flights from[ burbank](fromloc.city_name)
+- list the[ alaska airline](airline_name) flights from[ burbank](fromloc.city_name) to anywhere
 - list the[ alaska airline](airline_name) flights from[ burbank](fromloc.city_name)
 - list the[ alaska airlines](airline_name) flights arriving in[ burbank](toloc.city_name)
 - list the[ alaska airlines](airline_name) flights a departing from[ burbank](fromloc.city_name)
-- list all[ alaska airlines](airline_name)
+- list all[ alaska airlines](airline_name) flights
 - list all flights departing from[ seattle](fromloc.city_name)
 - list the flights from[ indianapolis](fromloc.city_name) to[ memphis](toloc.city_name) that leave[ before](depart_time.time_relative)[ noon](depart_time.period_of_day)
 - i want a flight from[ los angeles](fromloc.city_name) to[ charlotte](toloc.city_name)[ early](depart_time.period_mod) in the[ morning](depart_time.period_of_day)
@@ -843,7 +843,7 @@
 - i want to book a flight from[ salt lake city](fromloc.city_name) to[ westchester county](toloc.city_name)
 - i 'd like to book a flight from[ cincinnati](fromloc.city_name) to[ new york city](toloc.city_name) on[ united airlines](airline_name) for[ next](depart_date.date_relative)[ saturday](depart_date.day_name)
 - please find all the flights from[ cincinnati](fromloc.city_name) to any airport in the[ new york city](toloc.city_name) area that arrive[ next](arrive_date.date_relative)[ saturday](arrive_date.day_name)[ before](arrive_time.time_relative)[ 6 pm](arrive_time.time)
-- find me a flight from[ cincinnati](fromloc.city_name) to any airport in the[ new york city](toloc.city_name)
+- find me a flight from[ cincinnati](fromloc.city_name) to any airport in the[ new york city](toloc.city_name) area
 - i 'd like to fly from[ miami](fromloc.city_name) to[ chicago](toloc.city_name) on[ american airlines](airline_name)
 - i would like to book a[ round trip](round_trip) flight from[ kansas city](fromloc.city_name) to[ chicago](toloc.city_name)
 - find me a flight that flies from[ memphis](fromloc.city_name) to[ tacoma](toloc.city_name)
@@ -854,8 +854,8 @@
 - list all flights and their fares from[ indianapolis](fromloc.city_name) to[ memphis](toloc.city_name) on a[ monday](depart_date.day_name)[ morning](depart_time.period_of_day)
 - list all flights and their fares from[ memphis](fromloc.city_name) to[ miami](toloc.city_name) on a[ wednesday](depart_date.day_name)[ evening](depart_time.period_of_day)
 - list all flights and their fares for all flights between[ miami](fromloc.city_name) and[ indianapolis](toloc.city_name)
-- list all[ sunday](depart_date.day_name) flights from[ cleveland](fromloc.city_name) to[ nashville](toloc.city_name)
-- i need a[ round trip](round_trip) flight from[ san diego](fromloc.city_name) to[ washington](toloc.city_name)[ dc](toloc.state_code)
+- list all[ sunday](depart_date.day_name) flights from[ cleveland](fromloc.city_name) to[ nashville](toloc.city_name) and their fares
+- i need a[ round trip](round_trip) flight from[ san diego](fromloc.city_name) to[ washington](toloc.city_name)[ dc](toloc.state_code) and the fares
 - i need a[ round trip](round_trip) from[ atlanta](fromloc.city_name) to[ washington](toloc.city_name)[ dc](toloc.state_code) and the fares leaving in the[ morning](depart_time.period_of_day)
 - i need a[ round trip](round_trip) from[ phoenix](fromloc.city_name) to[ washington](toloc.city_name)[ dc](toloc.state_code) and the fare leaving in the[ morning](depart_time.period_of_day)
 - i need flight and fare information for[ thursday](depart_date.day_name) departing[ prior to](depart_time.time_relative)[ 9 am](depart_time.time) from[ oakland](fromloc.city_name) going to[ salt lake city](toloc.city_name)
@@ -898,7 +898,7 @@
 
 
 ## intent ground_service
-- does[ tacoma airport](airport_name)
+- does[ tacoma airport](airport_name) offer transportation from the airport to the downtown area
 - what is the ground transportation between the[ charlotte airport](airport_name)[ charlotte airport](city_name) and downtown[ charlotte](city_name)
 - what 's the ground transportation in[ denver](city_name)
 - what 's the ground transportation in[ westchester county](city_name)
