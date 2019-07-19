@@ -46,5 +46,5 @@ Following information is included for each dataset:
 |Name|Language|Task|Size|Intent & Entity nums|Description & Link|
 |:----:|:----:|:----:|:----:|:----:|:----:|
 |ATIS|en|Airline Travel Information|train(4978)+test(893)|26 intent, 129 slot labels|https://www.kaggle.com/siddhadev/atis-dataset
-|Snips|en|rasa|train(13802)+val(699)|7 intent 72 slot labels|
-|SMP2019|ch|29 domains:app, email, radio, bus, train, cinemas, telephone, contacts, cookbook, epg, flight, health, match, novel, poetry, riddle, stock, video, weather, lottery, story, map, message, music, news, tvchannel, translation, website, joke.|train(2579)|24 intent, 62 slot labels| For rasa natural language understanding
+|Snips|en|7 intents: AddToPlaylist, BookRestaurant, GetWeather, PlayMusic, RateBook, RateBook, SearchScreeningEvent.|train(13802)+val(699)|7 intent 72 slot labels|For rasa natural language understanding
+|SMP2019|ch|29 domains: app, email, radio, bus, train, cinemas, telephone, contacts, cookbook, epg, flight, health, match, novel, poetry, riddle, stock, video, weather, lottery, story, map, message, music, news, tvchannel, translation, website, joke.|train(2063)+test(516)|24 intent, 62 slot labels| For rasa natural language understanding
