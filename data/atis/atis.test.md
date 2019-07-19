@@ -1,4 +1,4 @@
-## intent abbreviation
+## intent:abbreviation
 - what is meal code[ sb](meal_code)
 - what is fare code[ m](fare_basis_code)
 - what is fare code[ f](fare_basis_code)
@@ -34,7 +34,7 @@
 - what is[ cvg](airport_code)
 
 
-## intent aircraft
+## intent:aircraft
 - at the[ charlotte airport](city_name) how many different types of aircraft are there for[ us air](airline_name)
 - determine the type of aircraft used on a flight from[ cleveland](fromloc.city_name) to[ dallas](toloc.city_name) that leaves[ before](depart_time.time_relative)[ noon](depart_time.period_of_day)
 - what type of aircraft are flying from[ cleveland](fromloc.city_name) to[ dallas](toloc.city_name)[ before](depart_time.time_relative)[ noon](depart_time.period_of_day)
@@ -46,7 +46,7 @@
 - what type of aircraft is used for the[ american](airline_name) flight leaving at[ 419 pm](depart_time.time)
 
 
-## intent airfare
+## intent:airfare
 - on[ april](depart_date.month_name)[ first](depart_date.day_number) i need a ticket from[ tacoma](fromloc.city_name) to[ san jose](toloc.city_name) departing[ before](depart_time.time_relative)[ 7 am](depart_time.time)
 - what is the[ most expensive](cost_relative)[ one way](round_trip) fare between[ detroit](fromloc.city_name) and[ westchester county](toloc.city_name)
 - show me the[ cheapest](cost_relative)[ round trip](round_trip)[ coach](class_type) fare from[ las vegas](fromloc.city_name) to[ detroit](toloc.city_name)
@@ -97,11 +97,11 @@
 - list the[ cheapest](cost_relative) fare from[ charlotte](fromloc.city_name) to[ las vegas](toloc.city_name)
 
 
-## intent airfare and flight
+## intent:airfare and flight
 - list the airfare for[ american airlines](airline_name) flight[ 19](flight_number) from[ jfk](fromloc.airport_code) to[ lax](toloc.airport_code)
 
 
-## intent: airport
+## intent:airport
 - i would like to know what airports are in[ los angeles](city_name)
 - which airport is[ closest](mod) to[ ontario](city_name)[ california](state_name)
 - list airports in[ arizona nevada](state_name) and[ california](state_name) please
@@ -122,7 +122,7 @@
 - tell me all the airports in the[ new york city](city_name) area
 
 
-## intent airline
+## intent:airline
 - what airlines fly between[ detroit](fromloc.city_name) and[ westchester county](toloc.city_name)
 - what airline flies from[ boston](fromloc.city_name) to[ san diego](toloc.city_name)
 - which different airlines go from[ las vegas](fromloc.city_name) to[ new york city](toloc.city_name)
@@ -163,7 +163,7 @@
 - is there one airline that flies from[ burbank](fromloc.city_name) to[ milwaukee](toloc.city_name)[ milwaukee](fromloc.city_name) to[ st. louis](toloc.city_name) and from[ st. louis](fromloc.city_name) to[ burbank](toloc.city_name)
 
 
-## intent capacity
+## intent:capacity
 - what is the seating capacity for aircraft[ l10](aircraft_code)
 - what is the seating capacity for[ delta](airline_name)[ be1](aircraft_code)
 - how many passengers can an[ l1011](aircraft_code) aircraft hold
@@ -187,7 +187,7 @@
 - what is the seating capacity on the aircraft[ m80](aircraft_code)
 
 
-## intent city
+## intent:city
 - to what cities from[ boston](fromloc.city_name) does[ america west](airline_name) fly[ first class](class_type)
 - list[ la](city_name)
 - list[ la](city_name)
@@ -196,12 +196,12 @@
 - what cities does[ northwest](airline_name) fly to
 
 
-## intent day_name
+## intent:day_name
 - what day of the week do flights from[ nashville](fromloc.city_name) to[ tacoma](toloc.city_name) fly on
 - what days of the week do flights from[ san jose](fromloc.city_name) to[ nashville](toloc.city_name) fly on
 
 
-## intent distance
+## intent:distance
 - how far is[ new york 's](city_name)[ la guardia](airport_name) from downtown
 - how far is[ toronto international](airport_name) from downtown
 - how far is[ los angeles international](airport_name) from downtown
@@ -214,7 +214,7 @@
 - list distance from airports to downtown in[ new york](city_name)
 
 
-## intent flight
+## intent:flight
 - i would like to find a flight from[ charlotte](fromloc.city_name) to[ las vegas](toloc.city_name) that makes a stop in[ st. louis](stoploc.city_name)
 - on[ april](depart_date.month_name)[ first](depart_date.day_number) i need a flight going from[ phoenix](fromloc.city_name) to[ san diego](toloc.city_name)
 - i would like a flight traveling[ one way](round_trip) from[ phoenix](fromloc.city_name) to[ san diego](toloc.city_name) on[ april](depart_date.month_name)[ first](depart_date.day_number)
@@ -849,7 +849,7 @@
 - find me a flight that flies from[ memphis](fromloc.city_name) to[ tacoma](toloc.city_name)
 
 
-## intent flight and airfare
+## intent:flight and airfare
 - show flight and prices[ kansas city](fromloc.city_name) to[ chicago](toloc.city_name) on[ next](depart_date.date_relative)[ wednesday](depart_date.day_name) arriving in[ chicago](toloc.city_name)[ by](arrive_time.time_relative)[ 7 pm](arrive_time.time)
 - list all flights and their fares from[ indianapolis](fromloc.city_name) to[ memphis](toloc.city_name) on a[ monday](depart_date.day_name)[ morning](depart_time.period_of_day)
 - list all flights and their fares from[ memphis](fromloc.city_name) to[ miami](toloc.city_name) on a[ wednesday](depart_date.day_name)[ evening](depart_time.period_of_day)
@@ -864,15 +864,15 @@
 - list flights and fares from[ tacoma](fromloc.city_name) to[ orlando](toloc.city_name)[ round trip](round_trip) leaving[ saturday](depart_date.day_name) returning[ next](return_date.date_relative)[ saturday](return_date.day_name)
 
 
-## intent flight and airling
+## intent:flight and airling
 - i need flight and airline information for a flight from[ denver](fromloc.city_name) to[ salt lake city](toloc.city_name) on[ monday](depart_date.day_name) departing[ after](depart_time.time_relative)[ 5 pm](depart_time.time)
 
 
-## intent flight_time
+## intent:flight_time
 - what are the[ departure times](flight_time) from[ detroit](fromloc.city_name) to[ westchester county](toloc.city_name)
 
 
-## intent flight_no
+## intent:flight_no
 - i need flight numbers for those flights departing on[ thursday](depart_date.day_name)[ before](depart_time.time_relative)[ 8 am](depart_time.time) from[ oakland](fromloc.city_name) going to[ salt lake city](toloc.city_name)
 - i need the flight numbers of flights leaving from[ cleveland](fromloc.city_name) and arriving at[ dallas](toloc.city_name)
 - flight number from[ dallas](fromloc.city_name) to[ houston](toloc.city_name)
@@ -883,11 +883,11 @@
 - flight numbers from[ seattle](fromloc.city_name) to[ chicago](toloc.city_name) on[ continental](airline_name)
 
 
-## intent flight_no and airline
+## intent:flight_no and airline
 - i need flight numbers and airlines for flights departing from[ oakland](fromloc.city_name) to[ salt lake city](toloc.city_name) on[ thursday](depart_date.day_name) departing[ before](depart_time.time_relative)[ 8 am](depart_time.time)
 
 
-## intent ground_fare
+## intent:ground_fare
 - what 's the fare for a[ taxi](transport_type) to[ denver](city_name)
 - what are the fares for ground transportation in[ denver](city_name)
 - how much is the[ limousine](transport_type) service in[ boston](city_name)
@@ -897,7 +897,7 @@
 - list[ limousine](transport_type) rates for the[ city of boston](city_name)
 
 
-## intent ground_service
+## intent:ground_service
 - does[ tacoma airport](airport_name) offer transportation from the airport to the downtown area
 - what is the ground transportation between the[ charlotte airport](airport_name)[ charlotte airport](city_name) and downtown[ charlotte](city_name)
 - what 's the ground transportation in[ denver](city_name)
@@ -936,7 +936,7 @@
 - is there[ taxi service](transport_type) at the[ ontario airport](airport_name)
 
 
-## intent meal
+## intent:meal
 - what[ meals](meal) are served on[ american](airline_name) flight[ 811](flight_number) from[ tampa](fromloc.city_name) to[ milwaukee](toloc.city_name)
 - what[ meals](meal) are served on[ american](airline_name) flight[ 665 673](flight_number) from[ milwaukee](fromloc.city_name) to[ seattle](toloc.city_name)
 - what[ meals](meal) are available on[ dl](airline_code)[ 468](flight_number) which al arrives in[ san francisco](toloc.city_name) at[ 950 am](arrive_time.time)
@@ -945,7 +945,7 @@
 - are[ snacks](meal_description) served on[ tower air](airline_name)
 
 
-## intent quantity
+## intent:quantity
 - how many[ canadian airlines international](airline_name) flights use[ j31](aircraft_code)
 - how many[ canadian airlines international](airline_name) flights use aircraft[ 320](aircraft_code)
 - how many[ canadian airlines](airline_name) flights use aircraft[ dh8](aircraft_code)
