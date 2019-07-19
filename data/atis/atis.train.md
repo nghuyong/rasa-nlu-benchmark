@@ -1,4 +1,4 @@
-## intent abbreviation
+## intent:abbreviation
 - what is fare code[ h](fare_basis_code)
 - what is booking class[ c](fare_basis_code)
 - what does fare code[ q](fare_basis_code) mean
@@ -148,7 +148,7 @@
 - what does fare code[ qo](fare_basis_code) mean
 
 
-## intent aircraft
+## intent:aircraft
 - what kind of aircraft is used on a flight from[ cleveland](fromloc.city_name) to[ dallas](toloc.city_name)
 - what kinds of planes are used by[ american airlines](airline_name)
 - what types of aircraft does[ delta](airline_name) fly
@@ -232,11 +232,11 @@
 - what type of aircraft are used on flights from[ cleveland](fromloc.city_name) to[ dallas](toloc.city_name) that leave[ before](depart_time.time_relative)[ noon](depart_time.time)
 
 
-## intent aircraft and flight and flight_no
+## intent:aircraft and flight and flight_no
 - i want to fly from[ detroit](fromloc.city_name) to[ st. petersburg](toloc.city_name) on[ northwest airlines](airline_name) and leave[ around](depart_time.time_relative)[ 9 am](depart_time.time) tell me what aircraft are used by this flight and tell me the flight number
 
 
-## intent airfare
+## intent:airfare
 - [cheapest ](cost_relative)airfare from[ tacoma](fromloc.city_name) to[ orlando](toloc.city_name)
 - [round trip ](round_trip)fares from[ pittsburgh](fromloc.city_name) to[ philadelphia](toloc.city_name)[ under](cost_relative)[ 1000 dollars](fare_amount)
 - show me the[ first class](class_type) fares from[ boston](fromloc.city_name) to[ denver](toloc.city_name)
@@ -662,11 +662,11 @@
 - what is the airfare for flights from[ denver](fromloc.city_name) to[ pittsburgh](toloc.city_name) on[ delta airline](airline_name)
 
 
-## intent airfare and flight_time
+## intent:airfare and flight_time
 - show me the costs and[ times](flight_time) for flights from[ san francisco](fromloc.city_name) to[ atlanta](toloc.city_name)
 
 
-## intent: airport
+## intent:airport
 - what 's the airport at[ orlando](city_name)
 - give me a list of airports in[ baltimore](city_name)
 - [houston ](city_name)airports
@@ -689,7 +689,7 @@
 - show me airports in[ washington](city_name)[ dc](state_code)
 
 
-## intent airline
+## intent:airline
 - which airline serves[ denver](fromloc.city_name)[ pittsburgh](fromloc.city_name) and[ atlanta](fromloc.city_name)
 - show me the airlines with[ first class](class_type) flights
 - which airline has the[ most](mod) arrivals in[ atlanta](toloc.city_name)
@@ -849,12 +849,12 @@
 - which airlines fly into and out of[ denver](city_name)
 
 
-## intent airline and flight_no
+## intent:airline and flight_no
 - airline and flight number from[ columbus](fromloc.city_name) to[ minneapolis](toloc.city_name)
 - may i please see airlines and flight numbers from[ new york](fromloc.city_name) to[ toronto](toloc.city_name) on the[ same](depart_date.date_relative) date[ june](depart_date.month_name)[ seventeenth](depart_date.day_number) also arriving in[ toronto](toloc.city_name)[ before](arrive_time.time_relative)[ noon](arrive_time.time) thank you
 
 
-## intent capacity
+## intent:capacity
 - how many seats in a[ 100](aircraft_code)
 - how many passengers fit on a[ d9s](aircraft_code)
 - how many seats in a[ 72s](aircraft_code)
@@ -873,11 +873,11 @@
 - how many passengers can a boeing[ 737](aircraft_code) hold
 
 
-## intent cheapest
+## intent:cheapest
 - show me the[ cheapest](cost_relative) fare in the database
 
 
-## intent city
+## intent:city
 - what city is the airport[ mco](fromloc.airport_code) in
 - where is[ mco](airport_code)
 - where is[ general mitchell international](airport_name) located
@@ -899,7 +899,7 @@
 - what city is[ mco](airport_code)
 
 
-## intent distance
+## intent:distance
 - how far is it from[ orlando airport](fromloc.airport_name) to[ orlando](toloc.city_name)
 - what is the distance from[ los angeles international airport](fromloc.airport_name) to[ los angeles](toloc.city_name)
 - tell me distance from[ orlando airport](fromloc.airport_name) to the city
@@ -922,7 +922,7 @@
 - how long is the flight from[ atlanta](fromloc.city_name) to[ san francisco](toloc.city_name) at[ noon](depart_time.time) on[ november](depart_date.month_name)[ seventh](depart_date.day_number)
 
 
-## intent flight
+## intent:flight
 - i want to fly from[ boston](fromloc.city_name) at[ 838 am](depart_time.time) and arrive in[ denver](toloc.city_name) at[ 1110](arrive_time.time) in the[ morning](arrive_time.period_of_day)
 - what flights are available from[ pittsburgh](fromloc.city_name) to[ baltimore](toloc.city_name) on[ thursday](depart_date.day_name)[ morning](depart_time.period_of_day)
 - i need a flight[ tomorrow](depart_date.today_relative) from[ columbus](fromloc.city_name) to[ minneapolis](toloc.city_name)
@@ -4591,7 +4591,7 @@
 - is there a[ delta](airline_name) flight from[ denver](fromloc.city_name) to[ san francisco](toloc.city_name)
 
 
-## intent flight and airfare
+## intent:flight and airfare
 - give me the flights and fares on[ december](depart_date.month_name)[ twenty seventh](depart_date.day_number) from[ indianapolis](fromloc.city_name) to[ orlando](toloc.city_name)
 - all flights and fares from[ atlanta](fromloc.city_name) to[ dallas](toloc.city_name)[ round trip](round_trip)[ after](depart_time.time_relative)[ 12 pm](depart_time.time)[ less](cost_relative) than[ 1100 dollars](fare_amount)
 - [first ](flight_mod)flights and fares from[ pittsburgh](fromloc.city_name) to[ atlanta](toloc.city_name) on a[ thursday](depart_date.day_name)
@@ -4615,7 +4615,7 @@
 - give me the flights and fares on[ december](depart_date.month_name)[ twenty seventh](depart_date.day_number) from[ orlando](fromloc.city_name) to[ indianapolis](toloc.city_name) airfare
 
 
-## intent flight_time
+## intent:flight_time
 - what is the[ arrival time](flight_time) in[ san francisco](fromloc.city_name) for the[ 755 am](depart_time.time) flight leaving[ washington](fromloc.city_name)
 - what are the[ times](flight_time) that you have planes leaving from[ san francisco](fromloc.city_name) going to[ pittsburgh](toloc.city_name) on[ july](depart_date.month_name)[ seventh](depart_date.day_number)
 - on[ united airlines](airline_name) give me the[ flight times](flight_time) from[ boston](fromloc.city_name) to[ dallas](toloc.city_name)
@@ -4672,7 +4672,7 @@
 - can you tell me the[ time](flight_time) a flight would leave from[ atlanta](fromloc.city_name) to[ boston](toloc.city_name) in the[ afternoon](depart_time.period_of_day)
 
 
-## intent flight_no
+## intent:flight_no
 - flight numbers from[ columbus](fromloc.city_name) to[ minneapolis](toloc.city_name)[ tomorrow](depart_date.today_relative)
 - i 'm trying to find the flight number from a flight from[ orlando](fromloc.city_name) to[ cleveland](toloc.city_name) on[ us air](airline_name) and it arrives[ around](arrive_time.time_relative)[ 10 pm](arrive_time.time)
 - flight numbers from[ minneapolis](fromloc.city_name) to[ long beach](toloc.city_name) on[ june](depart_date.month_name)[ twenty six](depart_date.day_number)
@@ -4687,7 +4687,7 @@
 - what are the flight numbers of the flights which go from[ san francisco](fromloc.city_name) to[ washington](toloc.city_name) via[ indianapolis](stoploc.city_name)
 
 
-## intent ground_fare
+## intent:ground_fare
 - how much does the[ limousine](transport_type) service cost within[ pittsburgh](city_name)
 - how much does it cost to rent a[ car](transport_type) in[ tacoma](city_name)
 - what are the costs of[ car rental](transport_type) in[ dallas](city_name)
@@ -4708,7 +4708,7 @@
 - please list the prices for a[ rental car](transport_type) in[ pittsburgh](city_name)
 
 
-## intent ground_service
+## intent:ground_service
 - what kind of ground transportation is available in[ denver](city_name)
 - show me the ground transportation in[ denver](city_name)
 - [atlanta ](city_name)ground transportation
@@ -4966,11 +4966,11 @@
 - what is the ground transportation available in the city of[ fort worth](city_name)
 
 
-## intent ground_service and ground_fare
+## intent:ground_service and ground_fare
 - what ground transportation is available from the[ pittsburgh airport](fromloc.airport_name) to downtown and how much does it cost
 
 
-## intent meal
+## intent:meal
 - show me all[ meals](meal) on flights from[ atlanta](fromloc.city_name) to[ washington](toloc.city_name)
 - is there a[ meal](meal) on[ delta](airline_name) flight[ 852](flight_number) from[ san francisco](fromloc.city_name) to[ dallas fort worth](toloc.city_name)
 - what are all the available[ meals](meal)
@@ -4979,7 +4979,7 @@
 - what types of[ meals](meal) are available
 
 
-## intent quantity
+## intent:quantity
 - please tell me how many[ nonstop](flight_stop) flights there are from[ boston](fromloc.city_name) to[ atlanta](toloc.city_name)
 - how many flights does[ delta](airline_name) have with a class of service code[ f](fare_basis_code)
 - how many booking classes are there
@@ -5033,7 +5033,7 @@
 - how many flights are there between[ san francisco](fromloc.city_name) and[ philadelphia](toloc.city_name) on[ august](depart_date.month_name)[ eighteenth](depart_date.day_number)
 
 
-## intent restriction
+## intent:restriction
 - what are the air restrictions on flights from[ pittsburgh](fromloc.city_name) to[ atlanta](toloc.city_name) for the airfare of[ 416 dollars](fare_amount)
 - what is restriction[ ap57](restriction_code)
 - what are the restrictions on the[ cheapest](cost_relative)[ one way](round_trip) fare between[ boston](fromloc.city_name) and[ oakland](toloc.city_name)
