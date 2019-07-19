@@ -1,5 +1,5 @@
 ## intent Airline Travel Information
-- i want to fly from [boston](B-fromloc.city_name) at [DIGITDIGITDIGIT](B-depart_time.time) [am](I-depart_time.time) and arrive in [denver](B-toloc.city_name) at [DIGITDIGITDIGITDIGIT](B-arrive_time.time) in the [morning](B-arrive_time.period_of_day)
+- i want to fly from [ boston](B-fromloc.city_name) at [DIGITDIGITDIGIT](B-depart_time.time) [am](I-depart_time.time) and arrive in [denver](B-toloc.city_name) at [DIGITDIGITDIGITDIGIT](B-arrive_time.time) in the [morning](B-arrive_time.period_of_day)
 - what flights are available from [pittsburgh](B-fromloc.city_name) to [baltimore](B-toloc.city_name) on [thursday](B-depart_date.day_name) [morning](B-depart_time.period_of_day)
 - what is the [arrival](B-flight_time) [time](I-flight_time) in [san](B-fromloc.city_name) [francisco](I-fromloc.city_name) for the [DIGITDIGITDIGIT](B-depart_time.time) [am](I-depart_time.time) flight leaving [washington](B-fromloc.city_name)
 - [cheapest](B-cost_relative) airfare from [tacoma](B-fromloc.city_name) to [orlando](B-toloc.city_name)
