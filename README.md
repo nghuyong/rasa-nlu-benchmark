@@ -62,20 +62,20 @@ Note:
 
 <table>
    <tr>
-      <td rowspan="2" align="center">Dataset</td>
-      <td rowspan="2" align="center">NLU Pipeline</td>
-      <td colspan="4" align="center">Intent Classification</td>
-      <td colspan="4" align="center">Entity Extraction </td>
+      <td rowspan="2" align="center"><b>Dataset</b></td>
+      <td rowspan="2" align="center"><b>NLU Pipeline</b></td>
+      <td colspan="4" align="center"><b>Intent Classification</b></td>
+      <td colspan="4" align="center"><b>Entity Extraction</b></td>
    </tr>
    <tr>
-      <td align="center">auc</td>
-      <td align="center">p</td>
-      <td align="center">r</td>
-      <td align="center">f1</td>
-      <td align="center">auc</td>
-      <td align="center">p</td>
-      <td align="center">r</td>
-      <td align="center">f1</td>
+      <td align="center"><b>auc</b></td>
+      <td align="center"><b>p</b></td>
+      <td align="center"><b>r</b></td>
+      <td align="center"><b>f1</b></td>
+      <td align="center"><b>auc</b></td>
+      <td align="center"><b>p</b></td>
+      <td align="center"><b>r</b></td>
+      <td align="center"><b>f1</b></td>
    </tr>
    <tr>
       <td rowspan="2">ATIS(en)</td>
