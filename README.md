@@ -59,6 +59,7 @@ Note:
 - For Chinese dataset, we use officially recommended Chinese pipeline [`rasa_nlu_chi`](http://www.crownpku.com/2017/07/27/%E7%94%A8Rasa_NLU%E6%9E%84%E5%BB%BA%E8%87%AA%E5%B7%B1%E7%9A%84%E4%B8%AD%E6%96%87NLU%E7%B3%BB%E7%BB%9F.html) as baseline NLU pipeline.
 
 ### Result
+
 <div style="text-align:center">
 <table style="width: 60%;margin:auto">
    <tr>
