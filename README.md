@@ -91,14 +91,14 @@ Note:
    </tr>
    <tr>
       <td >supervised_embeddings</td>
-      <td>0.98</td>
-      <td>0.98</td>
-      <td>0.98</td>
-      <td>0.98</td>
-      <td>0.98</td>
-      <td>0.98</td>
-      <td>0.98</td>
-      <td>0.98</td>
+      <td>1.00</td>
+      <td>1.00</td>
+      <td>1.00</td>
+      <td>1.00</td>
+      <td>0.63</td>
+      <td>0.40</td>
+      <td>0.63</td>
+      <td>0.49</td>
    </tr>
    <tr>
       <td rowspan="2">Snips(en)</td>
