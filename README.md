@@ -43,8 +43,97 @@ Following information is included for each dataset:
 - Intent & Entity nums
 - Description & Link (Website Or Paper)
 
-|Name|Language|Task|Size|Intent & Entity nums|Description & Link|
+|Name|Language|Task|Size(train/test)|Intent/Entity nums|Link|
 |:----:|:----:|:----:|:----:|:----:|:----:|
-|ATIS|en|Airline Travel Information|train(4978)+test(893)|26 intent, 129 slot labels|https://www.kaggle.com/siddhadev/atis-dataset
-|Snips|en|7 intents: AddToPlaylist, BookRestaurant, GetWeather, PlayMusic, RateBook, RateBook, SearchScreeningEvent.|train(13802)+val(699)|7 intent 72 slot labels|https://github.com/snipsco/nlu-benchmark
-|SMP2019|ch|29 domains: app, email, radio, bus, train, cinemas, telephone, contacts, cookbook, epg, flight, health, match, novel, poetry, riddle, stock, video, weather, lottery, story, map, message, music, news, tvchannel, translation, website, joke.|all(2579) train(2063)+test(516)|24 intent, 62 slot labels| We divide all.md into train.md and test.md according to the ratio of 8:2
+|ATIS|en|Airline Travel Information|4978/893|26/129|[more detail](https://www.kaggle.com/siddhadev/atis-dataset)|
+|Snips|en|7 intents, including:AddToPlaylist, BookRestaurant...|13802/699|7/72|[more detail](https://github.com/snipsco/nlu-benchmark)|
+|SMP2019|zh|29 domains, including: app, email...|2063/516|24/62| [more detail](http://conference.cipsc.org.cn/smp2019/evaluation.html) |
+
+Note:
+- For the SMP2019 dataset, the official does not divide the training set and test set, we have divided according to 8:2 by ourselves.
+
+<h2 align="center">Benchmark</h2>
+
+### Baseline Pipeline
+- For English dataset, we use official [`pretrained_embeddings_spacy`](https://rasa.com/docs/rasa/nlu/choosing-a-pipeline/#pretrained-embeddings-spacy) and [`supervised_embeddings`](https://rasa.com/docs/rasa/nlu/choosing-a-pipeline/#pretrained-embeddings-spacy) as baseline NLU pipeline.
+- For Chinese dataset, we use officially recommended Chinese pipeline [`rasa_nlu_chi`](http://www.crownpku.com/2017/07/27/%E7%94%A8Rasa_NLU%E6%9E%84%E5%BB%BA%E8%87%AA%E5%B7%B1%E7%9A%84%E4%B8%AD%E6%96%87NLU%E7%B3%BB%E7%BB%9F.html) as baseline NLU pipeline.
+
+### Result
+<div style="text-align:center">
+<table style="width: 60%;margin:auto">
+   <tr>
+      <td rowspan="2">dataset</td>
+      <td rowspan="2">nlu pipeline</td>
+      <td colspan="4">intent_classification</td>
+      <td colspan="4">entity_extraction </td>
+   </tr>
+   <tr>
+      <td>accuracy</td>
+      <td>precision</td>
+      <td>recall</td>
+      <td>f1</td>
+      <td>accuracy</td>
+      <td>precision</td>
+      <td>recall</td>
+      <td>f1</td>
+   </tr>
+   <tr>
+      <td rowspan="2">ATIS(en)</td>
+      <td >pretrained_embeddings_spacy</td>
+      <td>0.98</td>
+      <td>0.98</td>
+      <td>0.98</td>
+      <td>0.98</td>
+      <td>0.98</td>
+      <td>0.98</td>
+      <td>0.98</td>
+      <td>0.98</td>
+   </tr>
+   <tr>
+      <td >supervised_embeddings</td>
+      <td>0.98</td>
+      <td>0.98</td>
+      <td>0.98</td>
+      <td>0.98</td>
+      <td>0.98</td>
+      <td>0.98</td>
+      <td>0.98</td>
+      <td>0.98</td>
+   </tr>
+   <tr>
+      <td rowspan="2">Snips(en)</td>
+      <td >pretrained_embeddings_spacy</td>
+      <td>0.98</td>
+      <td>0.98</td>
+      <td>0.98</td>
+      <td>0.98</td>
+      <td>0.98</td>
+      <td>0.98</td>
+      <td>0.98</td>
+      <td>0.98</td>
+   </tr>
+   <tr>
+      <td >supervised_embeddings</td>
+      <td>0.98</td>
+      <td>0.98</td>
+      <td>0.98</td>
+      <td>0.98</td>
+      <td>0.98</td>
+      <td>0.98</td>
+      <td>0.98</td>
+      <td>0.98</td>
+   </tr>
+   <tr>
+      <td>SMP2019(zh)</td>
+      <td >rasa_nlu_chi</td>
+      <td>0.98</td>
+      <td>0.98</td>
+      <td>0.98</td>
+      <td>0.98</td>
+      <td>0.98</td>
+      <td>0.98</td>
+      <td>0.98</td>
+      <td>0.98</td>
+   </tr>
+</table>
+</div>
