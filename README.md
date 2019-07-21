@@ -60,13 +60,12 @@ Note:
 
 ### Result
 
-<div style="text-align:center">
-<table style="width: 60%;margin:auto">
+<table>
    <tr>
-      <td rowspan="2">dataset</td>
-      <td rowspan="2">nlu pipeline</td>
-      <td colspan="4">intent_classification</td>
-      <td colspan="4">entity_extraction </td>
+      <td rowspan="2" align="center">dataset</td>
+      <td rowspan="2" align="center">nlu pipeline</td>
+      <td colspan="4" align="center">intent_classification</td>
+      <td colspan="4" align="center">entity_extraction </td>
    </tr>
    <tr>
       <td>accuracy</td>
@@ -137,4 +136,3 @@ Note:
       <td>0.98</td>
    </tr>
 </table>
-</div>
