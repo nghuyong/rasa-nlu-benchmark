@@ -62,20 +62,20 @@ Note:
 
 <table>
    <tr>
-      <td rowspan="2" align="center">dataset</td>
-      <td rowspan="2" align="center">nlu pipeline</td>
-      <td colspan="4" align="center">intent_classification</td>
-      <td colspan="4" align="center">entity_extraction </td>
+      <td rowspan="2" align="center">Dataset</td>
+      <td rowspan="2" align="center">NLU Pipeline</td>
+      <td colspan="4" align="center">Intent Classification</td>
+      <td colspan="4" align="center">Entity Extraction </td>
    </tr>
    <tr>
-      <td>accuracy</td>
-      <td>precision</td>
-      <td>recall</td>
-      <td>f1</td>
-      <td>accuracy</td>
-      <td>precision</td>
-      <td>recall</td>
-      <td>f1</td>
+      <td align="center">auc</td>
+      <td align="center">p</td>
+      <td align="center">r</td>
+      <td align="center">f1</td>
+      <td align="center">auc</td>
+      <td align="center">p</td>
+      <td align="center">r</td>
+      <td align="center">f1</td>
    </tr>
    <tr>
       <td rowspan="2">ATIS(en)</td>
