@@ -39,11 +39,11 @@ Following information is included for each dataset:
 - Name
 - Language
 - Task
-- Size & Stats
-- Intent & Entity nums
-- Description & Link (Website Or Paper)
+- Size(train/test)
+- Intent/Entity Nums
+- Link (Website Or Paper)
 
-|Name|Language|Task|Size(train/test)|Intent/Entity nums|Link|
+|Name|Language|Task|Size(Train/Test)|Intent/Entity Nums|Link|
 |:----:|:----:|:----:|:----:|:----:|:----:|
 |ATIS|en|Airline Travel Information|4978/893|26/129|[more detail](https://www.kaggle.com/siddhadev/atis-dataset)|
 |Snips|en|7 intents, including:AddToPlaylist, BookRestaurant...|13802/699|7/72|[more detail](https://github.com/snipsco/nlu-benchmark)|
