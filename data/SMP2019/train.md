@@ -1441,7 +1441,7 @@
 - 从[南京](startLoc_city)到[亳州](endLoc_city)怎么走
 - [上海](startLoc_city)到[苏州](endLoc_city)
 - 去[科大讯飞](endLoc_poi)怎么走
-- 导航到[[佛山](endLoc_city)大良汽车站](endLoc_poi)
+- 导航到[佛山大良汽车站](endLoc_poi)
 - 我想到[科大讯飞](endLoc_poi)怎么走
 - 去[湘江](endLoc_poi)
 - 往[火车北站](endLoc_poi)怎么走

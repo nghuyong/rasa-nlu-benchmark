@@ -126,13 +126,13 @@ Note:
    <tr>
       <td>SMP2019(zh)</td>
       <td >rasa_nlu_chi</td>
-      <td>0.98</td>
-      <td>0.98</td>
-      <td>0.98</td>
-      <td>0.98</td>
-      <td>0.98</td>
-      <td>0.98</td>
-      <td>0.98</td>
-      <td>0.98</td>
+      <td>  </td>
+      <td>0.83</td>
+      <td>0.76</td>
+      <td>0.78</td>
+      <td>  </td>
+      <td>0.78</td>
+      <td>0.78</td>
+      <td>0.76</td>
    </tr>
 </table>
