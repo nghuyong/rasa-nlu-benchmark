@@ -80,10 +80,10 @@ Note:
    <tr>
       <td rowspan="2">ATIS(en)</td>
       <td >pretrained_embeddings_spacy</td>
-      <td>0.90</td>
-      <td>0.90</td>
-      <td>0.90</td>
-      <td>0.90</td>
+      <td>0.91</td>
+      <td>0.91</td>
+      <td>0.91</td>
+      <td>0.91</td>
       <td>0.98</td>
       <td>0.98</td>
       <td>0.98</td>
