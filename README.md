@@ -47,7 +47,7 @@ Following information is included for each dataset:
 |:----:|:----:|:----:|:----:|:----:|:----:|
 |ATIS|en|Airline Travel Information|4978/893|26/129|[more detail](https://www.kaggle.com/siddhadev/atis-dataset)|
 |Snips|en|7 intents, including:AddToPlaylist, BookRestaurant...|13802/699|7/72|[more detail](https://github.com/snipsco/nlu-benchmark)|
-|SMP2019|zh|29 domains, including: app, email...|2063/516|24/62| [more detail](http://conference.cipsc.org.cn/smp2019/evaluation.html) |
+|SMP2019|zh|29 domains, including: app, email...|2063/480|24/62| [more detail](http://conference.cipsc.org.cn/smp2019/evaluation.html) |
 
 Note:
 - For the SMP2019 dataset, the official does not divide the training set and test set, we have divided according to 8:2 by ourselves.
@@ -130,9 +130,9 @@ Note:
       <td>0.83</td>
       <td>0.76</td>
       <td>0.78</td>
-      <td>0.78</td>
-      <td>0.78</td>
-      <td>0.78</td>
-      <td>0.76</td>
+      <td>0.79</td>
+      <td>0.80</td>
+      <td>0.79</td>
+      <td>0.77</td>
    </tr>
 </table>
