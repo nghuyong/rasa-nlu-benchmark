@@ -1,0 +1,8657 @@
+## intent:alarm/set_alarm
+- sound an alarm [in](B-datetime) [45](I-datetime) [seconds](I-datetime)
+- alarm please
+- set an alarm [for](B-datetime) [thursday](I-datetime) [at](I-datetime) [7](I-datetime) [am](I-datetime)
+- set alarm [for](B-datetime) [6](I-datetime) [:](I-datetime) [30](I-datetime) [this](I-datetime) [evening](I-datetime) .
+- set two alarms . one [for](B-datetime) [5](I-datetime) [a.m](I-datetime) [.](I-datetime) and a second one [for](B-datetime) [6](I-datetime) [:](I-datetime) [30](I-datetime) [a.m](I-datetime) .
+- please play alarm [in](B-datetime) [1hour](I-datetime)
+- set recurring alarm [for](B-datetime) [monday](I-datetime) [to](I-datetime) [friday](I-datetime) [at](I-datetime) [7am](I-datetime) .
+- set the alarm [for](B-datetime) [4pm](I-datetime) [for](I-datetime) [every](I-datetime) [day](I-datetime)
+- set an alarm [for](B-datetime) [monday](I-datetime) [through](I-datetime) [friday](I-datetime)
+- set an alarm [for](B-datetime) [5pm](I-datetime) [weekends](I-datetime)
+- set my alarm [for](B-datetime) [20](I-datetime) [minutes](I-datetime) [from](I-datetime) [now](I-datetime) .
+- please set new alarm [for](B-datetime) [every](I-datetime) [5](I-datetime) [minutes](I-datetime)
+- set my alarm to wake up my girl [at](B-datetime) [8](I-datetime) [am](I-datetime)
+- set an alarm [for](B-datetime) [1](I-datetime) [:](I-datetime) [30pm](I-datetime)
+- set an alarm [for](B-datetime) [6pm](I-datetime) [tonight](I-datetime) please
+- set the alarm [for](B-datetime) [every](I-datetime) [2](I-datetime) [hours](I-datetime) staring [in](B-datetime) [one](I-datetime) [hour](I-datetime) .
+- set my morning alarm [for](B-datetime) [5am](I-datetime) [monday](I-datetime) [through](I-datetime) [friday](I-datetime)
+- set an alarm [for](B-datetime) [7](I-datetime) [am](I-datetime) please
+- please set an alarm [for](B-datetime) [4](I-datetime) [:](I-datetime) [30](I-datetime) [am](I-datetime) [tomorrow](I-datetime)
+- set alarm [for](B-datetime) [10](I-datetime) [am](I-datetime) [tomorrow](I-datetime)
+- can you set my alarm to go off [every](B-datetime) [hour](I-datetime) , [on](B-datetime) [the](I-datetime) [hour](I-datetime) ?
+- the alarm timer will start [at](B-datetime) [6](I-datetime) [:](I-datetime) [30am](I-datetime)
+- set an alarm for a [half](B-datetime) [hour](I-datetime)
+- set an alarm [for](B-datetime) [tomrrow](I-datetime) [at](I-datetime) [6](I-datetime) [pm](I-datetime)
+- set a new alarm [for](B-datetime) [10pm](I-datetime)
+- set my alarm [for](B-datetime) [6](I-datetime) [:](I-datetime) [30am](I-datetime)
+- set an alarm [every](B-datetime) [minute](I-datetime) [for](I-datetime) [30](I-datetime) [minutes](I-datetime)
+- set alarm [every](B-datetime) [30](I-datetime) [minutes](I-datetime) [for](I-datetime) [2](I-datetime) [hours](I-datetime)
+- set the alarm [in](B-datetime) [10](I-datetime) [minutes](I-datetime)
+- notify me [in](B-datetime) [5](I-datetime) [minutes](I-datetime)
+- set three alarms , one [for](B-datetime) [five](I-datetime) [minutes](I-datetime) , one for seven , and one for twelve
+- add security alarm
+- keep alarm on at all times
+- repeat school alarm
+- set a repeating alarm [every](B-datetime) [monday](I-datetime) [at](I-datetime) [6am](I-datetime)
+- set alarm to remind me to take out trash
+- add a new alarm [for](B-datetime) [today](I-datetime)
+- i need to add an alarm [for](B-datetime) [tomorrow](I-datetime) [morning](I-datetime)
+- restart alarm for school
+- repeat [5am](B-datetime) alarm [tomorrow](B-datetime)
+- have my alarm go off in a [half](B-datetime) [hour](I-datetime)
+- repeat the alarm [every](B-datetime) [hour](I-datetime)
+- set an alarm to go off [every](B-datetime) [5](I-datetime) [minutes](I-datetime) on my timer
+- please schedule the alarm to go off [at](B-datetime) [5](I-datetime) [:](I-datetime) [00,5](I-datetime) [:](I-datetime) [10](I-datetime) , and [5](B-datetime) [:](I-datetime) [20](I-datetime) [am](I-datetime) [every](I-datetime) [day](I-datetime)
+- set alarm [after](B-datetime) [30](I-datetime) [minutes](I-datetime) that the race is started
+- make an alarm [for](B-datetime) [9am](I-datetime) [every](I-datetime) [weekday](I-datetime)
+- set my alarm [for](B-datetime) [every](I-datetime) [day](I-datetime) except saturday
+- set wakeup alarm [for](B-datetime) [an](I-datetime) [hour](I-datetime) [earlier](I-datetime) all [this](B-datetime) [week](I-datetime)
+- make an alarm [for](B-datetime) [sunday](I-datetime) @ [8](I-datetime)
+- add an alarm [for](B-datetime) [thursday](I-datetime) [at](I-datetime) [9am](I-datetime)
+- add [8](B-datetime) [a.m](I-datetime) . alarm [for](B-datetime) [weekends](I-datetime) only
+- repeat [6](B-datetime) [am](I-datetime) alarm [every](B-datetime) [day](I-datetime)
+- add an alarm [for](B-datetime) [every](I-datetime) [monday](I-datetime) [at](I-datetime) [6](I-datetime) [:](I-datetime) [00pm](I-datetime)
+- set alarm [for](B-datetime) [tomorrow](I-datetime) [night](I-datetime) at the same time
+- alarm clock : go off [at](B-datetime) [5](I-datetime) [:](I-datetime) [30](I-datetime) [am](I-datetime)
+- wake up [by](B-datetime) [5](I-datetime) [am](I-datetime) for school
+- activate my [10](B-datetime) [:](I-datetime) [30](I-datetime) [pm](I-datetime) alarm when i arrive new york city
+- repeat alarm [every](B-datetime) [weekday](I-datetime)
+- sert alarm [for](B-datetime) [monday](I-datetime) [through](I-datetime) [friday](I-datetime) [for](I-datetime) [8am](I-datetime)
+- have the alarm go off [at](B-datetime) [0800](I-datetime) hours
+- set the alarm [for](B-datetime) [4](I-datetime) [hours](I-datetime) then stop , do not repeat it
+- set alarm to go off [every](B-datetime) [other](I-datetime) [minute](I-datetime) [for](I-datetime) [the](I-datetime) [next](I-datetime) [half](I-datetime) [hour](I-datetime)
+- set alarm [for](B-datetime) [sunrise](I-datetime)
+- repeat this alarm [every](B-datetime) [10](I-datetime) [minutes](I-datetime)
+- alarm restart
+- repeat alarm [for](B-datetime) [one](I-datetime) [week](I-datetime)
+- repeat an alarm
+- repeat wake up alarm for all [week](B-datetime) [days](I-datetime)
+- sound an alarm [every](B-datetime) [hour](I-datetime) [for](I-datetime) [the](I-datetime) [next](I-datetime) [5](I-datetime) [hours](I-datetime)
+- reset alarm [for](B-datetime) [half](I-datetime) [an](I-datetime) [hour](I-datetime)
+- set alarms to priority only
+- wake me up [in](B-datetime) [30](I-datetime) [mins](I-datetime)
+- have the alarm go off [in](B-datetime) [1](I-datetime) [hour](I-datetime) and then set the timer [to](B-datetime) [15](I-datetime) [minutes](I-datetime)
+- add another alarm
+- turn on all of my alarms
+- please set a new alarm [for](B-datetime) [2pm](I-datetime) [this](I-datetime) [afternoon](I-datetime)
+- set a repeating alarm [for](B-datetime) [6](I-datetime) [am](I-datetime) [monday](I-datetime) [through](I-datetime) [friday](I-datetime) only
+- reset all of my alarms
+- alarm [5](B-datetime) [minutes](I-datetime) before time ends
+- set alarm to turn off lights
+- activate weekday alarms
+- tun my work alarm on
+- make alarm go off [every](B-datetime) [five](I-datetime) [minutes](I-datetime)
+- set a repeating alarm [for](B-datetime) [every](I-datetime) [tuesday](I-datetime) at my [bedtime](B-datetime)
+- turn alarms off [on](B-datetime) [sunday](I-datetime)
+- wake me up [at](B-datetime) [7](I-datetime)
+- repeat the alarm [every](B-datetime) [four](I-datetime) [hours](I-datetime)
+- set alarm [for](B-datetime) [6am](I-datetime) [monday](I-datetime) [-](I-datetime) [friday](I-datetime)
+- set snooze alarm [for](B-datetime) [15](I-datetime) [minutes](I-datetime)
+- set an alarm to go off [every](B-datetime) [2](I-datetime) [minutes](I-datetime) [for](I-datetime) [the](I-datetime) [next](I-datetime) [20](I-datetime) [minutes](I-datetime)
+- set an alarm [for](B-datetime) [sunrise](I-datetime)
+- make an alarm [for](B-datetime) [tomorrow](I-datetime) [morning](I-datetime) [at](I-datetime) [sunrise](I-datetime)
+- add alarm [on](B-datetime) [saturday](I-datetime) [at](I-datetime) [8](I-datetime) [:](I-datetime) [30](I-datetime)
+- add alarm [for](B-datetime) [1](I-datetime) [pm](I-datetime) [friday](I-datetime)
+- set an alarm [every](B-datetime) [30](I-datetime) [minutes](I-datetime)
+- alert me [ten](B-datetime) [minutes](I-datetime) from now
+- wake me up [at](B-datetime) [10](I-datetime)
+- set alarm for same time [tomorrow](B-datetime)
+- resume my alarm
+- set an alarm [for](B-datetime) [every](I-datetime) [hour](I-datetime) [for](I-datetime) [the](I-datetime) [next](I-datetime) [12](I-datetime) [hours](I-datetime)
+- alert me [in](B-datetime) [30](I-datetime) [minutes](I-datetime)
+- set alarm [every](B-datetime) [minute](I-datetime) [for](I-datetime) [7](I-datetime) [minutes](I-datetime)
+- set alarm [every](B-datetime) [minute](I-datetime) [for](I-datetime) [40](I-datetime) [minutes](I-datetime)
+- set alarm [for](B-datetime) [15](I-datetime) [minutes](I-datetime)
+- set the snooze alarm [for](B-datetime) [6](I-datetime) [minutes](I-datetime)
+- turn on an alarm [for](B-datetime) [friday](I-datetime) [mornings](I-datetime) [at](I-datetime) [5](I-datetime)
+- set a [1](B-datetime) [/](I-datetime) [2](I-datetime) [hour](I-datetime) alarm
+- set an alarm [for](B-datetime) [7am](I-datetime)
+- set alarm [to](B-datetime) [6](I-datetime) [am](I-datetime) [every](I-datetime) [day](I-datetime) [this](I-datetime) [week](I-datetime)
+- set an alarm [for](B-datetime) [next](I-datetime) [saturday](I-datetime) [at](I-datetime) [4](I-datetime) [pm](I-datetime)
+- set an alarm to remind me to bake cookies [on](B-datetime) [wednesday](I-datetime)
+- set my alarm [for](B-datetime) [6](I-datetime) [:](I-datetime) [30](I-datetime) [am](I-datetime) [on](I-datetime) [mondays](I-datetime) , [tuesday](B-datetime) , [thursday](B-datetime) and [friday](B-datetime)
+- set an alarm [for](B-datetime) [every](I-datetime) [30](I-datetime) [seconds](I-datetime) [for](I-datetime) [5](I-datetime) [minutes](I-datetime)
+- set an alarm for potty breaks
+- set alarm [for](B-datetime) [6am](I-datetime) [on](I-datetime) [wednesdays](I-datetime)
+- set alarm [for](B-datetime) [10](I-datetime) [a.m](I-datetime) [.](I-datetime) [tomorrow](I-datetime) please
+- set an alarm to go off [in](B-datetime) [5](I-datetime) [minutes](I-datetime)
+- set alarm for short nap
+- set alarm [after](B-datetime) [6](I-datetime) [minutes](I-datetime)
+- please set an alarm [for](B-datetime) [every](I-datetime) [7](I-datetime) [minutes](I-datetime) [for](I-datetime) [the](I-datetime) [next](I-datetime) [30](I-datetime) [minutes](I-datetime)
+- resume alarm [for](B-datetime) [5](I-datetime) [minutes](I-datetime)
+- set my wake up alarm [for](B-datetime) [7](I-datetime) [am](I-datetime)
+- set alarm [for](B-datetime) [every](I-datetime) [2](I-datetime) [1](I-datetime) [/](I-datetime) [2](I-datetime) [minutes](I-datetime)
+- set my alarm [for](B-datetime) [11](I-datetime) [:](I-datetime) [58](I-datetime) [pm](I-datetime) [on](I-datetime) [new](I-datetime) [year's](I-datetime) eve
+- add another alarm [for](B-datetime) [8](I-datetime) [:](I-datetime) [00](I-datetime) [am](I-datetime) [on](I-datetime) [tuesdays](I-datetime)
+- set an alarm for my workout [in](B-datetime) [30](I-datetime) [minutes](I-datetime)
+- set a bedtime alarm [for](B-datetime) [8](I-datetime) [p.m](I-datetime) [.](I-datetime) [monday](I-datetime) [through](I-datetime) [friday](I-datetime)
+- set an alarm [55](B-datetime) [minutes](I-datetime) [from](I-datetime) [now](I-datetime)
+- set alarm [for](B-datetime) [every](I-datetime) [3](I-datetime) [minutes](I-datetime) [for](I-datetime) [the](I-datetime) [next](I-datetime) [20](I-datetime) [minutes](I-datetime)
+- set alarm for snack time
+- set alarm [for](B-datetime) [every](I-datetime) [hour](I-datetime) [for](I-datetime) [next](I-datetime) [5](I-datetime) [hours](I-datetime)
+- set alarm [for](B-datetime) [weekend](I-datetime) [at](I-datetime) [10am](I-datetime)
+- set alarm [every](B-datetime) [minute](I-datetime) [for](I-datetime) [60](I-datetime) [minutes](I-datetime)
+- set a [10](B-datetime) [min](I-datetime) alarm to go off [every](B-datetime) [minute](I-datetime)
+- set a [weekday](B-datetime) alarm [for](B-datetime) [6](I-datetime) [hundred](I-datetime) [hours](I-datetime)
+- set an alarm [for](B-datetime) [30](I-datetime) [minutes](I-datetime) [from](I-datetime) [now](I-datetime)
+- set alarm [for](B-datetime) [30](I-datetime) [second](I-datetime) intervals for the next [3](B-datetime) [minutes](I-datetime)
+- set alarm [for](B-datetime) [7am](I-datetime) [monday](I-datetime) [through](I-datetime) [friday](I-datetime)
+- set the alarm to go off [every](B-datetime) [30](I-datetime) [seconds](I-datetime) [for](I-datetime) [5](I-datetime) [minutes](I-datetime)
+- set a recurring alarm [for](B-datetime) [7](I-datetime) [:](I-datetime) [00](I-datetime) [a.m](I-datetime) [.](I-datetime) [on](I-datetime) [weekdays](I-datetime)
+- alarm me when egg is cooked [in](B-datetime) [5](I-datetime) [mintues](I-datetime)
+- set an alarm [for](B-datetime) [every](I-datetime) [2](I-datetime) [hours](I-datetime)
+- wake up alarm [for](B-datetime) [7am](I-datetime) [every](I-datetime) [day](I-datetime) [except](B-negation) [saturday](B-datetime) [and](I-datetime) [sunday](I-datetime)
+- set an alarm [for](B-datetime) [an](I-datetime) [hour](I-datetime) [from](I-datetime) [now](I-datetime)
+- set my alarm [for](B-datetime) [8](I-datetime) [p.m](I-datetime) [.](I-datetime) [tonight](I-datetime)
+- set a [2](B-datetime) [pm](I-datetime) alarm for the [rest](B-datetime) [of](I-datetime) [the](I-datetime) [week](I-datetime) [and](I-datetime) [next](I-datetime) [week](I-datetime)
+- [one](B-datetime) [hour](I-datetime) for alarm
+- set an alarm [for](B-datetime) [7](I-datetime) [am](I-datetime) [everyday](I-datetime) [this](I-datetime) [month](I-datetime)
+- i need an alarm set [for](B-datetime) [5](I-datetime) [hours](I-datetime) from now
+- set alarm [every](B-datetime) [10](I-datetime) [minutes](I-datetime)
+- set an alarm [for](B-datetime) [three](I-datetime) [a.m](I-datetime) [.](I-datetime) please
+- set an alarm [for](B-datetime) [6](I-datetime) [am](I-datetime) [tomorrow](I-datetime) [morning](I-datetime)
+- set alarm [to](B-datetime) [5](I-datetime) [minutes](I-datetime) [every](I-datetime) [tuesday](I-datetime)
+- set an alarm [for](B-datetime) [1](I-datetime) [hour](I-datetime) [from](I-datetime) [now](I-datetime)
+- set an alarm [for](B-datetime) [5pm](I-datetime) [on](I-datetime) [tuesdays](I-datetime)
+- set an alarm to remind me about my movie date
+- set alarm to remind me to place gravel order
+- set alarm [for](B-datetime) [7am](I-datetime)
+- set a [daily](B-datetime) alarm [for](B-datetime) [17h00](I-datetime)
+- set the alarm [to](B-datetime) [8](I-datetime) [a.m](I-datetime) [.](I-datetime) [for](I-datetime) [saturday](I-datetime) and [sunday](B-datetime) [mornings](I-datetime)
+- set 2 separate alarms [for](B-datetime) [5pm](I-datetime) and [6pm](B-datetime)
+- set 3 new alarms [10](B-datetime) [minutes](I-datetime) [apart](I-datetime)
+- set alarm [for](B-datetime) [five](I-datetime) [minutes](I-datetime) [from](I-datetime) [now](I-datetime)
+- set a [5am](B-datetime) alarm [for](B-datetime) [mon](I-datetime) [-](I-datetime) [fri](I-datetime)
+- set my alarm [for](B-datetime) [every](I-datetime) [20](I-datetime) [minutes](I-datetime) [for](I-datetime) [the](I-datetime) [next](I-datetime) [hour](I-datetime)
+- set an alarm [for](B-datetime) [9](I-datetime) [am](I-datetime) tomorrow [morning](B-datetime)
+- reset my morning alarm [to](B-datetime) [6](I-datetime) [:](I-datetime) [15](I-datetime) [am](I-datetime)
+- create an alarm for trash pickup
+- set alarms [five](B-datetime) [minutes](I-datetime) [apart](I-datetime) [tomorrow](I-datetime) [at](I-datetime) [8](I-datetime) [:](I-datetime) [00](I-datetime) [am](I-datetime)
+- set an alarm [for](B-datetime) [3](I-datetime) [p.m](I-datetime) [.](I-datetime) [on](I-datetime) [tuesdays](I-datetime) and [thursdays](B-datetime)
+- set an alarm [for](B-datetime) [2](I-datetime) [hours](I-datetime) [from](I-datetime) [now](I-datetime)
+- let's set the alarm [for](B-datetime) [eight](I-datetime) [hours](I-datetime) [from](I-datetime) [now](I-datetime)
+- set my alarm [for](B-datetime) [6](I-datetime) [:](I-datetime) [00](I-datetime) [am](I-datetime) [on](I-datetime) [wednesdays](I-datetime)
+- set alarm [for](B-datetime) [6](I-datetime) [:](I-datetime) [30](I-datetime) [in](I-datetime) [the](I-datetime) [morning](I-datetime)
+- set alarms to go off [at](B-datetime) [hour](I-datetime) [intervals](I-datetime) [from](I-datetime) [9](I-datetime) [am](I-datetime) [to](I-datetime) [5](I-datetime) [pm](I-datetime)
+- set an alarm [for](B-datetime) [7](I-datetime) [am](I-datetime) and an alarm [for](B-datetime) [every](I-datetime) [30](I-datetime) [minute](I-datetime) [after](I-datetime) [until](I-datetime) [10](I-datetime) [am](I-datetime)
+- set an alarm [for](B-datetime) [8](I-datetime) [p.m](I-datetime) [.](I-datetime) [each](I-datetime) [night](I-datetime) [this](I-datetime) [week](I-datetime)
+- set an alarm for first thing in the morning
+- set alarm [for](B-datetime) [9](I-datetime) [a.m](I-datetime) [.](I-datetime) [every](I-datetime) [day](I-datetime)
+- set an alarm [for](B-datetime) [5](I-datetime) [minutes](I-datetime) [from](I-datetime) [now](I-datetime)
+- set 3 alarms with [30](B-datetime) [minutes](I-datetime) [apart](I-datetime)
+- alarm [for](B-datetime) [15](I-datetime) [minutes](I-datetime) [from](I-datetime) [now](I-datetime)
+- set alarm [for](B-datetime) [weekdays](I-datetime) [at](I-datetime) [7](I-datetime) [am](I-datetime)
+- set an alarm [for](B-datetime) [every](I-datetime) [30](I-datetime) [minutes](I-datetime)
+- set alarm [for](B-datetime) [1pm](I-datetime) [every](I-datetime) [weekend](I-datetime)
+- set a [20](B-datetime) [minute](I-datetime) alarm
+- set an alarm [for](B-datetime) [1pm](I-datetime) [every](I-datetime) [day](I-datetime) [this](I-datetime) [week](I-datetime)
+- set alarm [every](B-datetime) [minute](I-datetime) [for](I-datetime) [20](I-datetime) [minutes](I-datetime)
+- set a [daily](B-datetime) alarm [for](B-datetime) [5](I-datetime) [:](I-datetime) [00](I-datetime) [am](I-datetime)
+- set my wake up alarm [for](B-datetime) [10](I-datetime) [am](I-datetime)
+- give me an alarm [every](B-datetime) [friday](I-datetime) [at](I-datetime) [8](I-datetime) [am](I-datetime)
+- set an alarm [for](B-datetime) [5](I-datetime) [:](I-datetime) [30am](I-datetime) [weekdays](I-datetime)
+- set an alarm for my son to catch the school bus
+- set an alarm [for](B-datetime) [every](I-datetime) [day](I-datetime) [at](I-datetime) [6](I-datetime)
+- set alarm [for](B-datetime) [9](I-datetime) [am](I-datetime) called " wake up aaliyah "
+- set a recurring alarm [for](B-datetime) [6](I-datetime) [:](I-datetime) [30](I-datetime) [am](I-datetime)
+- i need an alarm [every](B-datetime) [hour](I-datetime) [until](I-datetime) [midnight](I-datetime)
+- set the alarm at the end of the class
+- set an alarm [for](B-datetime) [1](I-datetime) [:](I-datetime) [40](I-datetime) [p.m](I-datetime) [.](I-datetime) [every](I-datetime) [weekday](I-datetime) [this](I-datetime) [week](I-datetime)
+- set an alarm to go off [in](B-datetime) [25](I-datetime) [minutes](I-datetime)
+- set an alarm [in](B-datetime) [twenty](I-datetime) [minutes](I-datetime)
+- set alarm [for](B-datetime) [5](I-datetime) [minutes](I-datetime) please
+- set an alarm [for](B-datetime) [6am](I-datetime)
+- set alarm [every](B-datetime) [minute](I-datetime) [for](I-datetime) [5](I-datetime) [minutes](I-datetime)
+- set alarm [for](B-datetime) [every](I-datetime) [day](I-datetime) [at](I-datetime) [5](I-datetime) [am](I-datetime)
+- set a nap alarm [for](B-datetime) [4](I-datetime) [:](I-datetime) [00](I-datetime) [pm](I-datetime)
+- set an alarm [for](B-datetime) [5am](I-datetime) monday thru thursday
+- set alarm to get up [in](B-datetime) [one](I-datetime) [hour](I-datetime)
+- set another alarm [in](B-datetime) [five](I-datetime) [minutes](I-datetime)
+- set an alarm [for](B-datetime) [9](I-datetime) [:](I-datetime) [30](I-datetime) [pm](I-datetime) [this](I-datetime) [evening](I-datetime)
+- set alarm [for](B-datetime) [7](I-datetime) [am](I-datetime) [tomorrow](I-datetime)
+- set alarm [for](B-datetime) [7am](I-datetime) on all [weekdays](B-datetime)
+- i need a wake up alarm [for](B-datetime) [friday](I-datetime) [at](I-datetime) [8](I-datetime) [am](I-datetime)
+- set sleep alarm [for](B-datetime) [every](I-datetime) [12](I-datetime) [minutes](I-datetime)
+- set repeating alarm [for](B-datetime) [10am](I-datetime) [weekends](I-datetime)
+- set alarm [for](B-datetime) [mondays](I-datetime) [at](I-datetime) [8pm](I-datetime)
+- set a workout alarm [for](B-datetime) [6am](I-datetime)
+- set a recurring alarm [for](B-datetime) [5am](I-datetime) [everyday](I-datetime)
+- set alarm [for](B-datetime) [3](I-datetime) [:](I-datetime) [00am](I-datetime) [each](I-datetime) [day](I-datetime) [this](I-datetime) [week](I-datetime)
+- set an alarm [for](B-datetime) [7am](I-datetime) [all](I-datetime) [this](I-datetime) [week](I-datetime)
+- set alarm [for](B-datetime) [1](I-datetime) [hour](I-datetime) [from](I-datetime) [now](I-datetime)
+- wake me up [at](B-datetime) [10am](I-datetime) [every](I-datetime) [day](I-datetime) [excluding](I-datetime) [sunday](I-datetime)
+- i want to set an alarm to go off [in](B-datetime) [25](I-datetime) [minutes](I-datetime)
+- set an alarm [for](B-datetime) [7am](I-datetime) [for](I-datetime) [monday](I-datetime) [through](I-datetime) [friday](I-datetime) [of](I-datetime) [this](I-datetime) [coming](I-datetime) [week](I-datetime)
+- set alarm in sets of [10](B-datetime) [minutes](I-datetime)
+- set the alarm [for](B-datetime) [every](I-datetime) [15](I-datetime) [minutes](I-datetime)
+- set alarm wake up [for](B-datetime) [6](I-datetime) [:](I-datetime) [30am](I-datetime)
+- set alarm [for](B-datetime) [midnight](I-datetime)
+- alarm set [in](B-datetime) [ten](I-datetime) [minute](I-datetime) [intervals](I-datetime) starting now
+- wake me up [at](B-datetime) [10](I-datetime) [o](I-datetime) ['](I-datetime) [clock](I-datetime)
+- set my alarm [for](B-datetime) [4pm](I-datetime)
+- set an alarm [for](B-datetime) [every](I-datetime) [5](I-datetime) [minutes](I-datetime)
+- set my alarm [for](B-datetime) [every](I-datetime) [half](I-datetime) [hour](I-datetime)
+- set wake up alarm [for](B-datetime) [6am](I-datetime)
+- set alarm [for](B-datetime) [two](I-datetime) [hours](I-datetime)
+- alert me [in](B-datetime) [fifteen](I-datetime) [minutes](I-datetime)
+- set workout alarm [for](B-datetime) [5](I-datetime) [a.m](I-datetime)
+- set me an alarm to go off [in](B-datetime) [22](I-datetime) [min](I-datetime)
+- i need an alarm [for](B-datetime) [seven](I-datetime) [on](I-datetime) [weekdays](I-datetime)
+- add an alarm for moms birthday [next](B-datetime) [month](I-datetime) [on](I-datetime) [the](I-datetime) [21st](I-datetime)
+- set an alarm [for](B-datetime) [one](I-datetime) [forty](I-datetime) [-](I-datetime) [five](I-datetime)
+- set an alarm [for](B-datetime) [7](I-datetime) [tonight](I-datetime)
+- set alarm [for](B-datetime) [2](I-datetime) [hours](I-datetime) [from](I-datetime) [now](I-datetime)
+- set the alarm [for](B-datetime) [15](I-datetime) [minutes](I-datetime)
+- set three alarms [every](B-datetime) [thirty](I-datetime) [minutes](I-datetime) starting [at](B-datetime) [7am](I-datetime)
+- set alarm [for](B-datetime) [7am](I-datetime) [on](I-datetime) [saturdays](I-datetime) and [sundays](B-datetime) to repeat indefinitely
+- set morning alarm [monday](B-datetime) [through](I-datetime) [friday](I-datetime) [for](I-datetime) [6](I-datetime) [:](I-datetime) [30am](I-datetime)
+- in 5 minuets alert me
+- set an alarm [for](B-datetime) [2](I-datetime) [hours](I-datetime) [from](I-datetime) [now](I-datetime)
+- set alarm [for](B-datetime) [tomorrow](I-datetime) [morning](I-datetime) [at](I-datetime) [8](I-datetime) [am](I-datetime)
+- set alarm [2](B-datetime) [minutes](I-datetime) [from](I-datetime) [now](I-datetime)
+- set an alarm [for](B-datetime) [4](I-datetime) [hours](I-datetime) [from](I-datetime) [now](I-datetime)
+- set alarm [for](B-datetime) [every](I-datetime) [5](I-datetime) [minutes](I-datetime) [for](I-datetime) [1](I-datetime) [hour](I-datetime)
+- set an alarm [for](B-datetime) [tomorrow](I-datetime) [morning](I-datetime) [at](I-datetime) [8am](I-datetime)
+- set the alarm to ring [one](B-datetime) [hour](I-datetime) [from](I-datetime) [now](I-datetime)
+- set an alarm [for](B-datetime) [3pm](I-datetime)
+- add an alarm [for](B-datetime) [tuesday](I-datetime) [at](I-datetime) [noon](I-datetime)
+- set alarm [every](B-datetime) [five](I-datetime) [minute](I-datetime) [between](I-datetime) [6](I-datetime) [and](I-datetime) [630](I-datetime)
+- set an alarm for brunch
+- set alarm [every](B-datetime) [5](I-datetime) [minutes](I-datetime) [for](I-datetime) [15](I-datetime) [minutes](I-datetime)
+- set an alarm [for](B-datetime) [in](I-datetime) [an](I-datetime) [hour](I-datetime)
+- set alarm [for](B-datetime) [next](I-datetime) [wednesday](I-datetime) [at](I-datetime) [4](I-datetime)
+- set alarms [for](B-datetime) [all](I-datetime) [week](I-datetime) [at](I-datetime) [7](I-datetime) [am](I-datetime)
+- set alarm [for](B-datetime) [8](I-datetime) [am](I-datetime) [every](I-datetime) [monday](I-datetime) [,](I-datetime) [wednesday](I-datetime) [and](I-datetime) [friday](I-datetime)
+- set alarm [for](B-datetime) [6](I-datetime) [pm](I-datetime)
+- set alarm [for](B-datetime) [6](I-datetime) [am](I-datetime) [on](I-datetime) [saturday](I-datetime)
+- set alarm [for](B-datetime) [20](I-datetime) [minutes](I-datetime) [from](I-datetime) now
+- set alarm [for](B-datetime) [24](I-datetime) [hours](I-datetime) [from](I-datetime) [now](I-datetime)
+- set alarm [for](B-datetime) [15](I-datetime) [minutes](I-datetime) [from](I-datetime) [now](I-datetime)
+- set an alarm [for](B-datetime) [every](I-datetime) [day](I-datetime) [at](I-datetime) [6am](I-datetime)
+- set alarm [for](B-datetime) [6](I-datetime) [pm](I-datetime) [tonight](I-datetime)
+- set an alarm [for](B-datetime) [5](I-datetime) [hours](I-datetime)
+- set alarm [for](B-datetime) [6](I-datetime) [:](I-datetime) [45](I-datetime) [a.m](I-datetime) [.](I-datetime) [tomorrow](I-datetime)
+- set an alarm for the same time [monday](B-datetime) [thru](I-datetime) [friday](I-datetime) only
+- set alarm [90](B-datetime) [minutes](I-datetime) [from](I-datetime) [now](I-datetime)
+- set an alarm [for](B-datetime) [5](I-datetime) [hours](I-datetime) [from](I-datetime) [now](I-datetime)
+- set alarm [for](B-datetime) [30](I-datetime) [minutes](I-datetime) [from](I-datetime) [now](I-datetime)
+- set alarm [for](B-datetime) [6pm](I-datetime) [in](I-datetime) [30](I-datetime) [minutes](I-datetime)
+- set alarm [every](B-datetime) [minute](I-datetime) [for](I-datetime) [10](I-datetime) [minutes](I-datetime)
+- turn on alarm [after](B-datetime) [3pm](I-datetime)
+- set alarm [everyday](B-datetime) [for](I-datetime) [6](I-datetime) [am](I-datetime)
+- set alarm [for](B-datetime) [10](I-datetime) [p.m](I-datetime) [.](I-datetime) [tomorrow](I-datetime) night
+- set an alarm to go off [4](B-datetime) [hours](I-datetime) [from](I-datetime) [now](I-datetime)
+- set a [daily](B-datetime) alarm [for](B-datetime) [8](I-datetime) [am](I-datetime)
+- set an alarm [for](B-datetime) [45](I-datetime) [minutes](I-datetime) [from](I-datetime) [now](I-datetime)
+- turn [on](B-datetime) [tomorrow's](I-datetime) alarm
+- set alarm [for](B-datetime) [8am](I-datetime) [monday](I-datetime) [and](I-datetime) [wednesday](I-datetime) morning
+- set an alarm [for](B-datetime) [every](I-datetime) [5](I-datetime) [minutes](I-datetime) [for](I-datetime) [the](I-datetime) [next](I-datetime) [4](I-datetime) [hours](I-datetime)
+- set alarm [for](B-datetime) [5](I-datetime) [:](I-datetime) [55am](I-datetime) [tomorrow](I-datetime) morning
+- add [morning](B-datetime) alarm
+- wake me [in](B-datetime) [a](I-datetime) [half](I-datetime) [hour](I-datetime)
+- set an alarm [for](B-datetime) [10](I-datetime) [minutes](I-datetime) [from](I-datetime) [now](I-datetime)
+- put an alarm [on](B-datetime) [every](I-datetime) [ten](I-datetime) [minutes](I-datetime) [for](I-datetime) [an](I-datetime) [hour](I-datetime)
+- set alarm [for](B-datetime) [6am](I-datetime) for the month [of](B-datetime) [may](I-datetime)
+- set alarm to go off [in](B-datetime) [10](I-datetime) [minutes](I-datetime)
+- set an alarm [every](B-datetime) [5](I-datetime) [minutes](I-datetime)
+- set alarm [5](B-datetime) [minutes](I-datetime)
+- create alarm to go off [in](B-datetime) [30](I-datetime) [minutes](I-datetime)
+- set an alarm [monday](B-datetime) [through](I-datetime) [friday](I-datetime) [at](I-datetime) [noon](I-datetime)
+- set up alarm [30](B-datetime) [minutes](I-datetime) [from](I-datetime) [now](I-datetime)
+- set an alarm [in](B-datetime) [25](I-datetime) [minutes](I-datetime)
+- please set alarm [for](B-datetime) [30](I-datetime) [minutes](I-datetime)
+- set my alarm [in](B-datetime) [5](I-datetime) [hours](I-datetime)
+- set my alarm [for](B-datetime) [8](I-datetime) [in](I-datetime) [the](I-datetime) [morning](I-datetime)
+- set alarm [for](B-datetime) [this](I-datetime) [evening](I-datetime)
+- i need an alarm [every](B-datetime) [three](I-datetime) [minutes](I-datetime) [for](I-datetime) [the](I-datetime) [next](I-datetime) [thirty](I-datetime) [minutes](I-datetime)
+- set alarm [for](B-datetime) [every](I-datetime) [20](I-datetime) [minutes](I-datetime) that pass
+- set wake up alarm
+- set alarm [for](B-datetime) [four](I-datetime) [hours](I-datetime)
+- set alarm for dinner [for](B-datetime) [6pm](I-datetime)
+- reset the alarm [to](B-datetime) [30](I-datetime) [minutes](I-datetime)
+- set an alarm [for](B-datetime) [thirty](I-datetime) [minutes](I-datetime) [from](I-datetime) [now](I-datetime)
+- set weekend alarm [to](B-datetime) [8](I-datetime) [am](I-datetime)
+- set 3 alarms [for](B-datetime) [the](I-datetime) [next](I-datetime) [15](I-datetime) [minutes](I-datetime)
+- set an alarm [for](B-datetime) [an](I-datetime) [hour](I-datetime) [from](I-datetime) [now](I-datetime)
+- set my wakeup alarm for 7
+- set my alarm fifteen minutes prior to next appointment
+- wake me up [in](B-datetime) [8](I-datetime) [hours](I-datetime)
+- set timer to go off [every](B-datetime) [5](I-datetime) [min](I-datetime)
+- set alarm [for](B-datetime) [every](I-datetime) [hour](I-datetime)
+- set an alarm [for](B-datetime) [9am](I-datetime) [tomorrow](I-datetime) morning
+- set an alarm [for](B-datetime) [every](I-datetime) [tuesday](I-datetime) [at](I-datetime) [4](I-datetime)
+- set alarm [for](B-datetime) [7](I-datetime) [pm](I-datetime) [today](I-datetime)
+- set an alarm [for](B-datetime) [12](I-datetime) [hours](I-datetime)
+- set alarm [for](B-datetime) [8](I-datetime) [:](I-datetime) [45](I-datetime) [pm](I-datetime)
+- set alarm [every](B-datetime) [2](I-datetime) [minutes](I-datetime) [for](I-datetime) [20](I-datetime) [minutes](I-datetime)
+- set alarm [every](B-datetime) [minute](I-datetime) [for](I-datetime) [10](I-datetime) [minutes](I-datetime) .
+- alarm [for](B-datetime) [9](I-datetime) [am](I-datetime) , [every](B-datetime) [day](I-datetime) [this](I-datetime) [week](I-datetime)
+- set alarm [for](B-datetime) [10am](I-datetime)
+- set alarm [for](B-datetime) [every](I-datetime) [30](I-datetime) [minutes](I-datetime)
+- wake me up [every](B-datetime) [half](I-datetime) [hour](I-datetime)
+- set alarm [for](B-datetime) [8am](I-datetime) [tomorrow](I-datetime)
+- set alarm [for](B-datetime) [an](I-datetime) [hour](I-datetime)
+- set the alarm [for](B-datetime) [12](I-datetime) [minutes](I-datetime)
+- set alarm [for](B-datetime) [every](I-datetime) [10](I-datetime) [minutes](I-datetime) .
+- set an alarm [every](B-datetime) [5](I-datetime) [minutes](I-datetime)
+- set alarm [for](B-datetime) [8](I-datetime) [am](I-datetime)
+- set an alarm [for](B-datetime) [one](I-datetime) [hour](I-datetime) [from](I-datetime) [now](I-datetime)
+- set alarm [for](B-datetime) [3](I-datetime) [:](I-datetime) [30pm](I-datetime) .
+- set an alarm [for](B-datetime) [8am](I-datetime) [tomorrow](I-datetime) [morning](I-datetime) .
+- set alarm [for](B-datetime) [every](I-datetime) [monday](I-datetime) [at](I-datetime) [8am](I-datetime) please
+- set alarm [for](B-datetime) [30](I-datetime) [minutes](I-datetime) [from](I-datetime) [now](I-datetime) .
+- set an alarm please
+- set alarm [for](B-datetime) [3](I-datetime) [:](I-datetime) [30](I-datetime) [am](I-datetime) [tomorrow](I-datetime) morning .
+- add alarm [for](B-datetime) [9](I-datetime) [am](I-datetime)
+- set alarm [for](B-datetime) [6pm](I-datetime) [today](I-datetime)
+- set my alarm [for](B-datetime) [6](I-datetime) [:](I-datetime) [00](I-datetime) [am](I-datetime) .
+- place an alarm for running [for](B-datetime) [monday](I-datetime) and [wednesday](B-datetime) [at](I-datetime) [6am](I-datetime) .
+- i need an alarm [for](B-datetime) [tomorrow](I-datetime) [at](I-datetime) [8am](I-datetime) .
+- set an alarm [every](B-datetime) [5](I-datetime) [hours](I-datetime)
+- set alarm [for](B-datetime) [10](I-datetime) [minutes](I-datetime) [at](I-datetime) [5pm](I-datetime)
+- set an alarm [for](B-datetime) [6](I-datetime) [:](I-datetime) [55](I-datetime) [am](I-datetime) [everyday](I-datetime) to punch in tom .
+- set an alarm [for](B-datetime) [1](I-datetime) [pm](I-datetime) [tomorrow](I-datetime)
+- set an alarm [for](B-datetime) [6](I-datetime) [:](I-datetime) [30](I-datetime) [am](I-datetime) [on](I-datetime) [monday](I-datetime)
+- set alarm [for](B-datetime) [every](I-datetime) [15](I-datetime) [minutes](I-datetime) [for](I-datetime) [2](I-datetime) [hours](I-datetime) .
+- set alarm [every](B-datetime) [5](I-datetime) [minutes](I-datetime)
+- set alarm [every](B-datetime) [minute](I-datetime) [for](I-datetime) [20](I-datetime) [minutes](I-datetime) .
+- set an alarm [for](B-datetime) [4](I-datetime) [in](I-datetime) [the](I-datetime) [afternoon](I-datetime) .
+- set alarm [for](B-datetime) [6pm](I-datetime)
+- re - set alarm [for](B-datetime) [10](I-datetime)
+- set an alarm [for](B-datetime) [5am](I-datetime) .
+- set alarm [for](B-datetime) [12](I-datetime) [pm](I-datetime)
+- add a new alarm [for](B-datetime) [saturday](I-datetime) [at](I-datetime) [10](I-datetime) [am](I-datetime) .
+- set alarm [for](B-datetime) [tonight](I-datetime) [at](I-datetime) [5](I-datetime)
+- set a wakeup alarm
+- set alarm [now](B-datetime) [for](I-datetime) [tonight](I-datetime)
+- set alarm [for](B-datetime) [30](I-datetime) [minutes](I-datetime)
+- set alarm [for](B-datetime) [2](I-datetime) [:](I-datetime) [30](I-datetime) [pm](I-datetime) [tomorrow](I-datetime)
+- set an alarm [for](B-datetime) [7am](I-datetime)
+- resume alarm
+- set an alarm to go off [in](B-datetime) [ten](I-datetime) [minutes](I-datetime) .
+- set a alarm [for](B-datetime) [tomorrow](I-datetime) [at](I-datetime) [8](I-datetime) [am](I-datetime)
+- set alarm [for](B-datetime) [4](I-datetime) [:](I-datetime) [30](I-datetime)
+- set an alarm for me to wake up [at](B-datetime) [6](I-datetime) [am](I-datetime)
+- set an alarm [for](B-datetime) [wednesday](I-datetime) [at](I-datetime) [3](I-datetime) [pm](I-datetime)
+- set my alarm to get me up [at](B-datetime) [5](I-datetime) [am](I-datetime)
+- set my alarm [for](B-datetime) [6](I-datetime) [am](I-datetime) [tomorrow](I-datetime) [morning](I-datetime)
+- set alarm [for](B-datetime) [2am](I-datetime)
+- set alarm [for](B-datetime) [11am](I-datetime) this morning
+- reset alarm [for](B-datetime) [8](I-datetime) [:](I-datetime) [00](I-datetime) [am](I-datetime) .
+- set an alarm [for](B-datetime) [every](I-datetime) [2](I-datetime) [hours](I-datetime)
+- set the alarm [in](B-datetime) [40](I-datetime) [minutes](I-datetime)
+- resume work alarm
+- wake me up [at](B-datetime) [7](I-datetime) [:](I-datetime) [00](I-datetime)
+- reset alarm [for](B-datetime) [15](I-datetime) [minutes](I-datetime) .
+- set alarm [for](B-datetime) [7](I-datetime) [pm](I-datetime) [tomorrow](I-datetime)
+- set alarm to pick up jack [at](B-datetime) [4pm](I-datetime)
+- set alarm [for](B-datetime) [5](I-datetime) [minutes](I-datetime)
+- set alarm [for](B-datetime) [every](I-datetime) [4](I-datetime) [hours](I-datetime) for medication
+- set alarm [for](B-datetime) [5am](I-datetime) [tomorrow](I-datetime) .
+- set the alarm [for](B-datetime) [7](I-datetime) [minutes](I-datetime)
+- set alarm [for](B-datetime) [8am](I-datetime)
+- set an alarm [for](B-datetime) [mondays](I-datetime) , [wednesdays](B-datetime) , and [fridays](B-datetime) [at](I-datetime) [7am](I-datetime) .
+- set alarm [for](B-datetime) [6am](I-datetime) [tomorrow](I-datetime)
+- set an alarm [for](B-datetime) [7](I-datetime) [:](I-datetime) [30](I-datetime) [am](I-datetime)
+- set alarm [for](B-datetime) [9am](I-datetime) [tomorrow](I-datetime)
+- set a [weekend](B-datetime) alarm [for](B-datetime) [8am](I-datetime)
+- set an alarm [for](B-datetime) [545](I-datetime) [am](I-datetime)
+- set alarm [6am](B-datetime)
+- set an alarm [for](B-datetime) [2am](I-datetime)
+- set the alarm [for](B-datetime) [wednesday](I-datetime) [at](I-datetime) [10](I-datetime) [pm](I-datetime) .
+- set alarm [for](B-datetime) [20](I-datetime) [minutes](I-datetime) .
+- set an alarm [for](B-datetime) [4](I-datetime) [p.m](I-datetime) .
+- set a [6](B-datetime) [am](I-datetime) alarm
+- set an alarm [for](B-datetime) [7am](I-datetime) [on](I-datetime) [friday](I-datetime)
+- set my alarm for wake up [at](B-datetime) [3](I-datetime) [am](I-datetime)
+- set alarm [for](B-datetime) [every](I-datetime) [weekday](I-datetime) [at](I-datetime) [6](I-datetime) [:](I-datetime) [30am](I-datetime)
+- set alarm [for](B-datetime) [10pm](I-datetime)
+- set an alarm [for](B-datetime) [10pm](I-datetime)
+- set an alarm [for](B-datetime) [5](I-datetime) [am](I-datetime) [for](I-datetime) [next](I-datetime) [monday](I-datetime) .
+- set my alarm to go off [at](B-datetime) [noon](I-datetime) [today](I-datetime)
+- set alarm [every](B-datetime) [5](I-datetime) [minutes](I-datetime) [for](I-datetime) [1](I-datetime) [hour](I-datetime)
+- set an alarm [every](B-datetime) [6](I-datetime) [minutes](I-datetime)
+- set another alarm [for](B-datetime) [11](I-datetime) [:](I-datetime) [30am](I-datetime)
+- resume my alarms [for](B-datetime) [this](I-datetime) [week](I-datetime)
+- set an alarm [for](B-datetime) [9](I-datetime) [pm](I-datetime) so i won't miss game of thrones .
+- set alarm [for](B-datetime) [10](I-datetime) [pm](I-datetime) .
+- set an alarm
+- set alarm [for](B-datetime) [10](I-datetime) [pm](I-datetime) [tomorrow](I-datetime) [night](I-datetime)
+- set an alarm [for](B-datetime) [7](I-datetime) [am](I-datetime) [on](I-datetime) [the](I-datetime) [15th](I-datetime)
+- set the alarm [for](B-datetime) [5](I-datetime) [minutes](I-datetime)
+- turn on an alarm [for](B-datetime) [7am](I-datetime) .
+- set alarm [for](B-datetime) [30](I-datetime) [min](I-datetime) [from](I-datetime) [now](I-datetime) .
+- set an alarm [for](B-datetime) [5](I-datetime) [am](I-datetime) [tomorrow](I-datetime) [morning](I-datetime)
+- create an alarm [for](B-datetime) [sunday](I-datetime) , [monday](B-datetime) , and [tuesday](B-datetime) [at](I-datetime) [3pm](I-datetime)
+- set alarm [for](B-datetime) [7](I-datetime) [am](I-datetime) [monday](I-datetime) [through](I-datetime) [wednesday](I-datetime)
+- set alarm [for](B-datetime) [9](I-datetime) [:](I-datetime) [30](I-datetime) [pm](I-datetime)
+- set alarm [for](B-datetime) [3](I-datetime) [am](I-datetime) ?
+- add a [daily](B-datetime) alarm [for](B-datetime) [weekdays](I-datetime) [at](I-datetime) [6](I-datetime) [am](I-datetime)
+- set an alarm [for](B-datetime) [5](I-datetime) [pm](I-datetime) [tonight](I-datetime)
+- set an alarm to remind me to take a break .
+- set the alarm [for](B-datetime) [4](I-datetime) [pm](I-datetime) [tonight](I-datetime)
+- set an alarm [for](B-datetime) [8](I-datetime) [am](I-datetime)
+- make a new alarm [for](B-datetime) [monday](I-datetime) [mornings](I-datetime) [at](I-datetime) [4am](I-datetime) for work out
+- set alarm [for](B-datetime) [every](I-datetime) [hour](I-datetime)
+- set the alarm [for](B-datetime) [5](I-datetime) [:](I-datetime) [00](I-datetime) [a.m](I-datetime) .
+- set up [7](B-datetime) [am](I-datetime) wake up time [from](B-datetime) [monday](I-datetime) [through](I-datetime) [friday](I-datetime)
+- set an alarm for my conference [at](B-datetime) [2](I-datetime) [pm](I-datetime) .
+- set an alarm [for](B-datetime) [8](I-datetime) [:](I-datetime) [15](I-datetime) [am](I-datetime)
+- set alarm [for](B-datetime) [2](I-datetime) [pm](I-datetime) [today](I-datetime)
+- set an alarm [for](B-datetime) [6](I-datetime) [am](I-datetime)
+- set alarm [for](B-datetime) [6](I-datetime) [pm](I-datetime) [tonight](I-datetime)
+- create new alarm
+- set alarm [for](B-datetime) [10pm](I-datetime) [tonight](I-datetime) .
+- turn alarms on
+- set my alarm [every](B-datetime) [minute](I-datetime) [for](I-datetime) [15](I-datetime) [minutes](I-datetime)
+- set alarm [for](B-datetime) [4](I-datetime) [pm](I-datetime) [on](I-datetime) [tuesday](I-datetime)
+- set an alarm [for](B-datetime) [40](I-datetime) [minutes](I-datetime)
+- fix alarm [for](B-datetime) [6](I-datetime) [pm](I-datetime) [tomorrow](I-datetime)
+- set alarm [for](B-datetime) [midnight](I-datetime) .
+- set an alarm [for](B-datetime) [7](I-datetime) [:](I-datetime) [15am](I-datetime) [tomorrow](I-datetime)
+- set my alarm [for](B-datetime) [11](I-datetime) [pm](I-datetime) [for](I-datetime) [tomorrow](I-datetime) night .
+- set 4 alarms [for](B-datetime) [tonight](I-datetime)
+- set alarm [for](B-datetime) [11](I-datetime) [am](I-datetime) [on](I-datetime) [monday](I-datetime)
+- set an alarm [for](B-datetime) [4](I-datetime) [pm](I-datetime) [on](I-datetime) [saturday](I-datetime)
+- set a alarm [for](B-datetime) [6pm](I-datetime)
+- set alarm [every](B-datetime) [minute](I-datetime) [for](I-datetime) [20](I-datetime) [minutes](I-datetime)
+- set an alarm [for](B-datetime) [tomorrow](I-datetime) [at](I-datetime) [5](I-datetime) [:](I-datetime) [45](I-datetime) [pm](I-datetime) and [8](B-datetime) [:](I-datetime) [45](I-datetime) [pm](I-datetime) .
+- set alarm [for](B-datetime) [11](I-datetime) [:](I-datetime) [30](I-datetime) [am](I-datetime)
+- set alarm [for](B-datetime) [7](I-datetime) [:](I-datetime) [30](I-datetime) [am](I-datetime)
+- set my alarm [for](B-datetime) [5am](I-datetime)
+- set my alarm [for](B-datetime) [8](I-datetime) [:](I-datetime) [30](I-datetime) [tonight](I-datetime)
+- set alarm to ring [every](B-datetime) [hour](I-datetime) on the hour
+- please set two alarms . one [for](B-datetime) [5pm](I-datetime) and one [for](B-datetime) [5](I-datetime) [:](I-datetime) [30pm](I-datetime)
+- give me an alarm [every](B-datetime) [25](I-datetime) [seconds](I-datetime) [for](I-datetime) [5](I-datetime) [minutes](I-datetime)
+- set a new alarm for school [tomorrow](B-datetime) [at](I-datetime) [9](I-datetime) [am](I-datetime)
+- reset my alarm [for](B-datetime) [5](I-datetime) [:](I-datetime) [30](I-datetime) [pm](I-datetime)
+- set an alarm [for](B-datetime) [6](I-datetime) [:](I-datetime) [00](I-datetime) [am](I-datetime)
+- set an alarm [for](B-datetime) [2](I-datetime) [:](I-datetime) [55](I-datetime) [am](I-datetime) to do a manual run of the sprinkler system .
+- set an alarm [for](B-datetime) [2am](I-datetime)
+- set an alarm [for](B-datetime) [4](I-datetime) [minutes](I-datetime)
+- set alarm [for](B-datetime) [every](I-datetime) [45](I-datetime) [minutes](I-datetime)
+- set alarm [for](B-datetime) [10pm](I-datetime)
+- set alarm [every](B-datetime) [minute](I-datetime) [for](I-datetime) [10](I-datetime) [minutes](I-datetime) .
+- set alarm [for](B-datetime) [one](I-datetime) [hour](I-datetime) [from](I-datetime) [now](I-datetime) .
+- set an alarm [for](B-datetime) [7](I-datetime) [:](I-datetime) [30](I-datetime) [am](I-datetime)
+- schedule alarm for jacks party
+- set alarm [for](B-datetime) [8](I-datetime) [am](I-datetime) [tomorrow](I-datetime) [morning](I-datetime)
+- alarm [for](B-datetime) [5](I-datetime) [am](I-datetime)
+- set alarm [for](B-datetime) [6am](I-datetime) on all [weekdays](B-datetime)
+- set 3 alarms [for](B-datetime) [tomorrow](I-datetime) [morning](I-datetime) , starting [at](B-datetime) [10am](I-datetime) , and then [every](B-datetime) [half](I-datetime) [hour](I-datetime) .
+- set my alarm [for](B-datetime) [8am](I-datetime) [every](I-datetime) [friday](I-datetime) for work
+- set an alarm [for](B-datetime) [8](I-datetime) [am](I-datetime) [every](I-datetime) [tuesday](I-datetime)
+- set an alarm [for](B-datetime) [6](I-datetime) [am](I-datetime) [tomorrow](I-datetime) .
+- set alarm [for](B-datetime) [8](I-datetime) [am](I-datetime) [on](I-datetime) [sunday](I-datetime)
+- i need two alarms set [for](B-datetime) [2am](I-datetime)
+- set an alarm [for](B-datetime) [30](I-datetime) [minutes](I-datetime)
+- set the time [for](B-datetime) [the](I-datetime) [next](I-datetime) [5](I-datetime) , [10](B-datetime) , and [15](B-datetime) [mins](I-datetime) .
+- set alarm [for](B-datetime) [1](I-datetime) [hour](I-datetime)
+- set alarm
+- set alarms [for](B-datetime) [tomorrow](I-datetime) [morning](I-datetime) [at](I-datetime) [5](I-datetime) , [5](B-datetime) [:](I-datetime) [30](I-datetime) and [5](B-datetime) [:](I-datetime) [45](I-datetime)
+- set my alarm [for](B-datetime) [8am](I-datetime)
+- set a [daily](B-datetime) alarm [for](B-datetime) [4](I-datetime) [:](I-datetime) [00](I-datetime)
+- set an alarm [for](B-datetime) [every](I-datetime) [2](I-datetime) [minutes](I-datetime)
+- alarm [7pm](B-datetime)
+- set alarm [for](B-datetime) [8pm](I-datetime) [tomorrow](I-datetime) night .
+- set my alarm [every](B-datetime) [5](I-datetime) [minutes](I-datetime) [for](I-datetime) [30](I-datetime) [minutes](I-datetime)
+- set an alarm [every](B-datetime) [minute](I-datetime) [for](I-datetime) [the](I-datetime) [next](I-datetime) [hour](I-datetime)
+- set alarm [for](B-datetime) [5](I-datetime) [am](I-datetime) [tomorrow](I-datetime)
+- set alarm [for](B-datetime) [saturday](I-datetime) [8pm](I-datetime)
+- set alarm [for](B-datetime) [6](I-datetime) [am](I-datetime)
+- add an alarm [for](B-datetime) [tomorrow](I-datetime) [afternoon](I-datetime) [at](I-datetime) [three](I-datetime)
+- set an alarm [for](B-datetime) [7](I-datetime) [am](I-datetime) [saturday](I-datetime)
+- set the alarm [for](B-datetime) [20](I-datetime) [mins](I-datetime) .
+- set alarm [for](B-datetime) [midnight](I-datetime) [on](I-datetime) [thursday](I-datetime) night
+- set alarm [for](B-datetime) [saturday](I-datetime) [at](I-datetime) [10](I-datetime) [am](I-datetime) .
+- set my alarm [for](B-datetime) [2pm](I-datetime) [wednesday](I-datetime)
+- set an alarm for my doctor's appointment [next](B-datetime) [wednesday](I-datetime) [at](I-datetime) [5](I-datetime)
+- add an alarm [for](B-datetime) [8](I-datetime) [:](I-datetime) [45a](I-datetime)
+- set an alarm [for](B-datetime) [7am](I-datetime) [tomorrow](I-datetime) .
+- make alarm my work alarm .
+- set alarm [for](B-datetime) [4](I-datetime) [am](I-datetime)
+- set alarm [for](B-datetime) [6](I-datetime) [pm](I-datetime)
+- set wake up alarm [for](B-datetime) [7am](I-datetime)
+- set an alarm [for](B-datetime) [thursday](I-datetime) [at](I-datetime) [4](I-datetime) [:](I-datetime) [30](I-datetime) [p.m](I-datetime) .
+- set an alarm [for](B-datetime) [noon](I-datetime) .
+- set the alarm [at](B-datetime) [5](I-datetime) [am](I-datetime) for the whole [next](B-datetime) [week](I-datetime)
+- set a alarm 4 : 10 p.m . everyday for the rest of the month . .
+- set an alarm [for](B-datetime) [6](I-datetime) [:](I-datetime) [40](I-datetime) [am](I-datetime) [tomorrow](I-datetime) .
+- only set the first alarm .
+- set alarms [at](B-datetime) [7pm](I-datetime) and [8pm](B-datetime)
+- set and alarm [for](B-datetime) [7](I-datetime) [am](I-datetime) [on](I-datetime) [sunday](I-datetime) .
+- set alarm [for](B-datetime) [6](I-datetime) [:](I-datetime) [30](I-datetime) [tomorrow](I-datetime)
+- set alarm [for](B-datetime) [5](I-datetime) [pm](I-datetime) [tonight](I-datetime)
+- set 2 alarms [for](B-datetime) [tomorrow](I-datetime)
+- set alarm [for](B-datetime) [4](I-datetime) [:](I-datetime) [30am](I-datetime) [tuesday](I-datetime) morning .
+- set alarm [for](B-datetime) [every](I-datetime) [15](I-datetime) [minutes](I-datetime)
+- set alarm [every](B-datetime) [5](I-datetime) [minutes](I-datetime) [for](I-datetime) [30](I-datetime) [minutes](I-datetime) .
+- set alarm [for](B-datetime) [8](I-datetime) [pm](I-datetime) [today](I-datetime)
+- set alarm [for](B-datetime) [7](I-datetime) [am](I-datetime)
+- set alarm [for](B-datetime) [half](I-datetime) [an](I-datetime) [hour](I-datetime)
+- set alarms [for](B-datetime) [7](I-datetime) [am](I-datetime) [every](I-datetime) [weekday](I-datetime)
+- set an alarm [for](B-datetime) [7am](I-datetime) [on](I-datetime) [tuesday](I-datetime) only
+- set alarm [for](B-datetime) [3](I-datetime) [am](I-datetime) [tomorrow](I-datetime) please
+- set an alarm [for](B-datetime) [20](I-datetime) [minutes](I-datetime) before i have to leave to pick up from school
+- set alarm [for](B-datetime) [7am](I-datetime) [tuesday](I-datetime)
+- set an alarm [for](B-datetime) [7](I-datetime) [am](I-datetime)
+- set alarm [for](B-datetime) [60](I-datetime) [minutes](I-datetime)
+- set the alarm for a [6](B-datetime) [am](I-datetime) wake up
+- set an alarm [for](B-datetime) [7am](I-datetime) [tomorrow](I-datetime) .
+- set an alarm [for](B-datetime) [3am](I-datetime)
+- set alarm [for](B-datetime) [7am](I-datetime) [tuesday](I-datetime)
+- set an alarm [for](B-datetime) [5](I-datetime) [am](I-datetime) [tomorrow](I-datetime)
+- set up an alarm [for](B-datetime) [5](I-datetime) [am](I-datetime) [tomorrow](I-datetime)
+- set alarm [in](B-datetime) [10](I-datetime) [minutes](I-datetime)
+- set an alarm [for](B-datetime) [every](I-datetime) [15](I-datetime) [minutes](I-datetime)
+- set an alarm [at](B-datetime) [7](I-datetime) [am](I-datetime) [every](I-datetime) [day](I-datetime) to walk the dog .
+- turn on alarm
+- set alarm [for](B-datetime) [10](I-datetime) [:](I-datetime) [30](I-datetime) [am](I-datetime) and [4](B-datetime) [:](I-datetime) [15](I-datetime) [pm](I-datetime)
+- set alarm [for](B-datetime) [every](I-datetime) [hour](I-datetime)
+- set wakeup call [for](B-datetime) [6](I-datetime) [:](I-datetime) [45am](I-datetime)
+- set my alarm to go off [at](B-datetime) [6](I-datetime) [am](I-datetime) for work .
+- set alarm for my mother's dinner party [tomorrow](B-datetime) .
+- set alarm [for](B-datetime) [10](I-datetime) [minutes](I-datetime)
+- set alarm for lunch
+- make an alarm [for](B-datetime) [6](I-datetime) [pm](I-datetime)
+- set alarm [for](B-datetime) [2](I-datetime) [p.m](I-datetime) central standard time
+- set a new alarm for a work project [today](B-datetime) [at](I-datetime) [5pm](I-datetime)
+- set an alarm [for](B-datetime) [2pm](I-datetime) [tomorrow](I-datetime) .
+- set alarm [for](B-datetime) [2](I-datetime) [pm](I-datetime)
+- set an alarm [every](B-datetime) [10](I-datetime) [minutes](I-datetime) [for](I-datetime) [30](I-datetime) [minutes](I-datetime)
+- can you put on an alarm [for](B-datetime) [5pm](I-datetime)
+- set alarm [for](B-datetime) [6](I-datetime) [:](I-datetime) [30am](I-datetime) , [sunday](B-datetime) morning
+- set an alarm [for](B-datetime) [6](I-datetime) [minutes](I-datetime)
+- set alarm [for](B-datetime) [6am](I-datetime) [tomorrow](I-datetime)
+- set alarm [every](B-datetime) [minute](I-datetime) [for](I-datetime) [ten](I-datetime) [minutes](I-datetime)
+- can you set an alarm [for](B-datetime) [noon](I-datetime) ?
+- set an alarm [for](B-datetime) [10am](I-datetime) [tomorrow](I-datetime)
+- set an alarm to wake me up [on](B-datetime) [friday](I-datetime) [at](I-datetime) [2am](I-datetime) .
+- set alarm [for](B-datetime) [50](I-datetime) [minutes](I-datetime)
+- set the alarm to go off [in](B-datetime) [30](I-datetime) [minutes](I-datetime) .
+- set alarm [every](B-datetime) [minute](I-datetime) [for](I-datetime) [10](I-datetime) [minutes](I-datetime) .
+- set the alarm [every](B-datetime) [week](I-datetime) [day](I-datetime) [for](I-datetime) [6am](I-datetime)
+- set my alarm [for](B-datetime) [6](I-datetime) [am](I-datetime)
+- set my alarm [for](B-datetime) [next](I-datetime) [tuesday](I-datetime) [at](I-datetime) [7pm](I-datetime)
+- set alarm [for](B-datetime) [2](I-datetime) [minute](I-datetime) [increments](I-datetime)
+- put in a [daily](B-datetime) alarm [at](B-datetime) [9am](I-datetime) .
+- set my alarm [for](B-datetime) [4am](I-datetime)
+- set an alarm [for](B-datetime) [tomorrow](I-datetime)
+- set my alarm [for](B-datetime) [3](I-datetime) [am](I-datetime) and then [8](B-datetime) [pm](I-datetime)
+- set alarm [for](B-datetime) [7](I-datetime) [am](I-datetime) [every](I-datetime) [other](I-datetime) [day](I-datetime)
+- set an alarm for bedtime
+- set an alarm [for](B-datetime) [2pm](I-datetime)
+- set an alarm [for](B-datetime) [8](I-datetime) [am](I-datetime) [tomorrow](I-datetime)
+- set alarm [for](B-datetime) [every](I-datetime) [3](I-datetime) [hours](I-datetime)
+- set a alarm [for](B-datetime) [6](I-datetime) [am](I-datetime) [tomorrow](I-datetime)
+- can you set alarm [for](B-datetime) [4pm](I-datetime) [today](I-datetime)
+- set alarm [for](B-datetime) [7am](I-datetime) [tomorrow](I-datetime) .
+- set my alarm [for](B-datetime) [an](I-datetime) [hour](I-datetime) [from](I-datetime) [now](I-datetime)
+- set alarm [for](B-datetime) [5](I-datetime) [pm](I-datetime) [tonight](I-datetime)
+- set alarm [for](B-datetime) [12](I-datetime) [pm](I-datetime) [every](I-datetime) [day](I-datetime)
+- set alarm [for](B-datetime) [7am](I-datetime) [tomorrow](I-datetime)
+- set two alarms [for](B-datetime) [10](I-datetime) [:](I-datetime) [00](I-datetime) [am](I-datetime) [tomorrow](I-datetime) , and [2](B-datetime) [:](I-datetime) [00](I-datetime) [pm](I-datetime) [tomorrow](I-datetime) .
+- set an alarm [for](B-datetime) [tomorrow](I-datetime) .
+- set the alarm [for](B-datetime) [6am](I-datetime) [tomorrow](I-datetime)
+- set my alarm [for](B-datetime) [430am](I-datetime)
+- set an alarm [for](B-datetime) [3pm](I-datetime) [on](I-datetime) [sunday](I-datetime)
+- set an alarm [for](B-datetime) [tomorrow](I-datetime) [5](I-datetime) [am](I-datetime)
+- set the alarm [every](B-datetime) [5](I-datetime) [hours](I-datetime)
+- set an alarm to end work day [at](B-datetime) [4](I-datetime) [:](I-datetime) [00pm](I-datetime)
+- set an alarm [for](B-datetime) [9](I-datetime) [:](I-datetime) [55](I-datetime) [am](I-datetime)
+- set alarm [for](B-datetime) [8](I-datetime) [tomorrow](I-datetime) [morning](I-datetime) .
+- set alarm [for](B-datetime) [5](I-datetime) [pm](I-datetime) [tonight](I-datetime)
+- set alarm [every](B-datetime) [minute](I-datetime) [for](I-datetime) [20](I-datetime) [minutes](I-datetime) .
+- set my alarm [for](B-datetime) [10](I-datetime) [am](I-datetime) [on](I-datetime) [thursday](I-datetime)
+- set an alarm [for](B-datetime) [one](I-datetime) [hour](I-datetime)
+- set a [daily](B-datetime) alarm [at](B-datetime) [7](I-datetime) [am](I-datetime)
+- set an alarm [for](B-datetime) [6am](I-datetime) [weekdays](I-datetime)
+- set alarm [for](B-datetime) [7](I-datetime) [am](I-datetime) [tomorrow](I-datetime)
+- set a [7am](B-datetime) alarm [for](B-datetime) [tomorrow](I-datetime)
+- set alarm [for](B-datetime) [6](I-datetime) [am](I-datetime) [tuesday](I-datetime) [morning](I-datetime)
+- set the alarm timer [for](B-datetime) [20](I-datetime) [minutes](I-datetime) .
+- set an alarm [for](B-datetime) [every](I-datetime) [minute](I-datetime) [for](I-datetime) [15](I-datetime) [minutes](I-datetime)
+- set alarm [for](B-datetime) [6am](I-datetime)
+- set alarm [every](B-datetime) [2](I-datetime) [minutes](I-datetime) [for](I-datetime) [12](I-datetime) [minutes](I-datetime)
+- set the alarm [for](B-datetime) [11p](I-datetime) [tonight](I-datetime)
+- set an alarm [for](B-datetime) [6](I-datetime) [a.m](I-datetime) [.](I-datetime) [tomorrow](I-datetime) morning .
+- set alarm [for](B-datetime) [7](I-datetime) [am](I-datetime) .
+- set alarm [for](B-datetime) [every](I-datetime) [5](I-datetime) [mins](I-datetime) please
+- set the alarm [for](B-datetime) [5pm](I-datetime)
+- set an alarm [for](B-datetime) [6pm](I-datetime) [today](I-datetime)
+- set alarm [for](B-datetime) [every](I-datetime) [15](I-datetime) [minutes](I-datetime)
+- alarm set [5](B-datetime) [am](I-datetime)
+- set alarm [for](B-datetime) [5am](I-datetime) [every](I-datetime) [weekday](I-datetime)
+- set alarm to walk dog this evening [at](B-datetime) [6](I-datetime) [pm](I-datetime)
+- set alarm [at](B-datetime) [8](I-datetime) [:](I-datetime) [30am](I-datetime) alerting me that i am late for work already .
+- set an alarm [for](B-datetime) [10](I-datetime) [am](I-datetime) [tomorrow](I-datetime)
+- set alarm [for](B-datetime) [8](I-datetime) [pm](I-datetime) [tonight](I-datetime) .
+- set an alarm [for](B-datetime) [5](I-datetime) [o'clock](I-datetime) [tonight](I-datetime) .
+- set alarm [every](B-datetime) [hour](I-datetime)
+- set alarm [for](B-datetime) [6am](I-datetime)
+- set timer alarm to stir [every](B-datetime) [15](I-datetime) [minutes](I-datetime)
+- set an alarm [for](B-datetime) [4am](I-datetime) [tomorrow](I-datetime) morning
+- set alarm [for](B-datetime) [7am](I-datetime)
+- set an alarm [for](B-datetime) [3](I-datetime) [p.m](I-datetime) [.](I-datetime) [today](I-datetime)
+- set my alarm [for](B-datetime) [every](I-datetime) [day](I-datetime) [at](I-datetime) [6](I-datetime) [am](I-datetime)
+- set alarm [for](B-datetime) [8](I-datetime) [am](I-datetime) [on](I-datetime) [monday](I-datetime)
+- set an alarm [for](B-datetime) [8](I-datetime) [am](I-datetime) [tomorrow](I-datetime)
+- set alarm [for](B-datetime) [7](I-datetime) [am](I-datetime) [tomorrow](I-datetime)
+- set alarm [for](B-datetime) [6](I-datetime) [am](I-datetime)
+- please set an alarm [for](B-datetime) [every](I-datetime) [30](I-datetime) [minutes](I-datetime)
+- set an alarm to wake me up [in](B-datetime) [an](I-datetime) [hour](I-datetime) .
+- alarm set [for](B-datetime) [three](I-datetime) [thirty](I-datetime) [pm](I-datetime) [every](I-datetime) [third](I-datetime) [thursday](I-datetime)
+- please create an alarm [for](B-datetime) [7am](I-datetime) [wednesday](I-datetime)
+- set alarm [for](B-datetime) [8am](I-datetime)
+- can you set an alarm [for](B-datetime) [6am](I-datetime) [monday](I-datetime) [through](I-datetime) [friday](I-datetime) ?
+- set an alarm [for](B-datetime) [5am](I-datetime) .
+- i need to set an alarm [for](B-datetime) [30](I-datetime) [minutes](I-datetime) .
+- set an alarm [for](B-datetime) [7](I-datetime) [am](I-datetime) [tomorrow](I-datetime)
+- set an alarm [for](B-datetime) [5pm](I-datetime)
+- set alarm [for](B-datetime) [multiple](I-datetime) [days](I-datetime) .
+- set an alarm [for](B-datetime) [5](I-datetime) [minutes](I-datetime)
+- set an alarm [at](B-datetime) [6](I-datetime) [am](I-datetime) and another one [at](B-datetime) [6](I-datetime) [:](I-datetime) [30](I-datetime) [am](I-datetime)
+- set the alarm [for](B-datetime) [5pm](I-datetime)
+- set an alarm [for](B-datetime) [9pm](I-datetime) [tonight](I-datetime)
+- set alarm [for](B-datetime) [every](I-datetime) [monday](I-datetime)
+- set my alarm to go off [in](B-datetime) [four](I-datetime) [hours](I-datetime) .
+- set an alarm [for](B-datetime) [6](I-datetime) [:](I-datetime) [30](I-datetime) [am](I-datetime) .
+- set alarm [at](B-datetime) [8](I-datetime) [:](I-datetime) [15](I-datetime) [pm](I-datetime)
+- set alarm [for](B-datetime) [5am](I-datetime) [tonight](I-datetime)
+- set an alarm [for](B-datetime) [5](I-datetime) [pm](I-datetime) [today](I-datetime)
+- set alarm [for](B-datetime) [5](I-datetime) [am](I-datetime)
+- start alarm
+- set alarm [for](B-datetime) [6am](I-datetime)
+- set alarm [for](B-datetime) [7](I-datetime) [:](I-datetime) [25pm](I-datetime)
+- set alarm [for](B-datetime) [every](I-datetime) [sunday](I-datetime) [morning](I-datetime) [at](I-datetime) [7](I-datetime) [am](I-datetime)
+- set the alarm as always
+- set alarm [for](B-datetime) [5am](I-datetime) [tomorrow](I-datetime)
+- set [weekly](B-datetime) alarm [for](B-datetime) [6](I-datetime) [a.m](I-datetime) .
+- set an alarm [for](B-datetime) [28](I-datetime) [minutes](I-datetime) from now
+- set an alarm [for](B-datetime) [5](I-datetime) [:](I-datetime) [55pm](I-datetime)
+- set alarm [for](B-datetime) [4](I-datetime) [am](I-datetime) [tomorrow](I-datetime)
+- add another alarm [for](B-datetime) [tomorrow](I-datetime)
+- set alarm [for](B-datetime) [530am](I-datetime)
+- set alarm [for](B-datetime) [7](I-datetime) [:](I-datetime) [00am](I-datetime) [for](I-datetime) [the](I-datetime) [next](I-datetime) [5](I-datetime) [days](I-datetime) .
+- set the alarm [for](B-datetime) [9](I-datetime) [am](I-datetime) [tomorrow](I-datetime) .
+- set an alarm [for](B-datetime) [3](I-datetime) [:](I-datetime) [30](I-datetime) [p.m](I-datetime) [.](I-datetime) for the work meeting .
+- set the alarm [for](B-datetime) [every](I-datetime) [15](I-datetime) [minutes](I-datetime)
+- add title ' trash day ' [to](B-datetime) [8a](I-datetime) alarm
+- please set my alarm [every](B-datetime) [4](I-datetime) [hours](I-datetime) .
+- i need a new alarm .
+- set alarm [for](B-datetime) [5](I-datetime) [minutes](I-datetime)
+- set alarm [for](B-datetime) [10](I-datetime) [p.m](I-datetime) [.](I-datetime) [tonight](I-datetime)
+- set an alarm [for](B-datetime) [8](I-datetime) [am](I-datetime) [tomorrow](I-datetime)
+- please put alarm for ring [at](B-datetime) [7](I-datetime) [pm](I-datetime) [tonight](I-datetime)
+- set alarm [for](B-datetime) [6am](I-datetime) [every](I-datetime) [tuesday](I-datetime)
+- create alarm [for](B-datetime) [4](I-datetime) [:](I-datetime) [00](I-datetime) [am](I-datetime)
+- set alarm [for](B-datetime) [2](I-datetime) [am](I-datetime) [tomorrow](I-datetime)
+- set an alarm [for](B-datetime) [5am](I-datetime) [every](I-datetime) [day](I-datetime) [this](I-datetime) [week](I-datetime)
+- set alarm [for](B-datetime) [1](I-datetime) [minute](I-datetime)
+- set alarm [for](B-datetime) [9](I-datetime) [:](I-datetime) [30](I-datetime) [pm](I-datetime)
+- can you set an alarm [for](B-datetime) [6](I-datetime) [:](I-datetime) [00](I-datetime) [am](I-datetime) [saturday](I-datetime) ?
+- i want my alarm to be set [at](B-datetime) [10](I-datetime) [am](I-datetime) [for](I-datetime) [tomorrow](I-datetime) .
+- set up an alarm [for](B-datetime) [6](I-datetime) [:](I-datetime) [50am](I-datetime)
+- set an alarm [for](B-datetime) [5](I-datetime) [minutes](I-datetime) [from](I-datetime) [now](I-datetime)
+- set alarm [for](B-datetime) [630am](I-datetime)
+- set my alarm [for](B-datetime) [5am](I-datetime)
+- set alarm [8](B-datetime) [minutes](I-datetime) [from](I-datetime) [now](I-datetime) .
+- set alarm [for](B-datetime) [1](I-datetime) [am](I-datetime) [today](I-datetime)
+- set alarm [every](B-datetime) [minute](I-datetime) [for](I-datetime) [2](I-datetime) [minutes](I-datetime) .
+- set temporary alarm to go off [for](B-datetime) [tomorrow](I-datetime) [morning](I-datetime) only .
+- i need an alarm [for](B-datetime) [7am](I-datetime)
+- set a alarm [for](B-datetime) [9](I-datetime) [:](I-datetime) [00](I-datetime) [pm](I-datetime)
+- set alarm [for](B-datetime) [7](I-datetime) [pm](I-datetime) [on](I-datetime) [friday](I-datetime)
+- set alarm [for](B-datetime) [every](I-datetime) [5](I-datetime) [minutes](I-datetime)
+- set an alarm [for](B-datetime) [3](I-datetime) [hours](I-datetime) [from](I-datetime) [now](I-datetime) .
+- set alarm [for](B-datetime) [midnight](I-datetime)
+- alarm set [for](B-datetime) [one](I-datetime) [hour](I-datetime) nap
+- set reoccurring alarm [for](B-datetime) [six](I-datetime) [am](I-datetime) [for](I-datetime) [monday](I-datetime) [through](I-datetime) [friday](I-datetime) .
+- set an alarm [for](B-datetime) [seven](I-datetime) [tomorrow](I-datetime) [morning](I-datetime)
+- set alarm [for](B-datetime) [30](I-datetime) [minutes](I-datetime)
+- alarm set : [6am](B-datetime)
+- set alarm [for](B-datetime) [6](I-datetime) [am](I-datetime) [monday](I-datetime) morning .
+- set alarm for insecure [at](B-datetime) [10](I-datetime) [:](I-datetime) [30](I-datetime)
+- set alarm [for](B-datetime) [6](I-datetime) [pm](I-datetime) [tonight](I-datetime)
+- set alarm [every](B-datetime) [hour](I-datetime) starting [now](B-datetime)
+- set all alarms [1](B-datetime) [hour](I-datetime) [later](I-datetime)
+- set alarm [for](B-datetime) [1](I-datetime) [minute](I-datetime)
+- set an alarm now [for](B-datetime) [10](I-datetime) [minutes](I-datetime)
+- set new alarms [for](B-datetime) [monday](I-datetime)
+- set an alarm [for](B-datetime) [730am](I-datetime) [on](I-datetime) [thursday](I-datetime)
+- set an alarm [for](B-datetime) [10](I-datetime) [pm](I-datetime)
+- set alert [for](B-datetime) [9am](I-datetime)
+- set alarm [5](B-datetime) [minutes](I-datetime) [from](I-datetime) [now](I-datetime) .
+- set alarm , [1](B-datetime) [hour](I-datetime) .
+- set an alarm [for](B-datetime) [5](I-datetime) [:](I-datetime) [30](I-datetime) [am](I-datetime)
+- create alarm [for](B-datetime) [tomorrow](I-datetime) morning [at](B-datetime) [6](I-datetime) [a.m](I-datetime) .
+- set an alarm [for](B-datetime) [6](I-datetime) [am](I-datetime) [tomorrow](I-datetime) .
+- set alarm [for](B-datetime) [9am](I-datetime) [tomorrow](I-datetime)
+- set an alarm [for](B-datetime) [3am](I-datetime)
+- set a alarm [for](B-datetime) [1](I-datetime) [minute](I-datetime)
+- set an alarm [for](B-datetime) [7](I-datetime) [am](I-datetime) [tomorrow](I-datetime)
+- set an alarm [for](B-datetime) [5](I-datetime) [minutes](I-datetime) , [3](B-datetime) [minutes](I-datetime) and [5](B-datetime) [minutes](I-datetime) .
+- set alarm [for](B-datetime) [3](I-datetime) [:](I-datetime) [30](I-datetime) [pm](I-datetime) for the bus stop .
+- set an alarm [for](B-datetime) [3am](I-datetime) and [4am](B-datetime) [tonight](I-datetime)
+- set alarm
+- set an alarm [for](B-datetime) [every](I-datetime) [20](I-datetime) [minutes](I-datetime) .
+- set alarms [for](B-datetime) [2](I-datetime) [minutes](I-datetime) intervals
+- set an alarm [for](B-datetime) [a](I-datetime) [week](I-datetime) from today [at](B-datetime) [2](I-datetime) [:](I-datetime) [30](I-datetime) [pm](I-datetime)
+- set my alarm [for](B-datetime) [3pm](I-datetime) .
+- set my alarm [to](B-datetime) [6am](I-datetime) [tomorrow](I-datetime) morning
+- set the oven alarm [for](B-datetime) [50](I-datetime) [minutes](I-datetime) .
+- set the alarm for me to get up [at](B-datetime) [6](I-datetime) [am](I-datetime)
+- set my alarm [for](B-datetime) [12](I-datetime) [:](I-datetime) [38p](I-datetime) and [every](B-datetime) [6](I-datetime) [minutes](I-datetime) thereafter .
+- set an alarm [for](B-datetime) [10am](I-datetime)
+- set an alarm [for](B-datetime) [wednesday](I-datetime)
+- set alarm [for](B-datetime) [10](I-datetime) [am](I-datetime) [on](I-datetime) [wednesday](I-datetime)
+- set the alarm [for](B-datetime) [30](I-datetime) [minutes](I-datetime)
+- set alarm to take a shower later [on](B-datetime) [at](I-datetime) [8pm](I-datetime)
+- set alarm [for](B-datetime) [every](I-datetime) [5](I-datetime) [minutes](I-datetime) .
+- set alarm [for](B-datetime) [every](I-datetime) [thursday](I-datetime) [6](I-datetime) [am](I-datetime)
+- set alarm [for](B-datetime) [tomorrow](I-datetime)
+- set my alarm to go off [every](B-datetime) [thirty](I-datetime) [minutes](I-datetime) [for](I-datetime) [two](I-datetime) [hours](I-datetime) .
+- set alarm [for](B-datetime) [6](I-datetime) [:](I-datetime) [00](I-datetime) [am](I-datetime) [tomorrow](I-datetime)
+- set an alarm [for](B-datetime) [6](I-datetime) [:](I-datetime) [30](I-datetime) [am](I-datetime) .
+- set an alarm [for](B-datetime) [6am](I-datetime)
+- set blood pressure check alarm [for](B-datetime) [noon](I-datetime) [7](I-datetime) [days](I-datetime) [a](I-datetime) [week](I-datetime) .
+- set a reminder alarm [for](B-datetime) [10](I-datetime) [:](I-datetime) [30](I-datetime) [pm](I-datetime)
+- set two alarms one [for](B-datetime) [5](I-datetime) [am](I-datetime) , one [for](B-datetime) [5](I-datetime) [:](I-datetime) [30](I-datetime) [am](I-datetime)
+- will you set an alarm [for](B-datetime) [december](I-datetime) [2nd](I-datetime) [at](I-datetime) [4](I-datetime) [am](I-datetime) ?
+- set an alarm [for](B-datetime) [2am](I-datetime) [tomorrow](I-datetime)
+- [2am](B-datetime) alarm please
+- could you please set my alarm [for](B-datetime) [5](I-datetime) [am](I-datetime)
+- set a [weekly](B-datetime) alarm
+- set alarm [for](B-datetime) [6](I-datetime) [:](I-datetime) [30am](I-datetime) [wednesday](I-datetime)
+- set an alarm [every](B-datetime) [4](I-datetime) [minutes](I-datetime) [for](I-datetime) [40](I-datetime) [minutes](I-datetime) .
+- set my alarm [for](B-datetime) [4](I-datetime) [:](I-datetime) [30](I-datetime) to take out the dog .
+- set weekday alarms [for](B-datetime) [5am](I-datetime) .
+- set alarm [for](B-datetime) [1](I-datetime) [hour](I-datetime) .
+- set alarm [every](B-datetime) [5](I-datetime) [minutes](I-datetime)
+- set an alarm [for](B-datetime) [every](I-datetime) [thursday](I-datetime) [at](I-datetime) [3](I-datetime) [:](I-datetime) [00pm](I-datetime)
+- set an alarm [for](B-datetime) [8](I-datetime) [am](I-datetime) [everyday](I-datetime)
+- set an alarm [for](B-datetime) [7pm](I-datetime) [tonight](I-datetime) .
+- set an alarm [for](B-datetime) [8](I-datetime) [am](I-datetime)
+- alert me [45](B-datetime) [minutes](I-datetime) [from](I-datetime) [now](I-datetime) .
+- set the alarm [for](B-datetime) [every](I-datetime) [15](I-datetime) [minutes](I-datetime) [past](I-datetime) [7](I-datetime) [am](I-datetime) [for](I-datetime) [tomorrow](I-datetime)
+- set the alarm [for](B-datetime) [10](I-datetime) [am](I-datetime)
+- set the alarm [for](B-datetime) [every](I-datetime) [30](I-datetime) [seconds](I-datetime) [for](I-datetime) [two](I-datetime) [minutes](I-datetime) .
+- set an alarm [for](B-datetime) [6am](I-datetime)
+- set my alarm [for](B-datetime) [4](I-datetime) [pm](I-datetime)
+- set an alarm [for](B-datetime) [15](I-datetime) [minutes](I-datetime) .
+- set an alarm [for](B-datetime) [monday](I-datetime) [at](I-datetime) [8](I-datetime) [am](I-datetime)
+- set an alarm [for](B-datetime) [8](I-datetime) before game of thrones .
+- set alarm [every](B-datetime) [5](I-datetime) [minutes](I-datetime)
+- set an alarm [for](B-datetime) [7am](I-datetime) [monday](I-datetime) [through](I-datetime) [friday](I-datetime) .
+- set an alarm [for](B-datetime) [5](I-datetime) [minute](I-datetime)
+- set an alarm [for](B-datetime) [7](I-datetime) [am](I-datetime) [every](I-datetime) [day](I-datetime)
+- set alarm [for](B-datetime) [5](I-datetime) [am](I-datetime)
+- add an alarm [at](B-datetime) [8](I-datetime) [:](I-datetime) [30](I-datetime) [am](I-datetime) [tomorrow](I-datetime)
+- set alarm [for](B-datetime) [10](I-datetime) [:](I-datetime) [30](I-datetime) [pm](I-datetime)
+- set the alarm [to](B-datetime) [5](I-datetime) [:](I-datetime) [20](I-datetime) [am](I-datetime)
+- create an alarm [for](B-datetime) [every](I-datetime) [5](I-datetime) [minutes](I-datetime) [for](I-datetime) [today](I-datetime)
+- add an alarm [for](B-datetime) [2](I-datetime) [:](I-datetime) [00](I-datetime) [tomorrow](I-datetime) .
+- set the alarm [in](B-datetime) [15](I-datetime) [minutes](I-datetime)
+- wake up alarm [at](B-datetime) [6](I-datetime) [:](I-datetime) [00](I-datetime) [a.m](I-datetime) .
+- i need to set an alarm [for](B-datetime) [2](I-datetime) [pm](I-datetime) [on](I-datetime) [sunday](I-datetime) .
+- set an alarm [for](B-datetime) [every](I-datetime) [minute](I-datetime) [for](I-datetime) [15](I-datetime) [minutes](I-datetime)
+- set an alarm [for](B-datetime) [8](I-datetime) [:](I-datetime) [00](I-datetime) [tomorrow](I-datetime) [morning](I-datetime) .
+- set alarm [for](B-datetime) [9pm](I-datetime)
+- set an alarm [for](B-datetime) [1](I-datetime) [:](I-datetime) [15am](I-datetime)
+- set alarm [for](B-datetime) [6](I-datetime) [:](I-datetime) [00](I-datetime) [am](I-datetime) .
+- set an alarm [for](B-datetime) [1](I-datetime) [:](I-datetime) [45](I-datetime) [pm](I-datetime) [today](I-datetime)
+- set a recurring [weekend](B-datetime) alarm [for](B-datetime) [8](I-datetime) [am](I-datetime) .
+- set a recurring alarm [for](B-datetime) [6](I-datetime) [am](I-datetime) [monday](I-datetime) [through](I-datetime) [friday](I-datetime)
+- set the alarm [for](B-datetime) [3](I-datetime) [am](I-datetime)
+- set my alarm [for](B-datetime) [6](I-datetime) [:](I-datetime) [00](I-datetime) [am](I-datetime) [on](I-datetime) [thursday](I-datetime) .
+- set alarm [for](B-datetime) [5](I-datetime) [pm](I-datetime) [tonight](I-datetime)
+- set alarm [for](B-datetime) [6pm](I-datetime) [tonight](I-datetime)
+- set alarm [for](B-datetime) [6](I-datetime) [pm](I-datetime) [tonight](I-datetime)
+- set alarm [every](B-datetime) [16](I-datetime) [hours](I-datetime)
+- set an alarm [for](B-datetime) [7](I-datetime) [am](I-datetime)
+- make an alarm [at](B-datetime) [130](I-datetime)
+- set alarm [for](B-datetime) [10](I-datetime) [:](I-datetime) [30](I-datetime) [am](I-datetime)
+- set an alarm [for](B-datetime) [8](I-datetime) [am](I-datetime) and then [every](B-datetime) [8](I-datetime) [minutes](I-datetime) after that
+- set alarm [for](B-datetime) [6](I-datetime) [pm](I-datetime) [tomorrow](I-datetime)
+- set alarm [for](B-datetime) [7am](I-datetime)
+- set alarm [for](B-datetime) [1](I-datetime) [hour](I-datetime) [from](I-datetime) [now](I-datetime)
+- set my alarm [for](B-datetime) [8](I-datetime) [:](I-datetime) [30am](I-datetime) [tomorrow](I-datetime) .
+- set an alarm [for](B-datetime) [5](I-datetime) [p.m](I-datetime) .
+- set alarm [for](B-datetime) [two](I-datetime) [hours](I-datetime)
+- set alarm [every](B-datetime) [hours](I-datetime) [for](I-datetime) [1](I-datetime) [day](I-datetime)
+- set an alarm [for](B-datetime) [2](I-datetime) [pm](I-datetime) [tonight](I-datetime)
+- i need an alarm [for](B-datetime) [5](I-datetime) [minutes](I-datetime)
+- set an alarm [for](B-datetime) [10](I-datetime) [:](I-datetime) [30](I-datetime) [a.m](I-datetime) [.](I-datetime) [every](I-datetime) [day](I-datetime)
+- set an alarm [for](B-datetime) [4pm](I-datetime)
+- set an alarm in the timer
+- set alarm [for](B-datetime) [4](I-datetime) [:](I-datetime) [45pm](I-datetime)
+- set [the](B-datetime) [6am](I-datetime) alarm
+- set alarm [for](B-datetime) [7](I-datetime) [am](I-datetime) [tomorrow](I-datetime)
+- set an alarm [for](B-datetime) [2am](I-datetime) .
+- set alarm [for](B-datetime) [60](I-datetime) [seconds](I-datetime)
+- set a [45](B-datetime) [min](I-datetime) alarm
+- set alarm [every](B-datetime) [24](I-datetime) [hours](I-datetime)
+- set a [6am](B-datetime) alarm [every](B-datetime) [day](I-datetime) .
+- set alarm
+- set alarm [every](B-datetime) [10](I-datetime) [minutes](I-datetime)
+- set an alarm and a reminder [at](B-datetime) [8](I-datetime) [am](I-datetime) to leave for school
+- set a [9](B-datetime) [am](I-datetime) alarm [for](B-datetime) [everyday](I-datetime) [this](I-datetime) [week](I-datetime)
+- set alarm [for](B-datetime) [every](I-datetime) [hour](I-datetime)
+- set my alarm [for](B-datetime) [6](I-datetime) [:](I-datetime) [40](I-datetime) [pm](I-datetime)
+- i need an alarm set [for](B-datetime) [30](I-datetime) [minutes](I-datetime) .
+- set up [daily](B-datetime) alarm [for](B-datetime) [7am](I-datetime)
+- set alarm [at](B-datetime) [1](I-datetime) [pm](I-datetime) [4](I-datetime) [pm](I-datetime) and [7](B-datetime) [pm](I-datetime)
+- set an alarm for my son's shower time .
+- set alarm [for](B-datetime) [every](I-datetime) [2](I-datetime) [minutes](I-datetime)
+- set an alarm [for](B-datetime) [the](I-datetime) [next](I-datetime) [5](I-datetime) [minutes](I-datetime) [in](I-datetime) [a](I-datetime) [row](I-datetime) .
+- set an alarm [for](B-datetime) [4pm](I-datetime) to repeat [on](B-datetime) [mondays](I-datetime)
+- set me an alarm [for](B-datetime) [15](I-datetime) [minutes](I-datetime) [from](I-datetime) [now](I-datetime) .
+- set an alarm [for](B-datetime) [5pm](I-datetime) .
+- set an alarm [for](B-datetime) [1pm](I-datetime)
+- set alarm [for](B-datetime) [7](I-datetime) [am](I-datetime) [tomorrow](I-datetime) .
+- add alarm for snack [at](B-datetime) [3pm](I-datetime)
+- set alarm
+- set up an alarm
+- set the alarm [to](B-datetime) [5](I-datetime) [a.m](I-datetime) .
+- set an alarm [for](B-datetime) [midnight](I-datetime)
+- set alarm [for](B-datetime) [7](I-datetime) [:](I-datetime) [30](I-datetime) [pm](I-datetime)
+- set alarm [for](B-datetime) [10](I-datetime) [am](I-datetime) [tomorrow](I-datetime)
+- set the alarm [for](B-datetime) [every](I-datetime) [3](I-datetime) [minutes](I-datetime) [for](I-datetime) [30](I-datetime) [minutes](I-datetime) total .
+- please set an alarm [for](B-datetime) [10](I-datetime) [am](I-datetime)
+- set an alarm [for](B-datetime) [5](I-datetime) [am](I-datetime) [every](I-datetime) [monday](I-datetime)
+- set an alarm [for](B-datetime) [6](I-datetime) [hours](I-datetime)
+- set alarm to go off [in](B-datetime) [50](I-datetime) [minutes](I-datetime)
+- set an alarm to start dinner [at](B-datetime) [5](I-datetime) [:](I-datetime) [00](I-datetime) [p.m](I-datetime) .
+- set an alarm [for](B-datetime) [8pm](I-datetime) [every](I-datetime) [night](I-datetime) with no end date and name it ' work ' .
+- set alarm , [6am](B-datetime)
+- set new alarm [for](B-datetime) [7pm](I-datetime)
+- set an alarm [for](B-datetime) [7pm](I-datetime)
+- please set alarm [for](B-datetime) [2pm](I-datetime)
+- set alarm [for](B-datetime) [7](I-datetime) [am](I-datetime) [tomorrow](I-datetime)
+- set an alarm [for](B-datetime) [4am](I-datetime) [tomorrow](I-datetime) morning
+- turn all alarms on
+- set alarm [for](B-datetime) [6](I-datetime) [:](I-datetime) [30](I-datetime)
+- set alarm [for](B-datetime) [1](I-datetime) [hour](I-datetime)
+- set an alarm [every](B-datetime) [two](I-datetime) [minutes](I-datetime) [for](I-datetime) [20](I-datetime) [minutes](I-datetime)
+- set an alarm [for](B-datetime) [five](I-datetime) [tonight](I-datetime)
+- set alarm [for](B-datetime) [12](I-datetime) [pm](I-datetime) [tonight](I-datetime)
+- set a alarm to pick up andrew [everyday](B-datetime) [at](I-datetime) [3](I-datetime) [:](I-datetime) [25pm](I-datetime)
+- set alarm [for](B-datetime) [3](I-datetime) [p.m](I-datetime) [.](I-datetime) [every](I-datetime) [thursday](I-datetime) .
+- set an alarm [for](B-datetime) [10pm](I-datetime) [tonight](I-datetime)
+- set alarm [for](B-datetime) [every](I-datetime) [20](I-datetime) [minutes](I-datetime)
+- alarm me [daily](B-datetime) [at](I-datetime) [6am](I-datetime)
+- set alarm [for](B-datetime) [20](I-datetime) [minutes](I-datetime)
+- set an alarm [for](B-datetime) [2pm](I-datetime)
+- set an alarm [every](B-datetime) [5](I-datetime) [minutes](I-datetime) [for](I-datetime) [12](I-datetime) [minutes](I-datetime) .
+- please set an alarm [for](B-datetime) [10pm](I-datetime) [tomorrow](I-datetime) night .
+- can you set an alarm for me
+- set alarm [for](B-datetime) [6](I-datetime) [:](I-datetime) [30](I-datetime) [am](I-datetime) [tomorrow](I-datetime) morning
+- set my alarm [for](B-datetime) [9am](I-datetime) [on](I-datetime) [saturday](I-datetime)
+- set an alarm [for](B-datetime) [6pm](I-datetime) [tomorrow](I-datetime)
+- set alarm for workout [tomorrow](B-datetime) [at](I-datetime) [9pm](I-datetime)
+- set an alarm [for](B-datetime) [7](I-datetime) [am](I-datetime) [weekdays](I-datetime)
+- set an alarm [3](B-datetime) [days](I-datetime) before wife's birthday to get her present
+- set the alarm [for](B-datetime) [7](I-datetime) [am](I-datetime)
+- set an alarm [for](B-datetime) [30](I-datetime) [mins](I-datetime) [on](I-datetime) [friday](I-datetime) [at](I-datetime) [8](I-datetime) [am](I-datetime)
+- set an alarm [for](B-datetime) [8am](I-datetime)
+- set an alarm [for](B-datetime) [tomorrow](I-datetime) [morning](I-datetime)
+- set [hourly](B-datetime) alarm [from](B-datetime) [7am](I-datetime) [to](I-datetime) [10pm](I-datetime) to remind me to drink water
+- set a [1](B-datetime) [hour](I-datetime) nap alarm
+- set alarm [for](B-datetime) [9pm](I-datetime) [on](I-datetime) [thursdays](I-datetime)
+- start alarm 23
+- set an alarm [for](B-datetime) [every](I-datetime) [60](I-datetime) [minutes](I-datetime)
+- set alarm [for](B-datetime) [7](I-datetime) [pm](I-datetime) [tonight](I-datetime)
+- set alarm [for](B-datetime) [6](I-datetime) [am](I-datetime)
+- set alarm [for](B-datetime) [5;20](I-datetime) [am](I-datetime) [tomorrow](I-datetime)
+- set alarm [for](B-datetime) [7](I-datetime) [am](I-datetime) [friday](I-datetime)
+- set reoccurring alarms
+- i need to be up [at](B-datetime) [8am](I-datetime) .
+- set an alarm [for](B-datetime) [8](I-datetime) [am](I-datetime) [tomorrow](I-datetime)
+- i want to set the alarm [for](B-datetime) [9](I-datetime) [a.m](I-datetime) [.](I-datetime) [tomorrow](I-datetime) .
+- set an alarm [for](B-datetime) [7am](I-datetime) .
+- i want to start dinner [at](B-datetime) [400](I-datetime) [pm](I-datetime) [today](I-datetime) so set an alarm to remind me
+- wake me up [at](B-datetime) [7](I-datetime)
+- set an alarm [for](B-datetime) [9](I-datetime) [:](I-datetime) [00](I-datetime) [am](I-datetime) [on](I-datetime) [the](I-datetime) [weekend](I-datetime)
+- set alarm [for](B-datetime) [7am](I-datetime) [every](I-datetime) [day](I-datetime)
+- new alarm [for](B-datetime) [5](I-datetime) [:](I-datetime) [30am](I-datetime)
+- set alarms for my medicine [at](B-datetime) [8](I-datetime) [pm](I-datetime)
+- wake me up [at](B-datetime) [7am](I-datetime) .
+- set an alarm [for](B-datetime) [sunday](I-datetime) [for](I-datetime) [5](I-datetime) [minutes](I-datetime)
+- set alarm [for](B-datetime) [one](I-datetime) [hour](I-datetime)
+- i need an alarm [for](B-datetime) [7](I-datetime) [tomorrow](I-datetime) [morning](I-datetime)
+- set alarm [for](B-datetime) [an](I-datetime) [hour](I-datetime) [for](I-datetime) [the](I-datetime) [next](I-datetime) [4](I-datetime) [hours](I-datetime)
+- please set my night time alarm [for](B-datetime) [7pm](I-datetime)
+- alarm for dinner
+- set alarm [every](B-datetime) [4](I-datetime) [hours](I-datetime) [for](I-datetime) [24](I-datetime) [hours](I-datetime) .
+- set alarm [for](B-datetime) [every](I-datetime) [15](I-datetime) [minutes](I-datetime)
+- set alarm [for](B-datetime) [6](I-datetime) [a.m](I-datetime) .
+- add alarm [for](B-datetime) [8](I-datetime) [:](I-datetime) [55](I-datetime) [pm](I-datetime) [everyday](I-datetime)
+- set alarm [for](B-datetime) [two](I-datetime) [seconds](I-datetime)
+- set an alarm to call my brother
+- set alarm [for](B-datetime) [every](I-datetime) [5](I-datetime) [minutes](I-datetime)
+- set alarm [for](B-datetime) [6am](I-datetime) [tomorrow](I-datetime) morning .
+- set alarm [for](B-datetime) [6pm](I-datetime) please
+- set my alarm [for](B-datetime) [6pm](I-datetime) [on](I-datetime) [wednesday](I-datetime)
+- turn on alarm clock
+- set an alarm [for](B-datetime) [every](I-datetime) [30](I-datetime) [minutes](I-datetime) [till](I-datetime) [8](I-datetime) [pm](I-datetime)
+- set an alarm [every](B-datetime) [10](I-datetime) [seconds](I-datetime) [in](I-datetime) [10](I-datetime) [minutes](I-datetime)
+- set alarm [for](B-datetime) [monday](I-datetime) with 5 sec snooze
+- set alarm [for](B-datetime) [11am](I-datetime) [tomorrow](I-datetime)
+- set alarm [for](B-datetime) [6](I-datetime) [am](I-datetime) [today](I-datetime)
+- set alarm [for](B-datetime) [9](I-datetime) [a.m](I-datetime) .
+- set an alarm [for](B-datetime) [monday](I-datetime) [at](I-datetime) [5](I-datetime) [:](I-datetime) [00](I-datetime) [pm](I-datetime)
+- set an alarm [for](B-datetime) [5](I-datetime) [minutes](I-datetime) .
+- alarm [for](B-datetime) [5](I-datetime) [am](I-datetime)
+- set alarm [for](B-datetime) [11am](I-datetime) [on](I-datetime) [weekends](I-datetime) .
+- set alarm [for](B-datetime) [530](I-datetime) [am](I-datetime) [tomorrow](I-datetime)
+- set [the](B-datetime) [weekend](I-datetime) alarm [for](B-datetime) [eight](I-datetime)
+- set alarm [for](B-datetime) [every](I-datetime) [10](I-datetime) [minutes](I-datetime)
+- set alarm [for](B-datetime) [midnight](I-datetime) [tonight](I-datetime)
+- set a second alarm [for](B-datetime) [8](I-datetime)
+- set alarm [for](B-datetime) [730](I-datetime) [am](I-datetime)
+- set alarm [for](B-datetime) [6am](I-datetime) [saturday](I-datetime)
+- set alarm [for](B-datetime) [7](I-datetime) [:](I-datetime) [55](I-datetime) [am](I-datetime) [tomorrow](I-datetime)
+- set an alarm
+- set alarm [every](B-datetime) [15](I-datetime) [minutes](I-datetime) [for](I-datetime) [one](I-datetime) [hour](I-datetime)
+- set [5](B-datetime) [am](I-datetime) alarm [for](B-datetime) [everyday](I-datetime) [except](I-datetime) [sundays](I-datetime)
+- i would like to set a alarm [for](B-datetime) [tomorrow](I-datetime) .
+- make a new alarm [for](B-datetime) [1](I-datetime) [o'clock](I-datetime) [tuesday](I-datetime)
+- set the alarm [for](B-datetime) [5](I-datetime) [:](I-datetime) [30](I-datetime) [am](I-datetime) [tonight](I-datetime)
+- set an alarm [for](B-datetime) [12](I-datetime) [minutes](I-datetime)
+- add alarm [for](B-datetime) [tomorrow](I-datetime) [at](I-datetime) [10](I-datetime) [am](I-datetime)
+- i need an alarm [for](B-datetime) [10](I-datetime) [minutes](I-datetime) [from](I-datetime) [now](I-datetime)
+- set alarm [for](B-datetime) [5](I-datetime) [pm](I-datetime) [tonight](I-datetime)
+- set alarm [for](B-datetime) [6](I-datetime) [am](I-datetime) [tomorrow](I-datetime)
+- set alarm [for](B-datetime) [6](I-datetime) [am](I-datetime)
+- set my [4](B-datetime) [am](I-datetime) alarm
+- set alarm [for](B-datetime) [4](I-datetime) [am](I-datetime) [tomorrow](I-datetime)
+- set an alarm [for](B-datetime) [every](I-datetime) [5](I-datetime) [minutes](I-datetime)
+- set my alarm [to](B-datetime) [3pm](I-datetime)
+- set an alarm [for](B-datetime) [every](I-datetime) [25](I-datetime) [minutes](I-datetime)
+- set my alarm [for](B-datetime) [30](I-datetime) [minutes](I-datetime)
+- set this new alarm [for](B-datetime) [6](I-datetime) [am](I-datetime)
+- set my alarm [for](B-datetime) [6am](I-datetime) [tomorrow](I-datetime) [morning](I-datetime) .
+- set an alarm [for](B-datetime) [7am](I-datetime)
+- set the alarm [for](B-datetime) [8](I-datetime) [pm](I-datetime) central time .
+- set an alarm [for](B-datetime) [6](I-datetime) [am](I-datetime) [tomorrow](I-datetime)
+- set an alarm [for](B-datetime) [6pm](I-datetime)
+- set an alarm [for](B-datetime) [an](I-datetime) [hour](I-datetime) [from](I-datetime) [now](I-datetime)
+- set alarm [for](B-datetime) [5](I-datetime) [am](I-datetime)
+- set alarm [for](B-datetime) [every](I-datetime) [30](I-datetime) [seconds](I-datetime) .
+- set alarm [for](B-datetime) [9am](I-datetime) [next](I-datetime) [tuesday](I-datetime)
+- create an alarm [monday](B-datetime) [wednesday](I-datetime) [friday](I-datetime) [for](I-datetime) [330pm](I-datetime)
+- set an alarm [for](B-datetime) [six](I-datetime) [in](I-datetime) [the](I-datetime) [morning](I-datetime) [tomorrow](I-datetime)
+- set alarm [for](B-datetime) [3am](I-datetime) [tomorrow](I-datetime)
+- give me an alarm [in](B-datetime) [15](I-datetime) [minutes](I-datetime)
+- set three alarms between [5](B-datetime) [-](I-datetime) [6](I-datetime) [tomorrow](I-datetime)
+- set alarm [for](B-datetime) [10](I-datetime) [am](I-datetime) [tomorrow](I-datetime)
+- set an alarm [for](B-datetime) [10pm](I-datetime) [tonight](I-datetime)
+- set alarm [for](B-datetime) [tomorrow](I-datetime)
+- set alarm [for](B-datetime) [4pm](I-datetime) [tomorrow](I-datetime) .
+- set an alarm [for](B-datetime) [15](I-datetime) [minutes](I-datetime) for my meditation
+- set an alarm [for](B-datetime) [6](I-datetime) [am](I-datetime) [tomorrow](I-datetime)
+- set an alarm [for](B-datetime) [2](I-datetime) [:](I-datetime) [30](I-datetime) [pm](I-datetime)
+- set an alarm [for](B-datetime) [every](I-datetime) [friday](I-datetime) [at](I-datetime) [4pm](I-datetime)
+- turn on all alarms
+- set an alarm [for](B-datetime) [9pm](I-datetime) please
+- set alarm [for](B-datetime) [6am](I-datetime)
+- turn on my alarm
+- set an alarm [for](B-datetime) [tomorrow](I-datetime) [at](I-datetime) [2am](I-datetime)
+- i need to set my alarm [for](B-datetime) [tomorrow](I-datetime) [at](I-datetime) [7](I-datetime) [am](I-datetime)
+- set alarm [for](B-datetime) [9am](I-datetime) [every](I-datetime) [friday](I-datetime)
+- set my alarm to let me know when the game ends .
+- turn on alarm [for](B-datetime) [tomorrow](I-datetime) [morning](I-datetime)
+- set alarm [for](B-datetime) [every](I-datetime) [4](I-datetime) [hours](I-datetime)
+- add an alarm [on](B-datetime) [saturday](I-datetime) [at](I-datetime) [11](I-datetime) [am](I-datetime)
+- set alarm [for](B-datetime) [8](I-datetime) [:](I-datetime) [45am](I-datetime) [tomorrow](I-datetime)
+- set alarm [for](B-datetime) [5](I-datetime) [am](I-datetime)
+- set alarm [for](B-datetime) [7](I-datetime) [pm](I-datetime) [tonight](I-datetime) please .
+- set an alarm [for](B-datetime) [8](I-datetime) [:](I-datetime) [30](I-datetime) [am](I-datetime)
+- set an alarm [for](B-datetime) [3](I-datetime) [:](I-datetime) [00](I-datetime) [am](I-datetime) [tomorrow](I-datetime) [morning](I-datetime) only .
+- set a workout [for](B-datetime) [an](I-datetime) [hour](I-datetime) with alarms [every](B-datetime) [10](I-datetime) [minutes](I-datetime)
+- set a new alarm
+- set alarm [for](B-datetime) [3pm](I-datetime) [today](I-datetime)
+- set alarm [for](B-datetime) [7](I-datetime) [am](I-datetime) [tomorrow](I-datetime) .
+- set alarm [for](B-datetime) [2](I-datetime) [:](I-datetime) [00](I-datetime) [am](I-datetime)
+- set an alarm [every](B-datetime) [2](I-datetime) [minutes](I-datetime) [for](I-datetime) [20](I-datetime) [minutes](I-datetime)
+- set alarm [for](B-datetime) [1](I-datetime) [am](I-datetime)
+- set alarm [in](B-datetime) [6](I-datetime) [hours](I-datetime)
+- set an alarm [for](B-datetime) [every](I-datetime) [5](I-datetime) [minutes](I-datetime) [for](I-datetime) [30](I-datetime) [minutes](I-datetime)
+- set my alarm [for](B-datetime) [8pm](I-datetime) [tomorrow](I-datetime) night .
+- set alarm [for](B-datetime) [3am](I-datetime)
+- set two alarms [for](B-datetime) [tomorrow](I-datetime) [morning](I-datetime)
+- set an alarm [for](B-datetime) [4](I-datetime) [am](I-datetime) please ?
+- set alarm [for](B-datetime) [5](I-datetime) [pm](I-datetime) [tonight](I-datetime)
+- please set alarm [for](B-datetime) [6am](I-datetime) , [6](B-datetime) [:](I-datetime) [12am](I-datetime) , and [6](B-datetime) [:](I-datetime) [30am](I-datetime) .
+- set alarm [for](B-datetime) [6](I-datetime) [am](I-datetime)
+- set alarm [for](B-datetime) [10](I-datetime) [:](I-datetime) [30](I-datetime) [pm](I-datetime) [today](I-datetime)
+- i need to set an alarm [for](B-datetime) [6](I-datetime) [:](I-datetime) [00](I-datetime) [am](I-datetime)
+- set alarm [for](B-datetime) [8am](I-datetime) [thursday](I-datetime)
+- set alarm [for](B-datetime) [7am](I-datetime) [monday](I-datetime) , [tuesday](B-datetime) , [wednesday](B-datetime) , [thursday](B-datetime) , [friday](B-datetime) .
+- set alarm [for](B-datetime) [tomorrow](I-datetime) [morning](I-datetime)
+- alarm set [for](B-datetime) [5](I-datetime) [:](I-datetime) [45pm](I-datetime)
+- set alarm [for](B-datetime) [for](I-datetime) [6](I-datetime) [:](I-datetime) [30](I-datetime) [am](I-datetime) [every](I-datetime) [weekday](I-datetime)
+- set alarm [for](B-datetime) [9am](I-datetime)
+- please set my alarm [to](B-datetime) [6](I-datetime) [:](I-datetime) [30](I-datetime) [am](I-datetime)
+- set alarm
+- set alarm [every](B-datetime) [minute](I-datetime) [for](I-datetime) [15](I-datetime) [minutes](I-datetime) please
+- set an alarm to remind me to wake john [in](B-datetime) [an](I-datetime) [hour](I-datetime)
+- set alarm [for](B-datetime) [7](I-datetime) [am](I-datetime) [today](I-datetime)
+- set an alarm [for](B-datetime) [7](I-datetime) [am](I-datetime) with [9](B-datetime) [minute](I-datetime) snooze intervals .
+- set a new alarm
+- i need an alarm [for](B-datetime) [5pm](I-datetime)
+- set an alarm [for](B-datetime) [8](I-datetime) [tomorrow](I-datetime) [morning](I-datetime)
+- set alarm [for](B-datetime) [5](I-datetime) [:](I-datetime) [30](I-datetime) [am](I-datetime)
+- can you set my alarm [for](B-datetime) [7](I-datetime) [:](I-datetime) [30](I-datetime) [tomorrow](I-datetime) [morning](I-datetime) ?
+- [on](B-datetime) [tuesday](I-datetime) [of](I-datetime) [next](I-datetime) [week](I-datetime) set an alarm [for](B-datetime) [700](I-datetime) [am](I-datetime)
+- set alarm [for](B-datetime) [5](I-datetime) [minutes](I-datetime)
+- set five alarms to go off [in](B-datetime) [5](I-datetime) [minute](I-datetime) [intervals](I-datetime) .
+- set an alarm for the time that i am at the gym .
+- set an alarm [for](B-datetime) [tonight](I-datetime) [at](I-datetime) [8](I-datetime) .
+- set an alarm [for](B-datetime) [next](I-datetime) [week](I-datetime) [saturday](I-datetime) [at](I-datetime) [5](I-datetime) [a.m](I-datetime) .
+- set an alarm [for](B-datetime) [every](I-datetime) [30](I-datetime) [minutes](I-datetime) [for](I-datetime) [the](I-datetime) [next](I-datetime) [4](I-datetime) [hours](I-datetime)
+- set alarm [for](B-datetime) [7am](I-datetime)
+- set alarm [for](B-datetime) [1a.m](I-datetime)
+- set an alarm [for](B-datetime) [6pm](I-datetime)
+- set alarm [for](B-datetime) [3am](I-datetime) [tomorrow](I-datetime)
+- set the alarm [every](B-datetime) [5](I-datetime) [minutes](I-datetime) starting [at](B-datetime) [5](I-datetime) [am](I-datetime) [for](I-datetime) [an](I-datetime) [hour](I-datetime)
+- set an alarm [for](B-datetime) [2](I-datetime) [minutes](I-datetime) please
+- set alarm [for](B-datetime) [19](I-datetime) [:](I-datetime) [45](I-datetime) .
+- set alarm [for](B-datetime) [30](I-datetime) [minutes](I-datetime)
+- set cooking alarm timer [for](B-datetime) [45](I-datetime) [minutes](I-datetime) .
+- please set an alarm [for](B-datetime) [3](I-datetime) [pm](I-datetime) .
+- set an alarm [for](B-datetime) [6](I-datetime) [:](I-datetime) [30](I-datetime) [am](I-datetime) [tomorrow](I-datetime)
+- set alarm to go off [last](B-datetime) [ten](I-datetime) [minutes](I-datetime) before class .
+- set an alarm to wake me up [at](B-datetime) [7am](I-datetime) [tomorrow](I-datetime)
+- set alarm [every](B-datetime) [10](I-datetime) [minutes](I-datetime) [for](I-datetime) [one](I-datetime) [hour](I-datetime)
+- please set alarm [for](B-datetime) [15](I-datetime) [minutes](I-datetime)
+- set an alarm [for](B-datetime) [tuesday](I-datetime) [7am](I-datetime)
+- set an alarm to go off [45](B-datetime) [minutes](I-datetime) [from](I-datetime) [now](I-datetime)
+- turn the alarm [on](B-datetime) [for](I-datetime) [6am](I-datetime) [tomorrow](I-datetime) .
+- set my alarm [for](B-datetime) [4](I-datetime) [am](I-datetime) .
+- set an alarm [for](B-datetime) [11](I-datetime) [am](I-datetime) [on](I-datetime) [the](I-datetime) [26th](I-datetime)
+- set alarm [for](B-datetime) [8](I-datetime) [pm](I-datetime) [tonight](I-datetime)
+- set an alarm [for](B-datetime) [5](I-datetime) [am](I-datetime)
+- set an alarm [for](B-datetime) [40](I-datetime) [minutes](I-datetime)
+- i need an alarm set [for](B-datetime) [3pm](I-datetime)
+- set an alarm [for](B-datetime) [2](I-datetime) [pm](I-datetime)
+- set alarm [for](B-datetime) [5](I-datetime) [am](I-datetime) [everyday](I-datetime)
+- set my alarm [for](B-datetime) [6](I-datetime) [am](I-datetime) [every](I-datetime) [wednesday](I-datetime)
+- set an alarm [every](B-datetime) [minute](I-datetime) [for](I-datetime) [5](I-datetime) [minutes](I-datetime)
+- set alarm [for](B-datetime) [30](I-datetime) [minutes](I-datetime) for the next 4 hours
+- set an alarm [every](B-datetime) [5](I-datetime) [minutes](I-datetime) starting [at](B-datetime) [6](I-datetime) [am](I-datetime)
+- set weekday alarm [for](B-datetime) [6](I-datetime) [in](I-datetime) [the](I-datetime) [morning](I-datetime)
+- set alarms [for](B-datetime) [5](I-datetime) [minutes](I-datetime) , [3](B-datetime) [minutes](I-datetime) , [5](B-datetime) [minutes](I-datetime) , [3](B-datetime) [minutes](I-datetime) and [5](B-datetime) [minutes](I-datetime) .
+- set [weekly](B-datetime) alarm [for](B-datetime) [saturdays](I-datetime) [8am](I-datetime)
+- please set alarm [for](B-datetime) [5](I-datetime) [am](I-datetime)
+- set an alarm [for](B-datetime) [4am](I-datetime)
+- set an alarm [for](B-datetime) [tuesday](I-datetime) [at](I-datetime) [3p](I-datetime)
+- set an alarm to go off [every](B-datetime) [15](I-datetime) [minutes](I-datetime) [for](I-datetime) [the](I-datetime) [next](I-datetime) [2](I-datetime) [hours](I-datetime)
+- set an alarm [for](B-datetime) [10](I-datetime) [am](I-datetime) and [10](B-datetime) [pm](I-datetime)
+- set an alarm [for](B-datetime) [7](I-datetime) [am](I-datetime)
+- set alarm [for](B-datetime) [7](I-datetime) [am](I-datetime) [tomorrow](I-datetime) .
+- set an alarm [for](B-datetime) [6am](I-datetime)
+- set alarm [for](B-datetime) [7pm](I-datetime) evening [today](B-datetime) please
+- set alarm [for](B-datetime) [5](I-datetime) [:](I-datetime) [00](I-datetime) [am](I-datetime)
+- i need to wake up [at](B-datetime) [7](I-datetime) [am](I-datetime) , set alarm
+- set a [daily](B-datetime) alarm [for](B-datetime) [5](I-datetime) [:](I-datetime) [00](I-datetime) [am](I-datetime) .
+- set an alarm [for](B-datetime) [10](I-datetime) [:](I-datetime) [30](I-datetime) [next](I-datetime) [friday](I-datetime) .
+- set an alarm [for](B-datetime) [6](I-datetime) [am](I-datetime)
+- set alarm [for](B-datetime) [8](I-datetime) [pm](I-datetime) [tonight](I-datetime)
+- set an alarm [for](B-datetime) [4](I-datetime) [:](I-datetime) [45](I-datetime) [am](I-datetime)
+- set my alarm [for](B-datetime) [6](I-datetime) [am](I-datetime) .
+- set new alarm
+- set an alarm [for](B-datetime) [one](I-datetime) [hour](I-datetime)
+- set an alarm [for](B-datetime) [25](I-datetime) [minutes](I-datetime) ?
+- set an alarm [for](B-datetime) [4](I-datetime) [:](I-datetime) [15](I-datetime) [tomorrow](I-datetime) .
+- set alarm [for](B-datetime) [7](I-datetime) [minutes](I-datetime) [for](I-datetime) [the](I-datetime) [next](I-datetime) [28](I-datetime) [minutes](I-datetime) .
+- set an alarm [for](B-datetime) [9am](I-datetime)
+- set alarm [for](B-datetime) [2](I-datetime) [:](I-datetime) [15](I-datetime) [pm](I-datetime)
+- set an alarm for me please .
+- set alarm [for](B-datetime) [7](I-datetime) [am](I-datetime) [every](I-datetime) [day](I-datetime)
+- set alarm [for](B-datetime) [6](I-datetime) [pm](I-datetime) [tonight](I-datetime) .
+- set [daily](B-datetime) alarm [for](B-datetime) [6](I-datetime) [am](I-datetime)
+- set alarm for mail pickup [at](B-datetime) [11am](I-datetime)
+- set a [weekday](B-datetime) alarm [for](B-datetime) [5](I-datetime) [:](I-datetime) [45am](I-datetime) .
+- set an alarm [for](B-datetime) [6](I-datetime) [am](I-datetime) [monday](I-datetime) thru [friday](B-datetime)
+- set an alarm [for](B-datetime) [midnight](I-datetime) [on](I-datetime) [wednesday](I-datetime)
+- set an alarm [for](B-datetime) [1hour](I-datetime)
+- turn on my alarms .
+- set alarm [for](B-datetime) [1](I-datetime) [hour](I-datetime) .
+- set an alarm [for](B-datetime) [tomorrow](I-datetime) [at](I-datetime) [7](I-datetime) [am](I-datetime)
+- set alarm [for](B-datetime) [6](I-datetime) [:](I-datetime) [30a](I-datetime) and say wake up
+- set an alarm [for](B-datetime) [6am](I-datetime) [everyday](I-datetime) [this](I-datetime) [week](I-datetime)
+- set alarm [for](B-datetime) [5](I-datetime) [pm](I-datetime) [tonight](I-datetime) .
+- set alarm [for](B-datetime) [15](I-datetime) [minutes](I-datetime)
+- set alert [for](B-datetime) [once](I-datetime) [a](I-datetime) [day](I-datetime) .
+- set alarm for dinner [at](B-datetime) [8pm](I-datetime)
+- set an alarm [for](B-datetime) [5](I-datetime) [:](I-datetime) [30p](I-datetime) with my calendar event for the dentist [on](B-datetime) [friday](I-datetime) .
+- set alarm [for](B-datetime) [3am](I-datetime)
+- set an alarm [for](B-datetime) [sunday](I-datetime) [at](I-datetime) [3am](I-datetime)
+- set alarm [for](B-datetime) [two](I-datetime) [hours](I-datetime) [from](I-datetime) [now](I-datetime)
+- set alarm [for](B-datetime) [8am](I-datetime) for work
+- set an alarm [for](B-datetime) [8](I-datetime) [am](I-datetime) [on](I-datetime) [friday](I-datetime)
+- set an alarm [for](B-datetime) [5](I-datetime) [:](I-datetime) [15](I-datetime) [pm](I-datetime) .
+- set an alarm [for](B-datetime) [next](I-datetime) [monday](I-datetime) [at](I-datetime) [6](I-datetime) [pm](I-datetime)
+- set alarm [for](B-datetime) [6am](I-datetime) [on](I-datetime) [thursday](I-datetime) .
+- set alarm [for](B-datetime) [4](I-datetime) [minutes](I-datetime)
+- set an alarm [for](B-datetime) [45](I-datetime) [minutes](I-datetime) [from](I-datetime) [now](I-datetime) .
+- set alarm to start oven [at](B-datetime) [4pm](I-datetime)
+- add a [daily](B-datetime) alarm [for](B-datetime) [1pm](I-datetime)
+- set the alarm clock [for](B-datetime) [6](I-datetime) [am](I-datetime) .
+- set an alarm [for](B-datetime) [thursday](I-datetime) [at](I-datetime) [1](I-datetime) [:](I-datetime) [00](I-datetime) [pm](I-datetime)
+- set alarm [every](B-datetime) [7pm](I-datetime) [weekends](I-datetime) [throughout](I-datetime) [2017](I-datetime)
+- set an alarm for when i need to turn the crockpot on
+- set a repeating alarm [for](B-datetime) [6.30](I-datetime) [monday](I-datetime) [to](I-datetime) [friday](I-datetime)
+- set all alarms [to](B-datetime) [4am](I-datetime)
+- set alarm [for](B-datetime) [45](I-datetime) [minutes](I-datetime) [from](I-datetime) [now](I-datetime)
+- set an alarm [for](B-datetime) [6](I-datetime) [am](I-datetime) in the morning .
+- set alarm [for](B-datetime) [3](I-datetime) [:](I-datetime) [45pm](I-datetime)
+- set an alarm [for](B-datetime) [4](I-datetime) [hours](I-datetime) [from](I-datetime) [now](I-datetime)
+- please set an alarm [for](B-datetime) [4](I-datetime) [:](I-datetime) [45](I-datetime) [am](I-datetime) [tomorrow](I-datetime) .
+- set my alarm [for](B-datetime) [5](I-datetime) [pm](I-datetime) [sunday](I-datetime)
+- set an alarm [for](B-datetime) [monday](I-datetime) [at](I-datetime) [10](I-datetime) [am](I-datetime)
+- set my alarm for both [8](B-datetime) [:](I-datetime) [00](I-datetime) [am](I-datetime) and [8](B-datetime) [:](I-datetime) [15](I-datetime) [am](I-datetime) [tomorrow](I-datetime)
+- set alarm [for](B-datetime) [9](I-datetime) [:](I-datetime) [45am](I-datetime)
+- set an alarm [for](B-datetime) [midnight](I-datetime) [tomorrow](I-datetime) .
+- create an alarm [for](B-datetime) [9pm](I-datetime)
+- set an alarm [for](B-datetime) [mondays](I-datetime) and [tuesdays](B-datetime) [at](I-datetime) [3am](I-datetime)
+- set alarm [for](B-datetime) [11](I-datetime) [am](I-datetime)
+- set an alarm [for](B-datetime) [every](I-datetime) [saturday](I-datetime) [at](I-datetime) [7pm](I-datetime)
+- set an alarm to wake me [at](B-datetime) [9am](I-datetime) [on](I-datetime) [mondays](I-datetime) , [wednesday](B-datetime) and [thursday](B-datetime)
+- set alarm [for](B-datetime) [every](I-datetime) [2](I-datetime) [minutes](I-datetime)
+- set alarm [every](B-datetime) [minute](I-datetime) [for](I-datetime) [30](I-datetime) [minutes](I-datetime)
+- set alarm [to](B-datetime) [9am](I-datetime)
+- set an alarm [for](B-datetime) [tomorrow](I-datetime) [at](I-datetime) [9am](I-datetime) .
+- please set an alarm [for](B-datetime) [8](I-datetime) [:](I-datetime) [30](I-datetime) [am](I-datetime)
+- set an alarm [for](B-datetime) [every](I-datetime) [12](I-datetime) [hours](I-datetime)
+- please set my alarm [for](B-datetime) [6](I-datetime) [am](I-datetime)
+- set an alarm [for](B-datetime) [2pm](I-datetime)
+- set an alarm [for](B-datetime) [every](I-datetime) [30](I-datetime) [minutes](I-datetime) [for](I-datetime) [one](I-datetime) [hour](I-datetime) .
+- set an alarm [for](B-datetime) [9](I-datetime) [pm](I-datetime) [tonight](I-datetime) .
+- set alarm [for](B-datetime) [7](I-datetime) [:](I-datetime) [00](I-datetime) [pm](I-datetime) so i can be on time .
+- set an alarm [for](B-datetime) [tomorrow](I-datetime) [at](I-datetime) [8am](I-datetime)
+- wake me up [at](B-datetime) [6am](I-datetime) .
+- set an alarm [for](B-datetime) [every](I-datetime) [hour](I-datetime) during the day [from](B-datetime) [7am](I-datetime) [-](I-datetime) [4pm](I-datetime) .
+- set an alarm [for](B-datetime) [every](I-datetime) [two](I-datetime) [minutes](I-datetime)
+- set my alarm [for](B-datetime) [7](I-datetime) [am](I-datetime) [monday](I-datetime) [through](I-datetime) [friday](I-datetime) .
+- set alarm [for](B-datetime) [11](I-datetime) [:](I-datetime) [00](I-datetime) [am](I-datetime) and [2](B-datetime) [:](I-datetime) [00](I-datetime) [pm](I-datetime) [on](I-datetime) [wednesday](I-datetime) and [thursdays](B-datetime) .
+- set my alarm [for](B-datetime) [6;30](I-datetime)
+- set an alarm [for](B-datetime) [friday](I-datetime) morning [at](B-datetime) [10](I-datetime)
+- set an alarm [for](B-datetime) [an](I-datetime) [hour](I-datetime) from now .
+- i need the alarm to wake me
+- create a new alarm
+- set a alarm [for](B-datetime) [6](I-datetime) [am](I-datetime)
+- set alarm to all my appointments
+- set alarm [for](B-datetime) [every](I-datetime) [10](I-datetime) [minutes](I-datetime)
+- set an alarm to wake up [in](B-datetime) [one](I-datetime) [hour](I-datetime)
+- set alarm [for](B-datetime) [9](I-datetime) [pm](I-datetime) [m](I-datetime) [-](I-datetime) [f](I-datetime)
+- set alarm [for](B-datetime) [8](I-datetime) [am](I-datetime)
+- set an alarm [for](B-datetime) [every](I-datetime) [4](I-datetime) [hours](I-datetime) for the rest of the day
+- set alarm [every](B-datetime) [minute](I-datetime) [for](I-datetime) [20](I-datetime) [minutes](I-datetime)
+- set a recurring [tuesday](B-datetime) alarm [for](B-datetime) [7](I-datetime) [:](I-datetime) [30](I-datetime) .
+- set alarm [for](B-datetime) [tonight](I-datetime) [at](I-datetime) [midnight](I-datetime) .
+- alarm [at](B-datetime) [2](I-datetime) for my medicine
+- create an alarm [for](B-datetime) [7](I-datetime) .
+- set an alarm [for](B-datetime) [8](I-datetime) [:](I-datetime) [30am](I-datetime) [on](I-datetime) [wed](I-datetime)
+- set alarm [for](B-datetime) [20](I-datetime) [minutes](I-datetime)
+- set alarm [for](B-datetime) [every](I-datetime) [hour](I-datetime)
+- set an alarm [for](B-datetime) [every](I-datetime) [15](I-datetime) [minutes](I-datetime) .
+- set the alarm [for](B-datetime) [2pm](I-datetime) [tomorrow](I-datetime) and another [for](B-datetime) [2](I-datetime) [:](I-datetime) [10](I-datetime) [pm](I-datetime) [tomorrow](I-datetime) .
+- set an alarm [for](B-datetime) [thirty](I-datetime) [minutes](I-datetime) [from](I-datetime) [now](I-datetime)
+- set alarm [for](B-datetime) [9pm](I-datetime) .
+- set two alarms , one [at](B-datetime) [5](I-datetime) [am](I-datetime) the other [at](B-datetime) [515](I-datetime) [am](I-datetime) .
+- set the alarm [for](B-datetime) [eight](I-datetime) [am](I-datetime) [on](I-datetime) [sunday](I-datetime)
+- set alarm [for](B-datetime) [morning](I-datetime) wake up
+- set dentist alarm [for](B-datetime) [friday](I-datetime) [afternoon](I-datetime)
+- set an alarm [for](B-datetime) [tomorrow](I-datetime) [at](I-datetime) [11](I-datetime) [:](I-datetime) [45](I-datetime) [am](I-datetime)
+- add an alarm [for](B-datetime) [4](I-datetime) [am](I-datetime) [tomorrow](I-datetime)
+- set the alarm for me [at](B-datetime) [12](I-datetime) [noon](I-datetime) please
+- set alarm [for](B-datetime) [5am](I-datetime)
+- set alarm [for](B-datetime) [11am](I-datetime)
+- set an alarm [for](B-datetime) [9pm](I-datetime) [tonight](I-datetime) .
+- set alarm [for](B-datetime) [10pm](I-datetime) [tonight](I-datetime)
+- set alarm [for](B-datetime) [every](I-datetime) [monday](I-datetime) [at](I-datetime) [12pm](I-datetime)
+- activate my work alarm
+- set an alarm [for](B-datetime) [25](I-datetime) [minutes](I-datetime)
+- set an alarm [for](B-datetime) [five](I-datetime) [minutes](I-datetime) [from](I-datetime) [now](I-datetime) .
+- set alarm [for](B-datetime) [thursday](I-datetime)
+- make my alarm buzz [at](B-datetime) [8am](I-datetime)
+- set an alarm to go off [every](B-datetime) [5](I-datetime) [minutes](I-datetime) [for](I-datetime) [25](I-datetime) [minutes](I-datetime)
+- please set an alarm [for](B-datetime) [3](I-datetime) [:](I-datetime) [00](I-datetime) [pm](I-datetime) [every](I-datetime) [day](I-datetime)
+- set alarm [for](B-datetime) [3pm](I-datetime) [tomorrow](I-datetime)
+- set alarm [for](B-datetime) [8am](I-datetime) [monday](I-datetime) [through](I-datetime) [friday](I-datetime)
+- set alarm [for](B-datetime) [9am](I-datetime) [tomorrow](I-datetime)
+- alarm [every](B-datetime) [weekday](I-datetime) [at](I-datetime) [2](I-datetime) [:](I-datetime) [30](I-datetime) [pm](I-datetime) for school pick up
+- i need alarms [for](B-datetime) [six](I-datetime) , [nine](B-datetime) and [twelve](B-datetime) .
+- set my alarm [every](B-datetime) [15](I-datetime) [minutes](I-datetime)
+- i need an alarm [for](B-datetime) [9](I-datetime) [pm](I-datetime) [tonight](I-datetime) .
+- set an alarm [for](B-datetime) [every](I-datetime) [weekday](I-datetime) [at](I-datetime) [6](I-datetime) [am](I-datetime)
+- set an alarm [for](B-datetime) [11](I-datetime) [am](I-datetime) [today](I-datetime) .
+- set an alarm [every](B-datetime) [day](I-datetime) [at](I-datetime) [6](I-datetime) [am](I-datetime)
+- set alarm [for](B-datetime) [5](I-datetime) [am](I-datetime)
+- create 7 alarms [in](B-datetime) [5](I-datetime) [minute](I-datetime) [intervals](I-datetime) [for](I-datetime) [tuesday](I-datetime) [morning](I-datetime) , starting [at](B-datetime) [6](I-datetime) [:](I-datetime) [45](I-datetime) [a.m](I-datetime) .
+- set the alarm [for](B-datetime) [5pm](I-datetime) [every](I-datetime) [day](I-datetime) [this](I-datetime) [week](I-datetime)
+- set an alarm for sunset
+- set alarm [for](B-datetime) [9](I-datetime) [:](I-datetime) [30](I-datetime) [am](I-datetime) .
+- set alarm [for](B-datetime) [6](I-datetime) [am](I-datetime) , [mon](B-datetime) [-](I-datetime) [fri](I-datetime)
+- set 2 alarms [for](B-datetime) [tomorrow](I-datetime)
+- set alarm [for](B-datetime) [850am](I-datetime)
+- turn [on](B-datetime) [8](I-datetime) [a.m](I-datetime) [.](I-datetime) alarm
+- set alarm [for](B-datetime) [noon](I-datetime)
+- set alarm [at](B-datetime) [11am](I-datetime) for going to home depot
+- set an alarm [for](B-datetime) [6](I-datetime) [am](I-datetime) [on](I-datetime) [weekdays](I-datetime) .
+- turn my weekday alarm on
+- set a new alarm [for](B-datetime) [3](I-datetime) [:](I-datetime) [33p](I-datetime) .
+- set the alarm [for](B-datetime) [daily](I-datetime) [at](I-datetime) [5](I-datetime) [am](I-datetime) .
+- set an alarm to study flashcards [for](B-datetime) [15](I-datetime) [minutes](I-datetime) [each](I-datetime) [day](I-datetime) .
+- set my alarm [for](B-datetime) [55](I-datetime) [mins](I-datetime)
+- set an alarm [for](B-datetime) [8](I-datetime) [tomorrow](I-datetime) [morning](I-datetime)
+- set alarm [for](B-datetime) [8am](I-datetime) [monday](I-datetime) [through](I-datetime) [friday](I-datetime)
+- set the alarm to ring [at](B-datetime) [5am](I-datetime)
+- please set an alarm [for](B-datetime) [5](I-datetime) [pm](I-datetime) [today](I-datetime) .
+- turn on alarm [for](B-datetime) [10](I-datetime) [pm](I-datetime) [tonight](I-datetime) .
+- set alarm [for](B-datetime) [5am](I-datetime)
+- set an alarm [7](B-datetime) [days](I-datetime) [a](I-datetime) [week](I-datetime) indefinitely [at](B-datetime) [noon](I-datetime) .
+- set alarm [for](B-datetime) [5](I-datetime) [:](I-datetime) [30](I-datetime) [pm](I-datetime) [tonight](I-datetime)
+- set alarm [every](B-datetime) [minute](I-datetime) [for](I-datetime) [16](I-datetime) [minutes](I-datetime)
+- set an alarm [for](B-datetime) [7](I-datetime) [:](I-datetime) [30](I-datetime) [am](I-datetime) .
+- set an alarm for when i have to get ready for work
+- alarm [for](B-datetime) [8](I-datetime) [:](I-datetime) [30](I-datetime) [am](I-datetime) [tomorrow](I-datetime) , one time
+- set an alarm [for](B-datetime) [6am](I-datetime) [tomorrow](I-datetime)
+- set an alarm [for](B-datetime) [noon](I-datetime)
+- set alarm [for](B-datetime) [5pm](I-datetime) [this](I-datetime) [evening](I-datetime)
+- set alarm [for](B-datetime) [every](I-datetime) [5](I-datetime) [minutes](I-datetime) [for](I-datetime) [30](I-datetime) [minutes](I-datetime)
+- add a new alarm
+- set alarm [today](B-datetime) [for](I-datetime) [5](I-datetime) [:](I-datetime) [30](I-datetime) [pm](I-datetime)
+- add alarm
+- set alarm [for](B-datetime) [10am](I-datetime)
+- set my alarm [for](B-datetime) [6](I-datetime) [am](I-datetime)
+- set my alarm for my [12pm](B-datetime) meeting [today](B-datetime)
+- set alarm [for](B-datetime) [7pm](I-datetime) [tonight](I-datetime) .
+- set alarm [every](B-datetime) [3](I-datetime) [minutes](I-datetime) [for](I-datetime) [7](I-datetime) [minutes](I-datetime)
+- set alarm [for](B-datetime) [3](I-datetime) [pm](I-datetime) [today](I-datetime) .
+- set an alarm [for](B-datetime) [8](I-datetime) [am](I-datetime) [friday](I-datetime)
+- set an alarm [for](B-datetime) [7](I-datetime) [am](I-datetime) [tomorrow](I-datetime)
+- set an alarm [for](B-datetime) [30](I-datetime) [minutes](I-datetime) total with an alarm [every](B-datetime) [2](I-datetime) [minutes](I-datetime)
+- set an alarm [for](B-datetime) [tuesday](I-datetime) [at](I-datetime) [11am](I-datetime) and name it ' dr's apt '
+- set alarm 1 [for](B-datetime) [6](I-datetime) [pm](I-datetime) [tonight](I-datetime)
+- set alarm [for](B-datetime) [6am](I-datetime)
+- set alarm [for](B-datetime) [2](I-datetime) [hours](I-datetime) .
+- set an alarm [every](B-datetime) [10](I-datetime) [minutes](I-datetime)
+- set my alarm for my [7pm](B-datetime) walk
+- enable a [daily](B-datetime) alarm [for](B-datetime) [2](I-datetime) [pm](I-datetime) .
+- set an alarm [for](B-datetime) [2](I-datetime) [hours](I-datetime) from now to let me know it is time to take the roast out of the oven .
+- set the alarm to go off [at](B-datetime) [7](I-datetime) [:](I-datetime) [00pm](I-datetime)
+- create alarm [for](B-datetime) [2](I-datetime) [pm](I-datetime)
+- set alarm [for](B-datetime) [8am](I-datetime) [tomorrow](I-datetime)
+- set an alarm [for](B-datetime) [10](I-datetime) [:](I-datetime) [30am](I-datetime) [tomorrow](I-datetime) .
+- set alarm [for](B-datetime) [8am](I-datetime) [saturday](I-datetime) and [sunday](B-datetime)
+- set a [weekly](B-datetime) [8](I-datetime) [am](I-datetime) alarm
+- set my alarm [tonight](B-datetime)
+- set and alarm [for](B-datetime) [3](I-datetime) [hours](I-datetime)
+- set alarm [for](B-datetime) [7](I-datetime) [am](I-datetime) [sunday](I-datetime)
+- set an alarm [every](B-datetime) [15](I-datetime) [minutes](I-datetime) [for](I-datetime) [an](I-datetime) [hour](I-datetime) .
+- set alarm on door
+- set an alarm [for](B-datetime) [every](I-datetime) [hour](I-datetime) for the rest of the day .
+- set the alarm [for](B-datetime) [10](I-datetime) [hours](I-datetime) [from](I-datetime) [now](I-datetime)
+- set my alarm [for](B-datetime) [5](I-datetime) [:](I-datetime) [40](I-datetime) [am](I-datetime)
+- set alarm [for](B-datetime) [5](I-datetime) [pm](I-datetime) [tonight](I-datetime)
+- set alarm [for](B-datetime) [12](I-datetime) [:](I-datetime) [20am](I-datetime) .
+- set alarm [for](B-datetime) [six](I-datetime) [am](I-datetime) .
+- please set the alarm [for](B-datetime) [10](I-datetime) [minutes](I-datetime) [from](I-datetime) [now](I-datetime)
+- i need to set an alarm .
+- set alarm [for](B-datetime) [9](I-datetime) [am](I-datetime) [for](I-datetime) [every](I-datetime) [day](I-datetime) [next](I-datetime) [week](I-datetime) .
+- set alarm [for](B-datetime) [6](I-datetime) [am](I-datetime) [tomorrow](I-datetime) [morning](I-datetime)
+- set the alarm now
+- set alarm [for](B-datetime) [8](I-datetime) [pm](I-datetime) [tonight](I-datetime)
+- set an alarm [for](B-datetime) [10pm](I-datetime) [tonight](I-datetime)
+- set an alarm [for](B-datetime) [3](I-datetime) [:](I-datetime) [00](I-datetime) [pm](I-datetime)
+- set alarm [for](B-datetime) [6am](I-datetime) [tomorrow](I-datetime)
+- set an alarm [for](B-datetime) [wednesday](I-datetime) [at](I-datetime) [1](I-datetime) [am](I-datetime) .
+- set alarm
+- make an alarm
+- set alarm [for](B-datetime) [10am](I-datetime)
+- i need my alarm on of [6](B-datetime) [am](I-datetime)
+- set an alarm [for](B-datetime) [7pm](I-datetime) [tonight](I-datetime)
+- set alarm [for](B-datetime) [3](I-datetime) [hours](I-datetime) [from](I-datetime) [now](I-datetime)
+- set alarm [on](B-datetime) [alternative](I-datetime) [days](I-datetime) [for](I-datetime) [8](I-datetime) [:](I-datetime) [00am](I-datetime)
+- i need to set alarm for the hairdresser [at](B-datetime) [12](I-datetime) [noon](I-datetime) .
+- set my alarm [for](B-datetime) [5](I-datetime) [:](I-datetime) [15](I-datetime) [am](I-datetime) [tomorrow](I-datetime)
+- add a new alarm
+- set my alarm [for](B-datetime) [tomorrow](I-datetime) [at](I-datetime) [7](I-datetime) [p.m](I-datetime) .
+- set alarm [for](B-datetime) [1](I-datetime) [am](I-datetime) [tuesday](I-datetime)
+- set alarm [for](B-datetime) [tuesday](I-datetime) [at](I-datetime) [6](I-datetime) [am](I-datetime)
+- set alarm [every](B-datetime) [minute](I-datetime) [for](I-datetime) [2](I-datetime) [hour](I-datetime) .
+- set a nightly alarm [at](B-datetime) [9](I-datetime) [pm](I-datetime)
+- set alarm [for](B-datetime) [7](I-datetime) [:](I-datetime) [20am](I-datetime) [tomorrow](I-datetime) morning
+- set alarm [for](B-datetime) [5](I-datetime) [pm](I-datetime) [saturday](I-datetime)
+- please set my alarm [for](B-datetime) [7am](I-datetime) [tomorrow](I-datetime) .
+- set an alarm [for](B-datetime) [4](I-datetime) [:](I-datetime) [30](I-datetime) [am](I-datetime)
+- set an alarm [for](B-datetime) [6am](I-datetime)
+- set one alarm [for](B-datetime) [2](I-datetime) and another [for](B-datetime) [4](I-datetime) [today](I-datetime)
+- turn on all alarms
+- set alarm for the chicken
+- set an alarm [for](B-datetime) [tuesday](I-datetime) [at](I-datetime) [2](I-datetime) [:](I-datetime) [30](I-datetime) [pm](I-datetime)
+- set alarm to make bell sound .
+- add alarm [for](B-datetime) [10](I-datetime) [pm](I-datetime)
+- set alarm [every](B-datetime) [minute](I-datetime) [for](I-datetime) [30](I-datetime) [minutes](I-datetime) .
+- set an alarm [for](B-datetime) [monday](I-datetime) [at](I-datetime) [2](I-datetime) [am](I-datetime)
+- set an alarm [for](B-datetime) [5](I-datetime) [am](I-datetime) .
+- please set the new alarm
+- set an alarm [for](B-datetime) [next](I-datetime) [week](I-datetime) [wednesday](I-datetime) [morning](I-datetime) [at](I-datetime) [8](I-datetime)
+- i need an alarm set [for](B-datetime) [in](I-datetime) [the](I-datetime) [morning](I-datetime) [at](I-datetime) [5](I-datetime)
+- set alarm [for](B-datetime) [5](I-datetime) [:](I-datetime) [30am](I-datetime)
+- make an alarm [for](B-datetime) [6am](I-datetime) [tomorrow](I-datetime)
+- create new alarm [at](B-datetime) [8am](I-datetime)
+- set alarm [for](B-datetime) [4am](I-datetime)
+- set alarm [for](B-datetime) [6](I-datetime) [am](I-datetime) [tomorrow](I-datetime)
+- set alarm [every](B-datetime) [30](I-datetime) [minutes](I-datetime)
+- set an alarm [for](B-datetime) [7](I-datetime) [:](I-datetime) [45](I-datetime) and label it take the dog out
+- set alarm [for](B-datetime) [11pm](I-datetime) [tomorrow](I-datetime) .
+- alarm [for](B-datetime) [sunday](I-datetime) [for](I-datetime) [8](I-datetime) [am](I-datetime)
+- set alarm [for](B-datetime) [6](I-datetime) [:](I-datetime) [30](I-datetime) [am](I-datetime) [tomorrow](I-datetime) .
+- schedule an alarm [for](B-datetime) [monday](I-datetime) , [wednesday](B-datetime) , and [friday](B-datetime) [at](I-datetime) [7](I-datetime) [am](I-datetime) .
+- set an alarm [for](B-datetime) [30](I-datetime) [minutes](I-datetime) [from](I-datetime) [now](I-datetime)
+- set an alarm [for](B-datetime) [7am](I-datetime) [on](I-datetime) [saturday](I-datetime) and [sunday](B-datetime) only
+- alarm [at](B-datetime) [5](I-datetime) [:](I-datetime) [30](I-datetime) [every](I-datetime) [night](I-datetime) - walk dogs
+- set alarm [for](B-datetime) [5am](I-datetime) [tomorrow](I-datetime)
+- set alarm [for](B-datetime) [all](I-datetime) [week](I-datetime)
+- set the alarm [for](B-datetime) [4](I-datetime) [hours](I-datetime) from now
+- set alarm [every](B-datetime) [minute](I-datetime) [for](I-datetime) [10](I-datetime) [minutes](I-datetime) .
+- set alarm [for](B-datetime) [6](I-datetime) [am](I-datetime)
+- set alarm [for](B-datetime) [7](I-datetime) [:](I-datetime) [00am](I-datetime) or [every](B-datetime) [thursday](I-datetime) .
+- set alarm [for](B-datetime) [6am](I-datetime)
+- set timer to go off [every](B-datetime) [5](I-datetime) [min](I-datetime)
+- set [weekly](B-datetime) alarm [for](B-datetime) [7](I-datetime) [am](I-datetime)
+- create new alarm
+- set wake up alarm [for](B-datetime) [6](I-datetime) [am](I-datetime) [tomorrow](I-datetime)
+- set an alarm [for](B-datetime) [tomorrow](I-datetime) [at](I-datetime) [5](I-datetime) [am](I-datetime)
+- set alarm [for](B-datetime) [5](I-datetime) [:](I-datetime) [30am](I-datetime)
+- set an alarm [for](B-datetime) [tomorrow](I-datetime) [at](I-datetime) [4pm](I-datetime) .
+- set alarm to wake me up [at](B-datetime) [8](I-datetime) [am](I-datetime)
+- i need to be in bed [by](B-datetime) [9pm](I-datetime) , set alarm .
+- set an alarm [for](B-datetime) [sunday](I-datetime) [at](I-datetime) [noon](I-datetime)
+- set an alarm [for](B-datetime) [8](I-datetime) [:](I-datetime) [30](I-datetime) [am](I-datetime)
+- set an alarm [for](B-datetime) [7](I-datetime) [:](I-datetime) [30](I-datetime) [am](I-datetime)
+- set the alarm [for](B-datetime) [6](I-datetime) [am](I-datetime)
+- set an alarm [for](B-datetime) [2](I-datetime) [hours](I-datetime)
+- set the alarm [for](B-datetime) [two](I-datetime) [minutes](I-datetime) [from](I-datetime) [now](I-datetime) .
+- set an alarm [for](B-datetime) [7](I-datetime) [pm](I-datetime) tonight please .
+- set my alarm [for](B-datetime) [7](I-datetime) [:](I-datetime) [00](I-datetime) [am](I-datetime) please
+- add alarm [7](B-datetime) [pm](I-datetime) [tomorrow](I-datetime)
+- set alarm [every](B-datetime) [12](I-datetime) [hours](I-datetime) for 2 days
+- set the alarm for my nephew nap time [for](B-datetime) [2](I-datetime) [:](I-datetime) [00](I-datetime) [pm](I-datetime) .
+- set alarm to go off [monday](B-datetime) [through](I-datetime) [friday](I-datetime)
+- set alarm [weekly](B-datetime) [for](I-datetime) [7am](I-datetime)
+- set alarm [for](B-datetime) [6am](I-datetime) [every](I-datetime) [day](I-datetime)
+
+
+## intent:alarm/show_alarms
+- my alarms
+- show my alarms
+- do i have an alarm set [for](B-datetime) [6](I-datetime) [am](I-datetime) [monday](I-datetime)
+- show alarms [for](B-datetime) [next](I-datetime) [week](I-datetime)
+- what is alarm set at
+- is my work alarm set ?
+- how many minutes apart are my alarms now
+- what time will my alarm go off [on](B-datetime) [saturday](I-datetime) [afternoon](I-datetime)
+- remind me of all the alarms i have [for](B-datetime) [today](I-datetime)
+- how much time do i have left before alarm goes off
+- show upcoming alarms
+- when is the alarm set [for](B-datetime) [tomorrow](I-datetime)
+- show alarms on security device
+- what alarms are set
+- how many alarms do i have set
+- show alarm time [tomorrow](B-datetime)
+- what are the settings for my last alarm
+- how much longer before alarm
+- find alarm for payday
+- give me the details on my alarm
+- how many alarms do i have set [for](B-datetime) [next](I-datetime) [week](I-datetime)
+- show me all my alarms and reminders [for](B-datetime) [tomorrow](I-datetime)
+- what alarms do i have set
+- what time is the next alarm for
+- please show all alarms
+- when is my alarm set to go off
+- how many alarms are set [for](B-datetime) [friday](I-datetime)
+- how many alarms are set [for](B-datetime) [today](I-datetime)
+- what alarms are set
+- what time is my alarm set [for](B-datetime) [tomorrow](I-datetime)
+- how much time do i have till the next alarm
+- is my alarm set [for](B-datetime) [tonight](I-datetime)
+- what time is the work alarm set for
+- show all [morning](B-datetime) alarms
+- what alarms do i have set [for](B-datetime) [the](I-datetime) [week](I-datetime)
+- display all daytime alarms
+- show [tomorrow's](B-datetime) alarm
+- remind me of all the alarms i have [for](B-datetime) [today](I-datetime)
+- what active alarms do i have currently
+- what time is my morning alarm set for
+- show school alarm
+- what time is my morning alarm set to
+- what time is my " wake up " alarm set [for](B-datetime) [tomorrow](I-datetime)
+- what time is my alarm set [for](B-datetime) [tonight](I-datetime)
+- do i have an alarm set [for](B-datetime) [the](I-datetime) [morning](I-datetime)
+- show all of my alarms
+- what alarms are set
+- show all alarms
+- how many alarms do i have set
+- how many alarms do i have
+- when is my next alarm
+- show all of my alarms
+- show me my alarms
+- how many alarms do i have set ?
+- what alarms do i have right [now](B-datetime)
+- what alarms are set [for](B-datetime) [today](I-datetime)
+- show all alarms
+- show me my alarms
+- when is my next alarm
+- what is the alarm set [for](B-datetime) [tomorrow](I-datetime) [morning](I-datetime)
+- show all alarms please .
+- what are my current alarms ?
+- what time is my alarm set for ?
+- when is my next alarm
+- what time is my alarm set for
+- what time is my alarm set for ?
+- is alarm [for](B-datetime) [7](I-datetime) ?
+- show all alarms
+- have alarm go off [at](B-datetime) [5](I-datetime) [pm](I-datetime) .
+- show my alarms please
+- what alarms are set ?
+- what time is my alarm set for
+- show my alarms
+- show all alarms please
+- show me all alarms that are set
+- what time is [tomorrow](B-datetime) [morning's](I-datetime) alarm ?
+- when will my alarm go off ?
+- what alarm do i have set [on](B-datetime) [saturday](I-datetime)
+- when is my next alarm ?
+- what alarms do i have
+- how many alarms do i have on ?
+- show my active alarms .
+- how many alarms do i have ?
+- show alarm [for](B-datetime) [tomorrow](I-datetime)
+- do i have an alarm set ?
+- show me my alarms
+- what time is my alarm set [for](B-datetime) [tomorrow](I-datetime) ?
+- show all alarms .
+- show me the alarm we just set
+- show me all the alarms [for](B-datetime) [today](I-datetime) .
+- is the alarm set for the time [4](B-datetime) [:](I-datetime) [30](I-datetime) [am](I-datetime) [daily](I-datetime) ?
+- show me all my alarms .
+- what time is the alarm set for
+- what time is my 3rd alarm set for ?
+- what active alarms do i have ?
+- show all alarms [for](B-datetime) [next](I-datetime) [week](I-datetime) .
+- when is my alarm set to go off [tomorrow](B-datetime) ?
+- show me my alarms
+- show the active alarms
+- please show my alarms
+- what time is my alarm [for](B-datetime) [tomorrow](I-datetime) ?
+- display alarm [for](B-datetime) [tomorrow](I-datetime)
+- show me my alarms
+- what time is my alarm set for
+- when do i have an alarm set ?
+- show all alarms
+- show me alarms [for](B-datetime) [this](I-datetime) [week](I-datetime) .
+- when is the next alarm
+- read me all alarms
+- is the alarm set [for](B-datetime) [4pm](I-datetime)
+- show me all the alarms
+- do i have an alarm set [for](B-datetime) [tomorrow](I-datetime) ?
+- show me my alarms
+- show all alarms
+- do i have any alarms set ?
+- what is my last alarm [today](B-datetime)
+- show all alarms
+- show me the alarms
+- show me [the](B-datetime) [morning](I-datetime) alarms
+- show alarms [for](B-datetime) [next](I-datetime) [week](I-datetime)
+- show me all alarms
+- show me all my alarms
+- when is my alarm set [for](B-datetime) [tomorrow](I-datetime) [morning](I-datetime) ?
+- show me upcoming alarms
+- show all alarms
+- what time is my alarm set [for](B-datetime) [on](I-datetime) [sunday](I-datetime)
+- what time is my alarm [for](B-datetime) [tomorrow](I-datetime) [morning](I-datetime) ?
+- is the alarm currently set ?
+- i want to see my alarms [for](B-datetime) [the](I-datetime) [week](I-datetime)
+- how many alarms do i have active
+- do i have an alarm set for work [tomorrow](B-datetime) ?
+- how many alarms do i have
+- tell me all alarms
+- what are my alarms [for](B-datetime) [today](I-datetime)
+- what alarms do i have
+- show me all my alarms
+- what time is my alarm set for ?
+- what alarms are set
+- when will my alarm go off ?
+- how many alarms are set [for](B-datetime) [today](I-datetime) ?
+- how many alarms are currently set ?
+- show the next two alarms
+- show my alarms
+- show me all alarms in calendar view
+- show all active alarms , please .
+- is my alarm set [for](B-datetime) [10](I-datetime) [am](I-datetime) [today](I-datetime) ?
+- show me all alarms
+- show all alarms
+- please show me all of the alarms .
+- what time is my alarm set [for](B-datetime) [on](I-datetime) [saturday](I-datetime) ?
+- show all alarms
+- what time is my alarm set [for](B-datetime) [this](I-datetime) [morning](I-datetime) ?
+- how many alarms are set [for](B-datetime) [this](I-datetime) [weekend](I-datetime) ?
+- show [weekday](B-datetime) alarms
+- let me see all alarms
+- display all alarms
+- show alarms
+- when is my next alarm set for ?
+- how many alarms do i have setup ?
+- show me the list of alarms and reminders
+- how many alarms do i have on ?
+- show all alarms
+- can you list out all my alarms [for](B-datetime) [tomorrow](I-datetime)
+- show me my alarms
+- show all alarms
+- show me all my alarms
+- show my alarms
+- how many alarms do i have ?
+- can i see my alarms [for](B-datetime) [this](I-datetime) [week](I-datetime)
+- show all of my alarms please
+- is there an alarm set [for](B-datetime) [tomorrow](I-datetime)
+- how many alarms do i have ?
+- do i have an alarm set [for](B-datetime) [tomorrow](I-datetime)
+- what time did i set the alarm [for](B-datetime) [yesterday](I-datetime) ?
+- did i set an alarm [for](B-datetime) [tomorrow](I-datetime) ?
+- give me all alarms
+- tell me my alarms
+- list all my active alarms
+- show me alarms [for](B-datetime) [next](I-datetime) [month](I-datetime)
+- show me my alarms [for](B-datetime) [monday](I-datetime)
+- how many alarms have i set ?
+- do i have an alarm set [for](B-datetime) [today](I-datetime)
+- do i have alarms set ?
+- do i have an alarm [for](B-datetime) [the](I-datetime) [morning](I-datetime) ?
+- show me the alarms i've set .
+- what alarms do i have set ?
+- show alarms [for](B-datetime) [tomorrow](I-datetime)
+- show me the alarms [for](B-datetime) [next](I-datetime) [week](I-datetime)
+- show my alarms
+- show me all of my alarms [for](B-datetime) [tomorrow](I-datetime)
+- show current set alarms .
+- when are my alarms set for ?
+- show me my alarm
+- do i have an alarm set [for](B-datetime) [tomorrow](I-datetime) ?
+- when is the next alarm set for ?
+- show all alarms please
+- how many alarms did i set [for](B-datetime) [this](I-datetime) [week](I-datetime) ?
+- please show me all alarms [for](B-datetime) [today](I-datetime)
+- i want to know what alarms i have set .
+- what alarms are scheduled [for](B-datetime) [tomorrow](I-datetime) ?
+- show my alarms [for](B-datetime) [tomorrow](I-datetime)
+- show all alarms
+- what time is my alarm set [for](B-datetime) [tomorrow](I-datetime) ?
+- show all alarms
+- show my alarms
+- please show all alarms
+- please show all alarms [for](B-datetime) [friday](I-datetime)
+- show me the alarm [for](B-datetime) [this](I-datetime) [week](I-datetime)
+- show all my alarms
+- what alarms are set
+- show my alarms
+- when is [the](B-datetime) [next](I-datetime) [day](I-datetime) alarm
+- how many alarms are set or [monday](B-datetime)
+- show my alarms [for](B-datetime) [tomorrow](I-datetime)
+- show all alarms
+- what alarms do i have set ?
+- what alarms are set ?
+- current alarms
+- show me all my alarms
+- show all alarms
+- when will my alarm go off for my timer ?
+- show me all of my alarms .
+- how many alarms do i have set [for](B-datetime) [tomorrow](I-datetime) ?
+- did i set an alarm [for](B-datetime) [tomorrow](I-datetime) [morning](I-datetime) ?
+- please tell me my alarms
+- how many alarms do i have set ?
+- what time is the alarm set [for](B-datetime) [for](I-datetime) [thursday](I-datetime) ?
+- what alarms do i have set ?
+- show all alarms [for](B-datetime) [this](I-datetime) [week](I-datetime) .
+- show all current alarms
+- show alarms [for](B-datetime) [this](I-datetime) [evening](I-datetime)
+- when will next alarm ring
+- what time is my alarm set
+- show all alarms
+- is my alarm set [for](B-datetime) [tomorrow](I-datetime)
+- when is my next alarm ?
+- show all my scheduled alarms
+- please display all set alarms .
+- show me all my alarms
+- how many alarms are set ?
+- what is the next alarm
+- when is my alarm set [for](B-datetime) [on](I-datetime) [monday](I-datetime) ?
+- what are my alarms [for](B-datetime) [tomorrow](I-datetime) ?
+- how many alarms do i have
+- show all of my current alarms
+- do i have an alarm set [for](B-datetime) [today](I-datetime) ?
+- when is my next alarm
+- do i have an alarm set [for](B-datetime) [tomorrow](I-datetime) [morning](I-datetime) already ?
+- what alarms are on right [now](B-datetime) ?
+- when is my alarm set [for](B-datetime) [tomorrow](I-datetime) ?
+- show me my alarms
+- show me the last 4 alarms
+- do i have an alarm set [for](B-datetime) [7](I-datetime) [:](I-datetime) [00am](I-datetime) ?
+- please show my alarms .
+- how many alarms do i have set ?
+- what time is my alarm [for](B-datetime) [tomorrow](I-datetime) ?
+- when is the alarm going to go off ?
+- show alarms on clock
+- show me alarms [for](B-datetime) [this](I-datetime) [week](I-datetime)
+- can i see all of the alarms i set
+- what time is my alarm set [for](B-datetime) [tomorrow](I-datetime)
+- when is my next alarm going off ?
+- tell me which alarms i have set [for](B-datetime) [today](I-datetime) .
+- show alarms
+- do i have an alarm set [for](B-datetime) [tomorrow](I-datetime) ?
+- show me existing alarms .
+- show me all my alarms
+- what time is my alarm [for](B-datetime) [wednesday](I-datetime) set for ?
+- show time of alarm
+- show all alarms
+- how many alarms do i have set
+- is my alarm set [for](B-datetime) [noon](I-datetime) [on](I-datetime) [monday](I-datetime) ?
+- is there an alarm set [for](B-datetime) [tomorrow](I-datetime) [at](I-datetime) [9am](I-datetime)
+- when is the alarm set to go off
+- show me the alarms [for](B-datetime) [this](I-datetime) [week](I-datetime)
+- please show all active alarms .
+- what time is the alarm set for
+- how many alarms do i have set ?
+- show me all of my alarms
+- list all the alarms i have set
+- what alarms do i have set
+- show me my alarms
+- when is my next alarm ?
+- list what alarms i have set up [for](B-datetime) [sunday](I-datetime)
+- what time is my bed time alarm set for ?
+- show all alarms
+- show me my alarms [for](B-datetime) [today](I-datetime)
+- show me my alarms
+- show me all my alarms
+- show me my alarms
+- tell me what alarms i have set
+- show alarms set up [for](B-datetime) [tomorrow](I-datetime) .
+- check my alarms .
+- what are my alarms for the rest of [the](B-datetime) [day](I-datetime) ?
+
+
+## intent:alarm/cancel_alarm
+- cancel [tomorrow](B-datetime) [9](I-datetime) [pm](I-datetime) alarm
+- remove the alarm set up [every](B-datetime) [10](I-datetime) [minutes](I-datetime)
+- delete all my set alarms [for](B-datetime) [saturday](I-datetime) [and](I-datetime) [sundays](I-datetime)
+- cancel my alarm [for](B-datetime) [tuesday](I-datetime)
+- delete [tomorrow's](B-datetime) alarms .
+- delete alarm [for](B-datetime) [6](I-datetime) [:](I-datetime) [30](I-datetime) [am](I-datetime)
+- cancel my alarm [for](B-datetime) [tomorrow](I-datetime) [morning](I-datetime)
+- delete all alarms set [last](B-datetime) [month](I-datetime)
+- cancel my alarm ( s ) [for](B-datetime) [saturday](I-datetime)
+- cancel all my alarms [for](B-datetime) [today](I-datetime)
+- cancel all the alarms
+- cancel alarm [for](B-datetime) [next](I-datetime) [wednesday](I-datetime)
+- cancel all alarms
+- turn of the alarm
+- reset alarm
+- remove all alarms and reminders
+- please stop my alarm from sounding [today](B-datetime)
+- please cancel all alarms [for](B-datetime) [today](I-datetime)
+- delete all alarms
+- cancel my [5](B-datetime) [a.m](I-datetime) [.](I-datetime) wake up time
+- cancel all [morning](B-datetime) alarms [for](B-datetime) [tomorrow](I-datetime)
+- delete alarm set [for](B-datetime) [friday](I-datetime) [evening](I-datetime) [at](I-datetime) [7](I-datetime)
+- delete my alarms [for](B-datetime) [this](I-datetime) [week](I-datetime)
+- cancel [monday](B-datetime) alarms
+- turn off [daily](B-datetime) alarms [at](B-datetime) [7pm](I-datetime)
+- cancel my first alarm [during](B-datetime) [the](I-datetime) [weekdays](I-datetime)
+- cancel alarms [for](B-datetime) [the](I-datetime) [week](I-datetime)
+- clear all alarms [for](B-datetime) [two](I-datetime) [weeks](I-datetime)
+- delete all alarm [before](B-datetime) [6am](I-datetime)
+- cancel [weekend](B-datetime) alarm
+- delete the stove alarm
+- delete [the](B-datetime) [wednesday](I-datetime) alarm [for](B-datetime) [10am](I-datetime)
+- skip [tomorrow's](B-datetime) work alarm
+- cancel my bed time alarm
+- stop alarm [after](B-datetime) [10min](I-datetime)
+- can you cancel [tonight's](B-datetime) alarm
+- cancel alarms of [previous](B-datetime) [week](I-datetime)
+- cancel [tomorrow's](B-datetime) alarm
+- delete the alarm [for](B-datetime) [6pm](I-datetime)
+- delete [weekday](B-datetime) alarm
+- cancel my [nightly](B-datetime) alarm
+- cancel my snooze alarm
+- cancel party time alarm
+- cancel alarm [tomorrow](B-datetime)
+- cancel my alarm [for](B-datetime) [friday](I-datetime) [morning](I-datetime)
+- cancel all alarms [on](B-datetime) [the](I-datetime) [weekends](I-datetime)
+- cancel my [2](B-datetime) [p.m](I-datetime) [.](I-datetime) alarm
+- delete any [weekend](B-datetime) alarms
+- don't set any alarms [on](B-datetime) [the](I-datetime) [weekends](I-datetime)
+- cancel the alarm set [for](B-datetime) [5](I-datetime) [p.m](I-datetime) [.](I-datetime) [tomorrow](I-datetime) [night](I-datetime)
+- cancel [tomorrows](B-datetime) alarms
+- cancel [wednesdays](B-datetime) alarm
+- delete all snooze alarms
+- cancel my alarms [for](B-datetime) [the](I-datetime) [weekend](I-datetime)
+- please cancel the alarm [for](B-datetime) [tonight](I-datetime)
+- cancel all [fridays](B-datetime) alarm
+- delete the alarm now
+- no alarm [sunday](B-datetime) please
+- remove upcoming alarm
+- delete alarm [for](B-datetime) [1](I-datetime) [:](I-datetime) [00](I-datetime) [am](I-datetime)
+- cancel [6](B-datetime) [am](I-datetime) alarm repeat
+- cancel [7am](B-datetime) alarm .
+- cancel alarm [for](B-datetime) [saturday](I-datetime)
+- cancel all of my alarms [for](B-datetime) [today](I-datetime)
+- delete alarm [for](B-datetime) [9pm](I-datetime)
+- clear all my alarms
+- cancel all alarms
+- cancel all my alarms
+- delete alarm .
+- cancel alarm [for](B-datetime) [friday](I-datetime)
+- clear out alarms indefinitely
+- delete my alarm [for](B-datetime) [10](I-datetime) [am](I-datetime) .
+- deactivate the recent alarm
+- turn off alarm
+- delete the alarm [for](B-datetime) [6](I-datetime) [:](I-datetime) [00](I-datetime) [a.m](I-datetime) .
+- turn all of my alarms off .
+- stop alarm
+- clear all alarms
+- delete my alarm
+- cancel alarm [for](B-datetime) [tomorrow](I-datetime)
+- delete the last alarm [for](B-datetime) [today](I-datetime)
+- disable all my alarms [for](B-datetime) [monday](I-datetime)
+- delete all my alarms [for](B-datetime) [the](I-datetime) [week](I-datetime) .
+- cancel [tonight's](B-datetime) alarm .
+- delete all my alarms
+- delete all alarms
+- delete my alarm .
+- cancel all my alarms
+- cancel [the](B-datetime) [5am](I-datetime) alarm .
+- cancel the last alarm
+- cancel [8](B-datetime) [pm](I-datetime) alarm
+- cancel all alarms .
+- please cancel alarms .
+- delete all my alarms
+- turn off all alarms
+- cancel all my alarms
+- delete [evening](B-datetime) alarm
+- turn off the alarm
+- shut off all alarms .
+- cancel all alarms [for](B-datetime) [friday](I-datetime)
+- stop alarm
+- end all alarms
+- delete all of my alarms
+- cancel my alarm
+- delete my upcoming alarm
+- cancel my alarm [for](B-datetime) [10](I-datetime) [am](I-datetime) [tomorrow](I-datetime)
+- delete [the](B-datetime) [2](I-datetime) [:](I-datetime) [00](I-datetime) [am](I-datetime) alarm
+- cancel alarm .
+- cancel the alarm [for](B-datetime) [friday](I-datetime)
+- delete all alarms
+- remove all alarms .
+- turn alarm off .
+- cancel the alarm [for](B-datetime) [midnight](I-datetime) [tomorrow](I-datetime)
+- turn off my [morning](B-datetime) alarm
+- turn off alarm
+- cancel the alarm .
+- cancel my daytime alarms
+- cancel all my alarms
+- you can turn off all the alarms .
+- delete [9am](B-datetime) alarm
+- off the alarm
+- cancel [weekend](B-datetime) alarms
+- no alarm [for](B-datetime) [monday](I-datetime)
+- cancel my alarms [for](B-datetime) [today](I-datetime) .
+- cancel alarm [for](B-datetime) [friday](I-datetime) [morning](I-datetime)
+- cancel alarm [for](B-datetime) [5](I-datetime) [am](I-datetime) [tomorrow](I-datetime)
+- cancel my [8](B-datetime) [:](I-datetime) [00am](I-datetime) alarm please
+- cancel [5](B-datetime) [am](I-datetime) alarm
+- delete all alarms [on](B-datetime) [saturday](I-datetime) and [sunday](B-datetime)
+- cancel any alarms [for](B-datetime) [saturday](I-datetime) and [sunday](B-datetime) .
+- delete my alarms
+- cancel alarm [tomorrow](B-datetime) [morning](I-datetime)
+- turn off my alarm [for](B-datetime) [tomorrow](I-datetime)
+- stop alarm
+- turn off the alarm
+- turn off alarm
+- cancel all my alarms .
+- delete alarm [for](B-datetime) [8am](I-datetime) [tomorrow](I-datetime)
+- cancel all my alarms [for](B-datetime) [today](I-datetime)
+- disable alarms [for](B-datetime) [today](I-datetime) .
+- remove all alarms
+- cancel the alarm [for](B-datetime) [tomorrow](I-datetime)
+- turn off alarm
+- suspend my morning alarm [for](B-datetime) [2](I-datetime) [weeks](I-datetime) during holiday break
+- i'm still tired please turn off [today's](B-datetime) alarm
+- cancel all my alarms [for](B-datetime) [tomorrow](I-datetime)
+- cancel alarms
+- cancel my recurring alarm [for](B-datetime) [6](I-datetime) [am](I-datetime)
+- cancel all my alarms
+- cancel alarm
+- remove all alarms .
+- turn off all of my alarms [for](B-datetime) [saturday](I-datetime) .
+- clear any remaining alarms [for](B-datetime) [this](I-datetime) [morning](I-datetime)
+- cancel my [5](B-datetime) [:](I-datetime) [30](I-datetime) [am](I-datetime) alarm [on](B-datetime) [tuesday](I-datetime)
+- delete my alarms for the day
+- don't set the alarm [today](B-datetime)
+- remove alarm [for](B-datetime) [1](I-datetime) [a.m](I-datetime) .
+- cancel all alarms i made [today](B-datetime)
+- shut off all evening alarms [for](B-datetime) [friday](I-datetime)
+- cancel my alarm [for](B-datetime) [tomorrow](I-datetime) [morning](I-datetime)
+- cancel all alarms .
+- stop the alarm
+- cancel my alarm
+- delete my alarm [for](B-datetime) [5](I-datetime) [pm](I-datetime) [today](I-datetime)
+- delete last alarm
+- delete my alarm for lunch
+- remove [7](B-datetime) [:](I-datetime) [45](I-datetime) [pm](I-datetime) alarm .
+- cancel all alarms
+- cancel the alarm set [for](B-datetime) [3](I-datetime) [pm](I-datetime) .
+- cancel [the](B-datetime) [10am](I-datetime) alarm [for](B-datetime) [friday](I-datetime)
+- delete [tomorrow](B-datetime) mornings [7](B-datetime) [am](I-datetime) alarm
+- cancel all alarms [for](B-datetime) [tuesday](I-datetime)
+- cancel my alarm
+- cancel my alarms [for](B-datetime) [tomorrow](I-datetime)
+- turn off my [8](B-datetime) [am](I-datetime) alarm
+- cancel alarms [for](B-datetime) [tomorrow](I-datetime)
+- delete all alarms
+- remove the work out alarm .
+- cancel alarm [for](B-datetime) [6pm](I-datetime)
+- stop the alarm
+- please cancel all remaining alarms for the day .
+- remove my alarms [from](B-datetime) [last](I-datetime) [week](I-datetime)
+- delete [6pm](B-datetime) alarm [tonight](B-datetime)
+- delete [tomorrows](B-datetime) alarm
+- cancel my alarm [for](B-datetime) [tomorrow](I-datetime) [morning](I-datetime)
+- cancel all alarms [for](B-datetime) [today](I-datetime)
+- cancel [tomorrows](B-datetime) alarm
+- delete last alarm
+- turn the alarm off
+- do not set my work alarm [next](B-datetime) [week](I-datetime)
+- cancel all alarms set
+- delete all the alarms scheduled [for](B-datetime) [tuesday](I-datetime)
+- turn the alarm clock off
+- erase all of the alarms set on my phone
+- stop alarm [now](B-datetime)
+- delete all alarms
+- cancel [the](B-datetime) [5](I-datetime) [am](I-datetime) alarm
+- cancel all alarms
+- delete my [5](B-datetime) [am](I-datetime) alarm
+- delete alarm [tomorrow](B-datetime) [morning](I-datetime)
+- cancel my alarm [for](B-datetime) [6](I-datetime) [am](I-datetime) [tomorrow](I-datetime) .
+- cancel my [weekday](B-datetime) alarm
+- cancel all of my alarms [for](B-datetime) [the](I-datetime) [next](I-datetime) [3](I-datetime) [months](I-datetime) .
+- don't play alarm [for](B-datetime) [today](I-datetime)
+- cancels all alarms
+- cancel my alarm [tonight](B-datetime)
+- reset all alarms
+- delete all alarms set [for](B-datetime) [pm](I-datetime)
+- cancel the alarm for wedding
+- cancel my [5](B-datetime) [:](I-datetime) [30](I-datetime) [am](I-datetime) alarm [for](B-datetime) [saturday](I-datetime) and [sunday](B-datetime) [this](I-datetime) [weekend](I-datetime)
+- delete [today's](B-datetime) alarm
+- no more alarms [for](B-datetime) [today](I-datetime)
+- delete all alarms [this](B-datetime) [week](I-datetime)
+- stop my alarm
+- i'd like to cancel my alarm .
+- delete an alarm [for](B-datetime) [6pm](I-datetime) [tomorrow](I-datetime)
+- cancel my alarm
+- cancel all alarms [for](B-datetime) [sat](I-datetime) and [sunday](B-datetime)
+- cancel my last alarm
+- stop alarm
+- cancel all alarms
+- turn off all my alarms [for](B-datetime) [this](I-datetime) [week](I-datetime) only
+- cancel the alarm
+- delete all alarms [for](B-datetime) [september](I-datetime)
+- turn the alarm off
+- cancel my alarm [for](B-datetime) [8](I-datetime) [am](I-datetime) [on](I-datetime) [tuesday](I-datetime) .
+- cancel alarms
+- cancel alarms
+- stop alarm
+- cancel [daily](B-datetime) alarm [for](B-datetime) [5](I-datetime) [am](I-datetime)
+- dismiss alarm [now](B-datetime)
+- delete alarm [for](B-datetime) [8](I-datetime) [:](I-datetime) [55](I-datetime) [pm](I-datetime) [weekdaily](I-datetime)
+- turn alarm off
+- shut off the alarm [now](B-datetime) please
+- cancel all alarms [for](B-datetime) [tomorrow](I-datetime)
+- cancel the alarm [for](B-datetime) [tomorrow](I-datetime) [morning](I-datetime)
+- cancel the alarm
+- dismiss [tonight's](B-datetime) alarm for dinner
+- delete all alarms
+- cancel my alarm [for](B-datetime) [tomorrow](I-datetime) [morning](I-datetime)
+- delete [5](B-datetime) [am](I-datetime) alarm
+- delete all alarms
+- cancel alarms [for](B-datetime) [tomorrow](I-datetime)
+- cancel any alarms [for](B-datetime) [next](I-datetime) [weekend](I-datetime) .
+- stop my alarm
+- delete all the alarms
+- turn off alarm
+- cancel all alarms
+- skip my next alarm .
+- cancel all alarms
+- cancel all alarms [for](B-datetime) [the](I-datetime) [next](I-datetime) [week](I-datetime)
+- make sure my alarm goes off [in](B-datetime) [20](I-datetime) [minutes](I-datetime) .
+- delete my [hourly](B-datetime) alarm
+- cancel [tomorrow's](B-datetime) [am](I-datetime) alarm
+- turn my alarm off .
+- shut off my alarm [for](B-datetime) [tomorrow](I-datetime) [morning](I-datetime)
+- cancel my alarm [for](B-datetime) [2pm](I-datetime)
+- halt alarm
+- delete all alarms please
+- cancel alarm
+- cancel all my alarms
+- turn off alarm
+- shut off all the alarms
+- delete all alarms
+- skip this alarm
+- turn off alarm .
+- cancel all alarms
+- cancel [10](B-datetime) [am](I-datetime) alarm
+- turn off the alarm
+- stop my alarm .
+- cancel new alarm
+- turn my alarms off
+- cancel the alarm [for](B-datetime) [4](I-datetime) [:](I-datetime) [30pm](I-datetime)
+- cancel alarm [for](B-datetime) [8](I-datetime) [p.m](I-datetime) .
+- delete my alarm [for](B-datetime) [6](I-datetime) [pm](I-datetime) .
+- cancel the alarm .
+- turn of all of my alarms .
+- delete all alarms
+- cancel all alarms .
+- turn off the alarm .
+- stop alarm
+- please cancel my alarms .
+- turn off alarm
+- cancel all alarms [for](B-datetime) [saturday](I-datetime)
+- cancel alarm [tomorrow](B-datetime) [morning](I-datetime)
+- shut off the alarm [at](B-datetime) [5](I-datetime) [am](I-datetime) [tomorrow](I-datetime) .
+- cancel my alarm
+- clear all alarms
+- delete all my alarms [for](B-datetime) [tomorrow](I-datetime)
+- cancel all alarms .
+- please delete all alarms [for](B-datetime) [saturday](I-datetime) and [sunday](B-datetime) .
+- cancel [saturday](B-datetime) alarm .
+- i want to turn off all alarms .
+- cancel alarm
+- cancel my alarm
+- stop all alarms .
+- cancel [the](B-datetime) [evening](I-datetime) alarm
+- cancel alarm [for](B-datetime) [every](I-datetime) [30](I-datetime) [minutes](I-datetime)
+- cancel alarm
+- delete alarm # 1
+- cancel all alarms
+- delete all the alarm
+- cancel all alarms
+- cancel alarm on tablet
+- delete all alarms [for](B-datetime) [tomorrow](I-datetime) .
+- cancel alarm [for](B-datetime) [7](I-datetime) [am](I-datetime)
+- turn alarms off
+- cancel all alarms .
+- cancel alarm
+- cancel [tonight](B-datetime) alarm
+- cancel all alarms
+- delete my alarm
+- cancel [1](B-datetime) [hour](I-datetime) alarm
+- disable alarm [for](B-datetime) [tuesday](I-datetime) .
+- cancel my next alarm
+- cancel alarm
+- cancel the next alarm
+- turn off alarm
+- please stop all alarms
+- delete alarm [for](B-datetime) [7](I-datetime) [pm](I-datetime)
+- cancel alarm [for](B-datetime) [7](I-datetime) [am](I-datetime)
+- please cancel alarms set [for](B-datetime) [sunday](I-datetime)
+- delete this alarm
+- cancel my next alarm
+- delete my alarm [for](B-datetime) [tomorrow](I-datetime) [at](I-datetime) [10am](I-datetime)
+- cancel the alarm set [for](B-datetime) [tomorrow](I-datetime) [at](I-datetime) [five](I-datetime) [a.m](I-datetime) .
+- reset all alarms
+- i'm up so cancel my alarm [for](B-datetime) [today](I-datetime)
+- turn off my alarm [for](B-datetime) [tomorrow](I-datetime) [morning](I-datetime)
+- cancel the alarm [for](B-datetime) [tomorrow](I-datetime)
+- cancel my alarm
+- cancel all alarms [on](B-datetime) [sunday](I-datetime)
+- cancel alarm [at](B-datetime) [7](I-datetime) [am](I-datetime)
+- cancel all alarms [today](B-datetime)
+- delete all alarm
+- delete [4pm](B-datetime) alarm
+- turn off my alarm [for](B-datetime) [in](I-datetime) [the](I-datetime) [morning](I-datetime)
+- cancel my snooze alarm .
+- cancel all alarms [for](B-datetime) [tomorrow](I-datetime)
+- cancel both alarms .
+- cancel my alarm
+- clear all alarms
+- delete my [6](B-datetime) [pm](I-datetime) alarm
+- cancel my [tuesday](B-datetime) wakeup alarm
+- cancel all alarms
+- clear my alarms
+- cancel all my alarms .
+- cancel the next alarm
+- turn off alarm
+- shot off my alarm
+- delete alarm
+- cancel alarm [for](B-datetime) [tomorrow](I-datetime) .
+- turn off alarm [for](B-datetime) [this](I-datetime) [week](I-datetime)
+- turn off my alarm [for](B-datetime) [friday](I-datetime) [morning](I-datetime)
+- can you turn off alarm [for](B-datetime) [tomorrow](I-datetime)
+- turn off all alarms
+- cancel [5pm](B-datetime) alarm [for](B-datetime) [tonight](I-datetime)
+- alarm off
+- cancel all alarms [after](B-datetime) [the](I-datetime) [21](I-datetime) [st](I-datetime) . .
+- cancel all recurring alarms .
+- turn off my alarm [for](B-datetime) [tomorrow](I-datetime) [morning](I-datetime) .
+- disable wakeup alarm [for](B-datetime) [weekend](I-datetime)
+- delete alarms [for](B-datetime) [thursday](I-datetime)
+- can you cancel my alarm [for](B-datetime) [10](I-datetime) [pm](I-datetime)
+- do not repeat alarms
+- cancel all alarms please
+- cancel my [5pm](B-datetime) alarm [today](B-datetime)
+- cancel all my alarms [for](B-datetime) [today](I-datetime)
+- cancel my alarm [this](B-datetime) [morning](I-datetime)
+- cancel all alarms
+- stop alarm
+- stop alarm .
+- delete all alarms .
+- cancel all alarms this week while i'm on vacation
+- turn off all of my alarms [today](B-datetime) .
+- reset alarm
+- clear all of my alarms please
+- set off alarm [in](B-datetime) [5](I-datetime) [minutes](I-datetime)
+- cancel all alarms
+- cancel the alarm [for](B-datetime) [4](I-datetime) [:](I-datetime) [30am](I-datetime)
+- cancel alarm [for](B-datetime) [7](I-datetime) [pm](I-datetime) [tonight](I-datetime)
+- cancel alarm [for](B-datetime) [7](I-datetime) [am](I-datetime) [tomorrow](I-datetime)
+- delete all alarms
+- cancel my alarms
+- delete alarm
+- stop my alarm .
+- cancel the alarm [for](B-datetime) [tomorrow](I-datetime) .
+- cancel all alarms
+- delete all of my alarms .
+- cancel alarm [for](B-datetime) [10](I-datetime) [pm](I-datetime) [tonight](I-datetime) .
+- turn off alarm [for](B-datetime) [10](I-datetime) [pm](I-datetime) [tonight](I-datetime) .
+- stop the alarm .
+- cancel alarm [for](B-datetime) [4pm](I-datetime)
+- cancel all alarms
+- cancel the alarm [at](B-datetime) [7](I-datetime) [am](I-datetime)
+- cancel my alarm .
+- quit that alarm
+- cancel alarm [for](B-datetime) [tomorrow](I-datetime)
+- cancel that alarm
+- cancel all my alarms [saturday](B-datetime)
+- cancel all alarm [for](B-datetime) [sunday](I-datetime)
+- turn off my alarm .
+- delete all my alarms [for](B-datetime) [tomorrow](I-datetime)
+- cancel all my alarms
+- cancel my first alarm
+- delete all alarms .
+- delete alarm [for](B-datetime) [6pm](I-datetime)
+- delete all alarms
+- cancel [morning](B-datetime) alarm
+- turn off alarms after i press snooze twice
+- delete my alarm [for](B-datetime) [5](I-datetime) [o](I-datetime) [clock](I-datetime)
+- cancel the snooze alarm .
+- delete all alarms
+- delete my [6am](B-datetime) workout alarm
+- erase all alarms
+- turn off my alarm
+- turn off my alarm set [for](B-datetime) [tomorrow](I-datetime)
+- turn off my [8pm](B-datetime) alarm .
+- cancel latest alarm
+- cancel my alarm [for](B-datetime) [1](I-datetime) [hour](I-datetime) [from](I-datetime) [now](I-datetime)
+- delete my [5](B-datetime) [:](I-datetime) [00](I-datetime) [a.m](I-datetime) [.](I-datetime) alarm [for](B-datetime) [the](I-datetime) [rest](I-datetime) [of](I-datetime) [the](I-datetime) [week](I-datetime) .
+- can you please cancel all the alarms ?
+- cancel [the](B-datetime) [5](I-datetime) [pm](I-datetime) alarm
+- cancel my alarm [for](B-datetime) [tomorrow](I-datetime) [morning](I-datetime)
+- cancel all my repeating alarms .
+- cancel the alarm [for](B-datetime) [monday](I-datetime)
+- delete my alarm [for](B-datetime) [tomorrow](I-datetime) .
+- cancel work alarm [for](B-datetime) [tomorrow](I-datetime)
+- cancel all alarms
+- shut down alarm
+- delete my alarm [for](B-datetime) [5pm](I-datetime)
+- delete all alarms [for](B-datetime) [tomorrow](I-datetime) .
+- cancel all my alarms [this](B-datetime) [week](I-datetime)
+- turn off alarm [for](B-datetime) [7](I-datetime) [am](I-datetime) [tomorrow](I-datetime)
+- turn off all the alarms
+- turn all alarms off .
+- delete my alarm [for](B-datetime) [in](I-datetime) [the](I-datetime) [morning](I-datetime) .
+- reset me alarm [for](B-datetime) [6](I-datetime) [am](I-datetime)
+- cancel alarms [for](B-datetime) [tonight](I-datetime)
+- cancel alarm [for](B-datetime) [tomorrow](I-datetime) [morning](I-datetime)
+- dismiss all alarms
+- cancel all my alarms [for](B-datetime) [this](I-datetime) [weekend](I-datetime)
+- turn off my [daily](B-datetime) alarm
+- cancel my first alarm
+- cancel all set alarms .
+- cancel all alarms [for](B-datetime) [the](I-datetime) [weekend](I-datetime)
+- i dont need to wake up [this](B-datetime) [morning](I-datetime) stop the alarm
+- cancel the alarm for cole's time out
+- turn off the alarm please
+- cancel my alarm [for](B-datetime) [tomorrow](I-datetime) [morning](I-datetime)
+- cancel [at](B-datetime) [weekend](I-datetime) alarms
+- cancel my alarm .
+- cancel alarm [for](B-datetime) [tomorrow](I-datetime) [morning](I-datetime)
+- cancel all my alarms
+- cancel alarm 1
+- delete my alarms [for](B-datetime) [this](I-datetime) [morning](I-datetime)
+- stop [6](B-datetime) [am](I-datetime) alarm
+- cancel [tomorrow](B-datetime) [morning's](I-datetime) alarm
+- cancel all alarms
+- delete the first alarm .
+- turn off all alarms
+- stop the alarm
+- clear all remaining alarms .
+- cancel all alarms [for](B-datetime) [next](I-datetime) [week](I-datetime)
+- cancel alarm for work
+- cancel alarm [on](B-datetime) [tuesday](I-datetime) and [wednesday](B-datetime)
+- cancel my [daily](B-datetime) alarm [at](B-datetime) [5](I-datetime) [am](I-datetime) .
+- cancel [tomorrow's](B-datetime) [morning](I-datetime) alarm
+- delete all alarms
+- stop alarm [in](B-datetime) [15](I-datetime) [minutes](I-datetime) .
+- delete all alarms
+- delete my [5](B-datetime) [:](I-datetime) [00](I-datetime) alarm
+- please shut alarm .
+- cancel all alarms
+- cancel the alarm [tuesday](B-datetime)
+- remove the alarm [for](B-datetime) [tomorrow](I-datetime)
+- delete [tomorrow's](B-datetime) alarm
+- cancel morning alarm [for](B-datetime) [tomorrow](I-datetime)
+- stop playing alarm
+- delete all work alarms
+- delete alarm
+- cancel alarm [for](B-datetime) [tomorrow](I-datetime)
+- turn off alarm [for](B-datetime) [tomorrow](I-datetime) [at](I-datetime) [8](I-datetime) [am](I-datetime)
+- cancel all my alarms .
+- cancel all my [weekend](B-datetime) alarms
+- disable all alarms
+- cancel all alarms .
+- turn off the alarm
+- restart alarm
+- cancel all alarms
+- delete alarm [for](B-datetime) [8](I-datetime) [:](I-datetime) [00](I-datetime) [am](I-datetime) [tomorrow](I-datetime)
+- clear all alarms .
+- cancel most recent alarm
+- please cancel my [4am](B-datetime) alarm
+- cancel all of my alarms [for](B-datetime) [the](I-datetime) [next](I-datetime) [week](I-datetime) .
+- turn off all alarms .
+- cancel [tomorrow's](B-datetime) alarm
+- cancel current alarm .
+- cancel alarm
+- reset alarm
+- cancel alarm [for](B-datetime) [tomorrow](I-datetime) [morning](I-datetime)
+- cancel the next alarm
+- turn off all my alarms .
+- cancel all alarms [for](B-datetime) [friday](I-datetime)
+- cancel all alarms [for](B-datetime) [next](I-datetime) [week](I-datetime)
+- cancel alarm 3
+- cancel the alarm [for](B-datetime) [4](I-datetime) [a.m](I-datetime) . [tomorrow](B-datetime) [morning](I-datetime) .
+- cancel my alarm [for](B-datetime) [tonight](I-datetime) [at](I-datetime) [6](I-datetime) [pm](I-datetime)
+- reset all alarms except gym alarm
+- skip the next alarm
+- delete [morning](B-datetime) alarm
+- delete my alarms [for](B-datetime) [tomorrow](I-datetime) .
+- turn all my alarms off
+- stop alarm
+- cancel the alarm [for](B-datetime) [the](I-datetime) [morning](I-datetime) .
+- cancel [every](B-datetime) alarm that is turned on on my phone .
+- turn of all alarms
+- cancel my alarm .
+- cancel the alarm [for](B-datetime) [friday](I-datetime) [at](I-datetime) [3pm](I-datetime)
+- turn off my alarms
+- please turn off all alarms .
+- cancel my [9](B-datetime) [am](I-datetime) alarm
+- turn off alarm
+- delete [the](B-datetime) [5](I-datetime) [pm](I-datetime) alarm
+- delete my [7pm](B-datetime) alarm [tonight](B-datetime)
+- cancel alarm [on](B-datetime) [tuesday](I-datetime)
+- delete alarm [for](B-datetime) [monday](I-datetime) and [tuesday](B-datetime)
+- stop alarm
+- cancel my alarm [for](B-datetime) [the](I-datetime) [morning](I-datetime)
+- delete my alarm [for](B-datetime) [tomorrow](I-datetime) [morning](I-datetime) .
+- delete nightly alarm
+- shut off all alarms
+- cancel alarm
+- delete my alarm [for](B-datetime) [tomorrow](I-datetime) morning [at](B-datetime) [6](I-datetime) [a.m](I-datetime) .
+- delete my alarm set [for](B-datetime) [8](I-datetime) [:](I-datetime) [15](I-datetime) [am](I-datetime) [tomorrow](I-datetime)
+- turn off all my alarms
+- please turn off the next alarm ?
+- cancel my next alarm .
+- cancel alarm set [for](B-datetime) [6pm](I-datetime)
+- dismiss my alarm
+- delete [10pm](B-datetime) alarm
+- disable alarm
+- cancel all alarms [on](B-datetime) [march](I-datetime) [2nd](I-datetime)
+- cancel all set alarms [for](B-datetime) [this](I-datetime) [week](I-datetime)
+- remove the last alarm created
+- delete all of my existing alarms .
+- cancel my [7am](B-datetime) alarm
+- cancel all alarms .
+- disregard all alarms
+- cancel all my alarms
+- cancel all [daily](B-datetime) alarms
+- do not set my alarm [this](B-datetime) [friday](I-datetime)
+- reset the alarms
+- delete all my current alarms please
+- cancel [saturday's](B-datetime) alarm .
+- remove alarm
+- cancel the alarm for my meeting with my dentist [this](B-datetime) [afternoon](I-datetime)
+- cancel my alarm
+- can you cancel all alarms for me ?
+- cancel [weekday](B-datetime) repeating alarm
+- cancel alarm [for](B-datetime) [tomorrow](I-datetime) [at](I-datetime) [11](I-datetime) [a.m](I-datetime) .
+- cancel alarm [on](B-datetime) [weekends](I-datetime)
+- cancel my alarms
+- delete alarm [for](B-datetime) [monday](I-datetime)
+- delete all alarms
+- cancel alarm
+- please cancel my alarm [for](B-datetime) [tomorrow](I-datetime)
+- erase my alarms .
+- please cancel alarm
+- nevermind , cancel that alarm
+- cancel all alarms [for](B-datetime) [tonight](I-datetime)
+- cancel alarm [for](B-datetime) [tomorrow](I-datetime) [morning](I-datetime)
+- delete this alarm .
+- delete alarm [for](B-datetime) [9pm](I-datetime) [friday](I-datetime) .
+- delete my alarm
+- turn off all of [today's](B-datetime) alarms
+- alarm off
+- how do i cancel the alarm on my cellphone ?
+- turn off all alarms .
+- cancel [tomorrow's](B-datetime) alarms
+- cancel all alarms
+- cancel alarm
+- cancel [weekly](B-datetime) alarm
+- cancel my alarm [for](B-datetime) [tuesday](I-datetime)
+- delete all set alarms
+- turn off the alarm
+- turn off all alarms [today](B-datetime)
+- cancel all alarms [for](B-datetime) [thursday](I-datetime)
+
+
+## intent:alarm/snooze_alarm
+- snooze
+- pause my alarm [for](B-datetime) [the](I-datetime) [next](I-datetime) [24](I-datetime) [hours](I-datetime)
+- snooze alarm [for](B-datetime) [15](I-datetime) [minutes](I-datetime)
+- add snooze to alarm
+- sleep alarm
+- set the alarm snooze [for](B-datetime) [10](I-datetime) [minutes](I-datetime)
+- set the alarm to snooze [for](B-datetime) [10](I-datetime) [minutes](I-datetime)
+- put all alarms on pause
+- snooze alarm
+- freeze my alarm
+- please snooze alarm now
+- snooze my alarm for a [few](B-datetime) [minutes](I-datetime)
+- snooze my wake up alarm [for](B-datetime) [15min](I-datetime)
+- postpone alarm [5](B-datetime) [minutes](I-datetime)
+- pause my current alarm
+- increase my snooze [on](B-datetime) [mondays](I-datetime) [by](I-datetime) [3](I-datetime) [minutes](I-datetime)
+- pause the alarm
+- pause the alarm [from](B-datetime) [10](I-datetime) [pm](I-datetime) [until](I-datetime) [8](I-datetime) [am](I-datetime)
+- pause all alarms [until](B-datetime) [next](I-datetime) [tuesday](I-datetime)
+- snooze alarm for another [10](B-datetime) [minutes](I-datetime)
+- snooze alarm [after](B-datetime) [1](I-datetime) [minute](I-datetime)
+- snooze my alarm [for](B-datetime) [an](I-datetime) [hour](I-datetime)
+- snooze my [morning](B-datetime) alarm [for](B-datetime) [15](I-datetime) [minutes](I-datetime)
+- please snooze the alarm [for](B-datetime) [5](I-datetime) [more](I-datetime) [minutes](I-datetime)
+- set the snooze [for](B-datetime) [10](I-datetime) [more](I-datetime) [minutes](I-datetime)
+- snooze alarm [for](B-datetime) [5](I-datetime) [minutes](I-datetime)
+- snooze alarm for another [15](B-datetime) [minutes](I-datetime)
+- snooze the alarm [for](B-datetime) [5](I-datetime) [minutes](I-datetime)
+- set snooze alarm to go off [every](B-datetime) [9](I-datetime) [minutes](I-datetime) after the original alarm
+- snooze the alarm [for](B-datetime) [15](I-datetime) [minutes](I-datetime)
+- set the snooze please
+- snooze alarm
+- pause my alarm
+- snooze the alarm [for](B-datetime) [15](I-datetime) [minutes](I-datetime)
+- set snooze [for](B-datetime) [wed](I-datetime)
+- snooze alarm [for](B-datetime) [3](I-datetime) [minutes](I-datetime)
+- snooze alarm [for](B-datetime) [15](I-datetime) [minutes](I-datetime)
+- snooze my alarm
+- snooze alarm [for](B-datetime) [2](I-datetime) [minutes](I-datetime)
+- snooze alarm
+- snooze alarm [for](B-datetime) [10](I-datetime) [minutes](I-datetime)
+- snooze current alarm [for](B-datetime) [10](I-datetime) [minutes](I-datetime)
+- snooze alarm
+- snooze alarm [for](B-datetime) [15](I-datetime) [minutes](I-datetime)
+- snooze alarm [for](B-datetime) [120](I-datetime) [seconds](I-datetime)
+- pause alarm
+- snooze alarm
+- alarm on snooze
+- snooze the alarm .
+- snooze all alarms [for](B-datetime) [1](I-datetime) [hour](I-datetime)
+- pause the alarm [after](B-datetime) [10](I-datetime) [minutes](I-datetime) .
+- set snooze on this alarm [for](B-datetime) [every](I-datetime) [8](I-datetime) [minutes](I-datetime)
+- i need to snooze my alarm
+- please snooze my current alarm
+- please snooze alarm
+- snooze my alarm
+- set snooze [for](B-datetime) [20](I-datetime) [minutes](I-datetime) after wake up alarm
+- pause all alarms
+- snooze alarm [for](B-datetime) [10](I-datetime) [minutes](I-datetime)
+- snooze that alarm please
+- snooze my alarm [for](B-datetime) [20](I-datetime) [more](I-datetime) [minutes](I-datetime)
+- snooze alarm [for](B-datetime) [10](I-datetime) [minutes](I-datetime) .
+- snooze alarm
+- please snooze all active alarms .
+- snooze my alarm [for](B-datetime) [5](I-datetime) [minutes](I-datetime) .
+- pause alarm please
+- snooze my alarm
+- snooze alarm [for](B-datetime) [one](I-datetime) [hour](I-datetime)
+- snooze alarm
+- snooze my alarm [for](B-datetime) [5](I-datetime) [minutes](I-datetime)
+- set the snooze of [the](B-datetime) [friday](I-datetime) alarm [to](B-datetime) [15](I-datetime) [minutes](I-datetime)
+- snooze my [12](B-datetime) [:](I-datetime) [00pm](I-datetime) alarm [for](B-datetime) [5](I-datetime) [minutes](I-datetime)
+- snooze alarm
+- snooze alarm
+- snooze alarm [for](B-datetime) [15](I-datetime) [minutes](I-datetime)
+- snooze the alarm
+- pause my alarm please
+- snooze my [6am](B-datetime) alarm [every](B-datetime) [5](I-datetime) [minutes](I-datetime)
+- snooze alarm [8](B-datetime) [minutes](I-datetime)
+- snooze alarm
+- snooze the alarm [for](B-datetime) [10](I-datetime) [mins](I-datetime) please
+- snooze alarm [for](B-datetime) [2](I-datetime) [min](I-datetime)
+- snooze alarm [for](B-datetime) [2](I-datetime) [hours](I-datetime)
+- snooze current alarm [for](B-datetime) [15](I-datetime) [minutes](I-datetime)
+- snooze all alarms [for](B-datetime) [7](I-datetime) [minutes](I-datetime)
+- snooze alarm [for](B-datetime) [15](I-datetime) [minutes](I-datetime) .
+- snooze alarm [for](B-datetime) [10](I-datetime) [minutes](I-datetime)
+- snooze alarms [for](B-datetime) [five](I-datetime) [minutes](I-datetime) .
+- please snooze my alarm
+- snooze alarm [for](B-datetime) [1](I-datetime) [hour](I-datetime)
+- snooze my alarm
+- snooze [for](B-datetime) [5](I-datetime) [minutes](I-datetime) on every alarm
+- can you place the alarm on snooze ?
+- snooze alarm
+- snooze alarm [for](B-datetime) [15](I-datetime) [minutes](I-datetime) .
+- snooze [19](B-datetime) [:](I-datetime) [45](I-datetime) alarm .
+- snooze alarm [for](B-datetime) [15mins](I-datetime)
+- snooze this alarm [for](B-datetime) [another](I-datetime) [hour](I-datetime) .
+- snooze the current alarm
+- snooze alarm [for](B-datetime) [15](I-datetime) [minutes](I-datetime)
+- snooze alarm [for](B-datetime) [20](I-datetime) [minutes](I-datetime)
+- snooze alarm [for](B-datetime) [3](I-datetime) [minutes](I-datetime)
+- pause alarm
+- snooze alarm [for](B-datetime) [15](I-datetime) [minutes](I-datetime)
+- snooze my alarm [for](B-datetime) [10](I-datetime) [minutes](I-datetime) .
+- i want to snooze my alarm [for](B-datetime) [8](I-datetime) [minutes](I-datetime) at a time
+- snooze my alarm [for](B-datetime) [10](I-datetime) [more](I-datetime) [minutes](I-datetime)
+- snooze [for](B-datetime) [10](I-datetime) [minutes](I-datetime) .
+- set snooze [for](B-datetime) [10](I-datetime) [minutes](I-datetime) .
+- pause all alarms
+- snooze alarm
+- snooze [on](B-datetime) [the](I-datetime) [7](I-datetime) [am](I-datetime) alarm [for](B-datetime) [45](I-datetime) [minutes](I-datetime)
+- snooze the alarm for me [for](B-datetime) [10](I-datetime) [minutes](I-datetime)
+- snooze my alarm
+- snooze alarm [for](B-datetime) [20](I-datetime) [min](I-datetime)
+- snooze the alarm
+- snooze alarm [for](B-datetime) [10](I-datetime) [minutes](I-datetime)
+- pause my alarm [for](B-datetime) [10](I-datetime) [minutes](I-datetime)
+
+
+## intent:alarm/modify_alarm
+- change my [3](B-datetime) [pm](I-datetime) alarm [to](B-alarm/alarm_modifier) [the](B-datetime) [next](I-datetime) [day](I-datetime)
+- change my [3](B-datetime) [pm](I-datetime) alarm [to](B-alarm/alarm_modifier) [the](B-datetime) [next](I-datetime) [day](I-datetime)
+- change my [3](B-datetime) [pm](I-datetime) alarm [to](B-alarm/alarm_modifier) [the](B-datetime) [next](I-datetime) [day](I-datetime)
+- change existing alarm [for](B-datetime) [6](I-datetime) [pm](I-datetime)
+- add an alarm [for](B-datetime) [2](I-datetime) [:](I-datetime) [45](I-datetime) [on](I-datetime) [every](I-datetime) [monday](I-datetime) [,](I-datetime) [tuesday](I-datetime) [,](I-datetime) [and](I-datetime) [wednesday](I-datetime) [throughout](I-datetime) [the](I-datetime) [summer](I-datetime)
+- switch the alarm [to](B-datetime) [6](I-datetime) [instead](B-negation) of [7](B-datetime)
+- can you change the snooze [from](B-datetime) [10](I-datetime) [minutes](I-datetime) [to](I-datetime) [15](I-datetime) [minutes](I-datetime)
+- add [15](B-datetime) [minutes](I-datetime) to alarm
+- add [5](B-datetime) [minutes](I-datetime) to alarm to snooze
+- change [tomorrows](B-datetime) alarm [to](B-datetime) [5](I-datetime) [am](I-datetime)
+- repeat alarm [every](B-datetime) [monday](I-datetime)
+- wake me up [10](B-datetime) [minutes](I-datetime) [before](I-datetime) my alarm goes off
+- delay my alarm [by](B-datetime) [1](I-datetime) [hour](I-datetime) [tomorrow](I-datetime)
+- change my alarm [to](B-datetime) [pm](I-datetime)
+- delay wake up alarm [by](B-datetime) [30](I-datetime) [minutes](I-datetime)
+- repeat this alarm only [on](B-datetime) [weekdays](I-datetime)
+- change my [daily](B-datetime) morning alarm [to](B-datetime) [7](I-datetime) [am](I-datetime)
+- repeat alarm [on](B-datetime) [weekdays](I-datetime)
+- edit alarm snooze
+- make my alarm [30](B-datetime) [minutes](I-datetime) [later](I-datetime)
+- increase my snooze alarm [from](B-datetime) [2](I-datetime) [hours](I-datetime)
+- reschedule alarm [for](B-datetime) [next](I-datetime) [week](I-datetime)
+- resume the alarm [in](B-datetime) [15](I-datetime) [minutes](I-datetime)
+- can you change my [7](B-datetime) [a.m](I-datetime) . alarm [to](B-datetime) [8](I-datetime) [a.m](I-datetime)
+- can you add [5](B-datetime) [minutes](I-datetime) to the alarm
+- repeat alarm [every](B-datetime) [twenty](I-datetime) [minutes](I-datetime)
+- add [3](B-datetime) [minutes](I-datetime) to my alarm time
+- change my alarm [to](B-datetime) [530am](I-datetime)
+- change alarm [monday](B-datetime) [thru](I-datetime) [friday](I-datetime) [at](I-datetime) [4](I-datetime) [pm](I-datetime) [to](I-datetime) [4](I-datetime) [am](I-datetime)
+- add [30](B-datetime) [more](I-datetime) [minutes](I-datetime) to my alarm clock
+- change my school pick up alarm [to](B-datetime) [three](I-datetime) [fifteen](I-datetime)
+- extend my alarm [for](B-datetime) [20](I-datetime) [minutes](I-datetime)
+- please change my alarm [from](B-datetime) [8](I-datetime) [a.m](I-datetime) [.](I-datetime) [to](I-datetime) [7](I-datetime) [a.m](I-datetime)
+- reduce my snooze alarm [for](B-datetime) [30](I-datetime) [mins](I-datetime)
+- change alarm [to](B-datetime) [1](I-datetime) [:](I-datetime) [30](I-datetime)
+- change my [9am](B-datetime) alarm [to](B-datetime) [6am](I-datetime)
+- add [9](B-datetime) [minutes](I-datetime) to my alarm
+- modify current task alarm by up [to](B-datetime) [15](I-datetime) [minutes](I-datetime)
+- change my [daily](B-datetime) alarm [to](B-datetime) [6.30am](I-datetime)
+- change my morning alarm [from](B-datetime) [8am](I-datetime) [to](I-datetime) [7am](I-datetime)
+- change saturday's alarm [to](B-datetime) [9](I-datetime) [a.m](I-datetime)
+- change alarm [from](B-datetime) [3pm](I-datetime) [to](I-datetime) [4pm](I-datetime)
+- change alarm time [from](B-datetime) [7](I-datetime) [:](I-datetime) [30](I-datetime) [am](I-datetime) [to](I-datetime) [8](I-datetime) [am](I-datetime)
+- increase the alarm duration [to](B-datetime) [5](I-datetime) [minutes](I-datetime)
+- i need to get up earlier so move the alarm [up](B-datetime) [by](I-datetime) [an](I-datetime) [hour](I-datetime) [on](I-datetime) [monday](I-datetime) [morning](I-datetime)
+- add [20](B-datetime) [more](I-datetime) [minutes](I-datetime) to current alarm
+- change the time of my alarm [to](B-datetime) [6](I-datetime) [:](I-datetime) [45](I-datetime) [am](I-datetime)
+- change alarm [from](B-datetime) [7am](I-datetime) [to](I-datetime) [8am](I-datetime)
+- repeat this alarm [every](B-datetime) [weekday](I-datetime)
+- repeat [5](B-datetime) [pm](I-datetime) alarm [every](B-datetime) [weekday](I-datetime)
+- repeat this alarm [every](B-datetime) [day](I-datetime)
+- change alarm [to](B-datetime) [6](I-datetime) [am](I-datetime)
+- label alarm [for](B-datetime) [8](I-datetime) [am](I-datetime) as wake - up
+- add [5](B-datetime) [minutes](I-datetime) to the alarm .
+- extend alarm [by](B-datetime) [20](I-datetime) [minutes](I-datetime)
+- change [9am](B-datetime) alarm [to](B-datetime) [8am](I-datetime)
+- change my alarm [to](B-datetime) [10](I-datetime) [minutes](I-datetime)
+- change the alarm [from](B-datetime) [6pm](I-datetime) [to](I-datetime) [8](I-datetime) [:](I-datetime) [15pm](I-datetime)
+- change [7am](B-datetime) alarm [to](B-datetime) [6](I-datetime) [:](I-datetime) [30am](I-datetime)
+- change my [2pm](B-datetime) alarm [today](B-datetime) [to](I-datetime) [2pm](I-datetime) [tomorrow](I-datetime)
+- adjust alarm [to](B-datetime) [9am](I-datetime)
+- repeat all alarms
+- rename alarm to " do homework "
+- repeat alarm [tomorrow](B-datetime) .
+- modify alarm [for](B-datetime) [7](I-datetime) [to](I-datetime) [7](I-datetime) [:](I-datetime) [20](I-datetime)
+- edit my alarm [for](B-datetime) [wednesday](I-datetime)
+- change my alarm [from](B-datetime) [8](I-datetime) [pm](I-datetime) [to](I-datetime) [9](I-datetime) [pm](I-datetime)
+- change a current alarm .
+- change alarm [to](B-datetime) [10.30](I-datetime)
+- repeat the last alarm [for](B-datetime) [any](I-datetime) [other](I-datetime) [day](I-datetime)
+- modify that last alarm [to](B-datetime) [8](I-datetime) [:](I-datetime) [15](I-datetime) .
+- change my [4](B-datetime) [am](I-datetime) alarm [to](B-datetime) [5](I-datetime) [am](I-datetime) [for](I-datetime) [tomorrow](I-datetime)
+- change alarm
+- change my [630am](B-datetime) alarm [to](B-datetime) [730am](I-datetime)
+- extend the time [by](B-datetime) [4](I-datetime) [minutes](I-datetime)
+- change my alarm [for](B-datetime) [tomorrow](I-datetime)
+- change alarm [to](B-datetime) [3pm](I-datetime)
+- change the alarm to go off [in](B-datetime) [2](I-datetime) [hours](I-datetime) .
+- repeat alarm until i say to turn it off
+- change the alarm [from](B-datetime) [6am](I-datetime) [to](I-datetime) [7am](I-datetime)
+- repeat an alarm [for](B-datetime) [7](I-datetime) all [week](B-datetime) .
+- change all alarms [on](B-datetime) [wednesdays](I-datetime) [to](I-datetime) [8](I-datetime) [:](I-datetime) [00](I-datetime) [am](I-datetime) .
+- add [20](B-datetime) [extra](I-datetime) [minutes](I-datetime) to the alarm set [for](B-datetime) [8](I-datetime) [pm](I-datetime)
+- change alarm [from](B-datetime) [a.m](I-datetime) [.](I-datetime) [to](I-datetime) [p.m](I-datetime) .
+- repeat my work alarm [monday](B-datetime) [through](I-datetime) [friday](I-datetime) [at](I-datetime) [7am](I-datetime)
+- make sure my alarm goes off [every](B-datetime) [5](I-datetime) [minutes](I-datetime)
+- change the name of my alarm [to](B-datetime) [morning](I-datetime)
+- change [todays](B-datetime) alarm [to](B-datetime) [2](I-datetime) [pm](I-datetime)
+- change my alarm [from](B-datetime) [7](I-datetime) [:](I-datetime) [00](I-datetime) [am](I-datetime) [to](I-datetime) [6](I-datetime) [:](I-datetime) [30](I-datetime) [am](I-datetime) .
+- change my alarm [from](B-datetime) [11](I-datetime) [:](I-datetime) [15](I-datetime) [a.m](I-datetime) [.](I-datetime) [to](I-datetime) [12](I-datetime) [:](I-datetime) [15](I-datetime) [p.m](I-datetime) .
+- add another [45](B-datetime) [minutes](I-datetime) to alarm
+- please add [ten](B-datetime) [minutes](I-datetime) to my alarm
+- change my [1am](B-datetime) alarm [to](B-datetime) [1](I-datetime) [:](I-datetime) [30am](I-datetime)
+- add [20](B-datetime) [minutes](I-datetime) to my next alarm
+- please change my alarm [to](B-datetime) [7](I-datetime) [:](I-datetime) [30](I-datetime)
+- can you change my alarm [today](B-datetime) [from](I-datetime) [4](I-datetime) [:](I-datetime) [30](I-datetime) [to](I-datetime) [5](I-datetime) [:](I-datetime) [30](I-datetime) ?
+- please add [15](B-datetime) [minutes](I-datetime) to my snooze .
+- change my alarm [to](B-datetime) [8am](I-datetime) .
+- repeat alarm [tomorrow](B-datetime)
+- change [5](B-datetime) [:](I-datetime) [00a.m](I-datetime) alarm [to](B-datetime) [5](I-datetime) [:](I-datetime) [00p.m](I-datetime)
+- change alarm alert
+- add [saturday](B-datetime) to my [morning](B-datetime) alarm
+- change my [7](B-datetime) [am](I-datetime) alarm [to](B-datetime) [8](I-datetime) [am](I-datetime)
+- repeat this alarm [7](B-datetime) [days](I-datetime) [a](I-datetime) [week](I-datetime)
+- repeat alarm [mon](B-datetime) [-](I-datetime) [fri](I-datetime) [6](I-datetime) [:](I-datetime) [45](I-datetime) [am](I-datetime)
+- change my 5 a.m . alarm to 6 a.m .
+- repeat the alarm [two](B-datetime) [more](I-datetime) [times](I-datetime) [in](I-datetime) [a](I-datetime) [row](I-datetime) .
+- repeat the last alarm [every](B-datetime) [month](I-datetime)
+- repeat this alarm [on](B-datetime) [weekends](I-datetime) only
+- add [30](B-datetime) [seconds](I-datetime) to the alarm .
+- change [9am](B-datetime) alarm [to](B-datetime) [9](I-datetime) [:](I-datetime) [30am](I-datetime)
+- repeat alarms [weekly](B-datetime)
+- change the alarm [from](B-datetime) [6](I-datetime) [to](I-datetime) [5](I-datetime) [am](I-datetime)
+- add [6](B-datetime) [minutes](I-datetime) to first active alarm now
+- add 2 alarms on the 5th
+- add [30](B-datetime) [minutes](I-datetime) to my [morning](B-datetime) alarm .
+- change my alarm [to](B-datetime) [6](I-datetime) [:](I-datetime) [45pm](I-datetime) .
+- change my alarm [from](B-datetime) [5am](I-datetime) [to](I-datetime) [5pm](I-datetime)
+- change my alarm [for](B-datetime) [tomorrow](I-datetime)
+- repeat the alarm [every](B-datetime) [day](I-datetime)
+- change my [5](B-datetime) [am](I-datetime) alarm [to](B-datetime) [5](I-datetime) [:](I-datetime) [30](I-datetime) [am](I-datetime)
+- modify alarm [from](B-datetime) [8](I-datetime) [:](I-datetime) [15am](I-datetime) [to](I-datetime) [9](I-datetime) [:](I-datetime) [15am](I-datetime) [tomorrow](I-datetime)
+- i need to change my alarm
+- change my [5pm](B-datetime) alarm [to](B-datetime) [5](I-datetime) [:](I-datetime) [30](I-datetime) [pm](I-datetime) [for](I-datetime) [today](I-datetime)
+- change alarm time
+
+
+## intent:alarm/time_left_on_alarm
+- how long until my next alarm goes off
+- how much time is left until my next alarm
+- how long until the alarm
+- how much time until alarm goes off
+- are there more than [5](B-datetime) [minutes](I-datetime) left on this alarm
+- how long do i have before alarm
+- when is my next alarm set to go off
+- how long until my alarm goes off
+- how much time before my alarm goes off
+- how long till my alarm goes off
+- how much longer until my alarm goes off
+- how much time is left before the alarm goes off
+- how many hours do i have before alarm goes off
+- what time will the alarm go off
+- how much time until the alarm sounds
+- how much time is left on my alarm
+- when will my next alarm go off
+- when will my next alarm go off
+- how much time is left on my alarm
+- how long do i have before my alarm goes off
+- how much time is left on alarm
+- how much time is left until the alarm goes off
+- how much longer on my alarm
+- how much time left on snooze alarm
+- how long until the next alarm goes off
+- how much time until my alarm goes off ?
+- how much time is left on the alarm
+- how much time is left on my [6](B-datetime) [:](I-datetime) [00am](I-datetime) alarm ?
+- how much time do i have left on the alarm ?
+- how long before my next alarm
+- how much time is left on my alarm ?
+- how much time until my alarm goes off ?
+- how much time is left on alarm
+- how long before my alarm goes off [tomorrow](B-datetime) ?
+- how much time is left on the alarm
+- how much time is left on the alarm
+- how much time is left on my alarm ?
+- how much time is left on alarm
+- how many minutes do i have left on alarm
+- how long before the alarm rings ?
+- how much time is left on alarm
+- how long till alarm goes off
+- tell me how much time is left on my alarm
+- how much longer until my alarm rings
+- how long do i have left on my alarm
+- when does the alarm end
+- how many minutes are left on my current alarm
+- how much time is left on my alarm
+- how long before my alarm goes off ?
+- how long till the alarm goes off
+- how much time is left on alarm
+- how long until i my alarm goes off
+- how much time until the first alarm [for](B-datetime) [today](I-datetime) ?
+- how much time before my alarm goes off
+- how many hours until the alarm ?
+- how much longer until my alarm goes off ?
+- how much time is left on my alarm ?
+- how much time is left on my alarm ?
+- how much time left before next alarm goes off
+- how much time is left on the alarm
+- how much time is left on alarm
+- how much time before my alarm goes off ?
+- how much time before alarm goes off
+- how much time is left on my first alarm ?
+- how much is left on my alarm
+- how much time is left on my alarm ?
+- how many minutes are left on my alarm ?
+- how long till my alarm goes off ?
+- how much longer before the alarm goes off
+- how long is left before the alarm goes off ?
+- how much time do i have until my alarm goes off .
+- how long is left before my alarm goes off ?
+- what is the time left on the alarm ?
+- how much time is left on the alarm
+- how long until my alarm goes off ?
+- how much time left til alarm goes off
+- how much time is left on my alarm ?
+- how much time till alarm for school
+- how much time on alarm
+- how long until my next alarm ?
+- how much time does my alarm have left on it ?
+- how much time until the alarm goes off ?
+- how much time before my alarm goes off ?
+- how much longer left on my alarm ?
+- how many hours do i have before my next alarm goes off ?
+- how much longer until my alarm goes off
+- how long before my alarm goes off ?
+- how much time before my alarm goes off ?
+- how much time until my next alarm ?
+- how much time is left before the alarm sounds ?
+- how much time is left on the alarm ?
+- how much time is left on alarm
+- how much time do i have left before my alarm goes off ?
+- what time is left on alarm
+- how much time do i have on my alarm
+- how much time is left on my alarm
+- could you please tell me how much time i have before my next alarm goes off ?
+- how many minutes left on alarm
+- how long until alarm goes off ?
+- how much longer until alarm goes off ?
+- how much time is left on my [morning](B-datetime) alarm ?
+- how much time is left on my alarm
+- how many hours left until the alarm goes off
+- how much time is left on alarm two ?
+- how much time is left on the alarm ?
+- how many hours are left til alarm goes off ?
+- how much time until my alarm
+- how much time is left on alarm
+- much time before 3rd alarm
+
+
+## intent:reminder/set_reminder
+- i want to be reminded to [file](B-reminder/todo) [tax](I-reminder/todo)
+- i don't want to forget to [file](B-reminder/todo) [taxes](I-reminder/todo)
+- remind me to [grab](B-reminder/todo) [paperwork](I-reminder/todo) [before](I-reminder/todo) [leaving](I-reminder/todo) [the](I-reminder/todo) [office](I-reminder/todo)
+- please remind me to [call](B-reminder/todo) [aaron](I-reminder/todo) [at](B-datetime) [6](I-datetime) [pm](I-datetime) [tonight](I-datetime) .
+- remind me [at](B-datetime) [1pm](I-datetime) to [call](B-reminder/todo) [mom](I-reminder/todo)
+- [reminder](B-reminder/noun) to [call](B-reminder/todo) [mom](I-reminder/todo) [when](I-reminder/todo) [i](I-reminder/todo) [get](I-reminder/todo) [home](I-reminder/todo)
+- remind me to [call](B-reminder/todo) [the](I-reminder/todo) [office](I-reminder/todo) [at](B-datetime) [10](I-datetime) [:](I-datetime) [30](I-datetime) [am](I-datetime)
+- remind me to [call](B-reminder/todo) [harry's](I-reminder/todo) [teacher](I-reminder/todo) [when](I-reminder/todo) [i](I-reminder/todo) [get](I-reminder/todo) [home](I-reminder/todo)
+- set [reminder](B-reminder/noun) to [call](B-reminder/todo) [dad](I-reminder/todo) [tonight](B-datetime) [at](I-datetime) [5](I-datetime)
+- please remind me to [call](B-reminder/todo) [my](I-reminder/todo) [student](I-reminder/todo) [today](B-datetime) .
+- remind me to [email](B-reminder/todo) [tax](I-reminder/todo) [transcripts](I-reminder/todo) [at](I-reminder/todo) [the](I-reminder/todo) [school](I-reminder/todo)
+- remind me to [go](B-reminder/todo) [shopping](I-reminder/todo) [for](I-reminder/todo) [birthday](I-reminder/todo) [party](I-reminder/todo)
+- remind me about my [interview](B-reminder/todo) [tomorow](B-datetime)
+- remind me to [stop](B-reminder/todo) [by](I-reminder/todo) [the](I-reminder/todo) [office](I-reminder/todo) [for](I-reminder/todo) [my](I-reminder/todo) [paycheck](I-reminder/todo) .
+- remind me [the](B-datetime) [day](I-datetime) [before](I-datetime) my [doctor's](B-reminder/todo) [appointment](I-reminder/todo)
+- set [reminder](B-reminder/noun) for [dr](B-reminder/todo) [apointment](I-reminder/todo)
+- remind me to [pay](B-reminder/todo) [electric](I-reminder/todo) [bill](I-reminder/todo)
+- set a [reminder](B-reminder/noun) [for](B-datetime) [10pm](I-datetime) [tonight](I-datetime) to [bring](B-reminder/todo) [out](I-reminder/todo) [the](I-reminder/todo) [trash](I-reminder/todo) .
+- remind me to [meet](B-reminder/todo) [with](I-reminder/todo) [lisa](I-reminder/todo) [tomorrow](B-datetime) [morning](I-datetime) [at](I-datetime) [10](I-datetime) [am](I-datetime)
+- [reminder](B-reminder/noun) for [oil](B-reminder/todo) [change](I-reminder/todo) [on](B-datetime) [saturday](I-datetime) , no appointment needed
+- [reminder](B-reminder/noun) needed for [class](B-reminder/todo) [assignment](I-reminder/todo)
+- remind me that i have a [doctor's](B-reminder/todo) [appointment](I-reminder/todo) [on](B-datetime) [friday](I-datetime) [at](I-datetime) [11am](I-datetime)
+- create a [reminder](B-reminder/noun) for my [hair](B-reminder/todo) [appointment](I-reminder/todo) [at](B-datetime) [3](I-datetime) [on](I-datetime) [friday](I-datetime)
+- remind me that i have [fasting](B-reminder/todo) [labs](I-reminder/todo) [tomorrow](B-datetime) [morning](I-datetime) [at](I-datetime) [8](I-datetime) [am](I-datetime)
+- remind me of the [vet](B-reminder/todo) [appt](I-reminder/todo) [on](B-datetime) [friday](I-datetime)
+- give me a [reminder](B-reminder/noun) to [get](B-reminder/todo) [milk](I-reminder/todo) [at](I-reminder/todo) [the](I-reminder/todo) [store](I-reminder/todo) [tomorrow](B-datetime)
+- set [reminder](B-reminder/noun) for [work](B-reminder/todo) [appointment](I-reminder/todo) [on](B-datetime) [tuesday](I-datetime) [at](I-datetime) [two](I-datetime) [pm](I-datetime) .
+- remind me to [call](B-reminder/todo) [mom](I-reminder/todo) [today](B-datetime)
+- remind me to [call](B-reminder/todo) [chris](I-reminder/todo)
+- remind me to [call](B-reminder/todo) [the](I-reminder/todo) [dentist](I-reminder/todo) [and](I-reminder/todo) [set](I-reminder/todo) [an](I-reminder/todo) [appt](I-reminder/todo)
+- remind me to [call](B-reminder/todo) [my](I-reminder/todo) [mother](I-reminder/todo)
+- remind me to [bathe](B-reminder/todo) [the](I-reminder/todo) [dog](I-reminder/todo)
+- remind me to [pay](B-reminder/todo) [tution](I-reminder/todo)
+- remind me to [get](B-reminder/todo) [my](I-reminder/todo) [medicine](I-reminder/todo) [prescription](I-reminder/todo) [refilled](I-reminder/todo) [tomorrow](B-datetime) [aftrernoon](I-datetime) .
+- send a [reminder](B-reminder/noun) alarm [at](B-datetime) [3](I-datetime) [p.m](I-datetime) [.](I-datetime) for my [doctor](B-reminder/todo) [appointment](I-reminder/todo)
+- remind me of my [spa](B-reminder/todo) [appointment](I-reminder/todo) [the](B-datetime) [night](I-datetime) [before](I-datetime)
+- remind me to [update](B-reminder/todo) [my](I-reminder/todo) [apps](I-reminder/todo) [tonight](B-datetime)
+- remind me about the [meteor](B-reminder/todo) [shower](I-reminder/todo) [on](B-datetime) [aug](I-datetime) [12](I-datetime)
+- remind me of [work](B-reminder/todo) [meeting](I-reminder/todo) [tomorrow](B-datetime)
+- add my [dentist](B-reminder/todo) [visit](I-reminder/todo) to my [reminders](B-reminder/noun)
+- make [reminder](B-reminder/noun) reoccurring
+- remind me to [call](B-reminder/todo) [nephew](I-reminder/todo) [on](I-reminder/todo) [his](I-reminder/todo) [birthday](I-reminder/todo)
+- remind me about my [11am](B-reminder/todo) [phone](I-reminder/todo) all
+- remind me to [visit](B-reminder/todo) [the](I-reminder/todo) [dentist](I-reminder/todo) [monday](B-datetime) [morning](I-datetime) [at](I-datetime) [7](I-datetime)
+- remind me to [set](B-reminder/noun) [an](I-reminder/noun) [alarm](I-reminder/noun) [tomorrow](B-datetime) for my nap
+- add a [reminder](B-reminder/noun) that i have to [call](B-reminder/todo) [the](I-reminder/todo) [doctor's](I-reminder/todo) [office](I-reminder/todo) [on](B-datetime) [monday](I-datetime) to make an appointment
+- [the](B-datetime) [day](I-datetime) [before](I-datetime) my [doctor's](B-reminder/todo) [appointment](I-reminder/todo) , send me a [reminder](B-reminder/noun)
+- keep all [reminders](B-reminder/noun) the same [next](B-reminder/recurring_period) [year](I-reminder/recurring_period)
+- add a [reminder](B-reminder/noun) about my [follow](B-reminder/todo) [up](I-reminder/todo) [appointment](I-reminder/todo) [on](B-datetime) [the](I-datetime) [30th](I-datetime)
+- open [reminder](B-reminder/noun) for [pills](B-reminder/todo) [at](B-datetime) [5](I-datetime) [pm](I-datetime)
+- please remind me what time [my](B-reminder/todo) [cousin](I-reminder/todo) [arrives](I-reminder/todo) [tomorrow](B-datetime)
+- put repeating [reminder](B-reminder/noun) [every](B-reminder/recurring_period) [30](I-reminder/recurring_period) [minutes](I-reminder/recurring_period) to [do](B-reminder/todo) [spring](I-reminder/todo) [cleaning](I-reminder/todo) [on](B-datetime) [sunday](I-datetime)
+- add a [reminder](B-reminder/noun) to [go](B-reminder/todo) [work](I-reminder/todo) [out](I-reminder/todo) [today](B-datetime)
+- remind me to [pack](B-reminder/todo) [my](I-reminder/todo) [hikers](I-reminder/todo) [pack](I-reminder/todo)
+- remind me of my [meeting](B-reminder/todo)
+- remind me [one](B-datetime) [day](I-datetime) [before](I-datetime) my [doctor](B-reminder/todo) [appointment](I-reminder/todo)
+- remind me i have a [dentist](B-reminder/todo) [appointment](I-reminder/todo) [wednesday](B-datetime) [at](I-datetime) [1pm](I-datetime)
+- add a [reminder](B-reminder/noun) for [the](B-reminder/todo) [doctor](I-reminder/todo) [tomorrow](B-datetime) [at](I-datetime) [9](I-datetime)
+- add [reminder](B-reminder/noun) for [doctor](B-reminder/todo) [visit](I-reminder/todo) [to](B-datetime) [tomorrow](I-datetime)
+- remind me to [thaw](B-reminder/todo) [the](I-reminder/todo) [steak](I-reminder/todo) [for](I-reminder/todo) [dinner](I-reminder/todo)
+- send [reminder](B-reminder/noun) to [my](B-reminder/todo) [wifes](I-reminder/todo) [phone](I-reminder/todo) [to](I-reminder/todo) [go](I-reminder/todo) [by](I-reminder/todo) [the](I-reminder/todo) [libary](I-reminder/todo)
+- [doctors](B-reminder/todo) [appointment](I-reminder/todo) [reminder](B-reminder/noun) [for](B-datetime) [tuesday](I-datetime) [afternoon](I-datetime)
+- remind me of my [doctors](B-reminder/todo) [appointment](I-reminder/todo) [for](B-datetime) [tomorrow](I-datetime)
+- add [weekly](B-reminder/recurring_period) [reminder](B-reminder/noun) for [trash](B-reminder/todo) [pickup](I-reminder/todo) [on](B-datetime) [wednesdays](I-datetime)
+- add a [reminder](B-reminder/noun) to [cook](B-reminder/todo) [dinner](I-reminder/todo) [tonight](B-datetime)
+- remind me to [check](B-reminder/todo) [my](I-reminder/todo) [emails](I-reminder/todo) [tonight](B-datetime)
+- remind me to [set](B-reminder/todo) [the](I-reminder/todo) [alarm](I-reminder/todo) [for](B-datetime) [6pm](I-datetime)
+- remind me to [set](B-reminder/todo) [the](I-reminder/todo) [alarm](I-reminder/todo) [for](B-datetime) [6pm](I-datetime)
+- remind me of the [parent](B-reminder/todo) [teacher](I-reminder/todo) [conference](I-reminder/todo)
+- remind me to [take](B-reminder/todo) [of](I-reminder/todo) [my](I-reminder/todo) [face](I-reminder/todo) [mask](I-reminder/todo) [in](B-datetime) [1](I-datetime) [hour](I-datetime)
+- remind me about my [lunch](B-reminder/todo) [on](B-datetime) [tuesday](I-datetime)
+- remind me to [pick](B-reminder/todo) [up](I-reminder/todo) [eggs](I-reminder/todo) [at](I-reminder/todo) [the](I-reminder/todo) [grocery](I-reminder/todo) [story](I-reminder/todo) [tomorrow](B-datetime) [night](I-datetime)
+- remind me [again](B-reminder/todo) [later](I-reminder/todo)
+- set the reminder for [20](B-reminder/todo) [minutes](I-reminder/todo) [earlier](I-reminder/todo) than the alarm
+- remind me to [check](B-reminder/todo) [the](I-reminder/todo) [light](I-reminder/todo) [bill](I-reminder/todo)
+- remind me
+- remind me to [cancel](B-reminder/todo) [xm](I-reminder/todo) [5](B-datetime) [months](I-datetime) [from](I-datetime) [today](I-datetime)
+- remind me to [fix](B-reminder/todo) [the](I-reminder/todo) [sink](I-reminder/todo) [by](B-datetime) [sunday](I-datetime)
+- add the [reminder](B-reminder/noun) to [get](B-reminder/todo) [the](I-reminder/todo) [cat](I-reminder/todo) [at](I-reminder/todo) [the](I-reminder/todo) [vet](I-reminder/todo)
+- remind me of my [job](B-reminder/todo) [interview](I-reminder/todo) [tomorrow](B-datetime) [at](I-datetime) [3](I-datetime) [pm](I-datetime)
+- remind me [dentist](B-reminder/todo) [monday](B-datetime) [at](I-datetime) [8](I-datetime)
+- remind me [in](B-datetime) [a](I-datetime) [week](I-datetime)
+- remind me about my [conference](B-reminder/todo) [at](B-datetime) [5](I-datetime) [pm](I-datetime) [next](I-datetime) [monday](I-datetime)
+- remind me to [visit](B-reminder/todo) [the](I-reminder/todo) [dentist](I-reminder/todo) [monday](B-datetime) [morning](I-datetime) [at](I-datetime) [8](I-datetime)
+- set a [reminder](B-reminder/noun) to [call](B-reminder/todo) [mom](I-reminder/todo)
+- remind me to [return](B-reminder/todo) [my](I-reminder/todo) [order](I-reminder/todo) [by](B-datetime) [june](I-datetime) [30](I-datetime) [,](I-datetime) [2017](I-datetime)
+- remind me [30](B-datetime) [minutes](I-datetime) [prior](I-datetime) to [joey's](B-reminder/todo) [game](I-reminder/todo)
+- remind me of the [meeting](B-reminder/todo) [tomorrow](B-datetime)
+- remind me that [brian](B-reminder/todo) [will](I-reminder/todo) [be](I-reminder/todo) [home](I-reminder/todo) [late](I-reminder/todo) [tonight](B-datetime)
+- remind me to [pay](B-reminder/todo) [my](I-reminder/todo) [taxes](I-reminder/todo) [april](B-datetime) [16](I-datetime)
+- remind me of [appointment](B-reminder/todo) [tomorrow](B-datetime) [at](I-datetime) [4pm](I-datetime)
+- remind me about my [doctors](B-reminder/todo) [appointment](I-reminder/todo) [monday](B-datetime)
+- remind me to [call](B-reminder/todo) [the](I-reminder/todo) [doctor](I-reminder/todo) [tomorrow](B-datetime) [morning](I-datetime)
+- add a [reminder](B-reminder/noun) [for](B-datetime) [tuesday](I-datetime) to [buy](B-reminder/todo) [lottery](I-reminder/todo) [tickets](I-reminder/todo)
+- remind me to [set](B-reminder/todo) [my](I-reminder/todo) [alarm](I-reminder/todo) [every](B-reminder/recurring_period) [night](I-reminder/recurring_period) [by](B-datetime) [9pm](I-datetime)
+- remind me of my [flight](B-reminder/todo) [time](I-reminder/todo) [at](B-datetime) [11](I-datetime) [:](I-datetime) [45](I-datetime) [am](I-datetime) [tuesday](I-datetime)
+- remind me about my [doctor](B-reminder/todo) [appointment](I-reminder/todo) [in](B-datetime) [the](I-datetime) [morning](I-datetime)
+- remind me to [set](B-reminder/todo) [my](I-reminder/todo) [alarm](I-reminder/todo) [tonight](B-datetime)
+- remind me of my [therapy](B-reminder/todo) [appt](I-reminder/todo) [today](B-datetime)
+- remind me to [leave](B-reminder/todo) [10](I-reminder/todo) [minutes](I-reminder/todo) [before](I-reminder/todo) [my](I-reminder/todo) [alarm](I-reminder/todo)
+- remind me of my [dental](B-reminder/todo) [appointment](I-reminder/todo) [on](B-datetime) [8](I-datetime) [/](I-datetime) [26](I-datetime) [at](I-datetime) [11](I-datetime)
+- remind me [5](B-datetime) [minutes](I-datetime) [before](I-datetime) [my](I-datetime) [alarm](I-datetime)
+- remind me to [set](B-reminder/todo) [alarm](I-reminder/todo) [at](B-datetime) [9pm](I-datetime)
+- remind me to [email](B-reminder/todo) [my](I-reminder/todo) [professor](I-reminder/todo) [at](B-datetime) [12](I-datetime)
+- set a recurring [reminder](B-reminder/noun)
+- remind me of my [dr](B-reminder/todo) [appointment](I-reminder/todo) [on](B-datetime) [monday](I-datetime) [at](I-datetime) [8](I-datetime) [:](I-datetime) [30](I-datetime) [am](I-datetime)
+- remind me to [set](B-reminder/todo) [my](I-reminder/todo) [7am](I-reminder/todo) [alarm](I-reminder/todo)
+- remind me of [my](B-reminder/todo) [dinner](I-reminder/todo) [reservations](I-reminder/todo) [tonight](B-datetime)
+- remind me about [meeting](B-reminder/todo) [at](B-datetime) [4pm](I-datetime) [today](I-datetime)
+- remind me to [cancel](B-reminder/todo) [amazon](I-reminder/todo) [prime](I-reminder/todo) [next](B-datetime) [month](I-datetime)
+- remind me to [cancel](B-reminder/todo) [my](I-reminder/todo) [alarm](I-reminder/todo) [afterwards](I-reminder/todo)
+- remind me to [work](B-reminder/todo) [out](I-reminder/todo) [tomorrow](B-datetime) [at](I-datetime) [2pm](I-datetime)
+- remind me [at](B-datetime) [5](I-datetime) [pm](I-datetime) to [get](B-reminder/todo) [gas](I-reminder/todo)
+- remind me of [dentist](B-reminder/todo) [appointment](I-reminder/todo) [2](B-datetime) [weeks](I-datetime) [from](I-datetime) [today](I-datetime)
+- add [grocery](B-reminder/todo) [reminder](B-reminder/noun)
+- remind me to [set](B-reminder/todo) [alarm](I-reminder/todo) [for](B-datetime) [2pm](I-datetime) [on](I-datetime) [sunday](I-datetime)
+- add me a [reminder](B-reminder/noun) to [buy](B-reminder/todo) [cheese](I-reminder/todo)
+- remind me [10](B-datetime) [minutes](I-datetime) [before](I-datetime) [the](B-reminder/todo) [event](I-reminder/todo)
+- add a [reminder](B-reminder/noun) to [buy](B-reminder/todo) [an](I-reminder/todo) [uber](I-reminder/todo) [for](I-reminder/todo) [my](I-reminder/todo) [flight](I-reminder/todo)
+- remind me about the [first](B-reminder/todo) [day](I-reminder/todo) [of](I-reminder/todo) [school](I-reminder/todo) [at](B-datetime) [7](I-datetime) [pm](I-datetime) [the](I-datetime) [night](I-datetime) [before](I-datetime) [the](I-datetime) [12th](I-datetime)
+- john is still having a part at his place tomorrow night . please remind me and set timer
+- please remind me that [i](B-reminder/todo) [am](I-reminder/todo) [performing](I-reminder/todo) [at](I-reminder/todo) [the](I-reminder/todo) [school](I-reminder/todo) [fair](I-reminder/todo) [tomorrow](B-datetime)
+- set a [reminder](B-reminder/noun) to [call](B-reminder/todo) [my](I-reminder/todo) [mom](I-reminder/todo) [in](B-datetime) [2](I-datetime) [hours](I-datetime)
+- remind me to go to the [dentist](B-reminder/todo) [on](B-datetime) [the](I-datetime) [12th](I-datetime)
+- please remind me i have a [meeting](B-reminder/todo) [with](I-reminder/todo) [a](I-reminder/todo) [client](I-reminder/todo) [tomorrow](B-datetime) [morning](I-datetime) [at](I-datetime) [7](I-datetime)
+- remind me to [study](B-reminder/todo) [tonight](B-datetime)
+- remind me to [pick](B-reminder/todo) [up](I-reminder/todo) [laundry](I-reminder/todo) [at](B-datetime) [6](I-datetime) [pm](I-datetime)
+- remind me to [go](B-reminder/todo) [for](I-reminder/todo) [a](I-reminder/todo) [bike](I-reminder/todo) [ride](I-reminder/todo) [after](I-reminder/todo) [work](I-reminder/todo)
+- remind me to [make](B-reminder/todo) [a](I-reminder/todo) [car](I-reminder/todo) [payment](I-reminder/todo) [tomorrow](B-datetime)
+- remind me my [interview](B-reminder/todo) [tomorrow](B-datetime) [at](I-datetime) [1](I-datetime) [p.m](I-datetime)
+- remind me i have an [appointment](B-reminder/todo) [on](B-datetime) [thursday](I-datetime)
+- remind me to [call](B-reminder/noun) [mom](I-reminder/noun) [tonight](B-datetime) [at](I-datetime) [5](I-datetime)
+- remind me to [get](B-reminder/todo) [eggs](I-reminder/todo) [at](I-reminder/todo) [giant](I-reminder/todo) [this](B-datetime) [afternoon](I-datetime)
+- set [reminder](B-reminder/noun) for [dinner](B-reminder/todo) [date](I-reminder/todo) [at](B-datetime) [6](I-datetime) [:](I-datetime) [00](I-datetime) [pm](I-datetime) [friday](I-datetime) [night](I-datetime)
+- [reminder](B-reminder/noun) me to [stop](B-reminder/todo) [at](I-reminder/todo) [the](I-reminder/todo) [store](I-reminder/todo) [on](I-reminder/todo) [the](I-reminder/todo) [way](I-reminder/todo) [home](I-reminder/todo)
+- remind of the [party](B-reminder/todo) [saturday](B-datetime)
+- set [reminders](B-reminder/noun) [for](B-datetime) [24](I-datetime) [hours](I-datetime) [before](I-datetime) all [appointments](B-reminder/todo)
+- remind me to [go](B-reminder/todo) [to](I-reminder/todo) [the](I-reminder/todo) [library](I-reminder/todo) [to](I-reminder/todo) [return](I-reminder/todo) [my](I-reminder/todo) [book](I-reminder/todo)
+- remind me to [call](B-reminder/todo) [my](I-reminder/todo) [mom](I-reminder/todo) [tonight](B-datetime)
+- remind me to [pick](B-reminder/todo) [up](I-reminder/todo) [pampers](I-reminder/todo) [in](B-datetime) [the](I-datetime) [morning](I-datetime)
+- remind me to [get](B-reminder/todo) [shampoo](I-reminder/todo) [at](I-reminder/todo) [the](I-reminder/todo) [store](I-reminder/todo) [tonight](B-datetime)
+- remind me that my [car's](B-reminder/noun) [oil](I-reminder/noun) [change](I-reminder/noun) [appointment](I-reminder/noun) is [this](B-datetime) [wednesday](I-datetime)
+- remind me to [feed](B-reminder/noun) [the](I-reminder/noun) [dog](I-reminder/noun) [in](B-datetime) [20](I-datetime) [minutes](I-datetime)
+- remind me to [watch](B-reminder/todo) [full](I-reminder/todo) [moon](I-reminder/todo) [tonight](B-datetime)
+- remind me to [bake](B-reminder/todo) [cookies](I-reminder/todo) [tonight](B-datetime) for the bake sale
+- set a [reminder](B-reminder/noun) for [my](B-reminder/todo) [appointment](I-reminder/todo) [with](I-reminder/todo) [sue](I-reminder/todo) [on](B-datetime) [monday](I-datetime) [at](I-datetime) [7](I-datetime) [:](I-datetime) [15am](I-datetime)
+- remind me to [buy](B-reminder/todo) [pizza](I-reminder/todo) [tonight](B-datetime)
+- remind me of the day [i](B-reminder/todo) [need](I-reminder/todo) [to](I-reminder/todo) [drop](I-reminder/todo) [you](I-reminder/todo) [off](I-reminder/todo)
+- remind me to [take](B-reminder/todo) [my](I-reminder/todo) [medicine](I-reminder/todo) [every](B-reminder/recurring_period) [day](I-reminder/recurring_period) [at](B-datetime) [5](I-datetime) [pm](I-datetime)
+- set [reminder](B-reminder/noun) to [go](B-reminder/todo) [to](I-reminder/todo) [aldi's](I-reminder/todo) [tomorrow](B-datetime) [evening](I-datetime)
+- remind me to [go](B-reminder/todo) [to](I-reminder/todo) [the](I-reminder/todo) [meeting](I-reminder/todo) [next](B-datetime) [wednesday](I-datetime) [at](I-datetime) [4](I-datetime) [pm](I-datetime)
+- set a [reminder](B-reminder/noun) [for](B-datetime) [an](I-datetime) [hour](I-datetime) [before](I-datetime) my [dentist](B-reminder/todo) [appointment](I-reminder/todo)
+- set a [reminder](B-reminder/noun) alarm for [work](B-reminder/todo) [ending](I-reminder/todo)
+- remind me to [buy](B-reminder/todo) [my](I-reminder/todo) [bassnectar](I-reminder/todo) [tickets](I-reminder/todo) [tonight](B-datetime)
+- remind me that i have to [pay](B-reminder/todo) [bills](I-reminder/todo) [that](I-reminder/todo) [are](I-reminder/todo) [due](I-reminder/todo) [tomorrow](B-datetime) in the morning [at](B-datetime) [8am](I-datetime)
+- remind me to [buy](B-reminder/todo) [flowers](I-reminder/todo) [for](I-reminder/todo) [mom](I-reminder/todo)
+- remind me [every](B-reminder/recurring_period) [day](I-reminder/recurring_period) [at](B-datetime) [2](I-datetime) to [walk](B-reminder/todo) [the](I-reminder/todo) [dog](I-reminder/todo)
+- remind me not to forget my [appointment](B-reminder/noun) [on](B-datetime) [monday](I-datetime)
+- set [reminder](B-reminder/noun) for [tomorrow](B-reminder/noun) to [sell](B-reminder/todo) [camera](I-reminder/todo) [on](I-reminder/todo) [offer](I-reminder/todo) [up](I-reminder/todo)
+- remind me to [wake](B-reminder/todo) [up](I-reminder/todo) [my](I-reminder/todo) [girlfriend](I-reminder/todo) [tomorrow](B-datetime) [at](I-datetime) [10](I-datetime) [:](I-datetime) [00am](I-datetime) for her appointment
+- remind me i need [gas](B-reminder/todo) [tomorrow](B-datetime) [morning](I-datetime)
+- [remind](B-reminder/noun) me to [put](B-reminder/todo) [clothes](I-reminder/todo) [in](I-reminder/todo) [the](I-reminder/todo) [dryer](I-reminder/todo) [in](B-datetime) [20](I-datetime) [minutes](I-datetime)
+- set [reminder](B-reminder/noun) [on](B-datetime) [august](I-datetime) [31st](I-datetime) for [rent](B-reminder/todo) [due](I-reminder/todo) and repeat [monthly](B-reminder/recurring_period)
+- remind me to [be](B-reminder/todo) [at](I-reminder/todo) [the](I-reminder/todo) [dr](I-reminder/todo) . [tomorrow](B-datetime) [at](I-datetime) [8](I-datetime)
+- remind me to [pick](B-reminder/todo) [up](I-reminder/todo) [burger](I-reminder/todo) [buns](I-reminder/todo) [when](I-reminder/todo) [grocery](I-reminder/todo) [shop](I-reminder/todo) [on](B-datetime) [thursday](I-datetime) [night](I-datetime)
+- set a [reminder](B-reminder/noun) alarm [for](B-datetime) [2pm](I-datetime)
+- remind me to [start](B-reminder/todo) [dinner](I-reminder/todo) [at](B-datetime) [6](I-datetime)
+- remind me to [check](B-reminder/todo) [the](I-reminder/todo) [alarm](I-reminder/todo) [in](B-datetime) [the](I-datetime) [morning](I-datetime)
+- remind me of my [doctor's](B-reminder/todo) [appointment](I-reminder/todo) [tomorrow](B-datetime)
+- remind me to [get](B-reminder/todo) [gas](I-reminder/todo) [in](B-datetime) [the](I-datetime) [morning](I-datetime)
+- set [reminder](B-reminder/noun) for [yoga](B-reminder/todo) [class](I-reminder/todo) [every](B-reminder/recurring_period) [wednesday](I-reminder/recurring_period) [at](B-datetime) [2pm](I-datetime)
+- remind me about [tuesday's](B-reminder/todo) [doctor](I-reminder/todo) [appointment](I-reminder/todo) [before](B-datetime) [noon](I-datetime)
+- please remind me to [call](B-reminder/todo) [mom](I-reminder/todo) [every](B-reminder/recurring_period) [tuesday](I-reminder/recurring_period)
+- remind me to [pick](B-reminder/todo) [up](I-reminder/todo) [your](I-reminder/todo) [gift](I-reminder/todo)
+- remind me [at](B-datetime) [8pm](I-datetime) [tonight](I-datetime) to have the [kids](B-reminder/todo) [brush](I-reminder/todo) [their](I-reminder/todo) [teeth](I-reminder/todo)
+- set re - occurring [reminder](B-reminder/noun) for [my](B-reminder/todo) [counseling](I-reminder/todo) [appointment](I-reminder/todo) [on](B-datetime) [thursday's](I-datetime) [at](I-datetime) [11am](I-datetime)
+- remind me to [check](B-reminder/todo) [the](I-reminder/todo) [mail](I-reminder/todo) [in](I-reminder/todo) [an](I-reminder/todo) [hour](I-reminder/todo)
+- remind me to [pick](B-reminder/todo) [up](I-reminder/todo) [alyssa](I-reminder/todo) [at](B-datetime) [3](I-datetime) [:](I-datetime) [30](I-datetime) [every](B-reminder/recurring_period) [day](I-reminder/recurring_period) [this](B-datetime) [week](I-datetime)
+- set [reminder](B-reminder/noun) for [dentist](B-reminder/noun) [appointment](I-reminder/noun)
+- remind about the [next](B-reminder/todo) [show](I-reminder/todo) [at](B-datetime) [9](I-datetime)
+- remind me to [visit](B-reminder/todo) [the](I-reminder/todo) [post](I-reminder/todo) [office](I-reminder/todo) [at](I-reminder/todo) [tuesday](I-reminder/todo) [at](B-datetime) [9am](I-datetime) [tomorrow](I-datetime)
+- remind me about my [doctor's](B-reminder/todo) [appointment](I-reminder/todo) [on](B-datetime) [thursday](I-datetime) [at](I-datetime) [4](I-datetime) [pm](I-datetime)
+- remind me to [exercise](B-reminder/todo) at [8](B-reminder/recurring_period) [am](I-reminder/recurring_period) [daily](I-reminder/recurring_period)
+- remind me to [get](B-reminder/todo) [dog](I-reminder/todo) [food](I-reminder/todo) [on](I-reminder/todo) [the](I-reminder/todo) [way](I-reminder/todo) [home](I-reminder/todo) [tonight](B-datetime)
+- remind me the [dragon](B-reminder/todo) [cake](I-reminder/todo) [is](I-reminder/todo) [due](I-reminder/todo) [tuesday](B-datetime) [at](I-datetime) [8am](I-datetime)
+- remind me to [send](B-reminder/todo) [an](I-reminder/todo) [email](I-reminder/todo) [to](I-reminder/todo) [my](I-reminder/todo) [parents](I-reminder/todo) [this](B-datetime) [evening](I-datetime)
+- set a [reminder](B-reminder/noun) for my [12](B-datetime) [pm](I-datetime) [meeting](B-reminder/todo)
+- remind me to [get](B-reminder/todo) [spinach](I-reminder/todo)
+- remind me about my [doctor's](B-reminder/todo) [appointment](I-reminder/todo) [on](B-datetime) [friday](I-datetime)
+- please remind me to [have](B-reminder/todo) [dinner](I-reminder/todo) [ready](I-reminder/todo) [by](I-reminder/todo) [5](I-reminder/todo)
+- remind that [we](B-reminder/todo) [are](I-reminder/todo) [flying](I-reminder/todo) [to](I-reminder/todo) [new](I-reminder/todo) [york](I-reminder/todo) [at](B-datetime) [11](I-datetime) [:](I-datetime) [45](I-datetime) [am](I-datetime) [tomorrow](I-datetime)
+- remind me to [pay](B-reminder/todo) [the](I-reminder/todo) [bills](I-reminder/todo) [on](B-datetime) [the](I-datetime) [15th](I-datetime)
+- remind me that [the](B-reminder/todo) [baby](I-reminder/todo) [is](I-reminder/todo) [supposed](I-reminder/todo) [to](I-reminder/todo) [be](I-reminder/todo) [born](I-reminder/todo) [on](B-datetime) [november](I-datetime) [12th](I-datetime)
+- create a [reminder](B-reminder/noun) for my [dentist](B-reminder/todo) [appointment](I-reminder/todo)
+- remind me to [buy](B-reminder/todo) [cheese](I-reminder/todo) [at](I-reminder/todo) [store](I-reminder/todo) [this](B-datetime) [morning](I-datetime)
+- remind me to [open](B-reminder/todo) [tv](I-reminder/todo) [at](B-datetime) [8](I-datetime) [:](I-datetime) [55](I-datetime) [pm](I-datetime)
+- remind me to talk to [david](B-reminder/todo) [about](I-reminder/todo) [school](I-reminder/todo) [when](I-reminder/todo) [he](I-reminder/todo) [gets](I-reminder/todo) [home](I-reminder/todo)
+- remind me , [this](B-datetime) [saturday](I-datetime) [2](I-datetime) [pm](I-datetime) , [remc](B-reminder/todo) [dinner](I-reminder/todo)
+- remind me to [finish](B-reminder/todo) [progress](I-reminder/todo) [reports](I-reminder/todo) [by](I-reminder/todo) [friday](I-reminder/todo)
+- remind me to go [holiday](B-reminder/todo) [shopping](I-reminder/todo) [on](B-datetime) [december](I-datetime) [15th](I-datetime) [at](I-datetime) [2](I-datetime) [pm](I-datetime)
+- remind me about [my](B-reminder/todo) [parent](I-reminder/todo) [teacher](I-reminder/todo) [meeting](I-reminder/todo)
+- remind me to [buy](B-reminder/todo) [tickets](I-reminder/todo) [for](I-reminder/todo) [pirates](I-reminder/todo) [of](I-reminder/todo) [the](I-reminder/todo) [caribbean](I-reminder/todo) 15
+- remind me to [make](B-reminder/todo) [doctor's](I-reminder/todo) [appointment](I-reminder/todo) [tomorrow](B-datetime)
+- set a [reminder](B-reminder/noun) for [every](B-reminder/recurring_period) [sunday](I-reminder/recurring_period) [at](B-datetime) [10](I-datetime) [:](I-datetime) [00](I-datetime) [am](I-datetime)
+- please help remind me to [go](B-reminder/todo) [grocery](I-reminder/todo) [shopping](I-reminder/todo) [tonight](B-datetime)
+- remind me that i have a [tutoring](B-reminder/todo) [session](I-reminder/todo) [today](B-datetime) [at](I-datetime) [5pm](I-datetime)
+- please remind me to stop and [get](B-reminder/todo) [bird](I-reminder/todo) [food](I-reminder/todo) [after](I-reminder/todo) [work](I-reminder/todo) [today](B-datetime)
+- set a [reminder](B-reminder/noun) for me to [stop](B-reminder/todo) [at](I-reminder/todo) [the](I-reminder/todo) [store](I-reminder/todo) [tomorrow](B-datetime)
+- remind to [get](B-reminder/todo) [gas](I-reminder/todo) [thursday](B-datetime)
+- set a [reminder](B-reminder/noun) for [the](B-reminder/todo) [meeting](I-reminder/todo) [at](I-reminder/todo) [school](I-reminder/todo) [tomorrow](B-datetime) [night](I-datetime)
+- [reminder](B-reminder/noun) . i need to [get](B-reminder/todo) [gas](I-reminder/todo)
+- remind me that it's [my](B-reminder/todo) [anniversary](I-reminder/todo) [on](B-datetime) [tuesday](I-datetime)
+- remind me to [go](B-reminder/todo) [the](I-reminder/todo) [the](I-reminder/todo) [grocery](I-reminder/todo) [store](I-reminder/todo) later [tomorrow](B-datetime) [morning](I-datetime)
+- remind me [classes](B-reminder/todo) [start](I-reminder/todo) [an](I-reminder/todo) [hour](I-reminder/todo) [early](I-reminder/todo) [on](B-datetime) [friday](I-datetime)
+- remind me of my [dentist](B-reminder/todo) [appointment](I-reminder/todo) [on](B-datetime) [tuesday](I-datetime) [afternoon](I-datetime)
+- remind me to [check](B-reminder/todo) [on](I-reminder/todo) [the](I-reminder/todo) [oven](I-reminder/todo) [in](B-datetime) [70](I-datetime) [minutes](I-datetime)
+- remind me to go [get](B-reminder/todo) [milk](I-reminder/todo) [after](I-reminder/todo) [work](I-reminder/todo) [tonight](B-datetime)
+- remind me to [eat](B-reminder/todo) [my](I-reminder/todo) [food](I-reminder/todo) [after](B-datetime) [7](I-datetime) [:](I-datetime) [00](I-datetime) [p.m](I-datetime)
+- remind me i have an [appointment](B-reminder/todo) [on](B-datetime) [wednesday](I-datetime) [at](I-datetime) [2pm](I-datetime)
+- set a [reminder](B-reminder/noun) [for](B-datetime) [tonight](I-datetime)
+- [reminder](B-reminder/noun) [pay](B-reminder/todo) [bills](I-reminder/todo) [tomorrow](B-datetime)
+- reminder : [make](B-reminder/todo) [doctor](I-reminder/todo) [appointment](I-reminder/todo) [in](B-datetime) [the](I-datetime) [morning](I-datetime)
+- remind me to [pick](B-reminder/todo) [up](I-reminder/todo) [the](I-reminder/todo) [mail](I-reminder/todo) [today](B-datetime)
+- remind me [tuesday](B-datetime) , [doctor](B-reminder/todo) [tomorrow](I-reminder/todo) [at](B-datetime) [3pm](I-datetime)
+- remind me to [grab](B-reminder/todo) [milk](I-reminder/todo) [from](I-reminder/todo) [the](I-reminder/todo) [store](I-reminder/todo) [on](I-reminder/todo) [the](I-reminder/todo) [way](I-reminder/todo) [home](I-reminder/todo) [from](I-reminder/todo) [work](I-reminder/todo)
+- remind me to [check](B-reminder/todo) [my](I-reminder/todo) [email](I-reminder/todo) [after](B-datetime) [5pm](I-datetime)
+- remind me to [rate](B-reminder/todo) [my](I-reminder/todo) [ads](I-reminder/todo) [tonight](B-datetime) after dinner
+- remind me the [flight](B-reminder/todo) [tomorrow](B-datetime) [at](I-datetime) [6am](I-datetime)
+- remind me to [workout](B-reminder/todo) [at](B-datetime) [8am](I-datetime) on [monday](B-reminder/recurring_period) [/](I-reminder/recurring_period) [wednesday](I-reminder/recurring_period) [/](I-reminder/recurring_period) [friday](I-reminder/recurring_period)
+- add [reminder](B-reminder/noun) to [get](B-reminder/todo) [gas](I-reminder/todo) [tonight](B-datetime)
+- set [reminder](B-reminder/noun) to [buy](B-reminder/todo) [contacts](I-reminder/todo) [later](B-datetime)
+- set [reminder](B-reminder/noun) to [do](B-reminder/todo) [laundry](I-reminder/todo) [in](B-datetime) [the](I-datetime) [am](I-datetime)
+- set [reminder](B-reminder/noun) [nine](B-datetime) [am](I-datetime) [every](B-reminder/recurring_period) [monday](I-reminder/recurring_period)
+- remind me to [pick](B-reminder/todo) [up](I-reminder/todo) [kids](I-reminder/todo) [school](I-reminder/todo) [supplies](I-reminder/todo) [next](B-datetime) [monday](I-datetime)
+- add a [reminder](B-reminder/noun) for the [gucci](B-reminder/todo) [mane](I-reminder/todo) [concert](I-reminder/todo) [in](B-datetime) [5](I-datetime) [months](I-datetime)
+- remind me to [buy](B-reminder/todo) [mushrooms](I-reminder/todo) [at](I-reminder/todo) [the](I-reminder/todo) [grocery](I-reminder/todo) [store](I-reminder/todo) [tonight](B-datetime)
+- set [reminder](B-reminder/noun) for [work](B-reminder/todo)
+- remind me to [not](B-reminder/todo) [miss](I-reminder/todo) [my](I-reminder/todo) [meeting](I-reminder/todo) [at](B-datetime) [4pm](I-datetime) [today](I-datetime)
+- remind me [1](B-datetime) [hour](I-datetime) [before](I-datetime) [game](B-reminder/todo) [of](I-reminder/todo) [thrones](I-reminder/todo) [airs](I-reminder/todo)
+- make a [reminder](B-reminder/noun) for the [premier](B-reminder/todo) [of](I-reminder/todo) [the](I-reminder/todo) [flash](I-reminder/todo) [tomorrow](B-datetime) [night](I-datetime)
+- remind me to [set](B-reminder/todo) [an](I-reminder/todo) [alarm](I-reminder/todo) [for](I-reminder/todo) [lunch](I-reminder/todo) [tomorrow](B-datetime)
+- remind me to [visit](B-reminder/todo) [the](I-reminder/todo) [dentist](I-reminder/todo) [monday](B-datetime) [morning](I-datetime) [at](I-datetime) [10](I-datetime)
+- remind me to [cancel](B-reminder/todo) [dentist](I-reminder/todo) [appointment](I-reminder/todo)
+- remind me to [call](B-reminder/todo) [plumber](I-reminder/todo) [this](B-datetime) [afternoon](I-datetime)
+- remind me to [get](B-reminder/todo) [groceries](I-reminder/todo) [on](B-datetime) [thursday](I-datetime)
+- remind me [daily](B-reminder/recurring_period) to [check](B-reminder/todo) [the](I-reminder/todo) [mail](I-reminder/todo) [at](B-datetime) [7](I-datetime) [pm](I-datetime)
+- remind me to [take](B-reminder/todo) [out](I-reminder/todo) [the](I-reminder/todo) [trash](I-reminder/todo) on [sunday](B-reminder/recurring_period) and [wednesday](B-reminder/recurring_period) [nights](I-reminder/recurring_period)
+- set a [reminder](B-reminder/noun) for my [doctor](B-reminder/todo) [appointment](I-reminder/todo) [today](B-datetime)
+- remind me to [feed](B-reminder/todo) [my](I-reminder/todo) [cats](I-reminder/todo) [before](I-reminder/todo) [bed](I-reminder/todo)
+- remind me when [it's](B-datetime) [time](I-datetime) [to](I-datetime) [leave](I-datetime) [for](I-datetime) [school](I-datetime)
+- [remind](B-reminder/noun) me about my [doctor's](B-reminder/todo) [appointment](I-reminder/todo) [tomorrow](B-datetime) [at](I-datetime) [9](I-datetime)
+- remind me about my [doctor](B-reminder/todo) [appointment](I-reminder/todo) [in](B-datetime) [the](I-datetime) [morning](I-datetime)
+- set a [reminder](B-reminder/noun) for me to [take](B-reminder/todo) [my](I-reminder/todo) [vitamins](I-reminder/todo)
+- remind me [in](B-datetime) [20](I-datetime) [minutes](I-datetime) to [call](B-reminder/todo) [mom](I-reminder/todo) `
+- set a [reminder](B-reminder/noun) to [clean](B-reminder/todo) [car](I-reminder/todo) [for](B-datetime) [today](I-datetime)
+- remind me to [visit](B-reminder/todo) [my](I-reminder/todo) [aunt](I-reminder/todo) [in](B-datetime) [3](I-datetime) [days](I-datetime)
+- set a [reminder](B-reminder/noun) to [exercise](B-reminder/todo) [this](B-datetime) [weekend](I-datetime)
+- remind me i have to [work](B-reminder/todo) [late](I-reminder/todo) [tomorrow](B-datetime)
+- remind me that i have a [doctors](B-reminder/todo) [appointment](I-reminder/todo) [tomorrow](B-datetime)
+- remind me to to [go](B-reminder/todo) [pick](I-reminder/todo) [up](I-reminder/todo) [a](I-reminder/todo) [gift](I-reminder/todo) [for](I-reminder/todo) [the](I-reminder/todo) [party](I-reminder/todo)
+- set a [reminder](B-reminder/noun) for [homework](B-reminder/todo) [at](B-datetime) [10](I-datetime) [pm](I-datetime) [from](B-reminder/reminder_modifier) [monday](B-reminder/recurring_period) [to](B-reminder/reminder_modifier) [wednesday](B-reminder/recurring_period)
+- remind me to [delete](B-reminder/todo) [previews](I-reminder/todo) [on](I-reminder/todo) [facebook](I-reminder/todo) [this](B-datetime) [afternoon](I-datetime)
+- remind me to [call](B-reminder/todo) [the](I-reminder/todo) [vet](I-reminder/todo) [at](B-datetime) [7](I-datetime) [:](I-datetime) [30](I-datetime) [am](I-datetime) [tomorrow](I-datetime)
+- remind me to [remind](B-reminder/todo) [myself](I-reminder/todo) [about](I-reminder/todo) [the](I-reminder/todo) [dentist](I-reminder/todo) [appointment](I-reminder/todo)
+- remind me to [take](B-reminder/todo) [my](I-reminder/todo) [medicine](I-reminder/todo) [every](B-reminder/recurring_period) [day](I-reminder/recurring_period) [at](B-datetime) [7](I-datetime) [a.m](I-datetime)
+- remind me to [go](B-reminder/todo) [to](I-reminder/todo) [walmart](I-reminder/todo) after work [today](B-datetime)
+- remind me to [set](B-reminder/todo) [a](I-reminder/todo) [doctor's](I-reminder/todo) [appointment](I-reminder/todo)
+- can you set a [reminder](B-reminder/noun) [for](B-datetime) [the](I-datetime) [11th](I-datetime) for the [wedding](B-reminder/todo)
+- remind me to [buy](B-reminder/todo) [birthday](I-reminder/todo) [gift](I-reminder/todo) [for](I-reminder/todo) [mom](I-reminder/todo)
+- remind me about [the](B-reminder/todo) [kid's](I-reminder/todo) [doctor's](I-reminder/todo) [appointment](I-reminder/todo) [wednesday](B-datetime) [at](I-datetime) [10am](I-datetime)
+- remind me to [charge](B-reminder/todo) [laptop](I-reminder/todo) [and](I-reminder/todo) [phone](I-reminder/todo) [at](B-datetime) [8](I-datetime) [pm](I-datetime) [every](B-reminder/recurring_period) [night](I-reminder/recurring_period)
+- remind me that [alyssa](B-reminder/todo) [likes](I-reminder/todo) [white](I-reminder/todo) [wine](I-reminder/todo) [,](I-reminder/todo) [shrimp](I-reminder/todo) [scampi](I-reminder/todo) [and](I-reminder/todo) [fresh](I-reminder/todo) [corn](I-reminder/todo) [bread](I-reminder/todo) [around](I-reminder/todo) [pier](I-reminder/todo) [39](I-reminder/todo) [,](I-reminder/todo) [san](I-reminder/todo) [francisco](I-reminder/todo) [this](B-datetime) [evening](I-datetime)
+- remind me to [call](B-reminder/todo) [the](I-reminder/todo) [electric](I-reminder/todo) [company](I-reminder/todo)
+- remind me to [take](B-reminder/todo) [dinner](I-reminder/todo) [out](I-reminder/todo) [in](B-datetime) [30](I-datetime) [min](I-datetime)
+- start a new [reminder](B-reminder/noun) [for](B-datetime) [friday](I-datetime) [night](I-datetime) [at](I-datetime) [7pm](I-datetime)
+- set up a [weekly](B-reminder/recurring_period) [reminder](B-reminder/noun) for my [workout](B-reminder/todo) [class](I-reminder/todo)
+- set a [reminder](B-reminder/noun) for the [dentist](B-reminder/todo)
+- remind me to [pick](B-reminder/todo) [up](I-reminder/todo) [the](I-reminder/todo) [dog](I-reminder/todo) [from](I-reminder/todo) [the](I-reminder/todo) [groomers](I-reminder/todo) [at](B-datetime) [3pm](I-datetime)
+- remind me [tomorrow](B-datetime) is [my](B-reminder/todo) [niece's](I-reminder/todo) [birthday](I-reminder/todo)
+- remind me to [buy](B-reminder/todo) [milk](I-reminder/todo) [to](B-datetime) [tonight](I-datetime) at the store
+- remind me to [get](B-reminder/todo) [the](I-reminder/todo) [dry](I-reminder/todo) [cleaning](I-reminder/todo) [tonight](B-datetime)
+- set [reminder](B-reminder/noun) for the [cast](B-reminder/todo) [party](I-reminder/todo)
+- remind me to [call](B-reminder/todo) [my](I-reminder/todo) [sister](I-reminder/todo) after work
+- remind me to [pick](B-reminder/todo) [up](I-reminder/todo) [rob](I-reminder/todo) [from](I-reminder/todo) [work](I-reminder/todo) [tonight](B-datetime)
+- remind me to [pick](B-reminder/todo) [up](I-reminder/todo) [my](I-reminder/todo) [neighbors](I-reminder/todo) [daughter](I-reminder/todo) [from](I-reminder/todo) [soccer](I-reminder/todo) [practice](I-reminder/todo) [tomorrow](B-datetime) [evening](I-datetime)
+- set a [reminder](B-reminder/noun) for my [shower](B-reminder/todo) [at](B-datetime) [6](I-datetime) [:](I-datetime) [30](I-datetime) [am](I-datetime)
+- remind me to [study](B-reminder/todo) [tonight](B-datetime)
+- remind me to [buy](B-reminder/todo) [coffee](I-reminder/todo) [at](B-datetime) [7am](I-datetime) [tomorrow](I-datetime) [morning](I-datetime)
+- remind me to [pick](B-reminder/todo) [up](I-reminder/todo) [bread](I-reminder/todo) [tomorrow](B-datetime) [morning](I-datetime)
+- remind me to [get](B-reminder/todo) [toilet](I-reminder/todo) [paper](I-reminder/todo) [tonight](B-datetime)
+- remind me to [buy](B-reminder/todo) [milk](I-reminder/todo) [tonight](B-datetime)
+- remind me to [walk](B-reminder/todo) [the](I-reminder/todo) [dog](I-reminder/todo) [3](B-reminder/recurring_period) [times](I-reminder/recurring_period) [daily](I-reminder/recurring_period)
+- remind me to call my mom when i get home
+- [remind](B-reminder/noun) me to go [shopping](B-reminder/todo)
+- remind me to [make](B-reminder/todo) [sure](I-reminder/todo) [i](I-reminder/todo) [have](I-reminder/todo) [the](I-reminder/todo) [tickets](I-reminder/todo) [at](B-datetime) [6](I-datetime) [pm](I-datetime) [thursday](I-datetime) night
+- [reminder](B-reminder/noun) for [doctor](B-reminder/todo) [on](B-datetime) [monday](I-datetime)
+- [remind](B-reminder/noun) me to [drop](B-reminder/todo) [off](I-reminder/todo) [the](I-reminder/todo) [dry](I-reminder/todo) [cleaning](I-reminder/todo) [after](I-reminder/todo) [work](I-reminder/todo)
+- remind me to [leave](B-reminder/todo) [in](B-datetime) [10](I-datetime) [minutes](I-datetime)
+- set a reminder for my [obgyn](B-reminder/todo) [appointment](I-reminder/todo) [tomorrow](B-datetime) [morning](I-datetime) [at](I-datetime) [7am](I-datetime)
+- remind me of [next](B-reminder/reference) [pta](B-reminder/todo) [meeting](I-reminder/todo)
+- can you set a [reminder](B-reminder/noun) for me to [turn](B-reminder/todo) [off](I-reminder/todo) [the](I-reminder/todo) [ac](I-reminder/todo) [in](B-datetime) [half](I-datetime) [an](I-datetime) [hour](I-datetime)
+- set [reminder](B-reminder/noun) [in](B-datetime) [30](I-datetime) [mins](I-datetime) to [add](B-reminder/todo) [chemicals](I-reminder/todo) [to](I-reminder/todo) [my](I-reminder/todo) [pool](I-reminder/todo)
+- set [weekly](B-reminder/recurring_period) [reminders](B-reminder/noun) for [grocery](B-reminder/todo) [shopping](I-reminder/todo)
+- remind me to [take](B-reminder/todo) [my](I-reminder/todo) [pills](I-reminder/todo) [tomorrow](B-datetime) [morning](I-datetime)
+- remind me to [send](B-reminder/todo) [invitations](I-reminder/todo)
+- remind me to [go](B-reminder/todo) [to](I-reminder/todo) [work](I-reminder/todo) [early](I-reminder/todo) [on](B-datetime) [tuesday](I-datetime) [at](I-datetime) [7](I-datetime) [am](I-datetime)
+- remind me to [call](B-reminder/todo) [the](I-reminder/todo) [vet](I-reminder/todo) [this](B-datetime) [morning](I-datetime)
+- remind me to [do](B-reminder/todo) [the](I-reminder/todo) [laundry](I-reminder/todo) [tomorrow](B-datetime) [morning](I-datetime)
+- remind me the [dentist](B-reminder/todo) [appointment](I-reminder/todo) [tomorrow](B-datetime) [morning](I-datetime)
+- remind me to [check](B-reminder/noun) [on](I-reminder/noun) [the](I-reminder/noun) [cake](I-reminder/noun) [in](B-datetime) [five](I-datetime) [minutes](I-datetime)
+- remind me to [take](B-reminder/todo) [the](I-reminder/todo) [library](I-reminder/todo) [books](I-reminder/todo) [back](I-reminder/todo) they are due [friday](B-datetime)
+- remind me the [appoint](B-reminder/todo) [for](I-reminder/todo) [the](I-reminder/todo) [dentist](I-reminder/todo)
+- remind me to [buy](B-reminder/todo) [flowers](I-reminder/todo) [on](B-datetime) [valentine's](I-datetime) [day](I-datetime)
+- remind me of my [dentist](B-reminder/todo) [appointment](I-reminder/todo) [on](B-datetime) [friday](I-datetime) [afternoon](I-datetime) [15](I-datetime) [min](I-datetime) [before](I-datetime)
+- please remind me of my [daughter's](B-reminder/todo) [doctor](I-reminder/todo) [appointment](I-reminder/todo)
+- remind me to [lock](B-reminder/todo) [my](I-reminder/todo) [door](I-reminder/todo) [when](I-reminder/todo) [i](I-reminder/todo) [leave](I-reminder/todo) [home](I-reminder/todo)
+- remind me to [pay](B-reminder/todo) [internet](I-reminder/todo) [bill](I-reminder/todo) [on](B-datetime) [the](I-datetime) [23rd](I-datetime)
+- remind me [2](B-datetime) [hours](I-datetime) [before](I-datetime) [my](B-reminder/todo) [flight](I-reminder/todo)
+- remind me to [get](B-reminder/todo) [gas](I-reminder/todo) when i leave this location ,
+- remind me [at](B-datetime) [3pm](I-datetime) that i am [going](B-reminder/todo) [for](I-reminder/todo) [a](I-reminder/todo) [walk](I-reminder/todo) [with](I-reminder/todo) [my](I-reminder/todo) [sister](I-reminder/todo) [today](B-datetime)
+- remind me to [take](B-reminder/todo) [my](I-reminder/todo) [evening](I-reminder/todo) [medication](I-reminder/todo)
+- please set a [reminder](B-reminder/noun) for [my](B-reminder/todo) [doctors](I-reminder/todo) [appointment](I-reminder/todo) [on](B-datetime) [tuesday](I-datetime) [at](I-datetime) [8](I-datetime) [:](I-datetime) [30](I-datetime) [a.m](I-datetime)
+- remind me to [record](B-reminder/todo) [ahs](I-reminder/todo) [tonight](B-datetime)
+- set 4 reminders at 10 minute intervals
+- remind me again in three days
+- remind me to [call](B-reminder/todo) [the](I-reminder/todo) [hemmer](I-reminder/todo)
+- remind me [what](B-reminder/todo) [grocery](I-reminder/todo) [items](I-reminder/todo) i need
+- remind me to [buy](B-reminder/todo) [wine](I-reminder/todo)
+- remind me to [buy](B-reminder/todo) [eggs](I-reminder/todo) [this](B-datetime) [weekend](I-datetime) .
+- remind me to [return](B-reminder/todo) [my](I-reminder/todo) [library](I-reminder/todo) [books](I-reminder/todo) [on](B-datetime) [friday](I-datetime)
+- remind me to [buy](B-reminder/todo) [dog](I-reminder/todo) [food](I-reminder/todo)
+- remind me to [visit](B-reminder/todo) [doctor](I-reminder/todo) [on](B-datetime) [september](I-datetime) [8th](I-datetime) [at](I-datetime) [9am](I-datetime)
+- remind me to [pick](B-reminder/todo) [up](I-reminder/todo) [neighbor's](I-reminder/todo) [mail](I-reminder/todo)
+- remind me to [go](B-reminder/todo) [to](I-reminder/todo) [bed](I-reminder/todo) [at](B-datetime) [11pm](I-datetime) .
+- remind me to [plan](B-reminder/todo) [the](I-reminder/todo) [party](I-reminder/todo)
+- set a [reminder](B-reminder/noun) to [go](B-reminder/todo) [to](I-reminder/todo) [dinner](I-reminder/todo) [with](I-reminder/todo) [a](I-reminder/todo) [friend](I-reminder/todo) [on](B-datetime) [friday](I-datetime) [at](I-datetime) [5](I-datetime) [pm](I-datetime)
+- set [reminder](B-reminder/noun) to [get](B-reminder/todo) [prescription](I-reminder/todo) [on](B-datetime) [monday](I-datetime) .
+- schedule a [reminder](B-reminder/noun) [for](B-datetime) [tomorrow](I-datetime) to [get](B-reminder/todo) [gas](I-reminder/todo)
+- remind me to [buy](B-reminder/todo) [eggs](I-reminder/todo) [tonight](B-datetime) .
+- set a [reminder](B-reminder/noun) to [visit](B-reminder/todo) [the](I-reminder/todo) [post](I-reminder/todo) [office](I-reminder/todo) [at](B-datetime) [3](I-datetime) [pm](I-datetime)
+- remind me to [refill](B-reminder/todo) [prescriptions](I-reminder/todo) [tomorrow](B-datetime) [at](I-datetime) [2](I-datetime) [pm](I-datetime)
+- remind me to [move](B-reminder/todo) [my](I-reminder/todo) [car](I-reminder/todo) [at](B-datetime) [11](I-datetime) [:](I-datetime) [30](I-datetime) [am](I-datetime) .
+- set a [reminder](B-reminder/noun) [tomorrow](B-datetime) [morning](I-datetime) to [take](B-reminder/todo) [out](I-reminder/todo) [the](I-reminder/todo) [trash](I-reminder/todo)
+- [at](B-datetime) [7](I-datetime) [pm](I-datetime) [tomorrow](I-datetime) , [remind](B-reminder/noun) me about the [monday's](B-reminder/todo) [meeting](I-reminder/todo)
+- set a new [reminder](B-reminder/noun) for [dentist](B-reminder/todo) [at](B-datetime) [3pm](I-datetime) [tuesday](I-datetime) .
+- remind me to [stretch](B-reminder/todo) [before](I-reminder/todo) [class](I-reminder/todo)
+- create a new [reminder](B-reminder/noun)
+- set [reminder](B-reminder/noun) for my [baseball](B-reminder/todo) [game](I-reminder/todo) [tomorrow](B-datetime)
+- remind me to [go](B-reminder/todo) [to](I-reminder/todo) [the](I-reminder/todo) [gym](I-reminder/todo) [at](B-datetime) [3pm](I-datetime)
+- remind me to [work](B-reminder/todo) [out](I-reminder/todo) [this](B-datetime) [afternoon](I-datetime)
+- remind me to [eat](B-reminder/todo) [at](B-datetime) [6](I-datetime) [pm](I-datetime)
+- remind about [road](B-reminder/todo) [trip](I-reminder/todo)
+- remind me to [visit](B-reminder/todo) [sara's](I-reminder/todo) [flower](I-reminder/todo) [shop](I-reminder/todo) [tomorrow](B-datetime) [at](I-datetime) [3](I-datetime)
+- remind me about the [doctor](B-reminder/todo) [appointment](I-reminder/todo) .
+- set a [reminder](B-reminder/noun) to [make](B-reminder/todo) [the](I-reminder/todo) [phone](I-reminder/todo) [call](I-reminder/todo)
+- remind me to [call](B-reminder/todo) [the](I-reminder/todo) [dentist](I-reminder/todo) [tomorrow](B-datetime) [at](I-datetime) [10am](I-datetime)
+- remind me to [get](B-reminder/todo) [some](I-reminder/todo) [bread](I-reminder/todo) [and](I-reminder/todo) [sugar](I-reminder/todo)
+- remind me to [get](B-reminder/todo) [her](I-reminder/todo) [a](I-reminder/todo) [present](I-reminder/todo)
+- set [7am](B-datetime) [reminder](B-reminder/noun) [tomorrow](B-datetime) to [get](B-reminder/todo) [up](I-reminder/todo) [on](I-reminder/todo) [time](I-reminder/todo) .
+- remind me to [buy](B-reminder/todo) [shoes](I-reminder/todo) [at](I-reminder/todo) [target](I-reminder/todo) [tonight](B-datetime) .
+- set a [reminder](B-reminder/noun) to [take](B-reminder/todo) [the](I-reminder/todo) [pizza](I-reminder/todo) [out](I-reminder/todo) [of](I-reminder/todo) [the](I-reminder/todo) [oven](I-reminder/todo) .
+- remind me [every](B-reminder/recurring_period) [january](I-reminder/recurring_period) [15th](I-reminder/recurring_period) to [tell](B-reminder/todo) [mom](I-reminder/todo) [happy](I-reminder/todo) [birthday](I-reminder/todo)
+- remind me to [get](B-reminder/todo) [my](I-reminder/todo) [prescription](I-reminder/todo) [in](B-datetime) [the](I-datetime) [morning](I-datetime)
+- add a [reminder](B-reminder/noun)
+- remind me to [pick](B-reminder/todo) [up](I-reminder/todo) [my](I-reminder/todo) [prescription](I-reminder/todo) [tomorrow](B-datetime) [afternoon](I-datetime) .
+- set a [reminder](B-reminder/noun) for [every](B-reminder/recurring_period) [other](I-reminder/recurring_period) [tuesday](I-reminder/recurring_period) .
+- remind me to [take](B-reminder/todo) [my](I-reminder/todo) [car](I-reminder/todo) [to](I-reminder/todo) [the](I-reminder/todo) [shop](I-reminder/todo) [at](B-datetime) [3](I-datetime) [:](I-datetime) [00](I-datetime) [pm](I-datetime)
+- set [reminder](B-reminder/noun) [for](B-datetime) [may](I-datetime) [15th](I-datetime)
+- remind me to [do](B-reminder/todo) [my](I-reminder/todo) [homework](I-reminder/todo) [today](B-datetime) [at](I-datetime) [4](I-datetime) [p.m](I-datetime) .
+- remind me to [buy](B-reminder/todo) [toilet](I-reminder/todo) [paper](I-reminder/todo) [at](I-reminder/todo) [the](I-reminder/todo) [store](I-reminder/todo) [tonight](B-datetime)
+- remind me to [check](B-reminder/todo) [the](I-reminder/todo) [laundry](I-reminder/todo) [in](B-datetime) [15](I-datetime) [minutes](I-datetime)
+- remind me to [watch](B-reminder/todo) [containment](I-reminder/todo) [tonight](B-datetime)
+- remind me to [buy](B-reminder/todo) [toothpaste](I-reminder/todo)
+- remind me to [join](B-reminder/todo) [the](I-reminder/todo) [status](I-reminder/todo) [call](I-reminder/todo) [at](B-datetime) [9](I-datetime) [:](I-datetime) [00](I-datetime) [am](I-datetime) [today](I-datetime)
+- remind me to [stop](B-reminder/todo) [at](I-reminder/todo) [the](I-reminder/todo) [grocery](I-reminder/todo) [store](I-reminder/todo)
+- remind me [at](B-datetime) [7am](I-datetime) [friday](I-datetime) to [call](B-reminder/todo) [a](I-reminder/todo) [lyft](I-reminder/todo)
+- remind me to [call](B-reminder/todo) [mom](I-reminder/todo) [tomorrow](B-datetime) [at](I-datetime) [7](I-datetime) [pm](I-datetime)
+- set a [reminder](B-reminder/noun) to [walk](B-reminder/todo) [the](I-reminder/todo) [dog](I-reminder/todo) [at](B-datetime) [6](I-datetime) [pm](I-datetime)
+- set [reminder](B-reminder/noun) to [lock](B-reminder/todo) [door](I-reminder/todo) [and](I-reminder/todo) [set](I-reminder/todo) [alarm](I-reminder/todo)
+- set a [reminder](B-reminder/noun) to [watch](B-reminder/todo) [a](I-reminder/todo) [tv](I-reminder/todo) [show](I-reminder/todo) [at](B-datetime) [5](I-datetime) [pm](I-datetime) [today](I-datetime)
+- remind me to [visit](B-reminder/todo) [the](I-reminder/todo) [gynecologist](I-reminder/todo) [wednesday](B-datetime) [at](I-datetime) [4pm](I-datetime) .
+- set a [reminder](B-reminder/noun) to [exercise](B-reminder/todo)
+- remind me [when](B-reminder/todo) [i](I-reminder/todo) [drive](I-reminder/todo) [by](I-reminder/todo) [the](I-reminder/todo) [skate](I-reminder/todo) [shop](I-reminder/todo) [to](I-reminder/todo) [call](I-reminder/todo) [prayther](I-reminder/todo)
+- [reminder](B-reminder/noun) . i need to [get](B-reminder/todo) [gas](I-reminder/todo) .
+- remind me to [order](B-reminder/todo) [new](I-reminder/todo) [contacts](I-reminder/todo) [in](B-datetime) [december](I-datetime)
+- remind me to [call](B-reminder/todo) [my](I-reminder/todo) [wife](I-reminder/todo) [at](B-datetime) [9am](I-datetime)
+- remind me to [give](B-reminder/todo) [the](I-reminder/todo) [dog](I-reminder/todo) [her](I-reminder/todo) [medicine](I-reminder/todo) .
+- set [reminder](B-reminder/noun) to [pack](B-reminder/todo) [my](I-reminder/todo) [lunch](I-reminder/todo) [tonight](B-datetime) [at](I-datetime) [6](I-datetime)
+- remind me to [send](B-reminder/todo) [thank](I-reminder/todo) [you](I-reminder/todo) [cards](I-reminder/todo) [this](B-datetime) [weekend](I-datetime)
+- set a pop - up [reminder](B-reminder/noun) [at](B-datetime) [1](I-datetime) [:](I-datetime) [30](I-datetime) [pm](I-datetime) one thirty p.m . to [go](B-reminder/todo) [pick](I-reminder/todo) [up](I-reminder/todo) [child](I-reminder/todo) [from](I-reminder/todo) [school](I-reminder/todo)
+- remind me to [buy](B-reminder/todo) [bday](I-reminder/todo) [cards](I-reminder/todo)
+- remind me to [wake](B-reminder/todo) [up](I-reminder/todo) [in](B-datetime) [30](I-datetime) [minutes](I-datetime)
+- remind me to [order](B-reminder/todo) [food](I-reminder/todo) [tonight](B-datetime) [at](I-datetime) [5](I-datetime) [pm](I-datetime) .
+- add a [reminder](B-reminder/noun) for [game](B-reminder/todo) [on](B-datetime) [thursday](I-datetime) [at](I-datetime) [2pm](I-datetime) .
+- remind me to [set](B-reminder/todo) [dvr](I-reminder/todo) [to](I-reminder/todo) [tape](I-reminder/todo) [my](I-reminder/todo) [show](I-reminder/todo) [tonight](B-datetime)
+- remind me to [call](B-reminder/todo) [dad](I-reminder/todo) [on](I-reminder/todo) [his](I-reminder/todo) [birthday](I-reminder/todo)
+- set a [reminder](B-reminder/noun) [for](B-datetime) [8](I-datetime) [pm](I-datetime)
+- remind me to [set](B-reminder/todo) [my](I-reminder/todo) [alarm](I-reminder/todo) .
+- remind me to [order](B-reminder/todo) [dog](I-reminder/todo) [food](I-reminder/todo) [online](I-reminder/todo) .
+- remind me to [grab](B-reminder/todo) [lotion](I-reminder/todo) [at](I-reminder/todo) [the](I-reminder/todo) [store](I-reminder/todo) .
+- set a [reminder](B-reminder/noun) about the [first](B-reminder/todo) [day](I-reminder/todo) [of](I-reminder/todo) [school](I-reminder/todo) [on](B-datetime) [august](I-datetime) [14](I-datetime) .
+- remind me to [call](B-reminder/todo) [the](I-reminder/todo) [dentist](I-reminder/todo) [to](I-reminder/todo) [make](I-reminder/todo) [an](I-reminder/todo) [appointment](I-reminder/todo) .
+- remind me [put](B-reminder/todo) [garbage](I-reminder/todo) [outside](I-reminder/todo)
+- remind me to [close](B-reminder/todo) [the](I-reminder/todo) [garage](I-reminder/todo) [door](I-reminder/todo) [tonight](B-datetime)
+- remind me to [go](B-reminder/todo) [to](I-reminder/todo) [the](I-reminder/todo) [store](I-reminder/todo) [after](I-reminder/todo) [work](I-reminder/todo) .
+- remind me to [send](B-reminder/todo) [my](I-reminder/todo) [boss](I-reminder/todo) [an](I-reminder/todo) [email](I-reminder/todo) [tomorrow](B-datetime)
+- remind me to [pay](B-reminder/todo) [the](I-reminder/todo) [water](I-reminder/todo) [bill](I-reminder/todo) .
+- add [reminder](B-reminder/noun) [for](B-datetime) [tomorrow](I-datetime) .
+- remind me to [start](B-reminder/todo) [the](I-reminder/todo) [crock](I-reminder/todo) [-](I-reminder/todo) [pot](I-reminder/todo) [at](B-datetime) [11](I-datetime) [:](I-datetime) [30am](I-datetime)
+- remind me [at](B-datetime) [4pm](I-datetime) to [leave](B-reminder/todo) [for](I-reminder/todo) [the](I-reminder/todo) [airport](I-reminder/todo)
+- set up a [reminder](B-reminder/noun) to [call](B-reminder/todo) [the](I-reminder/todo) [doctor](I-reminder/todo) [tomorrow](B-datetime) .
+- remind me to [go](B-reminder/todo) [grocery](I-reminder/todo) [shopping](I-reminder/todo)
+- remind me to [buy](B-reminder/todo) [lottery](I-reminder/todo) [tickets](I-reminder/todo) [at](I-reminder/todo) [the](I-reminder/todo) [grocery](I-reminder/todo) [store](I-reminder/todo) [tonight](B-datetime)
+- set [reminder](B-reminder/noun) to [buy](B-reminder/todo) [bread](I-reminder/todo) [on](I-reminder/todo) [the](I-reminder/todo) [way](I-reminder/todo) [home](I-reminder/todo)
+- [reminder](B-reminder/noun) [groceries](B-reminder/todo) [at](I-reminder/todo) [walmart](I-reminder/todo) [today](B-datetime)
+- remind me to [turn](B-reminder/todo) [off](I-reminder/todo) [my](I-reminder/todo) [straightener](I-reminder/todo) [once](I-reminder/todo) [i](I-reminder/todo) [leave](I-reminder/todo) [my](I-reminder/todo) [house](I-reminder/todo)
+- remind me to [call](B-reminder/todo) [michael's](I-reminder/todo) [teacher](I-reminder/todo) .
+- set a [reminder](B-reminder/noun) [for](B-datetime) [15](I-datetime) [minutes](I-datetime) [before](I-datetime) each event
+- set a [reminder](B-reminder/noun) for my [doctor's](B-reminder/todo) [appointment](I-reminder/todo) [on](B-datetime) [tuesday](I-datetime) [at](I-datetime) [9am](I-datetime)
+- set a [reminder](B-reminder/noun) to [pack](B-reminder/todo) [a](I-reminder/todo) [swimsuit](I-reminder/todo) [tomorrow](B-datetime) .
+- remind me to [buy](B-reminder/todo) [juice](I-reminder/todo) [tomorrow](B-datetime)
+- remind me to [pay](B-reminder/todo) [the](I-reminder/todo) [car](I-reminder/todo) [note](I-reminder/todo) [on](B-datetime) [the](I-datetime) [15th](I-datetime)
+- remind me to [get](B-reminder/todo) [up](I-reminder/todo) [at](B-datetime) [5](I-datetime) [am](I-datetime)
+- create a new [reminder](B-reminder/noun) to [add](B-reminder/todo) [eggs](I-reminder/todo) [to](I-reminder/todo) [the](I-reminder/todo) [grocery](I-reminder/todo) [list](I-reminder/todo)
+- remind me of my [appointment](B-reminder/todo)
+- add butter to my [reminder](B-reminder/noun) to [buy](B-reminder/todo) [bread](I-reminder/todo)
+- remind me to [get](B-reminder/todo) [dog](I-reminder/todo) [food](I-reminder/todo) [at](I-reminder/todo) [the](I-reminder/todo) [pet](I-reminder/todo) [store](I-reminder/todo)
+- remind me [friday](B-datetime) [night](I-datetime) that [sunday](B-reminder/todo) [is](I-reminder/todo) [the](I-reminder/todo) [church](I-reminder/todo) [picnic](I-reminder/todo) .
+- set a [reminder](B-reminder/noun) [for](B-datetime) [9](I-datetime) [pm](I-datetime) to [give](B-reminder/todo) [the](I-reminder/todo) [cat](I-reminder/todo) [his](I-reminder/todo) [medicine](I-reminder/todo) .
+- remind me to [water](B-reminder/todo) [the](I-reminder/todo) [plants](I-reminder/todo)
+- set [reminder](B-reminder/noun) to [go](B-reminder/todo) [and](I-reminder/todo) [walk](I-reminder/todo) [the](I-reminder/todo) [dog](I-reminder/todo) [this](B-datetime) [morning](I-datetime)
+- remind me of [lunch](B-reminder/todo) [today](I-reminder/todo) [with](I-reminder/todo) [janel](I-reminder/todo) [at](B-datetime) [1](I-datetime) [pm](I-datetime)
+- set [daily](B-reminder/recurring_period) [reminder](B-reminder/noun) for [medication](B-reminder/todo)
+- remind me that i have a [doctor's](B-reminder/todo) [appointment](I-reminder/todo) [wednesday](B-datetime) [at](I-datetime) [2pm](I-datetime)
+- remind me to [buy](B-reminder/todo) [apples](I-reminder/todo) [at](I-reminder/todo) [the](I-reminder/todo) [store](I-reminder/todo) [tomorrow](B-datetime)
+- remind me to [call](B-reminder/todo) [my](I-reminder/todo) [mom](I-reminder/todo) [on](B-datetime) [tuesday](I-datetime)
+- set [reminder](B-reminder/noun) [for](B-datetime) [tomorrow](I-datetime) to [visit](B-reminder/todo) [dmv](I-reminder/todo) .
+- remind me to [buy](B-reminder/todo) [a](I-reminder/todo) [birthday](I-reminder/todo) [gift](I-reminder/todo) [for](I-reminder/todo) [paula](I-reminder/todo)
+- remind me to [pay](B-reminder/todo) [the](I-reminder/todo) [electric](I-reminder/todo) [bill](I-reminder/todo) [tonight](B-datetime)
+- remind me to [buy](B-reminder/todo) [burgers](I-reminder/todo) [at](I-reminder/todo) [the](I-reminder/todo) [store](I-reminder/todo) [tonight](B-datetime)
+- remind me to [call](B-reminder/todo) [the](I-reminder/todo) [dentist](I-reminder/todo) [at](B-datetime) [9](I-datetime) [in](I-datetime) [the](I-datetime) [morning](I-datetime) to set up an appointment
+- remind me to [take](B-reminder/todo) [my](I-reminder/todo) [meds](I-reminder/todo) [at](B-datetime) [8](I-datetime) [a.m](I-datetime) [.](I-datetime) [tomorrow](I-datetime)
+- remind me to [get](B-reminder/todo) [milk](I-reminder/todo)
+- remind me to [go](B-reminder/todo) [to](I-reminder/todo) [the](I-reminder/todo) [mall](I-reminder/todo) [after](I-reminder/todo) [work](I-reminder/todo)
+- remind me to [take](B-reminder/todo) [the](I-reminder/todo) [dog](I-reminder/todo) [to](I-reminder/todo) [the](I-reminder/todo) [vet](I-reminder/todo) [on](B-datetime) [wednesday](I-datetime) [at](I-datetime) [1](I-datetime) [pm](I-datetime) .
+- remind me to [set](B-reminder/todo) [alarm](I-reminder/todo) .
+- remind me to [buy](B-reminder/todo) [that](I-reminder/todo) [new](I-reminder/todo) [album](I-reminder/todo)
+- remind me to [pick](B-reminder/todo) [up](I-reminder/todo) [ketchup](I-reminder/todo)
+- please remind me to [clean](B-reminder/todo) [the](I-reminder/todo) [crab](I-reminder/todo) [tank](I-reminder/todo) [this](B-datetime) [weekend](I-datetime)
+- remind me to [grab](B-reminder/todo) [shampoo](I-reminder/todo) [at](I-reminder/todo) [the](I-reminder/todo) [store](I-reminder/todo) [tomorrow](B-datetime) as well
+- remind me to [pick](B-reminder/todo) [up](I-reminder/todo) [coffee](I-reminder/todo) [at](I-reminder/todo) [target](I-reminder/todo) [tonight](B-datetime)
+- remind me [every](B-reminder/recurring_period) [hour](I-reminder/recurring_period) till i cancel
+- remind me to [visit](B-reminder/todo) [my](I-reminder/todo) [attorney](I-reminder/todo) [on](B-datetime) [monday](I-datetime) [morning](I-datetime)
+- remind me to [buy](B-reminder/todo) [paper](I-reminder/todo)
+- set a [reminder](B-reminder/noun) for [cody's](B-reminder/todo) [birthday](I-reminder/todo) [in](B-datetime) [february](I-datetime)
+- set up [reminder](B-reminder/noun) for [lunch](B-reminder/todo) [date](I-reminder/todo) [with](I-reminder/todo) [boss](I-reminder/todo)
+- remind me to [go](B-reminder/todo) [to](I-reminder/todo) [the](I-reminder/todo) [grocery](I-reminder/todo) [store](I-reminder/todo) [after](I-reminder/todo) [the](I-reminder/todo) [doctor](I-reminder/todo) [appointment](I-reminder/todo) .
+- add [calling](B-reminder/todo) [mom](I-reminder/todo) [at](B-datetime) [6](I-datetime) [pm](I-datetime) to my [reminders](B-reminder/noun) [for](B-datetime) [next](I-datetime) [tuesday](I-datetime)
+- remind me to [pick](B-reminder/todo) [up](I-reminder/todo) [my](I-reminder/todo) [medicine](I-reminder/todo) [this](B-datetime) [afternoon](I-datetime) .
+- remind me to [call](B-reminder/todo) [the](I-reminder/todo) [electric](I-reminder/todo) [company](I-reminder/todo)
+- remind me to [call](B-reminder/todo) [my](I-reminder/todo) [mother](I-reminder/todo) [tomorrow](B-datetime)
+- remind me to [buy](B-reminder/todo) [donuts](I-reminder/todo) [tomorrow](B-datetime) [morning](I-datetime)
+- set a [reminder](B-reminder/noun) to [buy](B-reminder/todo) [milk](I-reminder/todo) [tonight](B-datetime) .
+- schedule [reminder](B-reminder/noun) for [rickys](B-reminder/todo) [appointment](I-reminder/todo)
+- remind me that i have a [dr](B-reminder/todo) [appointment](I-reminder/todo) [tomorrow](B-datetime) [at](I-datetime) [8](I-datetime) [:](I-datetime) [30](I-datetime) [am](I-datetime)
+- put a [reminder](B-reminder/noun) to [buy](B-reminder/todo) [beer](I-reminder/todo) [tomorrow](B-datetime) .
+- remind me to [turn](B-reminder/todo) [off](I-reminder/todo) [the](I-reminder/todo) [oven](I-reminder/todo) [in](B-datetime) [20](I-datetime) [minutes](I-datetime)
+- remind me to [buy](B-reminder/todo) [drywall](I-reminder/todo) [screws](I-reminder/todo) [at](I-reminder/todo) [home](I-reminder/todo) [depot](I-reminder/todo) [this](B-datetime) [afternoon](I-datetime) .
+- remind me to [buy](B-reminder/todo) [bottled](I-reminder/todo) [water](I-reminder/todo) [at](I-reminder/todo) [store](I-reminder/todo) [tonight](B-datetime) .
+- remind me to [pay](B-reminder/todo) [water](I-reminder/todo) [bill](I-reminder/todo)
+- set [reminder](B-reminder/noun) that this is [opening](B-reminder/todo) [weekend](I-reminder/todo) [for](I-reminder/todo) [races](I-reminder/todo)
+- can you remind me to [buy](B-reminder/todo) [some](I-reminder/todo) [cereal](I-reminder/todo)
+- set a [reminder](B-reminder/noun) to [order](B-reminder/todo) [the](I-reminder/todo) [pizza](I-reminder/todo) [at](B-datetime) [7](I-datetime) [:](I-datetime) [00](I-datetime)
+- set a [reminder](B-reminder/noun) for [work](B-reminder/todo) .
+- remind me to [set](B-reminder/todo) [out](I-reminder/todo) [trash](I-reminder/todo) [tonight](B-datetime) [at](I-datetime) [8](I-datetime)
+- remind me to [marinate](B-reminder/todo) [chicken](I-reminder/todo) [for](I-reminder/todo) [dinner](I-reminder/todo)
+- remind me in 10 minutes to [leave](B-reminder/todo)
+- remind me to [make](B-reminder/todo) [the](I-reminder/todo) [car](I-reminder/todo) [payment](I-reminder/todo) [next](B-datetime) [monday](I-datetime) [at](I-datetime) [10](I-datetime) [am](I-datetime)
+- please remind me to [go](B-reminder/todo) [to](I-reminder/todo) [the](I-reminder/todo) [store](I-reminder/todo) [tomorrow](B-datetime) [at](I-datetime) [5](I-datetime)
+- remind me to [buy](B-reminder/todo) [eggs](I-reminder/todo) [at](I-reminder/todo) [the](I-reminder/todo) [grocery](I-reminder/todo) [store](I-reminder/todo) [tonight](B-datetime)
+- set a [reminder](B-reminder/noun) to [buy](B-reminder/todo) [milk](I-reminder/todo) [at](I-reminder/todo) [walmart](I-reminder/todo)
+- remind me [10](B-datetime) [am](I-datetime) [tomorrow](I-datetime) , [call](B-reminder/todo) [star](I-reminder/todo)
+- remind me to [pick](B-reminder/todo) [up](I-reminder/todo) [the](I-reminder/todo) [dry](I-reminder/todo) [cleaning](I-reminder/todo)
+- remind me to [call](B-reminder/todo) [and](I-reminder/todo) [schedule](I-reminder/todo) [teeth](I-reminder/todo) [cleaning](I-reminder/todo)
+- remind me to [take](B-reminder/todo) [kids](I-reminder/todo) [school](I-reminder/todo) [shopping](I-reminder/todo)
+- remind me to [go](B-reminder/todo) [to](I-reminder/todo) [bed](I-reminder/todo) [early](I-reminder/todo)
+- set a [reminder](B-reminder/noun) to [buy](B-reminder/todo) [cat](I-reminder/todo) [food](I-reminder/todo) .
+- remind me to [call](B-reminder/todo) [mom](I-reminder/todo) [tonight](B-datetime)
+- i need a [reminder](B-reminder/noun) to [go](B-reminder/todo) [get](I-reminder/todo) [milk](I-reminder/todo) [this](B-datetime) [afternoon](I-datetime) .
+- remind me to [buy](B-reminder/todo) [sissys](I-reminder/todo) [present](I-reminder/todo) [tomorrow](B-datetime)
+- remind me to [do](B-reminder/todo) [the](I-reminder/todo) [survey](I-reminder/todo) [at](B-datetime) [10](I-datetime) [:](I-datetime) [00](I-datetime) [am](I-datetime)
+- can you remind me to [buy](B-reminder/todo) [some](I-reminder/todo) [cereal](I-reminder/todo)
+- please set a [reminder](B-reminder/noun) for my [doctor](B-reminder/todo) [appointment](I-reminder/todo) [next](B-datetime) [wednesday](I-datetime) .
+- remind me to [check](B-reminder/todo) [pie](I-reminder/todo) [in](B-datetime) [55](I-datetime) [minutes](I-datetime)
+- remind me to [pick](B-reminder/todo) [up](I-reminder/todo) [dog](I-reminder/todo) [food](I-reminder/todo) .
+- remind me to [empty](B-reminder/todo) [the](I-reminder/todo) [fridge](I-reminder/todo)
+- remind me to [go](B-reminder/todo) [to](I-reminder/todo) [the](I-reminder/todo) [bank](I-reminder/todo) [on](B-datetime) [monday](I-datetime) .
+- remind me to [call](B-reminder/todo) [back](I-reminder/todo) [stacey](I-reminder/todo)
+- remind me to [take](B-reminder/todo) [my](I-reminder/todo) [gatorade](I-reminder/todo) [with](I-reminder/todo) [me](I-reminder/todo) [before](I-reminder/todo) [i](I-reminder/todo) [leave](I-reminder/todo) [for](I-reminder/todo) [the](I-reminder/todo) [gym](I-reminder/todo) [at](B-datetime) [5](I-datetime) [:](I-datetime) [00](I-datetime) [pm](I-datetime) .
+- set [reminder](B-reminder/noun) [for](B-datetime) [10](I-datetime) [:](I-datetime) [30](I-datetime) [pm](I-datetime)
+- set a [reminder](B-reminder/noun) to [call](B-reminder/todo) [becky](I-reminder/todo) [friday](B-datetime)
+- set [reminder](B-reminder/noun) to [call](B-reminder/todo) [mother](I-reminder/todo) .
+- remind me of [yankee](B-reminder/todo) [game](I-reminder/todo) [on](B-datetime) [thursday](I-datetime)
+- set [reminder](B-reminder/noun) to [pick](B-reminder/todo) [up](I-reminder/todo) [kids](I-reminder/todo) [from](I-reminder/todo) [school](I-reminder/todo) [at](B-datetime) [2](I-datetime) [p.m](I-datetime) .
+- set a [reminder](B-reminder/noun) to [pay](B-reminder/todo) [the](I-reminder/todo) [cable](I-reminder/todo) [bill](I-reminder/todo) [at](B-datetime) [7](I-datetime) [pm](I-datetime)
+- remind me that i have a [conference](B-reminder/todo) [call](I-reminder/todo) [tomorrow](B-datetime) [at](I-datetime) [10](I-datetime) [am](I-datetime)
+- remind me to [start](B-reminder/todo) [dinner](I-reminder/todo) [at](B-datetime) [4pm](I-datetime)
+- remind me to [buy](B-reminder/todo) [tissue](I-reminder/todo)
+- remind me to [buy](B-reminder/todo) [litter](I-reminder/todo)
+- set a [reminder](B-reminder/noun) to [visit](B-reminder/todo) [the](I-reminder/todo) [doctor](I-reminder/todo) [next](B-datetime) [tuesday](I-datetime) [at](I-datetime) [9am](I-datetime) .
+- remind me to [go](B-reminder/todo) [to](I-reminder/todo) [my](I-reminder/todo) [doctor's](I-reminder/todo) [appointment](I-reminder/todo) [tomorrow](B-datetime)
+- set [reminder](B-reminder/noun) for [doctors](B-reminder/todo) [appointment](I-reminder/todo) [at](B-datetime) [4](I-datetime) [:](I-datetime) [30](I-datetime)
+- set 3 [reminders](B-reminder/noun) [today](B-datetime) [for](I-datetime) [2](I-datetime) , [4](B-datetime) and [6](B-datetime) [pm](I-datetime) .
+- remind me about [tomorrow](B-reminder/todo) [playdate](I-reminder/todo)
+- set a [reminder](B-reminder/noun) to [buy](B-reminder/todo) [concert](I-reminder/todo) [ticket](I-reminder/todo) [tomorrow](B-datetime) [afternoon](I-datetime) .
+- remind me to [cancel](B-reminder/todo) [my](I-reminder/todo) [pedicure](I-reminder/todo) [appointment](I-reminder/todo) .
+- set [reminder](B-reminder/noun) to [brush](B-reminder/todo) [dog](I-reminder/todo) [on](B-datetime) [sunday](I-datetime) [morning](I-datetime)
+- set [reminder](B-reminder/noun) for [bus](B-reminder/todo) [pick](I-reminder/todo) [up](I-reminder/todo)
+- remind me [when](B-reminder/todo) [i](I-reminder/todo) [get](I-reminder/todo) [home](I-reminder/todo) [to](I-reminder/todo) [take](I-reminder/todo) [out](I-reminder/todo) [the](I-reminder/todo) [trash](I-reminder/todo) .
+- set a [reminder](B-reminder/noun) to [paint](B-reminder/todo) [the](I-reminder/todo) [ceiling](I-reminder/todo) [tomorrow](B-datetime) [at](I-datetime) [6pm](I-datetime)
+- remind me to [go](B-reminder/todo) [to](I-reminder/todo) [the](I-reminder/todo) [dentist](I-reminder/todo)
+- remind me to [stop](B-reminder/todo) [at](I-reminder/todo) [the](I-reminder/todo) [dry](I-reminder/todo) [cleaners](I-reminder/todo) [after](I-reminder/todo) [work](I-reminder/todo) [on](B-datetime) [tuesday](I-datetime)
+- remind me to [get](B-reminder/todo) [bread](I-reminder/todo) [at](I-reminder/todo) [the](I-reminder/todo) [store](I-reminder/todo)
+- remind me to [buy](B-reminder/todo) [bread](I-reminder/todo) [tomorrow](B-datetime)
+- remind me [your](B-reminder/todo) [grandmothers](I-reminder/todo) [birthday](I-reminder/todo)
+- remind me to [order](B-reminder/todo) [cat](I-reminder/todo) [food](I-reminder/todo) [online](I-reminder/todo) .
+- set a [reminder](B-reminder/noun) to [do](B-reminder/todo) [a](I-reminder/todo) [follow](I-reminder/todo) [up](I-reminder/todo)
+- remind me to [cancel](B-reminder/todo) [that](I-reminder/todo) [subscription](I-reminder/todo)
+- set a [reminder](B-reminder/noun) for my [doctor](B-reminder/todo) [appointment](I-reminder/todo) [on](B-datetime) [tuesday](I-datetime) [at](I-datetime) [10](I-datetime) [am](I-datetime) [.](I-datetime)
+- remind me to [work](B-reminder/todo) [out](I-reminder/todo) a [3pm](B-datetime)
+- remind me to [go](B-reminder/todo) [to](I-reminder/todo) [the](I-reminder/todo) [grocery](I-reminder/todo) [store](I-reminder/todo) [after](I-reminder/todo) [work](I-reminder/todo) [next](B-datetime) [thursday](I-datetime)
+- remind me to [go](B-reminder/todo) [to](I-reminder/todo) [bed](I-reminder/todo) [by](B-datetime) [10pm](I-datetime) .
+- set a [reminder](B-reminder/noun) to [get](B-reminder/todo) [toothpaste](I-reminder/todo) [at](I-reminder/todo) [walgreen's](I-reminder/todo)
+- remind me to [pick](B-reminder/todo) [up](I-reminder/todo) [the](I-reminder/todo) [kids](I-reminder/todo) [from](I-reminder/todo) [school](I-reminder/todo)
+- remind me to [go](B-reminder/todo) [to](I-reminder/todo) [church](I-reminder/todo) [every](B-reminder/recurring_period) [sunday](I-reminder/recurring_period) [at](B-datetime) [8am](I-datetime)
+- set a [reminder](B-reminder/noun) [for](B-datetime) [6pm](I-datetime) [on](I-datetime) [mondays](I-datetime) , [wednesdays](B-datetime) and [fridays](B-datetime)
+- [remind](B-reminder/noun) me to [buy](B-reminder/todo) [more](I-reminder/todo) [contact](I-reminder/todo) [lens](I-reminder/todo) [solution](I-reminder/todo) .
+- remind me to [go](B-reminder/todo) [gift](I-reminder/todo) [shopping](I-reminder/todo) [for](I-reminder/todo) [my](I-reminder/todo) [mom's](I-reminder/todo) [birthday](I-reminder/todo) [this](B-datetime) [week](I-datetime) .
+- remind me to [pick](B-reminder/todo) [the](I-reminder/todo) [kids](I-reminder/todo) [tomorrow](B-datetime)
+- set [reminder](B-reminder/noun) [for](B-datetime) [7](I-datetime) to [pick](B-reminder/todo) [up](I-reminder/todo) [kids](I-reminder/todo)
+- remind me to [take](B-reminder/todo) [andrew](I-reminder/todo) [lunch](I-reminder/todo) .
+- set [reminder](B-reminder/noun) to [get](B-reminder/todo) [gas](I-reminder/todo) [before](I-reminder/todo) [work](I-reminder/todo) [tomorrow](B-datetime) [at](I-datetime) [7](I-datetime) [am](I-datetime)
+- remind me to [buy](B-reminder/todo) [milk](I-reminder/todo)
+- remind me to [pay](B-reminder/todo) [coach](I-reminder/todo) [dave](I-reminder/todo) [on](B-datetime) [wednesday](I-datetime)
+- remind me to [cook](B-reminder/todo) [dinner](I-reminder/todo) [at](B-datetime) [6pm](I-datetime)
+- i need to set a [reminder](B-reminder/noun)
+- remind me to [pick](B-reminder/todo) [up](I-reminder/todo) [a](I-reminder/todo) [new](I-reminder/todo) [lightbulb](I-reminder/todo) [while](I-reminder/todo) [i'm](I-reminder/todo) [at](I-reminder/todo) [the](I-reminder/todo) [store](I-reminder/todo) .
+- remind me to [take](B-reminder/todo) [my](I-reminder/todo) [medication](I-reminder/todo) [every](B-reminder/recurring_period) [day](I-reminder/recurring_period)
+- i [need](B-reminder/todo) [some](I-reminder/todo) [eggs](I-reminder/todo) remind me at the store
+- remind me to [get](B-reminder/todo) [a](I-reminder/todo) [card](I-reminder/todo) [for](I-reminder/todo) [moms](I-reminder/todo) [bday](I-reminder/todo)
+- [reminder](B-reminder/noun) - [get](B-reminder/todo) [hairstylist](I-reminder/todo) [appointment](I-reminder/todo)
+- remind me to [cut](B-reminder/todo) [the](I-reminder/todo) [grass](I-reminder/todo) [on](B-datetime) [sunday](I-datetime)
+- remind me to [greet](B-reminder/todo) [johnny](I-reminder/todo) [at](B-datetime) [8](I-datetime)
+- set a [reminder](B-reminder/noun) to [call](B-reminder/todo) [my](I-reminder/todo) [brother](I-reminder/todo) .
+- remind me to [cancel](B-reminder/todo) [the](I-reminder/todo) [party](I-reminder/todo)
+- remind me to [turn](B-reminder/todo) [off](I-reminder/todo) [the](I-reminder/todo) [sprinkler](I-reminder/todo) [in](B-datetime) [30](I-datetime) [minutes](I-datetime)
+- set [reminder](B-reminder/noun) to [call](B-reminder/todo) [mechanic](I-reminder/todo)
+- remind me to [order](B-reminder/todo) [pizza](I-reminder/todo) .
+- remind me to [get](B-reminder/todo) [the](I-reminder/todo) [grocery](I-reminder/todo) [list](I-reminder/todo) [before](I-reminder/todo) [leaving](I-reminder/todo) [work](I-reminder/todo)
+- remind me to [pay](B-reminder/todo) [the](I-reminder/todo) [water](I-reminder/todo) [bill](I-reminder/todo) .
+- remind me to [check](B-reminder/todo) [jake's](I-reminder/todo) [homework](I-reminder/todo) .
+- set reminder to [call](B-reminder/todo) [susie](I-reminder/todo) [in](B-datetime) [the](I-datetime) [morning](I-datetime)
+- remind me [3](B-datetime) [hours](I-datetime) [before](I-datetime) the [event](B-reminder/todo)
+- remind me to [set](B-reminder/todo) [an](I-reminder/todo) [alarm](I-reminder/todo) [for](B-datetime) [tomorrow](I-datetime) [morning](I-datetime)
+- remind me i have a [dentist](B-reminder/todo) [appointment](I-reminder/todo) [on](B-datetime) [the](I-datetime) [23rd](I-datetime) [at](I-datetime) [11](I-datetime) [:](I-datetime) [30am](I-datetime)
+- remind me [tonight](B-datetime) [at](I-datetime) [6](I-datetime) to [go](B-reminder/todo) [shopping](I-reminder/todo) .
+- remind me [pay](B-reminder/todo) [gas](I-reminder/todo) [bill](I-reminder/todo)
+- remind me to [go](B-reminder/todo) [to](I-reminder/todo) [the](I-reminder/todo) [grocery](I-reminder/todo) [store](I-reminder/todo) [on](I-reminder/todo) [my](I-reminder/todo) [way](I-reminder/todo) [home](I-reminder/todo) [from](I-reminder/todo) [work](I-reminder/todo) [today](B-datetime) .
+- remind me to [call](B-reminder/todo) [my](I-reminder/todo) [dad](I-reminder/todo) [tonight](B-datetime)
+- remind me to [stop](B-reminder/todo) [and](I-reminder/todo) [get](I-reminder/todo) [bread](I-reminder/todo) [on](I-reminder/todo) [way](I-reminder/todo) [home](I-reminder/todo)
+- remind me to [get](B-reminder/todo) [my](I-reminder/todo) [medication](I-reminder/todo) [tomorrow](B-datetime) .
+- please remind me [every](B-reminder/recurring_period) [month](I-reminder/recurring_period) to [pay](B-reminder/todo) [the](I-reminder/todo) [bill](I-reminder/todo) .
+- create a [reminder](B-reminder/noun) [for](B-datetime) [5](I-datetime) [pm](I-datetime) [tonight](I-datetime)
+- remind me to [visit](B-reminder/todo) [the](I-reminder/todo) [dentist](I-reminder/todo) [friday](B-datetime) [morning](I-datetime)
+- remind me to [stop](B-reminder/todo) [by](I-reminder/todo) [the](I-reminder/todo) [office](I-reminder/todo) [at](B-datetime) [4](I-datetime) [pm](I-datetime) .
+- remind me of my [doctor](B-reminder/todo) ['](I-reminder/todo) [appointment](I-reminder/todo) [on](B-datetime) [tuesday](I-datetime) [at](I-datetime) [10am](I-datetime)
+- remind me [when](B-reminder/todo) [it](I-reminder/todo) [is](I-reminder/todo) [mothers](I-reminder/todo) [day](I-reminder/todo) .
+- set up a [reminder](B-reminder/noun) to [buy](B-reminder/todo) [toothpaste](I-reminder/todo)
+- remind me to [shop](B-reminder/todo) [at](B-datetime) [6](I-datetime) [in](I-datetime) [the](I-datetime) [evening](I-datetime)
+- remind me to [go](B-reminder/todo) [to](I-reminder/todo) [the](I-reminder/todo) [kids](I-reminder/todo) [school](I-reminder/todo)
+- remind me to [set](B-reminder/todo) [my](I-reminder/todo) [alarm](I-reminder/todo) [tonight](B-datetime)
+- remind me to [buy](B-reminder/todo) [eggs](I-reminder/todo) [tomorrow](B-datetime) .
+- remind me to [buy](B-reminder/todo) [milk](I-reminder/todo) [tonight](B-datetime)
+- remind me to [pick](B-reminder/todo) [up](I-reminder/todo) [the](I-reminder/todo) [groceries](I-reminder/todo) [at](B-datetime) [5pm](I-datetime) [tonight](I-datetime)
+- remind me [every](B-reminder/recurring_period) [thursday](I-reminder/recurring_period) [at](B-datetime) [7](I-datetime) [:](I-datetime) [30pm](I-datetime) , [trash](B-reminder/todo) .
+- remind me of [exam](B-reminder/todo)
+- remind me to [call](B-reminder/todo) [mom](I-reminder/todo)
+- remind me to [call](B-reminder/todo) [alicia](I-reminder/todo) .
+- [remind](B-reminder/noun) me to [call](B-reminder/todo) [the](I-reminder/todo) [doctor](I-reminder/todo)
+- remind me to [get](B-reminder/todo) [lightbulbs](I-reminder/todo) [on](I-reminder/todo) [the](I-reminder/todo) [way](I-reminder/todo) [home](I-reminder/todo)
+- remind me of my [meeting](B-reminder/todo) [tonight](I-reminder/todo) [at](I-reminder/todo) [7](I-reminder/todo) [at](I-reminder/todo) [the](I-reminder/todo) [ems](I-reminder/todo) [building](I-reminder/todo)
+- remind me [at](B-datetime) [4](I-datetime) [:](I-datetime) [00pm](I-datetime) to [call](B-reminder/todo) [the](I-reminder/todo) [dentist](I-reminder/todo)
+- remind me to [finish](B-reminder/todo) [my](I-reminder/todo) [expense](I-reminder/todo) [reports](I-reminder/todo) [tomorrow](B-datetime) [at](I-datetime) [10](I-datetime) [:](I-datetime) [07am](I-datetime) .
+- remind me to [pick](B-reminder/todo) [up](I-reminder/todo) [the](I-reminder/todo) [cat](I-reminder/todo) [from](I-reminder/todo) [the](I-reminder/todo) [vet's](I-reminder/todo) [office](I-reminder/todo) [at](B-datetime) [4pm](I-datetime)
+- remind me to [pick](B-reminder/todo) [-](I-reminder/todo) [up](I-reminder/todo) [bagels](I-reminder/todo) [from](I-reminder/todo) [panera](I-reminder/todo) [at](B-datetime) [6](I-datetime) [:](I-datetime) [30](I-datetime) [am](I-datetime) [tomorrow](I-datetime)
+- remind me to [pick](B-reminder/todo) [up](I-reminder/todo) [medicine](I-reminder/todo) [at](I-reminder/todo) [the](I-reminder/todo) [pharmacy](I-reminder/todo) [tomorrow](B-datetime) [at](I-datetime) [2pm](I-datetime) .
+- remind me to [pay](B-reminder/todo) [the](I-reminder/todo) [water](I-reminder/todo) [bill](I-reminder/todo) [friday](B-datetime)
+- remind me to [call](B-reminder/todo) [mom](I-reminder/todo)
+- remind me to [buy](B-reminder/todo) [milk](I-reminder/todo) [tomorrow](B-datetime) after work
+- remind me to [buy](B-reminder/todo) [bread](I-reminder/todo)
+- set a [reminder](B-reminder/noun) to [pay](B-reminder/todo) [the](I-reminder/todo) [water](I-reminder/todo) [bill](I-reminder/todo)
+- set [reminder](B-reminder/noun) [for](B-datetime) [9](I-datetime) [pm](I-datetime) .
+- remind me about the [dermatologist](B-reminder/todo) [appointment](I-reminder/todo) [on](B-datetime) [monday](I-datetime)
+- remind me to [buy](B-reminder/todo) [a](I-reminder/todo) [new](I-reminder/todo) [backpack](I-reminder/todo) .
+- remind me to [call](B-reminder/todo) [the](I-reminder/todo) [doctor](I-reminder/todo) [on](B-datetime) [friday](I-datetime)
+- can you remind to me [call](B-reminder/todo) [dave](I-reminder/todo) [tomorrow](B-datetime) ?
+- remind me to [send](B-reminder/todo) [flowers](I-reminder/todo) [for](I-reminder/todo) [mom's](I-reminder/todo) [birthday](I-reminder/todo)
+- remind me to [skype](B-reminder/todo) [with](I-reminder/todo) [mike](I-reminder/todo) [tomorrow](B-datetime)
+- put [daily](B-reminder/recurring_period) [8](B-datetime) [am](I-datetime) [reminder](B-reminder/noun) to [water](B-reminder/todo) [plant](I-reminder/todo)
+- remind me to [pick](B-reminder/todo) [up](I-reminder/todo) [alan](I-reminder/todo) [from](I-reminder/todo) [the](I-reminder/todo) [airport](I-reminder/todo) [at](B-datetime) [3](I-datetime) [:](I-datetime) [00](I-datetime) [today](I-datetime)
+- set [reminder](B-reminder/noun) [on](B-datetime) [august](I-datetime) [30th](I-datetime) " [springsteen](B-reminder/todo) [on](I-reminder/todo) [broadway](I-reminder/todo) "
+- remind me about my [blood](B-reminder/todo) [draw](I-reminder/todo) [monday](B-datetime) [at](I-datetime) [7](I-datetime) [pm](I-datetime)
+- set reoccurring [reminder](B-reminder/noun) for [friday](B-reminder/recurring_period) [at](I-reminder/recurring_period) [five](I-reminder/recurring_period)
+- remind me to [get](B-reminder/todo) [carrots](I-reminder/todo) [at](I-reminder/todo) [the](I-reminder/todo) [grocery](I-reminder/todo) [store](I-reminder/todo) [tomorrow](B-datetime)
+- please remind me to [go](B-reminder/todo) [to](I-reminder/todo) [my](I-reminder/todo) [meeting](I-reminder/todo) [at](B-datetime) [3pm](I-datetime) .
+- remind me to [work](B-reminder/todo) [saturday](B-datetime)
+- remind me to [bake](B-reminder/todo) [cookies](I-reminder/todo) [for](I-reminder/todo) [the](I-reminder/todo) [bake](I-reminder/todo) [sale](I-reminder/todo) [on](B-datetime) [thursday](I-datetime)
+- remind me to [buy](B-reminder/todo) [sugar](I-reminder/todo) [tonight](B-datetime)
+- please remind me to [call](B-reminder/todo) [my](I-reminder/todo) [mom](I-reminder/todo) [tomorrow](B-datetime)
+- add a " [doctor](B-reminder/todo) [visit](I-reminder/todo) " [reminder](B-reminder/noun) [for](B-datetime) [monday](I-datetime) [at](I-datetime) [2pm](I-datetime)
+- remind me to [buy](B-reminder/todo) [bread](I-reminder/todo) [at](I-reminder/todo) [the](I-reminder/todo) [store](I-reminder/todo) [tomorrow](B-datetime)
+- remind me to [go](B-reminder/todo) [to](I-reminder/todo) [the](I-reminder/todo) [bank](I-reminder/todo) [after](I-reminder/todo) [work](I-reminder/todo)
+- set [reminder](B-reminder/noun) for [work](B-reminder/todo) [at](B-datetime) [9](I-datetime) [am](I-datetime) [tomorrow](I-datetime) .
+- set a [reminder](B-reminder/noun) for [dr](B-reminder/todo) [.](I-reminder/todo) [hayes](I-reminder/todo) [on](B-datetime) [august](I-datetime) [15](I-datetime) [at](I-datetime) [2pm](I-datetime)
+- remind me to [take](B-reminder/todo) [my](I-reminder/todo) [medicine](I-reminder/todo)
+- remind me to [take](B-reminder/todo) [my](I-reminder/todo) [medicine](I-reminder/todo) [tomorrow](B-datetime) [at](I-datetime) [2](I-datetime) [pm](I-datetime)
+- remind me to [go](B-reminder/todo) [to](I-reminder/todo) [business](I-reminder/todo) [meeting](I-reminder/todo) [at](B-datetime) [1](I-datetime) [:](I-datetime) [30](I-datetime) [pm](I-datetime) [tomorrow](I-datetime) .
+- remind me to [buy](B-reminder/todo) [a](I-reminder/todo) [new](I-reminder/todo) [alarm](I-reminder/todo) [clock](I-reminder/todo) !
+- set a [reminder](B-reminder/noun) to [start](B-reminder/todo) [cooking](I-reminder/todo) [lunch](I-reminder/todo) [before](I-reminder/todo) [tina](I-reminder/todo) [gets](I-reminder/todo) [home](I-reminder/todo) [at](B-datetime) [4](I-datetime) [p.m](I-datetime) .
+- remind me to [get](B-reminder/todo) [milk](I-reminder/todo) [on](I-reminder/todo) [the](I-reminder/todo) [way](I-reminder/todo) [home](I-reminder/todo) .
+- remind me to [call](B-reminder/todo) [zumba](I-reminder/todo) [head](I-reminder/todo) [quarters](I-reminder/todo) [tomorrow](B-datetime)
+- set a [reminder](B-reminder/noun) [for](B-datetime) [10am](I-datetime) [tomorrow](I-datetime)
+- remind me to [stop](B-reminder/todo) [for](I-reminder/todo) [fuel](I-reminder/todo) [this](B-datetime) [afternoon](I-datetime) .
+- remind me of [dentist](B-reminder/todo) [appointment](I-reminder/todo) [friday](B-datetime)
+- remind me to [send](B-reminder/todo) [paperwork](I-reminder/todo) [to](I-reminder/todo) [lawyer](I-reminder/todo)
+- create a [reminder](B-reminder/noun) to [pack](B-reminder/todo) [for](I-reminder/todo) [trip](I-reminder/todo) .
+- remind me to [pick](B-reminder/todo) [up](I-reminder/todo) [kids](I-reminder/todo) [at](B-datetime) [4pm](I-datetime) .
+- remind to me to [study](B-reminder/todo) [for](I-reminder/todo) [exams](I-reminder/todo) [at](B-datetime) [9](I-datetime)
+- create a [reminder](B-reminder/noun) [on](B-datetime) [september](I-datetime) [27th](I-datetime) [at](I-datetime) [3pm](I-datetime) that [mom's](B-reminder/todo) [birthday](I-reminder/todo) is [tomorrow](B-datetime)
+- remind me to [visit](B-reminder/todo) [mary](I-reminder/todo) [tonight](B-datetime)
+- remind me to [pick](B-reminder/todo) [up](I-reminder/todo) [the](I-reminder/todo) [mail](I-reminder/todo) [when](I-reminder/todo) [i](I-reminder/todo) [get](I-reminder/todo) [home](I-reminder/todo) .
+- remind me to [pick](B-reminder/todo) [up](I-reminder/todo) [milk](I-reminder/todo)
+- remind me to [wake](B-reminder/todo) [up](I-reminder/todo) in a [half](B-datetime) [an](I-datetime) [hour](I-datetime)
+- remind me to [set](B-reminder/todo) [dentist](I-reminder/todo) [appointment](I-reminder/todo)
+- set a [reminder](B-reminder/noun) to [check](B-reminder/todo) [the](I-reminder/todo) [bathrooms](I-reminder/todo) [after](I-reminder/todo) [the](I-reminder/todo) [scout](I-reminder/todo) [meeting](I-reminder/todo)
+- add a [reminder](B-reminder/noun) [for](B-datetime) [next](I-datetime) [sunday](I-datetime)
+- remind me to [take](B-reminder/todo) [food](I-reminder/todo) [out](I-reminder/todo) [of](I-reminder/todo) [the](I-reminder/todo) [oven](I-reminder/todo) [in](B-datetime) [1](I-datetime) [hour](I-datetime)
+- remind me to [pick](B-reminder/todo) [up](I-reminder/todo) [dinner](I-reminder/todo) .
+- please remind me to [get](B-reminder/todo) [cat](I-reminder/todo) [food](I-reminder/todo) [while](I-reminder/todo) [i'm](I-reminder/todo) [out](I-reminder/todo) .
+- i need a [reminder](B-reminder/noun) to [pick](B-reminder/todo) [the](I-reminder/todo) [kids](I-reminder/todo) [up](I-reminder/todo) [today](B-datetime)
+- remind me to [buy](B-reminder/todo) [toilet](I-reminder/todo) [paper](I-reminder/todo) .
+- remind me to [buy](B-reminder/todo) [eggs](I-reminder/todo) [tomorrow](B-datetime) .
+- remind me of the [deadline](B-reminder/todo) [for](I-reminder/todo) [the](I-reminder/todo) [project](I-reminder/todo)
+- remind me to [cancel](B-reminder/todo) [my](I-reminder/todo) [doctor's](I-reminder/todo) [appointment](I-reminder/todo) .
+- please remind me to [mail](B-reminder/todo) [the](I-reminder/todo) [package](I-reminder/todo) [on](B-datetime) [thursday](I-datetime)
+- remind me to [buy](B-reminder/todo) [juice](I-reminder/todo) [tonight](B-datetime) .
+- remind me to [take](B-reminder/todo) [the](I-reminder/todo) [bread](I-reminder/todo) [out](I-reminder/todo) [of](I-reminder/todo) [the](I-reminder/todo) [oven](I-reminder/todo) [in](B-datetime) [45](I-datetime) [minutes](I-datetime)
+- set [daily](B-reminder/recurring_period) reminder [at](B-datetime) [4](I-datetime) [:](I-datetime) [45pm](I-datetime) to [pack](B-reminder/todo) [up](I-reminder/todo) .
+- remind me that [i](B-reminder/todo) [already](I-reminder/todo) [refilled](I-reminder/todo) [my](I-reminder/todo) [prescription](I-reminder/todo) [and](I-reminder/todo) [don't](I-reminder/todo) [need](I-reminder/todo) [to](I-reminder/todo) [do](I-reminder/todo) [it](I-reminder/todo) [again](I-reminder/todo) [until](I-reminder/todo) [next](I-reminder/todo) [month](I-reminder/todo) .
+- set reminder to [call](B-reminder/todo) [macy's](I-reminder/todo) [at](B-datetime) [9](I-datetime) [:](I-datetime) [30](I-datetime) [am](I-datetime) [tomorrow](I-datetime)
+- remind me to [cook](B-reminder/todo) [tonight](B-datetime) [at](I-datetime) [6](I-datetime)
+- remind me to [make](B-reminder/todo) [a](I-reminder/todo) [shopping](I-reminder/todo) [list](I-reminder/todo) [when](I-reminder/todo) [i](I-reminder/todo) [get](I-reminder/todo) [home](I-reminder/todo)
+- remind me to [drink](B-reminder/todo) [water](I-reminder/todo) [every](B-reminder/recurring_period) [hour](I-reminder/recurring_period)
+- set a [reminder](B-reminder/noun) [for](B-datetime) [tomorrow](I-datetime) [at](I-datetime) [9am](I-datetime)
+- remind me to [complete](B-reminder/todo) [my](I-reminder/todo) [work](I-reminder/todo) [tonight](B-datetime)
+- remind me to [call](B-reminder/todo) [the](I-reminder/todo) [dentist](I-reminder/todo) [on](B-datetime) [thursday](I-datetime) [at](I-datetime) [10am](I-datetime)
+- create [reminder](B-reminder/noun) to [buy](B-reminder/todo) [toothpaste](I-reminder/todo)
+- set [reminder](B-reminder/noun) for [flight](B-reminder/todo) [tomorrow](B-datetime) [at](I-datetime) [7pm](I-datetime)
+- remind me to [take](B-reminder/todo) [the](I-reminder/todo) [chicken](I-reminder/todo) [out](I-reminder/todo) [of](I-reminder/todo) [the](I-reminder/todo) [oven](I-reminder/todo) [in](B-datetime) [10](I-datetime) [minutes](I-datetime) .
+- add [reminder](B-reminder/noun) to [finish](B-reminder/todo) [work](I-reminder/todo) [at](B-datetime) [8](I-datetime) [pm](I-datetime)
+- remind me to [sweep](B-reminder/todo)
+- [reminder](B-reminder/noun) for [vacation](B-reminder/todo)
+- set [reminder](B-reminder/noun) for the [dentist](B-reminder/todo)
+- remind me to [pick](B-reminder/todo) [up](I-reminder/todo) [sara](I-reminder/todo) [from](I-reminder/todo) [ballet](I-reminder/todo) [at](B-datetime) [5](I-datetime) .
+- remind me to [pay](B-reminder/todo) [rent](I-reminder/todo) [tomorrow](B-datetime) [morning](I-datetime)
+- remind me to [buy](B-reminder/todo) [diapers](I-reminder/todo) [at](I-reminder/todo) [the](I-reminder/todo) [store](I-reminder/todo)
+- remind me to [buy](B-reminder/todo) [bread](I-reminder/todo) [today](B-datetime)
+- remind me to [go](B-reminder/todo) [to](I-reminder/todo) [the](I-reminder/todo) [gym](I-reminder/todo) [at](B-datetime) [7](I-datetime) [pm](I-datetime)
+- remind me to [buy](B-reminder/todo) [milk](I-reminder/todo)
+- remind me to [check](B-reminder/todo) [on](I-reminder/todo) [the](I-reminder/todo) [chicken](I-reminder/todo) [in](B-datetime) [20](I-datetime) [mins](I-datetime)
+- remind me to [tell](B-reminder/todo) [joe](I-reminder/todo) [about](I-reminder/todo) [my](I-reminder/todo) [conversation](I-reminder/todo)
+- set my [reminder](B-reminder/noun) [when](B-reminder/todo) [the](I-reminder/todo) [eagles](I-reminder/todo) [game](I-reminder/todo) [starts](I-reminder/todo) .
+- remind me to [call](B-reminder/todo) [the](I-reminder/todo) [school](I-reminder/todo) [on](B-datetime) [tuesday](I-datetime) .
+- remind me to [pick](B-reminder/todo) [up](I-reminder/todo) [my](I-reminder/todo) [prescriptions](I-reminder/todo) [tomorrow](B-datetime) .
+- set a [reminder](B-reminder/noun) for [an](B-reminder/todo) [hour](I-reminder/todo) [before](I-reminder/todo) [my](I-reminder/todo) [dentist](I-reminder/todo) [appointment](I-reminder/todo) .
+- remind me to [call](B-reminder/todo) [my](I-reminder/todo) [boss](I-reminder/todo) .
+- remind me to [open](B-reminder/todo) [the](I-reminder/todo) [oven](I-reminder/todo) [in](B-datetime) [15](I-datetime) [minutes](I-datetime)
+- remind me to [buy](B-reminder/todo) [dog](I-reminder/todo) [food](I-reminder/todo) [at](I-reminder/todo) [the](I-reminder/todo) [store](I-reminder/todo) [tomorrow](B-datetime)
+- remind me to [start](B-reminder/todo) [making](I-reminder/todo) [pasta](I-reminder/todo) [dough](I-reminder/todo) [at](B-datetime) [4](I-datetime) [:](I-datetime) [30](I-datetime) .
+- [reminder](B-reminder/noun) to [water](B-reminder/todo) [plants](I-reminder/todo) [today](B-datetime)
+- remind me to [stop](B-reminder/todo) [at](I-reminder/todo) [the](I-reminder/todo) [grocery](I-reminder/todo) [store](I-reminder/todo) [before](I-reminder/todo) [picking](I-reminder/todo) [up](I-reminder/todo) [from](I-reminder/todo) [school](I-reminder/todo)
+- remind me to [set](B-reminder/todo) [an](I-reminder/todo) [eye](I-reminder/todo) [appointment](I-reminder/todo) [for](B-datetime) [friday](I-datetime)
+- remind me of my [dentist](B-reminder/todo) [appointment](I-reminder/todo) [tomorrow](B-datetime) [at](I-datetime) [10](I-datetime) .
+- remind me [one](B-datetime) [day](I-datetime) [before](I-datetime) [kyle's](B-reminder/todo) [doctor's](I-reminder/todo) [appointment](I-reminder/todo)
+- set a [reminder](B-reminder/noun) for [bachelor](B-reminder/todo) [party](I-reminder/todo) [saturday](B-datetime) [at](I-datetime) [5](I-datetime) [pm](I-datetime) .
+- please remind me to [get](B-reminder/todo) [gas](I-reminder/todo) [for](I-reminder/todo) [car](I-reminder/todo)
+- remind me [in](B-datetime) [5](I-datetime) [minutes](I-datetime)
+- remind me to [pay](B-reminder/todo) [the](I-reminder/todo) [light](I-reminder/todo) [bill](I-reminder/todo) [monday](B-datetime) [morning](I-datetime)
+- remind me to [clean](B-reminder/todo) [litter](I-reminder/todo) [box](I-reminder/todo) [on](B-datetime) [tuesday](I-datetime)
+- remind me to [pay](B-reminder/todo) [the](I-reminder/todo) [mortgage](I-reminder/todo) [tomorrow](B-datetime) [afternoon](I-datetime) [at](I-datetime) [5](I-datetime) [pm](I-datetime)
+- remind me to [pick](B-reminder/todo) [up](I-reminder/todo) [my](I-reminder/todo) [medications](I-reminder/todo)
+- remind me to [go](B-reminder/todo) [to](I-reminder/todo) [the](I-reminder/todo) [bank](I-reminder/todo) [on](I-reminder/todo) [my](I-reminder/todo) [way](I-reminder/todo) [home](I-reminder/todo) .
+- remind me to [call](B-reminder/todo) [my](I-reminder/todo) [accountant](I-reminder/todo) [tomorrow](B-datetime) [at](I-datetime) [2](I-datetime) [pm](I-datetime)
+- remind me to [cancel](B-reminder/todo) [my](I-reminder/todo) [date](I-reminder/todo)
+- i want to set a [reminder](B-reminder/noun) for my [appointment](B-reminder/todo) [wednesday](B-datetime) [at](I-datetime) [2pm](I-datetime) .
+- remind me to [call](B-reminder/todo) [my](I-reminder/todo) [mom](I-reminder/todo) [back](I-reminder/todo) [later](B-datetime) .
+- remind me to [call](B-reminder/todo) [bob](I-reminder/todo) [at](B-datetime) [8pm](I-datetime) [tomorrow](I-datetime) .
+- remind me the day before about my [doctor's](B-reminder/todo) [appointment](I-reminder/todo) [wednesday](B-datetime) .
+- remind me to [buy](B-reminder/todo) [a](I-reminder/todo) [birthday](I-reminder/todo) [present](I-reminder/todo)
+- remind me to [call](B-reminder/todo) [my](I-reminder/todo) [dad](I-reminder/todo) [tomorrow](B-datetime)
+- remind me to [pack](B-reminder/todo) [sticky](I-reminder/todo) [notes](I-reminder/todo) [for](I-reminder/todo) [work](I-reminder/todo) [before](I-reminder/todo) [i](I-reminder/todo) [leave](I-reminder/todo) [tomorrow](B-datetime) .
+- remind me to [turn](B-reminder/todo) [off](I-reminder/todo) [the](I-reminder/todo) [oven](I-reminder/todo) [in](B-datetime) [an](I-datetime) [hour](I-datetime) .
+- remind me to [call](B-reminder/todo) [and](I-reminder/todo) [make](I-reminder/todo) [an](I-reminder/todo) [appointment](I-reminder/todo) [by](B-datetime) [3](I-datetime) [:](I-datetime) [00](I-datetime) [pm](I-datetime) .
+- remind me to [feed](B-reminder/todo) [neighbor's](I-reminder/todo) [cat](I-reminder/todo) [on](B-datetime) [wed](I-datetime) .
+- remind me to [call](B-reminder/todo) [grandma](I-reminder/todo) .
+- remind me to [get](B-reminder/todo) [dinner](I-reminder/todo) [at](B-datetime) [5](I-datetime)
+- remind me to [get](B-reminder/todo) [bbq](I-reminder/todo) [groceries](I-reminder/todo) [on](B-datetime) [friday](I-datetime)
+- remind me [chris](B-reminder/todo) [has](I-reminder/todo) [piano](I-reminder/todo) [at](B-datetime) [5](I-datetime) [:](I-datetime) [00](I-datetime) [tomorrow](I-datetime)
+- [reminder](B-reminder/noun) [groceries](B-reminder/todo) [at](I-reminder/todo) [walmart](I-reminder/todo) [today](B-datetime)
+- remind me [every](B-reminder/recurring_period) [monday](I-reminder/recurring_period)
+- set [daily](B-reminder/recurring_period) [reminder](B-reminder/noun) to [take](B-reminder/todo) [medicine](I-reminder/todo)
+- set [reminder](B-reminder/noun) for [doctors](B-reminder/todo) [appointment](I-reminder/todo) [friday](B-datetime)
+- remind me to [go](B-reminder/todo) [buy](I-reminder/todo) [milk](I-reminder/todo) [in](B-datetime) [the](I-datetime) [morning](I-datetime)
+- remind me to [wash](B-reminder/todo) [the](I-reminder/todo) [car](I-reminder/todo)
+- remind me to [pay](B-reminder/todo) [the](I-reminder/todo) [electric](I-reminder/todo) [bill](I-reminder/todo) [on](B-datetime) [august](I-datetime) [27](I-datetime) [at](I-datetime) [8am](I-datetime) .
+- remind me to [feed](B-reminder/todo) [fish](I-reminder/todo) [tonight](B-datetime) .
+- remind me of [friends](B-reminder/todo) [birthday](I-reminder/todo) [may](B-datetime) [8th](I-datetime)
+- set a [reminder](B-reminder/noun) to [take](B-reminder/todo) [birth](I-reminder/todo) [control](I-reminder/todo) [at](B-datetime) [2pm](I-datetime)
+- remind me to [deposit](B-reminder/todo) [my](I-reminder/todo) [check](I-reminder/todo) [into](I-reminder/todo) [my](I-reminder/todo) [savings](I-reminder/todo) [account](I-reminder/todo)
+- remind me to [get](B-reminder/todo) [gas](I-reminder/todo) [after](I-reminder/todo) [work](I-reminder/todo)
+- remind me to [call](B-reminder/todo) [and](I-reminder/todo) [make](I-reminder/todo) [an](I-reminder/todo) [appointment](I-reminder/todo) [by](B-datetime) [3](I-datetime) [:](I-datetime) [00](I-datetime) [pm](I-datetime) .
+- make a [reminder](B-reminder/noun) for the [hunt](B-reminder/todo) [on](B-datetime) [friday](I-datetime)
+- set [reminder](B-reminder/noun) for [ollie's](B-reminder/todo) [vet](I-reminder/todo) [appointment](I-reminder/todo) [for](B-datetime) [tuesday](I-datetime) [at](I-datetime) [9](I-datetime) [am](I-datetime)
+- set [reminder](B-reminder/noun) to [go](B-reminder/todo) [to](I-reminder/todo) [gym](I-reminder/todo) [in](B-datetime) [the](I-datetime) [morning](I-datetime) [at](I-datetime) [9am](I-datetime)
+- remind me to [buy](B-reminder/todo) [candy](I-reminder/todo) [at](I-reminder/todo) [the](I-reminder/todo) [store](I-reminder/todo)
+- remind me to workout [at](B-datetime) [noon](I-datetime)
+- remind me to [go](B-reminder/todo) [to](I-reminder/todo) [the](I-reminder/todo) [bank](I-reminder/todo) [today](B-datetime)
+- remind me to [stop](B-reminder/todo) [to](I-reminder/todo) [my](I-reminder/todo) [mom's](I-reminder/todo) [house](I-reminder/todo) [on](B-datetime) [tuesday](I-datetime) .
+- remind me to [stop](B-reminder/todo) [to](I-reminder/todo) [get](I-reminder/todo) [dinner](I-reminder/todo)
+- remind me about [vet](B-reminder/todo) [appointment](I-reminder/todo) [tomorrow](B-datetime) [at](I-datetime) [6pm](I-datetime)
+- i want you to please remind me to [pick](B-reminder/todo) [up](I-reminder/todo) [some](I-reminder/todo) [grocery](I-reminder/todo) [on](I-reminder/todo) [my](I-reminder/todo) [way](I-reminder/todo) [back](I-reminder/todo) [home](I-reminder/todo) .
+- remind me to [send](B-reminder/todo) [email](I-reminder/todo) [when](I-reminder/todo) [i](I-reminder/todo) [get](I-reminder/todo) [home](I-reminder/todo)
+- remind me to [feed](B-reminder/todo) [the](I-reminder/todo) [dog](I-reminder/todo) [at](B-datetime) [8pm](I-datetime)
+- remind me [i](B-reminder/todo) [have](I-reminder/todo) [an](I-reminder/todo) [assignment](I-reminder/todo) [due](I-reminder/todo) [tomorrow](B-datetime)
+- remind me to [buy](B-reminder/todo) [bread](I-reminder/todo)
+- i need a [reminder](B-reminder/noun) for [tom's](B-reminder/todo) [birthday](I-reminder/todo) [next](B-datetime) [friday](I-datetime) .
+- remind me [monday](B-datetime) to [make](B-reminder/todo) [a](I-reminder/todo) [podiatrist](I-reminder/todo) [appointment](I-reminder/todo)
+- set [reminder](B-reminder/noun) to [get](B-reminder/todo) [cat](I-reminder/todo) [food](I-reminder/todo) [tomorrow](I-reminder/todo) [at](I-reminder/todo) [the](I-reminder/todo) [store](I-reminder/todo)
+- set [reminder](B-reminder/noun) [for](B-datetime) [5pm](I-datetime) [sunday](I-datetime)
+- remind me to [call](B-reminder/todo) [nephew](I-reminder/todo) [on](I-reminder/todo) [his](I-reminder/todo) [birthday](I-reminder/todo)
+- remind me to [take](B-reminder/todo) [out](I-reminder/todo) [garbage](I-reminder/todo) [thursday](B-datetime)
+- remind me to [grab](B-reminder/todo) [coffee](I-reminder/todo) [at](I-reminder/todo) [the](I-reminder/todo) [grocery](I-reminder/todo) [store](I-reminder/todo)
+- remind me when i get home to [feed](B-reminder/todo) [the](I-reminder/todo) [dogs](I-reminder/todo)
+- set [daily](B-reminder/recurring_period) [reminder](B-reminder/noun) to [take](B-reminder/todo) [antibiotic](I-reminder/todo) [at](B-datetime) [3](I-datetime) [p.m](I-datetime) .
+- set a [reminder](B-reminder/noun) for my [doctor](B-reminder/todo) [appointment](I-reminder/todo) [on](B-datetime) [tuesday](I-datetime) [at](I-datetime) [10](I-datetime) [am](I-datetime) [.](I-datetime)
+- set a [reminder](B-reminder/noun) [for](B-datetime) [next](I-datetime) [year](I-datetime)
+- remind me to [get](B-reminder/todo) [my](I-reminder/todo) [flu](I-reminder/todo) [shot](I-reminder/todo) [on](B-datetime) [october](I-datetime) [3rd](I-datetime) .
+- [reminder](B-reminder/noun) me to [buy](B-reminder/todo) [a](I-reminder/todo) [gift](I-reminder/todo) [for](I-reminder/todo) [the](I-reminder/todo) [party](I-reminder/todo) [this](B-datetime) [weekend](I-datetime)
+- remind me about [joe's](B-reminder/todo) [party](I-reminder/todo) [on](B-datetime) [saturday](I-datetime) [at](I-datetime) [8](I-datetime) [pm](I-datetime) .
+- remind me to [pick](B-reminder/todo) [up](I-reminder/todo) [nick](I-reminder/todo) [from](I-reminder/todo) [the](I-reminder/todo) [club](I-reminder/todo) [at](B-datetime) [8](I-datetime)
+- remind me to [go](B-reminder/todo) [to](I-reminder/todo) [dr](I-reminder/todo) [at](B-datetime) [8am](I-datetime) [monday](I-datetime)
+- remind me to [buy](B-reminder/todo) [stamps](I-reminder/todo) [at](I-reminder/todo) [the](I-reminder/todo) [post](I-reminder/todo) [office](I-reminder/todo) [tomorrow](B-datetime)
+- set [reminder](B-reminder/noun) for [doctor](B-reminder/todo) [appointment](I-reminder/todo) [for](B-datetime) [tomorrow](I-datetime)
+- remind me to [go](B-reminder/todo) [to](I-reminder/todo) [ups](I-reminder/todo)
+- [reminder](B-reminder/noun) - [pick](B-reminder/todo) [up](I-reminder/todo) [twins](I-reminder/todo) [at](I-reminder/todo) [school](I-reminder/todo) .
+- remind me [at](B-datetime) [10](I-datetime) [pm](I-datetime) to [take](B-reminder/todo) [out](I-reminder/todo) [trash](I-reminder/todo)
+- please set a [reminder](B-reminder/noun) for [lunch](B-reminder/todo) [at](B-datetime) [2](I-datetime) [pm](I-datetime)
+- set [reminder](B-reminder/noun) for [doing](B-reminder/todo) [homework](I-reminder/todo)
+- remind me to [visit](B-reminder/todo) [my](I-reminder/todo) [aunt](I-reminder/todo) [tomorrow](B-datetime)
+- remind me to [call](B-reminder/todo) [my](I-reminder/todo) [mom](I-reminder/todo) .
+- remind me to [go](B-reminder/todo) [to](I-reminder/todo) [the](I-reminder/todo) [dentist](I-reminder/todo) [next](B-datetime) [month](I-datetime) .
+- remind me to [go](B-reminder/todo) [to](I-reminder/todo) [yoga](I-reminder/todo) [tomorrow](B-datetime) . don't take no for an answer .
+- remind to [pick](B-reminder/todo) [up](I-reminder/todo) [my](I-reminder/todo) [son's](I-reminder/todo) [friend](I-reminder/todo) [for](I-reminder/todo) [a](I-reminder/todo) [sleepover](I-reminder/todo)
+- remind me to [call](B-reminder/todo) [susie](I-reminder/todo) [friday](B-datetime)
+- remind me to [send](B-reminder/todo) [a](I-reminder/todo) [birthday](I-reminder/todo) [card](I-reminder/todo) [to](I-reminder/todo) [her](I-reminder/todo)
+- remind me to [change](B-reminder/todo) [the](I-reminder/todo) [air](I-reminder/todo) [filters](I-reminder/todo) [every](B-reminder/recurring_period) [other](I-reminder/recurring_period) [month](I-reminder/recurring_period) .
+- remind me to [return](B-reminder/todo) [my](I-reminder/todo) [library](I-reminder/todo) [book](I-reminder/todo) [saturday](B-datetime)
+- remind me to [check](B-reminder/todo) [the](I-reminder/todo) [game](I-reminder/todo) [schedules](I-reminder/todo) [for](B-datetime) [this](I-datetime) [weekend](I-datetime)
+- [reminder](B-reminder/noun) to [pay](B-reminder/todo) [bills](I-reminder/todo)
+- remind me to [mail](B-reminder/todo) [package](I-reminder/todo)
+- remind me to [pick](B-reminder/todo) [up](I-reminder/todo) [the](I-reminder/todo) [laundry](I-reminder/todo)
+- remind me to [buy](B-reminder/todo) [a](I-reminder/todo) [gift](I-reminder/todo) [on](B-datetime) [friday](I-datetime) .
+- remind me to [go](B-reminder/todo) [to](I-reminder/todo) [the](I-reminder/todo) [gym](I-reminder/todo) [tomorrow](B-datetime) after work
+- create a [reminder](B-reminder/noun) for [detox](B-reminder/todo)
+- remind me to [visit](B-reminder/todo) [my](I-reminder/todo) [sister](I-reminder/todo) [tuesday](B-datetime) [morning](I-datetime) .
+- remind me to [stop](B-reminder/todo) [at](I-reminder/todo) [the](I-reminder/todo) [store](I-reminder/todo) [to](I-reminder/todo) [buy](I-reminder/todo) [milk](I-reminder/todo)
+- remind me to [visit](B-reminder/todo) [get](I-reminder/todo) [my](I-reminder/todo) [haircut](I-reminder/todo) [tomorrow](B-datetime) [afternoon](I-datetime)
+- remind me to [clean](B-reminder/todo) [bathroom](I-reminder/todo) [at](B-datetime) [2](I-datetime) [:](I-datetime) [49pm](I-datetime) [tomorrow](I-datetime)
+- remind me to [buy](B-reminder/todo) [band](I-reminder/todo) [aids](I-reminder/todo)
+- remind me again [in](B-datetime) [20](I-datetime) [minutes](I-datetime)
+- remind to [make](B-reminder/todo) [a](I-reminder/todo) [doctor's](I-reminder/todo) [appointment](I-reminder/todo) [thursday](B-datetime) [at](I-datetime) [8](I-datetime) [am](I-datetime)
+- create a [reminder](B-reminder/noun) to [buy](B-reminder/todo) [pencils](I-reminder/todo) [tonight](B-datetime)
+- remind me to [take](B-reminder/todo) [my](I-reminder/todo) [medication](I-reminder/todo) [in](B-datetime) [the](I-datetime) [morning](I-datetime)
+- remind me to [pick](B-reminder/todo) [up](I-reminder/todo) [dry](I-reminder/todo) [cleaning](I-reminder/todo)
+- remind me to [buy](B-reminder/todo) [tickets](I-reminder/todo) [tomorrow](B-datetime) [at](I-datetime) [11](I-datetime) [am](I-datetime) .
+- set a [reminder](B-reminder/noun) to [call](B-reminder/todo) [insurance](I-reminder/todo) [at](B-datetime) [10](I-datetime) [am](I-datetime) [tomorrow](I-datetime)
+- remind me to [buy](B-reminder/todo) [wheat](I-reminder/todo) [bread](I-reminder/todo) [,](I-reminder/todo) [cheese](I-reminder/todo) [,](I-reminder/todo) [and](I-reminder/todo) [lettuce](I-reminder/todo) [from](I-reminder/todo) [the](I-reminder/todo) [grocery](I-reminder/todo) [store](I-reminder/todo)
+- remind me to [pick](B-reminder/todo) [up](I-reminder/todo) [my](I-reminder/todo) [sister](I-reminder/todo) [tomorrow](B-datetime)
+- remind me to [shut](B-reminder/todo) [pool](I-reminder/todo) [off](I-reminder/todo) [tonight](B-datetime)
+- can you remind me to [set](B-reminder/todo) [the](I-reminder/todo) [kids](I-reminder/todo) [clothes](I-reminder/todo) [out](I-reminder/todo) [tonight](B-datetime) ?
+- [reminder](B-reminder/noun) set
+- remind me to [go](B-reminder/todo) [to](I-reminder/todo) [the](I-reminder/todo) [pet](I-reminder/todo) [store](I-reminder/todo) [tomorrow](B-datetime) .
+- remind me to [stop](B-reminder/todo) [at](I-reminder/todo) [the](I-reminder/todo) [supermarket](I-reminder/todo) [today](B-datetime) on the way home from work
+- remind me to [take](B-reminder/todo) [chicken](I-reminder/todo) [out](I-reminder/todo) [of](I-reminder/todo) [freezer](I-reminder/todo)
+- set [reminder](B-reminder/noun) to [set](B-reminder/todo) [house](I-reminder/todo) [alarm](I-reminder/todo) [whenever](I-reminder/todo) [i](I-reminder/todo) [leave](I-reminder/todo) [my](I-reminder/todo) [home](I-reminder/todo)
+- remind me to [update](B-reminder/todo) [my](I-reminder/todo) [calendar](I-reminder/todo)
+- remind me to [pick](B-reminder/todo) [up](I-reminder/todo) [the](I-reminder/todo) [kids](I-reminder/todo) [from](I-reminder/todo) [school](I-reminder/todo) [at](B-datetime) [3](I-datetime) [o](I-datetime) [clock](I-datetime)
+- remind to [set](B-reminder/todo) [an](I-reminder/todo) [alarm](I-reminder/todo) [for](B-datetime) [5am](I-datetime)
+- remind me to [get](B-reminder/todo) [up](I-reminder/todo) [tomorrow](B-datetime) [at](I-datetime) [4am](I-datetime)
+- remind me to [pick](B-reminder/todo) [up](I-reminder/todo) [the](I-reminder/todo) [kids](I-reminder/todo) [from](I-reminder/todo) [school](I-reminder/todo) [today](B-datetime) [at](I-datetime) [3](I-datetime) [pm](I-datetime)
+- remind me to [buy](B-reminder/todo) [eggs](I-reminder/todo) [at](I-reminder/todo) [the](I-reminder/todo) [store](I-reminder/todo) [tonight](B-datetime)
+- remind me to [check](B-reminder/todo) [on](I-reminder/todo) [the](I-reminder/todo) [oven](I-reminder/todo) [in](B-datetime) [70](I-datetime) [minutes](I-datetime) .
+- remind me to [watch](B-reminder/todo) [big](I-reminder/todo) [brother](I-reminder/todo) [tomorrow](B-datetime) [at](I-datetime) [8pm](I-datetime)
+- set [reminder](B-reminder/noun)
+- remind me to [change](B-reminder/todo) [my](I-reminder/todo) [oil](I-reminder/todo) [every](B-reminder/recurring_period) [three](I-reminder/recurring_period) [months](I-reminder/recurring_period) .
+- add a [second](B-reminder/reference) [reminder](B-reminder/noun) for [sandy's](B-reminder/todo) [birthday](I-reminder/todo) [party](I-reminder/todo) .
+- set a [daily](B-reminder/recurring_period) [reminder](B-reminder/noun) to [pack](B-reminder/todo) [taylor's](I-reminder/todo) [lunch](I-reminder/todo)
+- add [reminder](B-reminder/noun) to [go](B-reminder/todo) [to](I-reminder/todo) [social](I-reminder/todo) [security](I-reminder/todo) [office](I-reminder/todo)
+- remind me to [call](B-reminder/todo) [the](I-reminder/todo) [plumber](I-reminder/todo) [tomorrow](B-datetime)
+- remind me about [dr](B-reminder/todo) [appt](I-reminder/todo) [at](B-datetime) [2pm](I-datetime)
+- remind me to [buy](B-reminder/todo) [an](I-reminder/todo) [anniversary](I-reminder/todo) [card](I-reminder/todo) [for](I-reminder/todo) [my](I-reminder/todo) [wife](I-reminder/todo) [at](I-reminder/todo) [the](I-reminder/todo) [store](I-reminder/todo)
+- remind me to [schedule](B-reminder/todo) [dentist](I-reminder/todo) [appointment](I-reminder/todo)
+- remind me to [call](B-reminder/todo) [mom](I-reminder/todo) [on](I-reminder/todo) [her](I-reminder/todo) [birthday](I-reminder/todo)
+- remind me to [set](B-reminder/todo) [my](I-reminder/todo) [alarm](I-reminder/todo) [tonight](B-datetime)
+- remind me to [take](B-reminder/todo) [the](I-reminder/todo) [beef](I-reminder/todo) [out](I-reminder/todo) [of](I-reminder/todo) [the](I-reminder/todo) [freezer](I-reminder/todo) [in](B-datetime) [the](I-datetime) [morning](I-datetime)
+- remind me to [get](B-reminder/todo) [oil](I-reminder/todo) [change](I-reminder/todo)
+- remind me to [call](B-reminder/todo) [my](I-reminder/todo) [husband](I-reminder/todo) [when](I-reminder/todo) [i](I-reminder/todo) [get](I-reminder/todo) [home](I-reminder/todo)
+- [remind](B-reminder/noun) me to [go](B-reminder/todo) [to](I-reminder/todo) [the](I-reminder/todo) [post](I-reminder/todo) [office](I-reminder/todo) [tomorrow](B-datetime)
+- remind me to [get](B-reminder/todo) [gas](I-reminder/todo) [today](B-datetime) [at](I-datetime) [5](I-datetime) [:](I-datetime) [30pm](I-datetime) .
+- remind me to [set](B-reminder/todo) [alarm](I-reminder/todo)
+- remind me to [stop](B-reminder/todo) [at](I-reminder/todo) [the](I-reminder/todo) [dollar](I-reminder/todo) [store](I-reminder/todo)
+- set [reminder](B-reminder/noun) for [meeting](B-reminder/todo) [in](B-datetime) [october](I-datetime)
+- create [reminder](B-reminder/noun) to [set](B-reminder/todo) [alarm](I-reminder/todo) [at](B-datetime) [7](I-datetime) [:](I-datetime) [30pm](I-datetime)
+- set [reminder](B-reminder/noun) [for](B-datetime) [tomorrow](I-datetime)
+- [reminder](B-reminder/noun) to [pay](B-reminder/todo) [bills](I-reminder/todo)
+- set a [reminder](B-reminder/noun) to [pick](B-reminder/todo) [up](I-reminder/todo) [the](I-reminder/todo) [birthday](I-reminder/todo) [cake](I-reminder/todo)
+- set a [reminder](B-reminder/noun) [for](B-datetime) [friday](I-datetime) [pick](B-reminder/todo) [up](I-reminder/todo) [bread](I-reminder/todo)
+- remind me to [go](B-reminder/todo) [outside](I-reminder/todo) [in](B-datetime) [5](I-datetime) [minutes](I-datetime)
+- remind me to [stop](B-reminder/todo) [at](I-reminder/todo) [the](I-reminder/todo) [store](I-reminder/todo) [before](I-reminder/todo) [work](I-reminder/todo)
+- remind me to [go](B-reminder/todo) [to](I-reminder/todo) [the](I-reminder/todo) [bank](I-reminder/todo) [in](B-datetime) [the](I-datetime) [morning](I-datetime) .
+- remind me to [buy](B-reminder/todo) [rice](I-reminder/todo) [pudding](I-reminder/todo) [tomorrow](B-datetime)
+- remind me to [wake](B-reminder/todo) [brad](I-reminder/todo) [up](I-reminder/todo) [at](B-datetime) [8](I-datetime) [am](I-datetime) [tomorrow](I-datetime)
+- please remind me i have a [meeting](B-reminder/todo) [with](I-reminder/todo) [a](I-reminder/todo) [client](I-reminder/todo) [tomorrow](B-datetime) morning [at](B-datetime) [7](I-datetime) .
+- set [reminder](B-reminder/noun) [for](B-datetime) [monday](I-datetime) to [call](B-reminder/todo) [realtor](I-reminder/todo)
+- remind me to [call](B-reminder/todo) [my](I-reminder/todo) [dad](I-reminder/todo)
+- remind me about [kita's](B-reminder/todo) [appointment](I-reminder/todo)
+- set [reminder](B-reminder/noun) [for](B-datetime) [sunday](I-datetime)
+- set monthly [reminder](B-reminder/noun) on [19th](B-reminder/recurring_period) [of](I-reminder/recurring_period) [every](I-reminder/recurring_period) [month](I-reminder/recurring_period) " [pay](B-reminder/todo) [bills](I-reminder/todo) "
+- set a [reminder](B-reminder/noun) to [go](B-reminder/todo) [grocery](I-reminder/todo) [shopping](I-reminder/todo) [tomorrow](B-datetime)
+- remind me [at](B-datetime) [10](I-datetime) [:](I-datetime) [00](I-datetime) [am](I-datetime) [tomorrow](I-datetime) to [ask](B-reminder/todo) [the](I-reminder/todo) [dentist](I-reminder/todo) [how](I-reminder/todo) [much](I-reminder/todo) [caps](I-reminder/todo) [would](I-reminder/todo) [cost](I-reminder/todo)
+- remind me to [record](B-reminder/todo) [my](I-reminder/todo) [show](I-reminder/todo) [in](B-datetime) [30](I-datetime) [minutes](I-datetime)
+- set [daily](B-reminder/recurring_period) [reminder](B-reminder/noun) to [take](B-reminder/todo) [medicine](I-reminder/todo)
+- remind me to [take](B-reminder/todo) [the](I-reminder/todo) [trash](I-reminder/todo) [out](I-reminder/todo) [every](B-reminder/recurring_period) [tuesday](I-reminder/recurring_period) [night](I-reminder/recurring_period) .
+- remind me to [find](B-reminder/todo) [out](I-reminder/todo) [when](I-reminder/todo) [the](I-reminder/todo) [vet](I-reminder/todo) [is](I-reminder/todo) [open](I-reminder/todo) [on](B-datetime) [weekends](I-datetime)
+- remind me to [pick](B-reminder/todo) [up](I-reminder/todo) [fran](I-reminder/todo) [from](I-reminder/todo) [the](I-reminder/todo) [airport](I-reminder/todo) [at](B-datetime) [9](I-datetime) [p.m](I-datetime) [.](I-datetime) [tonight](I-datetime) .
+- set a [reminder](B-reminder/noun) [three](B-datetime) [days](I-datetime) [prior](I-datetime) to [concert](B-reminder/todo) [with](I-reminder/todo) [johnna](I-reminder/todo)
+- remind me to [pick](B-reminder/todo) [up](I-reminder/todo) [apples](I-reminder/todo) [at](I-reminder/todo) [grocery](I-reminder/todo) [store](I-reminder/todo) [at](B-datetime) [7](I-datetime) [pm](I-datetime)
+- remind me to [call](B-reminder/todo) [mom](I-reminder/todo)
+- remind me [at](B-datetime) [4pm](I-datetime) to [pick](B-reminder/todo) [up](I-reminder/todo) [dry](I-reminder/todo) [cleaning](I-reminder/todo)
+- set a [reminder](B-reminder/noun) for [cheese](B-reminder/todo) [at](I-reminder/todo) [the](I-reminder/todo) [grocery](I-reminder/todo) [shop](I-reminder/todo)
+- when i leave here remind me to [stop](B-reminder/todo) [at](I-reminder/todo) [mom's](I-reminder/todo)
+- remind me to [pick](B-reminder/todo) [up](I-reminder/todo) [milk](I-reminder/todo) [at](I-reminder/todo) [the](I-reminder/todo) [store](I-reminder/todo)
+- remind me to [clean](B-reminder/todo) [the](I-reminder/todo) [car](I-reminder/todo) .
+- remind me to [call](B-reminder/todo) [mom](I-reminder/todo) [tomorrow](B-datetime)
+- set [reminder](B-reminder/noun) to [get](B-reminder/todo) [milk](I-reminder/todo) [on](I-reminder/todo) [the](I-reminder/todo) [way](I-reminder/todo) [home](I-reminder/todo)
+- remind me [every](B-reminder/recurring_period) [6](I-reminder/recurring_period) [months](I-reminder/recurring_period) [from](B-datetime) [today](I-datetime) to [replace](B-reminder/todo) [the](I-reminder/todo) [batteries](I-reminder/todo) [in](I-reminder/todo) [the](I-reminder/todo) [smoke](I-reminder/todo) [detectors](I-reminder/todo) .
+- remind me to [check](B-reminder/todo) [in](I-reminder/todo) [with](I-reminder/todo) [manager](I-reminder/todo) [tomorrow](B-datetime)
+- set [reminder](B-reminder/noun) to [put](B-reminder/todo) [out](I-reminder/todo) [trash](I-reminder/todo) [on](B-datetime) [thursday](I-datetime)
+- remind me to [go](B-reminder/todo) [to](I-reminder/todo) [work](I-reminder/todo) [tomorrow](B-datetime)
+- remind me to [bring](B-reminder/todo) [my](I-reminder/todo) [staff](I-reminder/todo) [files](I-reminder/todo) [tomorrow](B-datetime)
+- set [reminder](B-reminder/noun) [for](B-datetime) [10](I-datetime) [pm](I-datetime) [tomorrow](I-datetime)
+- [dinner](B-reminder/todo) is set [for](B-datetime) [friday](I-datetime) [at](I-datetime) [7](I-datetime) , please remind me
+- remind me to [get](B-reminder/todo) [gas](I-reminder/todo) .
+- remind me to [go](B-reminder/todo) [to](I-reminder/todo) [target](I-reminder/todo)
+- remind me to [buy](B-reminder/todo) [trash](I-reminder/todo) [bags](I-reminder/todo)
+- set a [friday](B-datetime) [reminder](B-reminder/noun) [for](B-datetime) [3](I-datetime) [:](I-datetime) [45](I-datetime) [pm](I-datetime) .
+- set a [7pm](B-datetime) [reminder](B-reminder/noun) to [pick](B-reminder/todo) [up](I-reminder/todo) [prescriptions](I-reminder/todo) [tomorrow](B-datetime)
+- remind me about [cycle](B-reminder/todo) [class](I-reminder/todo) [tomorrow](B-datetime)
+- remind me i have to [pick](B-reminder/todo) [the](I-reminder/todo) [dog](I-reminder/todo) [up](I-reminder/todo) [today](B-datetime) .
+- set a [reminder](B-reminder/noun) [for](B-datetime) [5pm](I-datetime) [today](I-datetime) to [call](B-reminder/todo) [kim](I-reminder/todo)
+- set [reminder](B-reminder/noun) for [rubens](B-reminder/todo) [party](I-reminder/todo) [on](B-datetime) [saturday](I-datetime) [at](I-datetime) [3](I-datetime)
+- remind me to [stop](B-reminder/todo) [at](I-reminder/todo) [the](I-reminder/todo) [store](I-reminder/todo) [in](I-reminder/todo) [the](I-reminder/todo) [way](I-reminder/todo) [home](I-reminder/todo)
+- set a [reminder](B-reminder/noun) to [get](B-reminder/todo) [milk](I-reminder/todo) [on](I-reminder/todo) [my](I-reminder/todo) [way](I-reminder/todo) [home](I-reminder/todo) [from](I-reminder/todo) [work](I-reminder/todo) .
+- remind to [buy](B-reminder/todo) [diapers](I-reminder/todo) [today](B-datetime)
+- remind me to [take](B-reminder/todo) [food](I-reminder/todo) [out](I-reminder/todo) [of](I-reminder/todo) [oven](I-reminder/todo) in 45 mins
+- remind me to [stop](B-reminder/todo) [at](I-reminder/todo) [post](I-reminder/todo) [office](I-reminder/todo) .
+- remind me to [call](B-reminder/todo) [my](I-reminder/todo) [sister](I-reminder/todo) [at](B-datetime) [2](I-datetime) [pm](I-datetime)
+- set [reminder](B-reminder/noun) to [call](B-reminder/todo) [lance](I-reminder/todo) [for](B-datetime) [6](I-datetime) [pm](I-datetime)
+- remind me to [lock](B-reminder/todo) [the](I-reminder/todo) [front](I-reminder/todo) [door](I-reminder/todo) [each](B-reminder/recurring_period) [night](I-reminder/recurring_period) .
+- remind me to [visit](B-reminder/todo) [the](I-reminder/todo) [dentist](I-reminder/todo) [monday](B-datetime) [morning](I-datetime) [at](I-datetime) [7](I-datetime)
+- remind me i need to [pick](B-reminder/todo) [up](I-reminder/todo) [coffee](I-reminder/todo) [today](B-datetime) !
+- remind me to [get](B-reminder/todo) [beer](I-reminder/todo) [tomorrow](B-datetime)
+- remind me to [make](B-reminder/todo) [more](I-reminder/todo) [sofrito](I-reminder/todo)
+- set [recurring](B-reminder/todo) [meeting](I-reminder/todo) [reminder](B-reminder/noun) [for](B-datetime) [monday](I-datetime) [at](I-datetime) [9](I-datetime) [:](I-datetime) [00am](I-datetime) [until](I-datetime) [april](I-datetime) [1](I-datetime) [,](I-datetime) [2017](I-datetime) .
+- remind me to [buy](B-reminder/todo) [milk](I-reminder/todo) [at](I-reminder/todo) [the](I-reminder/todo) [grocery](I-reminder/todo) [store](I-reminder/todo) [tonight](B-datetime)
+- create a [reminder](B-reminder/noun) for me to [buy](B-reminder/todo) [milk](I-reminder/todo) [and](I-reminder/todo) [eggs](I-reminder/todo) .
+- remind me to [start](B-reminder/todo) [the](I-reminder/todo) [crockpot](I-reminder/todo)
+- remind me to [start](B-reminder/todo) [dinner](I-reminder/todo) [at](B-datetime) [5](I-datetime) [:](I-datetime) [30pm](I-datetime)
+- remind me to [buy](B-reminder/todo) [coffee](I-reminder/todo) [at](I-reminder/todo) [starbucks](I-reminder/todo) [this](B-datetime) [afternoon](I-datetime)
+- remind me to [stop](B-reminder/todo) [at](I-reminder/todo) [the](I-reminder/todo) [post](I-reminder/todo) [office](I-reminder/todo)
+- remind me to [buy](B-reminder/todo) [guinea](I-reminder/todo) [pig](I-reminder/todo) [food](I-reminder/todo) .
+- [remind](B-reminder/noun) me to [bring](B-reminder/todo) [my](I-reminder/todo) [book](I-reminder/todo) [to](I-reminder/todo) [class](I-reminder/todo) [tomorrow](B-datetime) .
+- set [reminder](B-reminder/noun) to [buy](B-reminder/todo) [school](I-reminder/todo) [supplies](I-reminder/todo)
+- remind me to [get](B-reminder/todo) [gas](I-reminder/todo)
+- can you remind me to [pick](B-reminder/todo) [up](I-reminder/todo) [my](I-reminder/todo) [sister](I-reminder/todo) [at](I-reminder/todo) [the](I-reminder/todo) [airport](I-reminder/todo) ?
+- remind me that [the](B-reminder/todo) [package](I-reminder/todo) [will](I-reminder/todo) [be](I-reminder/todo) [delivered](I-reminder/todo) [by](I-reminder/todo) [the](I-reminder/todo) [ups](I-reminder/todo) [at](B-datetime) [noon](I-datetime)
+- can you remind me to [take](B-reminder/todo) [the](I-reminder/todo) [car](I-reminder/todo) [to](I-reminder/todo) [the](I-reminder/todo) [mechanic](I-reminder/todo) [tomorrow](B-datetime) [at](I-datetime) [8](I-datetime) [am](I-datetime)
+- set [birthday](B-reminder/todo) [reminder](B-reminder/noun) [for](B-datetime) [august](I-datetime) [6th](I-datetime) , mike
+- remind me to [buy](B-reminder/todo) [band](I-reminder/todo) [aids](I-reminder/todo)
+- set a [reminder](B-reminder/noun) for my to [schedule](B-reminder/todo) [a](I-reminder/todo) [dentist](I-reminder/todo) [appointment](I-reminder/todo) .
+- remind me to [buy](B-reminder/todo) [toilet](I-reminder/todo) [paper](I-reminder/todo) [today](B-datetime) .
+- remind me to [buy](B-reminder/todo) [broccoli](I-reminder/todo) [this](B-datetime) [afternoon](I-datetime) for the dinner party
+- remind me to [call](B-reminder/todo) [erin](I-reminder/todo) .
+- remind me to [call](B-reminder/todo) [the](I-reminder/todo) [guys](I-reminder/todo) [for](I-reminder/todo) [our](I-reminder/todo) [night](I-reminder/todo) [out](I-reminder/todo) [next](B-datetime) [month](I-datetime) .
+- remind me to [bring](B-reminder/todo) [a](I-reminder/todo) [check](I-reminder/todo) [to](I-reminder/todo) [piano](I-reminder/todo) [lessons](I-reminder/todo)
+- set a [reminder](B-reminder/noun) to [request](B-reminder/todo) [vacation](I-reminder/todo) [tomorrow](B-datetime) [at](I-datetime) [9](I-datetime)
+- remind me to [call](B-reminder/todo) [the](I-reminder/todo) [dentist](I-reminder/todo) [at](B-datetime) [4pm](I-datetime) [today](I-datetime)
+- remind me to [buy](B-reminder/todo) [bread](I-reminder/todo) [at](I-reminder/todo) [the](I-reminder/todo) [store](I-reminder/todo) [tomorrow](B-datetime)
+- make a new [reminder](B-reminder/noun) to [call](B-reminder/todo) [the](I-reminder/todo) [doctor](I-reminder/todo) [soon](I-reminder/todo)
+- remind me to [eat](B-reminder/todo) [at](B-datetime) [5pm](I-datetime)
+- remind me to [pick](B-reminder/todo) [up](I-reminder/todo) [deodorant](I-reminder/todo)
+- [reminder](B-reminder/noun) [casting](B-reminder/todo) [call](I-reminder/todo) [september](B-datetime) [9](I-datetime)
+- remind me to [order](B-reminder/todo) [pizza](I-reminder/todo) [tomorrow](B-datetime) [night](I-datetime) .
+- remind me to [feed](B-reminder/todo) [the](I-reminder/todo) [dogs](I-reminder/todo) [tonight](B-datetime)
+- remind me to [get](B-reminder/todo) [milk](I-reminder/todo)
+- remind me to [bake](B-reminder/todo) [a](I-reminder/todo) [cake](I-reminder/todo) [on](B-datetime) [saturday](I-datetime)
+- [reminder](B-reminder/noun) to [set](B-reminder/todo) [new](I-reminder/todo) [alarms](I-reminder/todo) [on](B-datetime) [september](I-datetime) [1st](I-datetime)
+- set a [reminder](B-reminder/noun) to [take](B-reminder/todo) [out](I-reminder/todo) [trash](I-reminder/todo) [at](B-datetime) [8pm](I-datetime) [today](I-datetime) .
+- remind me to [buy](B-reminder/todo) [a](I-reminder/todo) [birthday](I-reminder/todo) [gift](I-reminder/todo) [today](B-datetime) .
+- set my [reminder](B-reminder/noun) for 1 hour before [my](B-reminder/todo) [appointment](I-reminder/todo) [tuesday](B-datetime)
+- remind me of my [lunch](B-reminder/todo) [on](B-datetime) [wednesday](I-datetime) .
+- set a [reminder](B-reminder/noun) to [cancel](B-reminder/todo) [my](I-reminder/todo) [netflix](I-reminder/todo) [subscription](I-reminder/todo) [tomorrow](B-datetime) [at](I-datetime) [7](I-datetime) [pm](I-datetime)
+- remind me to [pick](B-reminder/todo) [up](I-reminder/todo) [junior](I-reminder/todo) [at](B-datetime) [3pm](I-datetime)
+- remind me of the [volleyball](B-reminder/todo) [tournament](I-reminder/todo) [next](B-datetime) [friday](I-datetime) [at](I-datetime) [8am](I-datetime)
+- i need you to remind me to [pick](B-reminder/todo) [up](I-reminder/todo) [mary](I-reminder/todo) [from](I-reminder/todo) [practice](I-reminder/todo) .
+- set a [reminder](B-reminder/noun) to [give](B-reminder/todo) [my](I-reminder/todo) [dog](I-reminder/todo) [antibiotics](I-reminder/todo) [every](B-reminder/recurring_period) [12](I-reminder/recurring_period) [hours](I-reminder/recurring_period) .
+- add a [reminder](B-reminder/noun) [for](B-datetime) [today](I-datetime) [at](I-datetime) [4pm](I-datetime)
+- remind me to [go](B-reminder/todo) [to](I-reminder/todo) [the](I-reminder/todo) [store](I-reminder/todo) [after](I-reminder/todo) [work](I-reminder/todo) .
+- set the reminder for [20](B-reminder/todo) [minutes](I-reminder/todo) [earlier](I-reminder/todo) than the alarm
+- remind me to [pay](B-reminder/todo) [the](I-reminder/todo) [rent](I-reminder/todo) [tonight](B-datetime) [at](I-datetime) [5pm](I-datetime) .
+- add a [reminder](B-reminder/noun) to [buy](B-reminder/todo) [onions](I-reminder/todo) .
+- remind me to [take](B-reminder/todo) [my](I-reminder/todo) [pills](I-reminder/todo) at [7](B-reminder/recurring_period) [p.m](I-reminder/recurring_period) [.](I-reminder/recurring_period) [everyday](I-reminder/recurring_period)
+- reminder for [picking](B-reminder/todo) [up](I-reminder/todo) [dry](I-reminder/todo) [cleaning](I-reminder/todo)
+- remind me to [take](B-reminder/todo) [my](I-reminder/todo) [birth](I-reminder/todo) [control](I-reminder/todo) [at](B-datetime) [11am](I-datetime)
+- add a [reminder](B-reminder/noun) to [watch](B-reminder/todo) ["](I-reminder/todo) [power](I-reminder/todo) ["](I-reminder/todo)
+- remind me to [check](B-reminder/todo) [the](I-reminder/todo) [bank](I-reminder/todo) [at](B-datetime) [3pm](I-datetime)
+- [reminder](B-reminder/noun) to [buy](B-reminder/todo) [bread](I-reminder/todo) [at](I-reminder/todo) [grocery](I-reminder/todo) [store](I-reminder/todo) [at](B-datetime) [6](I-datetime) [pm](I-datetime)
+- remind me to [water](B-reminder/todo) [the](I-reminder/todo) [garden](I-reminder/todo) when i get home
+- remind me to [visit](B-reminder/todo) [dentist](I-reminder/todo) [at](B-datetime) [5](I-datetime) [pm](I-datetime) [tomorrow](I-datetime)
+- remind me to [go](B-reminder/todo) [online](I-reminder/todo) [on](B-datetime) [aug](I-datetime) [25th](I-datetime) to [get](B-reminder/todo) [my](I-reminder/todo) [daughter's](I-reminder/todo) [school](I-reminder/todo) [schedule](I-reminder/todo) .
+- remind me [in](B-datetime) [an](I-datetime) [hour](I-datetime) to [check](B-reminder/todo) [my](I-reminder/todo) [email](I-reminder/todo)
+- [remind](B-reminder/noun) me to [buy](B-reminder/todo) [eggs](I-reminder/todo)
+- remind me [at](B-datetime) [5](I-datetime) [pm](I-datetime)
+- remind me to [call](B-reminder/todo) [dr](I-reminder/todo) [.](I-reminder/todo) [jones](I-reminder/todo)
+- remind me to [pick](B-reminder/todo) [up](I-reminder/todo) [dry](I-reminder/todo) [cleaning](I-reminder/todo) .
+- remind me to [join](B-reminder/todo) [the](I-reminder/todo) [status](I-reminder/todo) [call](I-reminder/todo) [at](B-datetime) [9](I-datetime) [:](I-datetime) [00](I-datetime) [am](I-datetime) [today](I-datetime)
+- remind me to [buy](B-reminder/todo) [a](I-reminder/todo) [birthday](I-reminder/todo) [gift](I-reminder/todo) [for](I-reminder/todo) [mom](I-reminder/todo)
+- remind me about my [doctor's](B-reminder/todo) [appointment](I-reminder/todo) [on](B-datetime) [wednesday](I-datetime) [at](I-datetime) [2](I-datetime)
+- [remind](B-reminder/noun) me to [pick](B-reminder/todo) [up](I-reminder/todo) [my](I-reminder/todo) [son](I-reminder/todo) [from](I-reminder/todo) [school](I-reminder/todo) [at](B-datetime) [3pm](I-datetime)
+- remind me about my [doctor's](B-reminder/todo) [appointment](I-reminder/todo) [on](B-datetime) [friday](I-datetime) .
+- [reminder](B-reminder/noun) to [send](B-reminder/todo) [documents](I-reminder/todo) [to](I-reminder/todo) [karen](I-reminder/todo) [tomorrow](B-datetime) [at](I-datetime) [noon](I-datetime)
+- set a [reminder](B-reminder/noun) [for](B-datetime) [tomorrow](I-datetime) [at](I-datetime) [around](I-datetime) [8](I-datetime) to [take](B-reminder/todo) [my](I-reminder/todo) [medication](I-reminder/todo) .
+- [remind](B-reminder/noun) me to [cancel](B-reminder/todo) [my](I-reminder/todo) [appointment](I-reminder/todo) [tomorrow](B-datetime) [morning](I-datetime)
+- remind me to [go](B-reminder/todo) [to](I-reminder/todo) [the](I-reminder/todo) [post](I-reminder/todo) [office](I-reminder/todo) [after](I-reminder/todo) [work](I-reminder/todo) .
+- remind me to [get](B-reminder/todo) [eggs](I-reminder/todo) [tomorrow](B-datetime)
+- remind me [my](B-reminder/todo) [grocery](I-reminder/todo) [list](I-reminder/todo) [for](B-datetime) [the](I-datetime) [month](I-datetime)
+- remind me to [pay](B-reminder/todo) [my](I-reminder/todo) [light](I-reminder/todo) [bill](I-reminder/todo)
+- set [reminder](B-reminder/noun) for [jessicas](B-reminder/todo) [birthday](I-reminder/todo) [party](I-reminder/todo)
+- remind me to [call](B-reminder/todo) [dentist](I-reminder/todo) [tuesday](B-datetime) [at](I-datetime) [1](I-datetime) [:](I-datetime) [30pm](I-datetime) .
+- remind me to [get](B-reminder/todo) [printer](I-reminder/todo) [ink](I-reminder/todo) [at](I-reminder/todo) [best](I-reminder/todo) [buy](I-reminder/todo) .
+- remind me to [take](B-reminder/todo) [my](I-reminder/todo) [quiz](I-reminder/todo) [tonight](B-datetime) [at](I-datetime) [10pm](I-datetime) .
+- remind me to [call](B-reminder/todo) [dentist](I-reminder/todo)
+- remind me to [make](B-reminder/todo) [doctor's](I-reminder/todo) [appointment](I-reminder/todo) [tomorrow](B-datetime)
+- remind me [at](B-datetime) [8](I-datetime) to [call](B-reminder/todo) [my](I-reminder/todo) [boss](I-reminder/todo)
+- remind me to [complete](B-reminder/todo) [my](I-reminder/todo) [project](I-reminder/todo) [by](B-datetime) [tomorrow](I-datetime) [night](I-datetime)
+- [remind](B-reminder/noun) me to [buy](B-reminder/todo) [sugar](I-reminder/todo)
+- remind me to [log](B-reminder/todo) [out](I-reminder/todo) [of](I-reminder/todo) [my](I-reminder/todo) [computer](I-reminder/todo) [this](B-datetime) [afternoon](I-datetime)
+- remind me to [take](B-reminder/todo) [my](I-reminder/todo) [birth](I-reminder/todo) [control](I-reminder/todo) .
+- remind me to [get](B-reminder/todo) [the](I-reminder/todo) [kitchen](I-reminder/todo) [sink](I-reminder/todo) [fixed](I-reminder/todo)
+- remind me to [give](B-reminder/todo) [the](I-reminder/todo) [dogs](I-reminder/todo) [their](I-reminder/todo) [medicine](I-reminder/todo) [wednesday](B-datetime) [at](I-datetime) [9](I-datetime) [am](I-datetime)
+- remind me to [pay](B-reminder/todo) [water](I-reminder/todo) [bill](I-reminder/todo) [in](I-reminder/todo) [the](I-reminder/todo) [morning](I-reminder/todo) [at](B-datetime) [9am](I-datetime)
+- set a [monthly](B-reminder/recurring_period) [reminder](B-reminder/noun) to [pay](B-reminder/todo) [bills](I-reminder/todo)
+- remind me to [bring](B-reminder/todo) [my](I-reminder/todo) [water](I-reminder/todo) [bottle](I-reminder/todo) .
+- remind to [get](B-reminder/todo) [milk](I-reminder/todo) [tonight](B-datetime)
+- set [reminder](B-reminder/noun) [for](B-datetime) [6pm](I-datetime) [movie](B-reminder/todo)
+- remind me to [buy](B-reminder/todo) [dog](I-reminder/todo) [food](I-reminder/todo) [at](I-reminder/todo) [the](I-reminder/todo) [grocery](I-reminder/todo) [store](I-reminder/todo)
+- remind me to [pick](B-reminder/todo) [up](I-reminder/todo) [groceries](I-reminder/todo) [tonight](B-datetime)
+- remind to [go](B-reminder/todo) [to](I-reminder/todo) [store](I-reminder/todo) [tonight](B-datetime)
+- remind me to [pick](B-reminder/todo) [up](I-reminder/todo) [eggs](I-reminder/todo) [tonight](B-datetime)
+- remind me to [take](B-reminder/todo) [the](I-reminder/todo) [dog](I-reminder/todo) [for](I-reminder/todo) [a](I-reminder/todo) [walk](I-reminder/todo) .
+- remind me to [take](B-reminder/todo) [the](I-reminder/todo) [car](I-reminder/todo) [in](I-reminder/todo) [for](I-reminder/todo) [an](I-reminder/todo) [oil](I-reminder/todo) [change](I-reminder/todo) [on](B-datetime) [thursday](I-datetime) .
+- set a [reminder](B-reminder/noun) in 15 minutes to [check](B-reminder/todo) [the](I-reminder/todo) [cake](I-reminder/todo)
+- remind me to [take](B-reminder/todo) [recycling](I-reminder/todo) [out](I-reminder/todo) [every](B-reminder/recurring_period) [other](I-reminder/recurring_period) [monday](I-reminder/recurring_period) starting [today](B-datetime)
+- send me a [reminder](B-reminder/noun) a week before my [mom's](B-reminder/todo) [birthday](I-reminder/todo) .
+- [remind](B-reminder/noun) me to [buy](B-reminder/todo) [milk](I-reminder/todo) [tomorrow](B-datetime)
+- remind me to [service](B-reminder/todo) [my](I-reminder/todo) [car](I-reminder/todo) [in](I-reminder/todo) [3](I-reminder/todo) [months](I-reminder/todo) .
+- remind me to [make](B-reminder/todo) [dentist](I-reminder/todo) [appointment](I-reminder/todo) [tomorrow](B-datetime)
+- remind me to [call](B-reminder/todo) [karen](I-reminder/todo) [tonight](B-datetime)
+- make a [reminder](B-reminder/noun) for a [doctor's](B-reminder/todo) [appointment](I-reminder/todo) [on](B-datetime) [tuesday](I-datetime)
+- please remind me to [call](B-reminder/todo) [in](I-reminder/todo) [my](I-reminder/todo) [prescription](I-reminder/todo) [a](B-datetime) [week](I-datetime) [from](I-datetime) [today](I-datetime) ?
+- remind me to [drop](B-reminder/todo) [off](I-reminder/todo) [a](I-reminder/todo) [plant](I-reminder/todo) [at](I-reminder/todo) [my](I-reminder/todo) [moms](I-reminder/todo) ?
+- remind me to [buy](B-reminder/todo) [basil](I-reminder/todo)
+- remind me to [turn](B-reminder/todo) [off](I-reminder/todo) [the](I-reminder/todo) [oven](I-reminder/todo)
+- remind me to [call](B-reminder/todo) [work](I-reminder/todo) [in](B-datetime) [an](I-datetime) [hour](I-datetime)
+- remind me to [pay](B-reminder/todo) [my](I-reminder/todo) [parking](I-reminder/todo) [meter](I-reminder/todo) [in](B-datetime) [45](I-datetime) [minutes](I-datetime) .
+- remind me to [call](B-reminder/todo) [grandma](I-reminder/todo)
+- remind me to [pick](B-reminder/todo) [up](I-reminder/todo) [some](I-reminder/todo) [bread](I-reminder/todo) [tonight](B-datetime)
+- remind me to [buy](B-reminder/todo) [milk](I-reminder/todo) [at](I-reminder/todo) [the](I-reminder/todo) [grocery](I-reminder/todo) [store](I-reminder/todo)
+- remind me to [email](B-reminder/todo) [my](I-reminder/todo) [grandmother](I-reminder/todo)
+- set a [reminder](B-reminder/noun) [for](B-datetime) [wednesday](I-datetime) to [make](B-reminder/todo) [a](I-reminder/todo) [doctors](I-reminder/todo) [appointment](I-reminder/todo)
+- reminder me to [reschedule](B-reminder/todo) [the](I-reminder/todo) [doctors](I-reminder/todo) [appt](I-reminder/todo) .
+- remind me to [pay](B-reminder/todo) [electric](I-reminder/todo) [bill](I-reminder/todo) [tomorrow](B-datetime)
+- remind me to [check](B-reminder/todo) [the](I-reminder/todo) [mail](I-reminder/todo) [in](B-datetime) [10](I-datetime) [minutes](I-datetime) .
+- remind me to [call](B-reminder/todo) [my](I-reminder/todo) [son](I-reminder/todo) [tomorrow](B-datetime)
+- remind me of [payment](B-reminder/todo) [due](I-reminder/todo) [on](I-reminder/todo) [the](I-reminder/todo) [car](I-reminder/todo)
+- set a [reminder](B-reminder/noun) called " [pick](B-reminder/todo) [up](I-reminder/todo) [kids](I-reminder/todo) " [for](B-datetime) [5](I-datetime) [tonight](I-datetime)
+- remind me to [check](B-reminder/todo) [the](I-reminder/todo) [mail](I-reminder/todo) .
+- remind me to [shave](B-reminder/todo) [my](I-reminder/todo) [legs](I-reminder/todo) [today](B-datetime) [at](I-datetime) [11am](I-datetime)
+- remind me to [tweet](B-reminder/todo) [about](I-reminder/todo) [my](I-reminder/todo) [soccer](I-reminder/todo) [activity](I-reminder/todo) [in](B-datetime) [an](I-datetime) [hour](I-datetime) .
+- remind me to [call](B-reminder/todo) [my](I-reminder/todo) [brother](I-reminder/todo)
+- remind me to [call](B-reminder/todo) [my](I-reminder/todo) [job](I-reminder/todo) [tomorrow](B-datetime)
+- remind me to [buy](B-reminder/todo) [school](I-reminder/todo) [supplies](I-reminder/todo) [on](B-datetime) [wednesday](I-datetime)
+- set a [reminder](B-reminder/noun) [at](B-datetime) [9pm](I-datetime)
+- set a [reminder](B-reminder/noun) to [get](B-reminder/todo) [milk](I-reminder/todo)
+- remind me to [stop](B-reminder/todo) [at](I-reminder/todo) [the](I-reminder/todo) [bank](I-reminder/todo) [tomorrow](B-datetime) [morning](I-datetime) .
+- remind me to [go](B-reminder/todo) [to](I-reminder/todo) [the](I-reminder/todo) [dr](I-reminder/todo) [mon](B-datetime) [4pm](I-datetime)
+- remind me to [wish](B-reminder/todo) [mom](I-reminder/todo) [a](I-reminder/todo) [happy](I-reminder/todo) [birthday](I-reminder/todo) .
+- set [reminder](B-reminder/noun) [in](B-datetime) [15](I-datetime) [minutes](I-datetime) for [oven](B-reminder/todo)
+- set [reminder](B-reminder/noun) for me to [feed](B-reminder/todo) [the](I-reminder/todo) [turtle](I-reminder/todo) [every](B-reminder/recurring_period) [sunday](I-reminder/recurring_period)
+- remind me [tomorrow](B-datetime) [morning](I-datetime) [at](I-datetime) [8](I-datetime) [:](I-datetime) [00](I-datetime) [am](I-datetime) to [bring](B-reminder/todo) [computer](I-reminder/todo) [bag](I-reminder/todo)
+- remind me [at](B-datetime) [noon](I-datetime) to [take](B-reminder/todo) [a](I-reminder/todo) [lunch](I-reminder/todo) [break](I-reminder/todo)
+- remind me to [clean](B-reminder/todo) [the](I-reminder/todo) [house](I-reminder/todo) [tomorrow](B-datetime)
+- set a [reminder](B-reminder/noun) to [buy](B-reminder/todo) [grandma](I-reminder/todo) [a](I-reminder/todo) [birthday](I-reminder/todo) [present](I-reminder/todo)
+- remind me to [make](B-reminder/todo) [an](I-reminder/todo) [eye](I-reminder/todo) [doctor](I-reminder/todo) [appointment](I-reminder/todo)
+- remind me to [check](B-reminder/todo) [my](I-reminder/todo) [list](I-reminder/todo) [when](I-reminder/todo) [i](I-reminder/todo) [am](I-reminder/todo) [at](I-reminder/todo) [the](I-reminder/todo) [grocery](I-reminder/todo) [store](I-reminder/todo) .
+- remind me to [set](B-reminder/todo) [my](I-reminder/todo) [alarm](I-reminder/todo) [before](I-reminder/todo) [bed](I-reminder/todo)
+- remind me to [buy](B-reminder/todo) [windshield](I-reminder/todo) [wiper](I-reminder/todo) [fluid](I-reminder/todo) at walmart [tomorrow](B-datetime)
+- remind me to [save](B-reminder/todo) [for](I-reminder/todo) [kitten](I-reminder/todo) [food](I-reminder/todo) .
+- set a [birthday](B-reminder/todo) [reminder](B-reminder/noun) for max
+- remind me of [appointment](B-reminder/todo) [at](B-datetime) [3](I-datetime) [pm](I-datetime)
+- remind me to [wake](B-reminder/todo) [up](I-reminder/todo) [at](B-datetime) [8am](I-datetime)
+- remind me to [send](B-reminder/todo) [a](I-reminder/todo) [birthday](I-reminder/todo) [card](I-reminder/todo) [for](I-reminder/todo) [my](I-reminder/todo) [sister](I-reminder/todo) .
+- remind me to [visit](B-reminder/todo) [the](I-reminder/todo) [dentist](I-reminder/todo) [monday](B-datetime) [morning](I-datetime) [at](I-datetime) [7](I-datetime)
+- remind me to [go](B-reminder/todo) [to](I-reminder/todo) [bed](I-reminder/todo) [at](B-datetime) [9](I-datetime) [tonight](I-datetime)
+- [remind](B-reminder/noun) me to [look](B-reminder/todo) [at](I-reminder/todo) [requirements](I-reminder/todo) [for](I-reminder/todo) [my](I-reminder/todo) [degree](I-reminder/todo) [program](I-reminder/todo) .
+- remind me to [get](B-reminder/todo) [my](I-reminder/todo) [flu](I-reminder/todo) [shot](I-reminder/todo) [in](B-datetime) [two](I-datetime) [weeks](I-datetime) .
+- set a recurring [reminder](B-reminder/noun) to [take](B-reminder/todo) [meds](I-reminder/todo) [daily](B-reminder/recurring_period) [at](B-datetime) [7](I-datetime) [am](I-datetime)
+- [remind](B-reminder/noun) me [at](B-datetime) [11am](I-datetime) [on](I-datetime) [monday](I-datetime) for [lunch](B-reminder/todo)
+- remind me to [get](B-reminder/todo) [bread](I-reminder/todo) [tonight](B-datetime)
+- set a [reminder](B-reminder/noun) to [go](B-reminder/todo) [to](I-reminder/todo) [post](I-reminder/todo) [office](I-reminder/todo) [at](B-datetime) [1pm](I-datetime) [today](I-datetime)
+- remind me to [call](B-reminder/todo) [my](I-reminder/todo) [mom](I-reminder/todo) [tonight](B-datetime)
+- set an [eye](B-reminder/todo) [doctor](I-reminder/todo) [reminder](B-reminder/noun) [for](B-datetime) [the](I-datetime) [25th](I-datetime)
+- create a [reminder](B-reminder/noun) [at](B-datetime) [12](I-datetime) [:](I-datetime) [01](I-datetime) [am](I-datetime) [on](I-datetime) [january](I-datetime) [first](I-datetime) that says [happy](B-reminder/todo) [new](I-reminder/todo) [year](I-reminder/todo)
+- remind me of [tom's](B-reminder/todo) [doctor](I-reminder/todo) [appointment](I-reminder/todo) [on](B-datetime) [tuesday](I-datetime) .
+- remind me to [change](B-reminder/todo) [my](I-reminder/todo) [underwear](I-reminder/todo) [tomorrow](B-datetime)
+- remind me i have to [go](B-reminder/todo) [to](I-reminder/todo) [the](I-reminder/todo) [dentist](I-reminder/todo) [friday](B-datetime) [@](I-datetime) [3](I-datetime)
+- set [reminder](B-reminder/noun) to [workout](B-reminder/todo) [at](B-datetime) [8](I-datetime) [pm](I-datetime) .
+- set [reminder](B-reminder/noun) to [get](B-reminder/todo) [gas](I-reminder/todo)
+- set a [reminder](B-reminder/noun) for my [doctor's](B-reminder/todo) [appointment](I-reminder/todo) [tomorrow](B-datetime) [at](I-datetime) [3](I-datetime)
+- remind me to [call](B-reminder/todo) [the](I-reminder/todo) [dentist](I-reminder/todo) [on](B-datetime) [thursday](I-datetime) [at](I-datetime) [10am](I-datetime)
+- [reminder](B-reminder/noun) to [pay](B-reminder/todo) [car](I-reminder/todo) [payment](I-reminder/todo)
+- remind me to [call](B-reminder/todo) [my](I-reminder/todo) [parents](I-reminder/todo) [later](I-reminder/todo)
+- i need to set a [reminder](B-reminder/noun) or [tuesday](B-datetime) .
+- remind me to [drink](B-reminder/todo) [enough](I-reminder/todo) [water](I-reminder/todo)
+- remind me about [bath](B-reminder/todo) [time](I-reminder/todo) [6pm](B-datetime) [tonight](I-datetime)
+- remind me to [call](B-reminder/todo) [mom](I-reminder/todo)
+- remind me to [call](B-reminder/todo) [my](I-reminder/todo) [mother](I-reminder/todo) [tonight](B-datetime)
+- send me a [reminder](B-reminder/noun) [in](B-datetime) [ten](I-datetime) [minutes](I-datetime)
+- remind me to [pay](B-reminder/todo) [phone](I-reminder/todo) [bill](I-reminder/todo) .
+- [remind](B-reminder/noun) me to [feed](B-reminder/todo) [the](I-reminder/todo) [cat](I-reminder/todo) .
+- set a [reminder](B-reminder/noun) to [have](B-reminder/todo) [a](I-reminder/todo) [talk](I-reminder/todo) [with](I-reminder/todo) [jake](I-reminder/todo) .
+- remind me when its [monday](B-datetime)
+- i need a [reminder](B-reminder/noun) for my [appointment](B-reminder/todo) [tomorrow](B-datetime)
+- remind me to [pick](B-reminder/todo) [up](I-reminder/todo) [my](I-reminder/todo) [daughter](I-reminder/todo) [this](B-datetime) [afternoon](I-datetime) .
+- set [reminder](B-reminder/noun) to [pick](B-reminder/todo) [up](I-reminder/todo) [from](I-reminder/todo) [school](I-reminder/todo) [early](I-reminder/todo) [tomorrow](B-datetime)
+- remind me to [call](B-reminder/todo) [customer](I-reminder/todo) [service](I-reminder/todo)
+- set [doctor's](B-reminder/todo) [appointment](I-reminder/todo) [reminder](B-reminder/noun) [every](B-reminder/recurring_period) [wednesday](I-reminder/recurring_period)
+- give me a [reminder](B-reminder/noun) [at](B-datetime) [3pm](I-datetime) to [feed](B-reminder/todo) [the](I-reminder/todo) [cats](I-reminder/todo)
+- [remind](B-reminder/noun) me to [pack](B-reminder/todo) [my](I-reminder/todo) [lunch](I-reminder/todo) before i go to bed .
+- turn on a [weekly](B-reminder/recurring_period) [reminder](B-reminder/noun)
+- remind me to [mail](B-reminder/todo) [a](I-reminder/todo) [letter](I-reminder/todo) [tomorrow](B-datetime)
+- make sure to remind me about [dad's](B-reminder/todo) [birthday](I-reminder/todo) [on](B-datetime) [friday](I-datetime)
+- put a [reminder](B-reminder/noun) on the phone to [buy](B-reminder/todo) [butter](I-reminder/todo) [pecan](I-reminder/todo) [ice](I-reminder/todo) [cream](I-reminder/todo)
+- remind me to [pick](B-reminder/todo) [up](I-reminder/todo) [dry](I-reminder/todo) [cleaning](I-reminder/todo) [on](B-datetime) [friday](I-datetime) [at](I-datetime) [9](I-datetime) [am](I-datetime)
+- remind me to [go](B-reminder/todo) [to](I-reminder/todo) [a](I-reminder/todo) [post](I-reminder/todo) [office](I-reminder/todo)
+- remind me to [pick](B-reminder/todo) [up](I-reminder/todo) [the](I-reminder/todo) [dry](I-reminder/todo) [cleaning](I-reminder/todo)
+- remind me about my [doctor](B-reminder/todo) [appointment](I-reminder/todo) [on](B-datetime) [friday](I-datetime)
+- remind about [yoga](B-reminder/todo) [class](I-reminder/todo)
+- [remind](B-reminder/noun) me to [email](B-reminder/todo) [gina](I-reminder/todo) [about](I-reminder/todo) [the](I-reminder/todo) [evs](I-reminder/todo) [incident](I-reminder/todo) .
+- remind me to [take](B-reminder/todo) [medicine](I-reminder/todo) [every](B-reminder/recurring_period) [12](I-reminder/recurring_period) [hours](I-reminder/recurring_period) from now
+- set a [reminder](B-reminder/noun) about [john's](B-reminder/todo) [birthday](I-reminder/todo) [next](B-datetime) [month](I-datetime) .
+- set [reminder](B-reminder/noun) to [pick](B-reminder/todo) [up](I-reminder/todo) [library](I-reminder/todo) [books](I-reminder/todo)
+- remind me [at](B-datetime) [1](I-datetime) that i [need](B-reminder/todo) [to](I-reminder/todo) [leave](I-reminder/todo) [for](I-reminder/todo) [the](I-reminder/todo) [dentist](I-reminder/todo) .
+- remind me to [file](B-reminder/todo) [the](I-reminder/todo) [taxes](I-reminder/todo)
+- remind me to [see](B-reminder/todo) [doctors](I-reminder/todo) [at](B-datetime) [7am](I-datetime)
+- set reminder for [physical](B-reminder/todo) [therapy](I-reminder/todo) [appointment](I-reminder/todo) [for](B-datetime) [this](I-datetime) [friday](I-datetime) [at](I-datetime) [9](I-datetime) [:](I-datetime) [30am](I-datetime)
+- remind me to [buy](B-reminder/todo) [soy](I-reminder/todo) [milk](I-reminder/todo)
+- remind me to [walk](B-reminder/todo) [the](I-reminder/todo) [dog](I-reminder/todo) [at](B-datetime) [noon](I-datetime)
+- remind me that i have to [make](B-reminder/todo) [a](I-reminder/todo) [dish](I-reminder/todo) [for](I-reminder/todo) [the](I-reminder/todo) [meeting](I-reminder/todo) [on](B-datetime) [thursday](I-datetime) .
+- set a [reminder](B-reminder/noun) for me to [go](B-reminder/todo) [to](I-reminder/todo) [have](I-reminder/todo) [my](I-reminder/todo) [oil](I-reminder/todo) [changed](I-reminder/todo) [tomorrow](B-datetime) .
+- remind me to [update](B-reminder/todo) [my](I-reminder/todo) [library](I-reminder/todo) [books](I-reminder/todo) [tonight](B-datetime)
+- remind me to [take](B-reminder/todo) [medication](I-reminder/todo)
+- set a [reminder](B-reminder/noun) to [start](B-reminder/todo) [making](I-reminder/todo) [dinner](I-reminder/todo) [at](B-datetime) [5](I-datetime) [:](I-datetime) [00pm](I-datetime) .
+- remind me about [the](B-reminder/todo) [doctors](I-reminder/todo) [tomorrow](B-datetime)
+- remind me about [yoga](B-reminder/todo) [class](I-reminder/todo) [on](B-datetime) [saturdays](I-datetime) [at](I-datetime) [8pm](I-datetime)
+- [remind](B-reminder/noun) me to [visit](B-reminder/todo) [the](I-reminder/todo) [pharmacist](I-reminder/todo) [on](B-datetime) [friday](I-datetime)
+- [bill](B-reminder/todo) [pay](I-reminder/todo) [reminder](B-reminder/noun)
+- set [reminder](B-reminder/noun) to [walk](B-reminder/todo) [dogs](I-reminder/todo) [before](I-reminder/todo) [bed](I-reminder/todo)
+- remind me to [pickup](B-reminder/todo) [taylor](I-reminder/todo) [from](I-reminder/todo) [band](I-reminder/todo) [practice](I-reminder/todo)
+- remind me to [feed](B-reminder/todo) [the](I-reminder/todo) [dogs](I-reminder/todo) [at](B-datetime) [8pm](I-datetime)
+- remind me to [take](B-reminder/todo) [my](I-reminder/todo) [birth](I-reminder/todo) [control](I-reminder/todo) [every](B-reminder/recurring_period) [day](I-reminder/recurring_period)
+- remind me to [remind](B-reminder/todo) [fin](I-reminder/todo) [to](I-reminder/todo) [call](I-reminder/todo) [her](I-reminder/todo) [grandmother](I-reminder/todo)
+- remind me to [go](B-reminder/todo) [to](I-reminder/todo) [my](I-reminder/todo) [doctors](I-reminder/todo) [appointment](I-reminder/todo) [tomorrow](B-datetime) [at](I-datetime) [7am](I-datetime)
+- new [reminder](B-reminder/noun) to [order](B-reminder/todo) [a](I-reminder/todo) [cake](I-reminder/todo)
+- [remind](B-reminder/noun) me to [stop](B-reminder/todo) [at](I-reminder/todo) [the](I-reminder/todo) [post](I-reminder/todo) [office](I-reminder/todo) [at](B-datetime) [5](I-datetime) [pm](I-datetime)
+- give me a [reminder](B-reminder/noun) [at](B-datetime) [4pm](I-datetime)
+- [remind](B-reminder/noun) me about the [dentist](B-reminder/todo) [monday](B-datetime) [at](I-datetime) [8](I-datetime)
+- set a [reminder](B-reminder/noun) to [buy](B-reminder/todo) [rocking](I-reminder/todo) [chair](I-reminder/todo) [at](I-reminder/todo) [home](I-reminder/todo) [depot](I-reminder/todo)
+- remind me to [call](B-reminder/todo) [school](I-reminder/todo) [principal](I-reminder/todo) [tomorrow](B-datetime)
+- remind me to [call](B-reminder/todo) [and](I-reminder/todo) [cancel](I-reminder/todo) [dentist](I-reminder/todo)
+- set a [reminder](B-reminder/noun) to [eat](B-reminder/todo) [lunch](I-reminder/todo)
+- set [reminder](B-reminder/noun) to [go](B-reminder/todo) [to](I-reminder/todo) [walmart](I-reminder/todo) [for](B-datetime) [5pm](I-datetime)
+- [at](B-datetime) [4](I-datetime) remind me to [bring](B-reminder/todo) [home](I-reminder/todo) [work](I-reminder/todo) [folder](I-reminder/todo)
+- remind me to [set](B-reminder/todo) [the](I-reminder/todo) [alarm](I-reminder/todo)
+- remind me to [pay](B-reminder/todo) [my](I-reminder/todo) [cell](I-reminder/todo) [bill](I-reminder/todo) [next](B-datetime) [week](I-datetime)
+- remind me to [renew](B-reminder/todo) [license](I-reminder/todo) [plates](I-reminder/todo)
+- remind me to [visit](B-reminder/todo) [my](I-reminder/todo) [parents](I-reminder/todo) [in](B-datetime) [4](I-datetime) [hours](I-datetime) please
+- remind me to [empty](B-reminder/todo) [the](I-reminder/todo) [diswasher](I-reminder/todo)
+- set a [reminder](B-reminder/noun) for the [doctors](B-reminder/todo) [appointment](I-reminder/todo)
+- set a [reminder](B-reminder/noun) for [jake's](B-reminder/todo) [vet](I-reminder/todo) [appointment](I-reminder/todo) [on](B-datetime) [thursday](I-datetime) .
+- [remind](B-reminder/noun) me to [cancel](B-reminder/todo) [my](I-reminder/todo) [hulu](I-reminder/todo) [subscription](I-reminder/todo) [this](B-datetime) [monday](I-datetime) a [8](B-datetime) [am](I-datetime) .
+- remind me to [call](B-reminder/todo) [my](I-reminder/todo) [lawyer](I-reminder/todo) [on](B-datetime) [friday](I-datetime) [at](I-datetime) [4](I-datetime) [pm](I-datetime)
+- remind me to [fix](B-reminder/todo) [the](I-reminder/todo) [fire](I-reminder/todo) [alarm](I-reminder/todo) .
+- set [reminder](B-reminder/noun) to [get](B-reminder/todo) [gluten](I-reminder/todo) [free](I-reminder/todo) [flour](I-reminder/todo) [recipe](I-reminder/todo) [to](I-reminder/todo) [jennifer](I-reminder/todo)
+- remind me [on](B-datetime) [thursday](I-datetime) [at](I-datetime) [4pm](I-datetime) to [call](B-reminder/todo) [mom](I-reminder/todo) [happy](I-reminder/todo) [birthday](I-reminder/todo)
+- set a [cooking](B-reminder/todo) [reminder](B-reminder/noun) [in](B-datetime) [2](I-datetime) [hours](I-datetime)
+- remind me to [buy](B-reminder/todo) [milk](I-reminder/todo) [at](I-reminder/todo) [the](I-reminder/todo) [grocery](I-reminder/todo) [store](I-reminder/todo) [tonight](B-datetime)
+- remind me of my [doctors](B-reminder/todo) [appointment](I-reminder/todo) [on](B-datetime) [monday](I-datetime)
+- remind me of [date](B-reminder/todo) [night](I-reminder/todo) [for](B-datetime) [tomorrow](I-datetime) [at](I-datetime) [8](I-datetime) [pm](I-datetime)
+- remind me to [buy](B-reminder/todo) [medicine](I-reminder/todo)
+- remind me [at](B-datetime) [5pm](I-datetime) to [stop](B-reminder/todo) [for](I-reminder/todo) [gas](I-reminder/todo)
+- set a reminder [for](B-datetime) [40](I-datetime) [minutes](I-datetime) [from](I-datetime) now to [take](B-reminder/todo) [out](I-reminder/todo) [the](I-reminder/todo) [cake](I-reminder/todo) .
+- remind me to [pick](B-reminder/todo) [up](I-reminder/todo) [abby](I-reminder/todo) [after](I-reminder/todo) [school](I-reminder/todo) [tomorrow](B-datetime) .
+- set a [reminder](B-reminder/noun) to [pick](B-reminder/todo) [up](I-reminder/todo) [dry](I-reminder/todo) [cleaning](I-reminder/todo) [by](B-datetime) [7pm](I-datetime) [today](I-datetime)
+- make a [reminder](B-reminder/noun) alarm for an [appointment](B-reminder/todo) [on](B-datetime) [3pm](I-datetime) [this](I-datetime) [tuesday](I-datetime) please
+- [remind](B-reminder/noun) me to [get](B-reminder/todo) [my](I-reminder/todo) [car](I-reminder/todo) [serviced](I-reminder/todo) [in](B-datetime) [30](I-datetime) [days](I-datetime) .
+- remind me [in](B-datetime) [10](I-datetime) [minutes](I-datetime) to [turn](B-reminder/todo) [off](I-reminder/todo) [the](I-reminder/todo) [oven](I-reminder/todo)
+- create a new [reminder](B-reminder/noun) to [add](B-reminder/todo) [eggs](I-reminder/todo) [to](I-reminder/todo) [the](I-reminder/todo) [grocery](I-reminder/todo) [list](I-reminder/todo)
+- remind me to [unfriend](B-reminder/todo) [nancy](I-reminder/todo) .
+- remind me when to [pick](B-reminder/todo) [up](I-reminder/todo) [my](I-reminder/todo) [kids](I-reminder/todo) .
+- remind me to [pay](B-reminder/todo) [rent](I-reminder/todo)
+- i need a [reminder](B-reminder/noun) created [for](B-datetime) [tonights](I-datetime) [baseball](B-reminder/todo) [game](I-reminder/todo) [at](B-datetime) [6](I-datetime) [pm](I-datetime)
+- set [daily](B-reminder/recurring_period) [reminder](B-reminder/noun) for [status](B-reminder/todo) [report](I-reminder/todo)
+- remind of the [party](B-reminder/todo) [saturday](B-datetime)
+- [reminder](B-reminder/noun) - [get](B-reminder/todo) [printer](I-reminder/todo) [ink](I-reminder/todo) .
+- remind me to [buy](B-reminder/todo) [toilet](I-reminder/todo) [paper](I-reminder/todo)
+- remind me to [turn](B-reminder/todo) [the](I-reminder/todo) [dryer](I-reminder/todo) [again](I-reminder/todo) after 10 minutes
+- remind me to [check](B-reminder/todo) [into](I-reminder/todo) [my](I-reminder/todo) [flight](I-reminder/todo) [tonight](B-datetime) [at](I-datetime) [6pm](I-datetime) .
+- set a [reminder](B-reminder/noun) to [turn](B-reminder/todo) [off](I-reminder/todo) [sprinklers](I-reminder/todo) in 30 minutes
+- remind me to [wish](B-reminder/todo) [stella](I-reminder/todo) [a](I-reminder/todo) [happy](I-reminder/todo) [birthday](I-reminder/todo) [tomorrow](B-datetime)
+- set a [reminder](B-reminder/noun) [for](B-datetime) [3](I-datetime) [am](I-datetime) [tomorrow](I-datetime) .
+- remind me to [pick](B-reminder/todo) [my](I-reminder/todo) [son](I-reminder/todo) [up](I-reminder/todo) [from](I-reminder/todo) [boy](I-reminder/todo) [scouts](I-reminder/todo) [every](B-reminder/recurring_period) [monday](I-reminder/recurring_period)
+- remind me to [buy](B-reminder/todo) [avocado](I-reminder/todo) [at](I-reminder/todo) [the](I-reminder/todo) [grocery](I-reminder/todo) [store](I-reminder/todo) [tonight](B-datetime)
+- remind me to [get](B-reminder/todo) [papers](I-reminder/todo) [at](B-datetime) [7](I-datetime) [tomorrow](I-datetime)
+- set a [reminder](B-reminder/noun) [for](B-datetime) [friday](I-datetime) that [i](B-reminder/todo) [need](I-reminder/todo) [to](I-reminder/todo) [pick](I-reminder/todo) [up](I-reminder/todo) [my](I-reminder/todo) [mom](I-reminder/todo) [at](I-reminder/todo) [the](I-reminder/todo) [airport](I-reminder/todo) .
+- [remind](B-reminder/noun) me to [buy](B-reminder/todo) [milk](I-reminder/todo) .
+- remind me about [sunset](B-reminder/todo) [today](B-datetime)
+- remind me to [buy](B-reminder/todo) [bread](I-reminder/todo) [from](I-reminder/todo) [walmart](I-reminder/todo) [tonight](B-datetime)
+- remind me to [go](B-reminder/todo) [to](I-reminder/todo) [my](I-reminder/todo) [appointment](I-reminder/todo) [tomorrow](B-datetime)
+- remind me to [buy](B-reminder/todo) [milk](I-reminder/todo)
+- remind me to [check](B-reminder/todo) [social](I-reminder/todo) [media](I-reminder/todo)
+- remind me for [pill](B-reminder/todo) [at](B-datetime) [8](I-datetime)
+- remind me about my [doctors](B-reminder/todo) [appointment](I-reminder/todo) [monday](B-datetime) [at](I-datetime) [9](I-datetime)
+- remind me to [buy](B-reminder/todo) [dog](I-reminder/todo) [food](I-reminder/todo) [at](I-reminder/todo) [costco](I-reminder/todo)
+- [remind](B-reminder/noun) me about [dinner](B-reminder/todo) [tomorrow](I-reminder/todo) [with](I-reminder/todo) [mom](I-reminder/todo) [at](B-datetime) [2](I-datetime) [:](I-datetime) [00](I-datetime)
+- remind me to [watch](B-reminder/todo) [big](I-reminder/todo) [brother](I-reminder/todo) [at](B-datetime) [8](I-datetime) [pm](I-datetime) [on](I-datetime) [sunday](I-datetime)
+- remind me to [schedule](B-reminder/todo) [an](I-reminder/todo) [appointment](I-reminder/todo) [with](I-reminder/todo) [my](I-reminder/todo) [doctor](I-reminder/todo) [tomorrow](B-datetime)
+- please remind me to [buy](B-reminder/todo) [milk](I-reminder/todo) [tonight](B-datetime) .
+- remind me [to](B-reminder/todo) [go](I-reminder/todo) [to](I-reminder/todo) [gym](I-reminder/todo) [everyday](I-reminder/todo) at [5am](B-reminder/recurring_period)
+- remind me to [buy](B-reminder/todo) [butter](I-reminder/todo) [at](I-reminder/todo) [the](I-reminder/todo) [store](I-reminder/todo) [tonight](B-datetime)
+- remind me [every](B-reminder/recurring_period) [hour](I-reminder/recurring_period) to [get](B-reminder/todo) [up](I-reminder/todo)
+- remind me to [go](B-reminder/todo) [pick](I-reminder/todo) [up](I-reminder/todo) [the](I-reminder/todo) [mail](I-reminder/todo) [at](I-reminder/todo) [the](I-reminder/todo) [post](I-reminder/todo) [office](I-reminder/todo) [tomorrow](B-datetime)
+- new [reminder](B-reminder/noun) for [game](B-reminder/todo) [of](I-reminder/todo) [thrones](I-reminder/todo) [episode](I-reminder/todo) [on](B-datetime) [sunday](I-datetime)
+- remind me [next](B-datetime) [tuesday](I-datetime) to [buy](B-reminder/todo) [eggs](I-reminder/todo) .
+- remind me to [get](B-reminder/todo) [some](I-reminder/todo) [milk](I-reminder/todo) [in](B-datetime) [2](I-datetime) [hours](I-datetime) .
+- set a [reminder](B-reminder/noun) [for](B-datetime) [30](I-datetime) [minutes](I-datetime) from now that [laundry](B-reminder/todo) [is](I-reminder/todo) [done](I-reminder/todo) .
+- [tomorrow](B-datetime) [at](I-datetime) [7](I-datetime) [pm](I-datetime) remind me to [watch](B-reminder/todo) [my](I-reminder/todo) [show](I-reminder/todo)
+- remind me to [stop](B-reminder/todo) [at](I-reminder/todo) [the](I-reminder/todo) [store](I-reminder/todo) [when](I-reminder/todo) [i](I-reminder/todo) [leave](I-reminder/todo) [work](I-reminder/todo)
+- remind me [tomorrow](B-datetime) to [call](B-reminder/todo) [the](I-reminder/todo) [dentist](I-reminder/todo) .
+- remind me to [go](B-reminder/todo) [to](I-reminder/todo) [the](I-reminder/todo) [store](I-reminder/todo) [at](B-datetime) [6pm](I-datetime)
+- remind me to [text](B-reminder/todo) [dad](I-reminder/todo) [on](B-datetime) [monday](I-datetime)
+- remind me to [call](B-reminder/todo) [my](I-reminder/todo) [mother](I-reminder/todo) [in](B-datetime) [15](I-datetime) [min](I-datetime)
+- remind me to [call](B-reminder/todo) [mom](I-reminder/todo) [tonight](B-datetime)
+- remind me to [go](B-reminder/todo) [for](I-reminder/todo) [a](I-reminder/todo) [haircut](I-reminder/todo) [at](B-datetime) [2](I-datetime) [p.m](I-datetime)
+- remind me to [take](B-reminder/todo) [my](I-reminder/todo) [vitamins](I-reminder/todo) .
+- remind me to [get](B-reminder/todo) [some](I-reminder/todo) [toilet](I-reminder/todo) [paper](I-reminder/todo) [tomorrow](B-datetime) .
+- remind me to [get](B-reminder/todo) [eggs](I-reminder/todo) [today](B-datetime)
+- remind me to [pick](B-reminder/todo) [up](I-reminder/todo) [strawberries](I-reminder/todo) [at](I-reminder/todo) [the](I-reminder/todo) [store](I-reminder/todo)
+- remind me that i have a [doctor](B-reminder/todo) [appointment](I-reminder/todo) [on](B-datetime) [friday](I-datetime)
+- remind me [at](B-datetime) [5](I-datetime) [pm](I-datetime) to [make](B-reminder/todo) [dinner](I-reminder/todo) .
+- remind me to [call](B-reminder/todo) [the](I-reminder/todo) [doctors](I-reminder/todo) [tomorrow](B-datetime)
+- remind me to [grab](B-reminder/todo) [soup](I-reminder/todo) [from](I-reminder/todo) [the](I-reminder/todo) [store](I-reminder/todo) .
+- set a [reminder](B-reminder/noun) to [pick](B-reminder/todo) [up](I-reminder/todo) [susan](I-reminder/todo) [monday](B-datetime) [morning](I-datetime)
+- remind me to [renew](B-reminder/todo) [my](I-reminder/todo) [subscription](I-reminder/todo)
+- remind me to [watch](B-reminder/todo) [game](I-reminder/todo) [of](I-reminder/todo) [thrones](I-reminder/todo) [tomorrow](B-datetime)
+- add [reminder](B-reminder/noun) [feed](B-reminder/todo) [sparky](I-reminder/todo) [6pm](B-reminder/recurring_period) [daily](I-reminder/recurring_period)
+- remind me [pto](B-reminder/todo) [two](B-datetime) [weeks](I-datetime)
+- remind me to [go](B-reminder/todo) [to](I-reminder/todo) [my](I-reminder/todo) [doctor](I-reminder/todo) [appointment](I-reminder/todo) [at](B-datetime) [8pm](I-datetime) [tomorrow](I-datetime)
+- set [aliens](B-reminder/todo) [movie](I-reminder/todo) [reminder](B-reminder/noun) [for](B-datetime) [8](I-datetime) [pm](I-datetime)
+- add a [reminder](B-reminder/noun) for the [gucci](B-reminder/todo) [mane](I-reminder/todo) [concert](I-reminder/todo) [in](B-datetime) [5](I-datetime) [months](I-datetime)
+- remind me to [buy](B-reminder/todo) [deli](I-reminder/todo) [meat](I-reminder/todo) [when](I-reminder/todo) [i](I-reminder/todo) [go](I-reminder/todo) [to](I-reminder/todo) [the](I-reminder/todo) [grocery](I-reminder/todo) [store](I-reminder/todo)
+- remind me to [drop](B-reminder/todo) [off](I-reminder/todo) [the](I-reminder/todo) [bank](I-reminder/todo) [deposit](I-reminder/todo)
+- create a new [reminder](B-reminder/noun) [for](B-datetime) [tonight](I-datetime) .
+- remind me to [go](B-reminder/todo) [to](I-reminder/todo) [dentist](I-reminder/todo) [on](B-datetime) [tuesday](I-datetime) [at](I-datetime) [12](I-datetime) [pm](I-datetime)
+- [go](B-reminder/todo) [grocery](I-reminder/todo) [shopping](I-reminder/todo) [at](B-datetime) [9pm](I-datetime) remind me
+- remind me to [watch](B-reminder/todo) [the](I-reminder/todo) [90](I-reminder/todo) ['](I-reminder/todo) [s](I-reminder/todo) [on](I-reminder/todo) [cnn](I-reminder/todo) [this](B-datetime) [weekend](I-datetime) .
+- remind me [at](B-datetime) [6](I-datetime) [tonight](I-datetime) to [pay](B-reminder/todo) [my](I-reminder/todo) [water](I-reminder/todo) [bill](I-reminder/todo)
+- remind me to [go](B-reminder/todo) [to](I-reminder/todo) [work](I-reminder/todo) [at](B-datetime) [4pm](I-datetime)
+- remind me to [check](B-reminder/todo) [sammys](I-reminder/todo) [school](I-reminder/todo) [work](I-reminder/todo)
+- remind me to [get](B-reminder/todo) [chlorine](I-reminder/todo) [tablets](I-reminder/todo) [for](I-reminder/todo) [the](I-reminder/todo) [pool](I-reminder/todo) [tomorrow](B-datetime) [morning](I-datetime) [at](I-datetime) [8](I-datetime) [:](I-datetime) [00](I-datetime) [am](I-datetime)
+- remind me to [stop](B-reminder/todo) [to](I-reminder/todo) [get](I-reminder/todo) [sour](I-reminder/todo) [cream](I-reminder/todo) [on](I-reminder/todo) [the](I-reminder/todo) [way](I-reminder/todo) [home](I-reminder/todo) .
+- remind me of my [appointment](B-reminder/todo) [tomorrow](B-datetime) [at](I-datetime) [4pm](I-datetime)
+- [remind](B-reminder/noun) me to [record](B-reminder/todo) [giants](I-reminder/todo) [game](I-reminder/todo) [tonight](B-datetime)
+- remind me to [pick](B-reminder/todo) [up](I-reminder/todo) [wine](I-reminder/todo) [saturday](B-datetime)
+- remind me to [fuel](B-reminder/todo) [the](I-reminder/todo) [car](I-reminder/todo)
+- remind me to [go](B-reminder/todo) [to](I-reminder/todo) [the](I-reminder/todo) [gym](I-reminder/todo) [at](B-datetime) [6](I-datetime)
+- [9](B-datetime) [pm](I-datetime) [appointment](B-reminder/todo) [for](I-reminder/todo) [photos](I-reminder/todo) and remind me an hour before
+- set [reminder](B-reminder/noun) [every](B-reminder/recurring_period) [30](I-reminder/recurring_period) [minutes](I-reminder/recurring_period) to [walk](B-reminder/todo)
+- remind me to [call](B-reminder/todo) [the](I-reminder/todo) [florist](I-reminder/todo) [tomorrow](B-datetime)
+- remind me to [pick](B-reminder/todo) [up](I-reminder/todo) [medicine](I-reminder/todo) [for](I-reminder/todo) [the](I-reminder/todo) [baby](I-reminder/todo)
+- start my weekend [reminder](B-reminder/noun) [for](B-datetime) [5am](I-datetime)
+- remind me that [i](B-reminder/todo) [should](I-reminder/todo) [not](I-reminder/todo) [write](I-reminder/todo) [my](I-reminder/todo) [ex](I-reminder/todo) [boyfriend](I-reminder/todo) [a](I-reminder/todo) [note](I-reminder/todo) [after](I-reminder/todo) [i](I-reminder/todo) [get](I-reminder/todo) [home](I-reminder/todo) [tonight](B-datetime)
+- remind me to [stop](B-reminder/todo) [by](I-reminder/todo) [lindsays](I-reminder/todo) [house](I-reminder/todo)
+- remind me to [make](B-reminder/todo) [dinner](I-reminder/todo) [tonight](B-datetime)
+- set [reminder](B-reminder/noun) to [go](B-reminder/todo) [to](I-reminder/todo) [the](I-reminder/todo) [bank](I-reminder/todo) [on](B-datetime) [monday](I-datetime)
+- remind me to [pay](B-reminder/todo) [car](I-reminder/todo) [note](I-reminder/todo) [tomorrow](B-datetime)
+- remind me to [pick](B-reminder/todo) [up](I-reminder/todo) [the](I-reminder/todo) [key](I-reminder/todo) [on](B-datetime) [thursday](I-datetime) [at](I-datetime) [5](I-datetime) [:](I-datetime) [30pm](I-datetime)
+- remind me to [get](B-reminder/todo) [bread](I-reminder/todo) [at](I-reminder/todo) [the](I-reminder/todo) [grocery](I-reminder/todo) [store](I-reminder/todo) [friday](B-datetime)
+- remind me to [buy](B-reminder/todo) [bread](I-reminder/todo) [tonight](B-datetime) .
+- remind me to [exercise](B-reminder/todo) [on](B-datetime) [thursday](I-datetime)
+- remind me to [visit](B-reminder/todo) [the](I-reminder/todo) [eye](I-reminder/todo) [doctor](I-reminder/todo) [tuesday](B-datetime) [afternoon](I-datetime) .
+- make a [reminder](B-reminder/noun) to [stop](B-reminder/todo) [at](I-reminder/todo) [the](I-reminder/todo) [vet](I-reminder/todo)
+- remind me to [walk](B-reminder/todo) [the](I-reminder/todo) [dog](I-reminder/todo) in a [half](B-datetime) [hour](I-datetime) .
+- remind me to [take](B-reminder/todo) [the](I-reminder/todo) [chicken](I-reminder/todo) [out](I-reminder/todo) [of](I-reminder/todo) [the](I-reminder/todo) [freezer](I-reminder/todo) [tomorrow](B-datetime) [morning](I-datetime) .
+- remind me to [pick](B-reminder/todo) [up](I-reminder/todo) [an](I-reminder/todo) [anniversary](I-reminder/todo) [card](I-reminder/todo) [for](I-reminder/todo) [my](I-reminder/todo) [husband](I-reminder/todo) [tomorrow](B-datetime) .
+- remind me to [water](B-reminder/todo) [plants](I-reminder/todo)
+- remind me [every](B-reminder/recurring_period) [thursday](I-reminder/recurring_period) [at](B-datetime) [7](I-datetime) [:](I-datetime) [30pm](I-datetime) , [trash](B-reminder/todo) .
+- set a reminder to [pay](B-reminder/todo) [my](I-reminder/todo) [phone](I-reminder/todo) [bill](I-reminder/todo) [on](B-datetime) [friday](I-datetime) [at](I-datetime) [8am](I-datetime)
+- you should remind me to [leave](B-reminder/todo) [for](I-reminder/todo) [the](I-reminder/todo) [airport](I-reminder/todo) [in](B-datetime) [about](I-datetime) [an](I-datetime) [hour](I-datetime) [from](I-datetime) [now](I-datetime)
+- make a [reminder](B-reminder/noun)
+- remind me to [pick](B-reminder/todo) [up](I-reminder/todo) [my](I-reminder/todo) [daughter](I-reminder/todo) [this](B-datetime) [afternoon](I-datetime) .
+- set a [reminder](B-reminder/noun) for [church](B-reminder/todo) [at](B-datetime) [11](I-datetime) [am](I-datetime) [sundays](I-datetime)
+- remind me to [set](B-reminder/todo) [the](I-reminder/todo) [alarm](I-reminder/todo)
+- set [reminder](B-reminder/noun) [for](B-datetime) [15](I-datetime) [minutes](I-datetime) before [the](B-reminder/todo) [show](I-reminder/todo) .
+- remind me to [cancel](B-reminder/todo) [alarm](I-reminder/todo)
+- remind me to [get](B-reminder/todo) [gas](I-reminder/todo) [after](I-reminder/todo) [work](I-reminder/todo)
+- remind me to [buy](B-reminder/todo) [tickets](I-reminder/todo)
+- set a [reminder](B-reminder/noun) for [football](B-reminder/todo) [games](I-reminder/todo) [every](B-reminder/recurring_period) [friday](I-reminder/recurring_period) [night](I-reminder/recurring_period) [in](B-datetime) [october](I-datetime)
+- remind me about [hair](B-reminder/todo) [appointment](I-reminder/todo)
+- remind me to [pick](B-reminder/todo) [up](I-reminder/todo) [dinner](I-reminder/todo) [tonight](B-datetime)
+- remind me to [get](B-reminder/todo) [eggs](I-reminder/todo) [tonight](B-datetime)
+- remind me to [renew](B-reminder/todo) [my](I-reminder/todo) [book](I-reminder/todo) [from](I-reminder/todo) [the](I-reminder/todo) [library](I-reminder/todo)
+- set [reminder](B-reminder/noun) for [doctors](B-reminder/todo) [appointment](I-reminder/todo) [friday](B-datetime)
+- please add a [reminder](B-reminder/noun) to [visit](B-reminder/todo) [stacy](I-reminder/todo) [at](B-datetime) [5pm](I-datetime) [tonight](I-datetime)
+- remind me to [paint](B-reminder/todo) [the](I-reminder/todo) [bedroom](I-reminder/todo) ,
+- remind me to [buy](B-reminder/todo) [food](I-reminder/todo) [and](I-reminder/todo) [drinks](I-reminder/todo) [for](I-reminder/todo) [trip](I-reminder/todo) [today](B-datetime)
+- remind me of my [date](B-reminder/todo) [at](B-datetime) [6](I-datetime) [pm](I-datetime) [tomorrow](I-datetime)
+- remind me to [call](B-reminder/todo) [mom](I-reminder/todo) [at](B-datetime) [6pm](I-datetime) .
+- remind me to [go](B-reminder/todo) [to](I-reminder/todo) [the](I-reminder/todo) [grocery](I-reminder/todo) [by](B-datetime) [saturday](I-datetime)
+- remind me to [buy](B-reminder/todo) [some](I-reminder/todo) [advil](I-reminder/todo) [tomorrow](B-datetime) .
+- remind me to [email](B-reminder/todo) [the](I-reminder/todo) [teachers](I-reminder/todo)
+- remind me to [call](B-reminder/todo) [mom](I-reminder/todo) [tomorrow](B-datetime)
+- put repeating [reminder](B-reminder/noun) [every](B-reminder/recurring_period) [30](I-reminder/recurring_period) [minutes](I-reminder/recurring_period) to [do](B-reminder/todo) [spring](I-reminder/todo) [cleaning](I-reminder/todo) [on](B-datetime) [sunday](I-datetime)
+- remind me to [start](B-reminder/todo) [laundry](I-reminder/todo) [tonight](B-datetime) .
+- remind me to [call](B-reminder/todo) [grandma](I-reminder/todo)
+- [remind](B-reminder/noun) me to [pick](B-reminder/todo) [up](I-reminder/todo) [prescriptions](I-reminder/todo) [at](B-datetime) [4](I-datetime) [:](I-datetime) [00](I-datetime) [pm](I-datetime) .
+- remind me to [renew](B-reminder/todo) [my](I-reminder/todo) [driving](I-reminder/todo) [license](I-reminder/todo)
+- set [reminder](B-reminder/noun) for day before [dentist](B-reminder/todo) [appointment](I-reminder/todo)
+- [reminder](B-reminder/noun) [check](B-reminder/todo) [water](I-reminder/todo) [temp](I-reminder/todo)
+- set a [reminder](B-reminder/noun) for [date](B-reminder/todo) [night](I-reminder/todo) [on](B-datetime) [the](I-datetime) [12th](I-datetime) [at](I-datetime) [3](I-datetime) [:](I-datetime) [00](I-datetime) [pm](I-datetime)
+- remind me to [schedule](B-reminder/todo) [a](I-reminder/todo) [dentist](I-reminder/todo) [appointment](I-reminder/todo)
+- remind me to [buy](B-reminder/todo) [toilet](I-reminder/todo) [paper](I-reminder/todo) [tomorrow](B-datetime)
+- remind me to [call](B-reminder/todo) [karrie](I-reminder/todo)
+- remind me to [pick](B-reminder/todo) [up](I-reminder/todo) [pizza](I-reminder/todo)
+- remind me 1 day in advance of [doctor](B-reminder/todo) [appointment](I-reminder/todo)
+- set [reminder](B-reminder/noun) to [pick](B-reminder/todo) [up](I-reminder/todo) [bread](I-reminder/todo) [at](I-reminder/todo) [store](I-reminder/todo) .
+- remind me to [walk](B-reminder/todo) [the](I-reminder/todo) [dog](I-reminder/todo) [at](B-datetime) [6pm](I-datetime)
+- remind me to [get](B-reminder/todo) [directions](I-reminder/todo)
+- set [reminder](B-reminder/noun) to [go](B-reminder/todo) [to](I-reminder/todo) [bed](I-reminder/todo) [at](B-datetime) [10](I-datetime) [:](I-datetime) [30](I-datetime)
+- remind me to [go](B-reminder/todo) [to](I-reminder/todo) [the](I-reminder/todo) [gas](I-reminder/todo) [station](I-reminder/todo) [at](B-datetime) [6pm](I-datetime) to get gas
+- remind me to [call](B-reminder/todo) [my](I-reminder/todo) [dad](I-reminder/todo) [tomorrow](B-datetime)
+- i want a [reminder](B-reminder/noun) to [get](B-reminder/todo) [pepper](I-reminder/todo) [tomorrow](B-datetime)
+- remind me [2](B-datetime) [days](I-datetime) [before](I-datetime) my next game to [buy](B-reminder/todo) [snacks](I-reminder/todo) .
+- repeat my [reminder](B-reminder/noun) [all](B-reminder/recurring_period) [week](I-reminder/recurring_period) .
+- remind me to [make](B-reminder/todo) [car](I-reminder/todo) [payment](I-reminder/todo) [on](B-datetime) [tuesday](I-datetime) .
+- remind me to [pick](B-reminder/todo) [up](I-reminder/todo) [my](I-reminder/todo) [friend](I-reminder/todo) [at](B-datetime) [4](I-datetime) [:](I-datetime) [00](I-datetime) [pm](I-datetime) .
+- remind me to [pick](B-reminder/todo) [up](I-reminder/todo) [shampoo](I-reminder/todo) [on](I-reminder/todo) [the](I-reminder/todo) [way](I-reminder/todo) [home](I-reminder/todo) .
+- remind me to [make](B-reminder/todo) [dinner](I-reminder/todo) [reservations](I-reminder/todo) [for](I-reminder/todo) [the](I-reminder/todo) [kids](I-reminder/todo) [and](I-reminder/todo) [i](I-reminder/todo) [on](B-datetime) [thursday](I-datetime) for saturday night .
+- remind me to [shut](B-reminder/todo) [off](I-reminder/todo) [the](I-reminder/todo) [sprinkler](I-reminder/todo) [in](B-datetime) [30](I-datetime) [minutes](I-datetime)
+- remind me to [call](B-reminder/todo) [mom](I-reminder/todo) [is](I-reminder/todo) [5](I-reminder/todo) [minutes](I-reminder/todo)
+- remind me to [place](B-reminder/todo) [amazon](I-reminder/todo) [order](I-reminder/todo) [today](B-datetime)
+- remind me to [call](B-reminder/todo) [and](I-reminder/todo) [make](I-reminder/todo) [a](I-reminder/todo) [doctors](I-reminder/todo) [appointment](I-reminder/todo)
+- remind me to [buy](B-reminder/todo) [cheese](I-reminder/todo) [at](I-reminder/todo) [the](I-reminder/todo) [grocery](I-reminder/todo) [store](I-reminder/todo)
+- remind me to [set](B-reminder/todo) [my](I-reminder/todo) [alarm](I-reminder/todo) [every](B-reminder/recurring_period) [night](I-reminder/recurring_period) [by](B-datetime) [9pm](I-datetime)
+- remind me [in](B-datetime) [5](I-datetime) [minutes](I-datetime) to [drink](B-reminder/todo) [coffee](I-reminder/todo)
+- make a new [reminder](B-reminder/noun) [tomorrow](B-datetime) [at](I-datetime) [1pm](I-datetime) to [go](B-reminder/todo) [to](I-reminder/todo) [work](I-reminder/todo) .
+- remind me to [call](B-reminder/todo) [mom](I-reminder/todo) [tomorrow](B-datetime) .
+- remind me to [pick](B-reminder/todo) [up](I-reminder/todo) [joanie](I-reminder/todo) [on](I-reminder/todo) [my](I-reminder/todo) [way](I-reminder/todo) [to](I-reminder/todo) [work](I-reminder/todo) [tomorrow](B-datetime) .
+- set [reminder](B-reminder/noun) to [pick](B-reminder/todo) [up](I-reminder/todo) [grandma](I-reminder/todo) [on](B-datetime) [tuesday](I-datetime)
+- [remind](B-reminder/noun) me to [call](B-reminder/todo) [mom](I-reminder/todo) [on](B-datetime) [saturday](I-datetime) [morning](I-datetime)
+- remind me to [buy](B-reminder/todo) [trash](I-reminder/todo) [bags](I-reminder/todo)
+- set [daily](B-reminder/recurring_period) [reminder](B-reminder/noun) for [status](B-reminder/todo) [report](I-reminder/todo)
+- remind me [everyday](B-reminder/recurring_period) to [take](B-reminder/todo) [my](I-reminder/todo) [medicine](I-reminder/todo) [at](B-datetime) [7pm](I-datetime) [everyday](B-reminder/recurring_period)
+- remind me to [take](B-reminder/todo) [cooper](I-reminder/todo) [to](I-reminder/todo) [dog](I-reminder/todo) [park](I-reminder/todo) [friday](B-datetime) [afternoon](I-datetime) .
+- remind me to [take](B-reminder/todo) [out](I-reminder/todo) [the](I-reminder/todo) [garbage](I-reminder/todo) [thursday](B-datetime)
+- remind me to [call](B-reminder/todo) [insurance](I-reminder/todo) [about](I-reminder/todo) [coverage](I-reminder/todo)
+- remind me about [doctor](B-reminder/todo) [appointment](I-reminder/todo) [tomorrow](B-datetime) [at](I-datetime) [noon](I-datetime) .
+- remind me to [check](B-reminder/todo) [bank](I-reminder/todo) [account](I-reminder/todo) [balance](I-reminder/todo) [tomorrow](B-datetime) .
+- set a [reminder](B-reminder/noun) for the [meeting](B-reminder/todo) [at](I-reminder/todo) [school](I-reminder/todo) [tomorrow](B-datetime) [night](I-datetime)
+- remind me to [take](B-reminder/todo) [out](I-reminder/todo) [the](I-reminder/todo) [trash](I-reminder/todo) [tomorrow](B-datetime) .
+- set [reminder](B-reminder/noun) for [birthday](B-reminder/todo) [party](I-reminder/todo)
+- remind me to [water](B-reminder/todo) [the](I-reminder/todo) [lawn](I-reminder/todo) [today](B-datetime) .
+- remind me to [pick](B-reminder/todo) [up](I-reminder/todo) [hailey](I-reminder/todo) [from](I-reminder/todo) [school](I-reminder/todo)
+- set [reminder](B-reminder/noun) [for](B-datetime) [12](I-datetime) [:](I-datetime) [00](I-datetime) [meeting](B-reminder/todo) .
+- remind me to [get](B-reminder/todo) [gas](I-reminder/todo) [on](I-reminder/todo) [my](I-reminder/todo) [way](I-reminder/todo) [home](I-reminder/todo) [tonight](B-datetime)
+- remind me of [john's](B-reminder/todo) [doctor's](I-reminder/todo) [appointment](I-reminder/todo) [on](B-datetime) [friday](I-datetime) [at](I-datetime) [10am](I-datetime) .
+- [remind](B-reminder/noun) me of my [nail](B-reminder/todo) [appointment](I-reminder/todo) [saturday](B-datetime)
+- remind me to [call](B-reminder/todo) [tim](I-reminder/todo) [after](I-reminder/todo) [work](I-reminder/todo) [tomorrow](B-datetime) [at](I-datetime) [6pm](I-datetime)
+- remind me to [look](B-reminder/todo) [up](I-reminder/todo) [the](I-reminder/todo) [address](I-reminder/todo) [in](B-datetime) [ten](I-datetime) [minutes](I-datetime)
+- create a [reminder](B-reminder/noun) [next](B-datetime) [year](I-datetime) [on](I-datetime) [october](I-datetime) [1st](I-datetime) to [think](B-reminder/todo) [of](I-reminder/todo) [halloween](I-reminder/todo) [costume](I-reminder/todo)
+- set [reminder](B-reminder/noun) to [grab](B-reminder/todo) [two](I-reminder/todo) [gallons](I-reminder/todo) [of](I-reminder/todo) [milk](I-reminder/todo) [after](I-reminder/todo) [swimming](I-reminder/todo) [laps](I-reminder/todo)
+- remind me to [pick](B-reminder/todo) [up](I-reminder/todo) [dog](I-reminder/todo) [food](I-reminder/todo) [tomorrow](B-datetime)
+- remind me to [get](B-reminder/todo) [the](I-reminder/todo) [oil](I-reminder/todo) [changed](I-reminder/todo) in my car [today](B-datetime) [at](I-datetime) [3](I-datetime) [:](I-datetime) [00pm](I-datetime)
+- set a new [reminder](B-reminder/noun) to [call](B-reminder/todo) [doctor](I-reminder/todo) [for](I-reminder/todo) [appointment](I-reminder/todo) [on](B-datetime) [aug](I-datetime) [30](I-datetime)
+- remind me to [pick](B-reminder/todo) [up](I-reminder/todo) [the](I-reminder/todo) [kids](I-reminder/todo) [from](I-reminder/todo) [school](I-reminder/todo) .
+- remind me [on](B-datetime) [saturday](I-datetime) to [start](B-reminder/todo) [my](I-reminder/todo) [two](I-reminder/todo) [day](I-reminder/todo) [fast](I-reminder/todo) when the alarm goes off [at](B-datetime) [4](I-datetime)
+- set [reminder](B-reminder/noun)
+- remind me to [remove](B-reminder/todo) [the](I-reminder/todo) [cookies](I-reminder/todo) [in](B-datetime) [15](I-datetime) [minutes](I-datetime)
+- remind me about the [cardinals](B-reminder/todo) [game](I-reminder/todo) [this](I-reminder/todo) [weekend](I-reminder/todo)
+- remind me to [turn](B-reminder/todo) [off](I-reminder/todo) [the](I-reminder/todo) [oven](I-reminder/todo) [in](B-datetime) [ten](I-datetime) [minutes](I-datetime)
+
+
+## intent:reminder/cancel_reminder
+- remind me cancel [dentist](B-reminder/todo) [appointment](I-reminder/todo) [for](B-datetime) [tuesday](I-datetime)
+- cancel that [reminder](B-reminder/noun) about [my](B-reminder/todo) [doctor's](I-reminder/todo) [appointment](I-reminder/todo) .
+- turn of my [reminder](B-reminder/noun)
+- remove the [last](B-reminder/reference) [reminder](B-reminder/noun) .
+- cancel my [reminder](B-reminder/noun) of my [appointment](B-reminder/todo) [at](B-datetime) [9](I-datetime) [am](I-datetime)
+- cancel my [next](B-reminder/reference) [reminder](B-reminder/noun) .
+- cancel my [bake](B-reminder/todo) [sale](I-reminder/todo) [reminder](B-reminder/noun)
+- cancel my [reminder](B-reminder/noun) to [call](B-reminder/todo) [dan](I-reminder/todo) .
+- pause all [reminders](B-reminder/noun) [for](B-datetime) [today](I-datetime) and rest them for tomorrow
+- turn of all [reminders](B-reminder/noun)
+- [cancel](B-reminder/todo) [comcast](I-reminder/todo) and remind me to [take](B-reminder/todo) [the](I-reminder/todo) [boxes](I-reminder/todo) [left](I-reminder/todo)
+- disable [reminder](B-reminder/noun)
+- cross off [email](B-reminder/todo) [my](I-reminder/todo) [doctor](I-reminder/todo) on my [reminder](B-reminder/noun) list
+- lose the [cat](B-reminder/todo) [food](I-reminder/todo) reminder
+- cancel the [reminder](B-reminder/noun) to [go](B-reminder/todo) [to](I-reminder/todo) [the](I-reminder/todo) [laundromat](I-reminder/todo) [later](B-datetime) [today](I-datetime)
+- cancel [today's](B-datetime) [reminders](B-reminder/noun)
+- cancel my [reminder](B-reminder/noun) to [buy](B-reminder/todo) [shoes](I-reminder/todo) [at](I-reminder/todo) [target](I-reminder/todo) [tonight](B-datetime)
+- cancel my [reminder](B-reminder/noun) for the [pta](B-reminder/todo) [bake](I-reminder/todo) [sale](I-reminder/todo)
+- cancel my [reminder](B-reminder/noun) for the [party](B-reminder/todo)
+- cancel my [reminder](B-reminder/noun) for my [doctor](B-reminder/todo) [appointment](I-reminder/todo)
+- suspend [friday's](B-datetime) [reminders](B-reminder/noun)
+- cancel my [reminder](B-reminder/noun) for [friday's](B-reminder/todo) [meeting](I-reminder/todo)
+- cancel my [reminder](B-reminder/noun) for [the](B-reminder/todo) [doctor](I-reminder/todo)
+- cancel the [reminder](B-reminder/noun) for my [appointment](B-reminder/todo) [tomorrow](B-datetime)
+- cancel [reminder](B-reminder/noun) set for [appointment](B-reminder/todo) [tomorrow](B-datetime) [morning](I-datetime)
+- cancel my [reminder](B-reminder/noun) for my [6pm](B-datetime) [meeting](B-reminder/todo)
+- cancel my [reminder](B-reminder/noun) to go to [pick](B-reminder/todo) [up](I-reminder/todo) [my](I-reminder/todo) [son](I-reminder/todo) [tomorrow](B-datetime)
+- cancel [today's](B-datetime) [reminder](B-reminder/noun)
+- cancel [reminder](B-reminder/noun) to [email](B-reminder/todo) [john](I-reminder/todo) and reschedule for tomorrow , same time
+- delete the [reminder](B-reminder/noun) [for](B-datetime) [tonight](I-datetime)
+- cancel my [reminder](B-reminder/noun) [for](B-datetime) [friday](I-datetime) [night](I-datetime)
+- cancel my [second](B-reminder/reference) [flight](B-reminder/todo) [reminder](B-reminder/noun)
+- cancel my [reminder](B-reminder/noun) for my [dentist](B-reminder/todo) [appointment](I-reminder/todo)
+- erase my [reminder](B-reminder/noun) for my [dentist](B-reminder/noun) [appointment](I-reminder/noun)
+- clear all date [reminders](B-reminder/noun) for vanessa
+- cancel my [reminder](B-reminder/noun) [for](B-datetime) [this](I-datetime) [afternoon](I-datetime)
+- cancel [reminder](B-reminder/noun) of [doctor's](B-reminder/todo) [appointment](I-reminder/todo) [next](B-datetime) [wednesday](I-datetime) [at](I-datetime) [11](I-datetime)
+- cancel all [tomorrow's](B-datetime) [reminders](B-reminder/noun)
+- cancel my [reminder](B-reminder/noun) for my [dentist](B-reminder/todo) [appointment](I-reminder/todo)
+- cancel my husband's [reminder](B-reminder/noun)
+- cancel [reminder](B-reminder/noun) to [pick](B-reminder/todo) [up](I-reminder/todo) [julie](I-reminder/todo) [on](B-datetime) [friday](I-datetime)
+- cancel my [reminder](B-reminder/noun) to [pick](B-reminder/todo) [up](I-reminder/todo) [bread](I-reminder/todo) .
+- cancel my [reminder](B-reminder/noun) to [go](B-reminder/todo) [to](I-reminder/todo) [the](I-reminder/todo) [store](I-reminder/todo)
+- delete all [reminders](B-reminder/noun) set
+- cancel my [reminder](B-reminder/noun) for [dentist](B-reminder/todo) [appointmet](I-reminder/todo)
+- cancel [reminder](B-reminder/noun) to [pick](B-reminder/todo) [up](I-reminder/todo) [olivia](I-reminder/todo) .
+- delete the [reminder](B-reminder/noun) i have set [for](B-datetime) [tomorrow](I-datetime)
+- cancel [reminder](B-reminder/noun) to [buy](B-reminder/todo) [eggs](I-reminder/todo)
+- cancel my [reminder](B-reminder/noun) to [buy](B-reminder/todo) [apples](I-reminder/todo) [at](I-reminder/todo) [the](I-reminder/todo) [store](I-reminder/todo) .
+- cancel my [reminder](B-reminder/noun) to [purchase](B-reminder/todo) [soup](I-reminder/todo) [at](I-reminder/todo) [the](I-reminder/todo) [grocery](I-reminder/todo) [store](I-reminder/todo) .
+- cancel the [reminder](B-reminder/noun) [for](B-datetime) [5](I-datetime) [tonight](I-datetime)
+- cancel [reminder](B-reminder/noun)
+- cancel [store](B-reminder/todo) [reminder](B-reminder/noun)
+- delete [friday](B-datetime) [reminders](B-reminder/noun)
+- cancel [tomorrow's](B-datetime) [reminders](B-reminder/noun) .
+- cancel my [reminder](B-reminder/noun) for the [doctor's](B-reminder/todo) [appointment](I-reminder/todo) [tomorrow](B-datetime)
+- i need to delete this [reminder](B-reminder/noun) .
+- delete [reminder](B-reminder/noun) to [go](B-reminder/todo) [to](I-reminder/todo) [the](I-reminder/todo) [bank](I-reminder/todo)
+- cancel [reminder](B-reminder/noun) for my [dental](B-reminder/todo) [appointment](I-reminder/todo) [tomorrow](B-datetime) [at](I-datetime) [1pm](I-datetime)
+- cancel all [reminders](B-reminder/noun) [for](B-datetime) [today](I-datetime)
+- cancel [reminder](B-reminder/noun) to [get](B-reminder/todo) [dog](I-reminder/todo) [food](I-reminder/todo) [at](I-reminder/todo) [the](I-reminder/todo) [store](I-reminder/todo)
+- cancel [reminder](B-reminder/noun) [for](B-datetime) [next](I-datetime) [week](I-datetime)
+- cancel my [reminder](B-reminder/noun) to [pick](B-reminder/todo) [up](I-reminder/todo) [my](I-reminder/todo) [sister](I-reminder/todo)
+- delete my [last](B-reminder/reference) [reminder](B-reminder/noun)
+- delete my [reminder](B-reminder/noun)
+- remove my [reminder](B-reminder/noun) to [buy](B-reminder/todo) [a](I-reminder/todo) [shoes](I-reminder/todo) [at](I-reminder/todo) [the](I-reminder/todo) [shoes](I-reminder/todo) [store](I-reminder/todo)
+- cancel [reminder](B-reminder/noun) to [call](B-reminder/todo) [friend](I-reminder/todo)
+- cancel all my [reminders](B-reminder/noun) during [work](B-reminder/todo) [tomorrow](B-datetime) .
+- delete [today's](B-datetime) [reminders](B-reminder/noun)
+- delete all my [reminders](B-reminder/noun) .
+- delete my [wednesday](B-datetime) [reminder](B-reminder/noun)
+- get rid of my [reminder](B-reminder/noun) to [pick](B-reminder/todo) [up](I-reminder/todo) [kate](I-reminder/todo)
+- please cancel the [reminder](B-reminder/noun) to [buy](B-reminder/todo) [pickles](I-reminder/todo) [at](I-reminder/todo) [the](I-reminder/todo) [store](I-reminder/todo) .
+- delete my [reminders](B-reminder/noun)
+- cancel my [reminder](B-reminder/noun) about the [baseball](B-reminder/todo) [game](I-reminder/todo)
+- cancel my [reminder](B-reminder/noun) to [go](B-reminder/todo) [grocery](I-reminder/todo) [shopping](I-reminder/todo) .
+- delete all [reminders](B-reminder/noun)
+- cancel my [reminder](B-reminder/noun) [dentist](B-reminder/todo) [appointment](I-reminder/todo) [next](B-datetime) [week](I-datetime) .
+- cancel all [reminders](B-reminder/noun)
+- delete [reminder](B-reminder/noun) to [get](B-reminder/todo) [a](I-reminder/todo) [newspaper](I-reminder/todo) [tomorrow](B-datetime)
+- delete [reminder](B-reminder/noun) for [appointment](B-reminder/todo)
+- cancel [my](B-reminder/reference) [reminders](B-reminder/noun)
+- please delete my [reminder](B-reminder/noun) to [pick](B-reminder/todo) [up](I-reminder/todo) [lunch](I-reminder/todo)
+- cancel [reminder](B-reminder/noun) for [gas](B-reminder/todo)
+- cancel the [reminder](B-reminder/noun)
+- remove my [reminder](B-reminder/noun) to [check](B-reminder/todo) [sammys](I-reminder/todo) [work](I-reminder/todo)
+- cancel [reminder](B-reminder/noun) to [buy](B-reminder/todo) [milk](I-reminder/todo) .
+- turn off all [reminders](B-reminder/noun) until i turn them back on .
+- cancel my [reminder](B-reminder/noun) to [buy](B-reminder/todo) [lottery](I-reminder/todo) [tickets](I-reminder/todo) [at](I-reminder/todo) [the](I-reminder/todo) [grocery](I-reminder/todo) [store](I-reminder/todo)
+- cancel that [reminder](B-reminder/noun)
+- delete all of my [reminders](B-reminder/noun) [for](B-datetime) [next](I-datetime) [sunday](I-datetime)
+- clear any remaining [reminders](B-reminder/noun)
+- cancel my [reminder](B-reminder/noun) for [the](B-reminder/todo) [doctor](I-reminder/todo)
+- erase all [reminders](B-reminder/noun)
+- cancel [reminder](B-reminder/noun) [for](B-datetime) [friday](I-datetime) [dinner](B-reminder/todo) .
+- cancel [bus](B-reminder/todo) [reminder](B-reminder/noun)
+- cancel my [reminder](B-reminder/noun) to [pick](B-reminder/todo) [up](I-reminder/todo) [my](I-reminder/todo) [sister](I-reminder/todo)
+- cancel my [reminder](B-reminder/noun) to [buy](B-reminder/todo) [milk](I-reminder/todo)
+- cancel [reminder](B-reminder/noun) [for](B-datetime) [tomorrow](I-datetime) .
+- cancel all [reminders](B-reminder/noun) [for](B-datetime) [today](I-datetime)
+- cancel my [reminder](B-reminder/noun) to [schedule](B-reminder/todo) [a](I-reminder/todo) [dentist](I-reminder/todo) [appointment](I-reminder/todo)
+- cancel [term](B-reminder/todo) [paper](I-reminder/todo) [reminder](B-reminder/noun) .
+- cancel my [reminders](B-reminder/noun) [for](B-datetime) [today](I-datetime) please
+- cancel all [reminders](B-reminder/noun) .
+- cancel my [reminder](B-reminder/noun) to [take](B-reminder/todo) [the](I-reminder/todo) [dog](I-reminder/todo) [for](I-reminder/todo) [a](I-reminder/todo) [walk](I-reminder/todo)
+- cancel [reminder](B-reminder/noun) to [buy](B-reminder/todo) [cat](I-reminder/todo) [food](I-reminder/todo)
+- delete all [reminders](B-reminder/noun) .
+- cancel all [reminders](B-reminder/noun)
+- cancel the [reminder](B-reminder/noun) regarding [picking](B-reminder/todo) [up](I-reminder/todo) [eggs](I-reminder/todo) .
+- cancel all of my [reminders](B-reminder/noun) [for](B-datetime) [tomorrow](I-datetime) .
+- cancel [reminder](B-reminder/noun) for [mason's](B-reminder/todo) [ballgame](I-reminder/todo) [on](B-datetime) [tuesday](I-datetime)
+- will you delete the [reminder](B-reminder/noun) to [buy](B-reminder/todo) [deodorant](I-reminder/todo) [at](I-reminder/todo) [the](I-reminder/todo) [store](I-reminder/todo) ?
+- cancel [dentist](B-reminder/todo) [reminder](B-reminder/noun) [for](B-datetime) [tuesday](I-datetime)
+- cancel [today's](B-datetime) [reminders](B-reminder/noun)
+- delete all of my [reminders](B-reminder/noun) .
+- delete [reminder](B-reminder/noun) for [swim](B-reminder/todo) [lessons](I-reminder/todo)
+- cancel my [reminder](B-reminder/noun) to [pick](B-reminder/todo) [up](I-reminder/todo) [my](I-reminder/todo) [kids](I-reminder/todo) .
+- delete my [reminder](B-reminder/noun) [at](B-datetime) [3](I-datetime)
+- cancel my [doctor](B-reminder/todo) [appointment](I-reminder/todo) [reminder](B-reminder/noun)
+- delete all my [reminders](B-reminder/noun) [for](B-datetime) [today](I-datetime) .
+- cancel all [reminders](B-reminder/noun) for the day
+- cancel [last](B-reminder/reference) [reminder](B-reminder/noun)
+- cancel my [reminder](B-reminder/noun) to [call](B-reminder/todo) [david](I-reminder/todo)
+- cancel my [reminder](B-reminder/noun)
+- cancel all [reminders](B-reminder/noun) for the day
+- cancel my [reminder](B-reminder/noun) that i just scheduled
+- cancel my [reminder](B-reminder/noun) to [buy](B-reminder/todo) [toothpaste](I-reminder/todo)
+- cancel [tomorrow's](B-datetime) [reminder](B-reminder/noun)
+- cancel my [reminder](B-reminder/noun) to [pick](B-reminder/todo) [up](I-reminder/todo) [gift](I-reminder/todo)
+- cancel all my [reminder's](B-reminder/noun) [for](B-datetime) [tomorrow](I-datetime) .
+- delete all my [reminders](B-reminder/noun)
+- cancel [reminder](B-reminder/noun) for [kyle's](B-reminder/todo) [doctor's](I-reminder/todo) [appointment](I-reminder/todo) [on](B-datetime) [tuesday](I-datetime)
+- delete all [reminders](B-reminder/noun)
+- cancel my [reminders](B-reminder/noun) [for](B-datetime) [today](I-datetime) .
+- cancel my [reminder](B-reminder/noun) about [my](B-reminder/todo) [dentist](I-reminder/todo) [appointment](I-reminder/todo)
+- cancel my [reminder](B-reminder/noun) to [go](B-reminder/todo) [to](I-reminder/todo) [the](I-reminder/todo) [grocery](I-reminder/todo) [store](I-reminder/todo)
+- cancel my [reminder](B-reminder/noun)
+- cancel my [reminder](B-reminder/noun) to [buy](B-reminder/todo) [bread](I-reminder/todo) .
+- cancel [netflix](B-reminder/todo) [reminder](B-reminder/noun)
+- cancel of my [reminders](B-reminder/noun) [for](B-datetime) [tomorrow](I-datetime)
+- cancel all [reminders](B-reminder/noun) [for](B-datetime) [sunday](I-datetime)
+- cancel my [reminder](B-reminder/noun) [for](B-datetime) [tomorrow](I-datetime)
+- cancel [reminder](B-reminder/noun) to [buy](B-reminder/todo) [pizza](I-reminder/todo) .
+- delete all [reminders](B-reminder/noun) [on](B-datetime) [friday](I-datetime) [of](I-datetime) [next](I-datetime) [week](I-datetime)
+- cancel my [reminder](B-reminder/noun) to [buy](B-reminder/todo) [break](I-reminder/todo) [at](I-reminder/todo) [the](I-reminder/todo) [store](I-reminder/todo)
+- cancel [my](B-reminder/reference) [reminder](B-reminder/noun) to [buy](B-reminder/todo) [milk](I-reminder/todo) [at](I-reminder/todo) [grocery](I-reminder/todo) [store](I-reminder/todo)
+- cancel all [reminders](B-reminder/noun)
+- cancel all [reminders](B-reminder/noun) about [dinner](B-reminder/todo) [with](I-reminder/todo) [amy](I-reminder/todo)
+- delete my [last](B-reminder/reference) [reminder](B-reminder/noun)
+- delete my [reminders](B-reminder/noun) [for](B-datetime) [monday](I-datetime)
+- cancel my [reminder](B-reminder/noun) to [buy](B-reminder/todo) [bananas](I-reminder/todo) [at](I-reminder/todo) [the](I-reminder/todo) [store](I-reminder/todo) [tonight](B-datetime) .
+- delete [reminder](B-reminder/noun) for [waking](B-reminder/todo) [up](I-reminder/todo)
+- cancel my [reminder](B-reminder/noun) to [buy](B-reminder/todo) [some](I-reminder/todo) [water](I-reminder/todo) [at](I-reminder/todo) [the](I-reminder/todo) [store](I-reminder/todo) .
+- cancel my [reminders](B-reminder/noun) [for](B-datetime) [next](I-datetime) [week](I-datetime)
+- delete all [reminders](B-reminder/noun)
+- cancel my [last](B-reminder/reference) [reminder](B-reminder/noun)
+- cancel the [reminder](B-reminder/noun)
+- cancel all my [reminders](B-reminder/noun) [today](B-datetime)
+- cancel my [reminders](B-reminder/noun) [for](B-datetime) [tomorrow](I-datetime) .
+- please cancel my [reminder](B-reminder/noun) [alarm](B-reminder/todo) [this](B-datetime) [afternoon](I-datetime)
+- delete [reminder](B-reminder/noun) to [take](B-reminder/todo) [out](I-reminder/todo) [trash](I-reminder/todo) [every](B-reminder/recurring_period) [sunday](I-reminder/recurring_period)
+- cancel [reminder](B-reminder/noun) for [doctor's](B-reminder/todo) [appointment](I-reminder/todo)
+- delete previous [reminder](B-reminder/noun) .
+- cancel [reminder](B-reminder/noun) to [do](B-reminder/todo) [appen](I-reminder/todo) [project](I-reminder/todo)
+- cancel my [reminder](B-reminder/noun) for [shopping](B-reminder/todo) [on](B-datetime) [saturday](I-datetime)
+- cancel my [reminder](B-reminder/noun) to [pick](B-reminder/todo) [up](I-reminder/todo) [dinner](I-reminder/todo)
+- cancel [reminder](B-reminder/noun) to [borrow](B-reminder/todo) [sugar](I-reminder/todo) [for](I-reminder/todo) [jenny](I-reminder/todo)
+- cancel my [reminder](B-reminder/noun) , i already did that .
+- cancel my [reminder](B-reminder/noun) to [work](B-reminder/todo) [out](I-reminder/todo) [today](B-datetime)
+- cancel [my](B-reminder/reference) [reminders](B-reminder/noun)
+- please cancel my [reminder](B-reminder/noun) to [buy](B-reminder/todo) [bacon](I-reminder/todo)
+- cancel my [reminder](B-reminder/noun) to [go](B-reminder/todo) [to](I-reminder/todo) [parents](I-reminder/todo) [teacher](I-reminder/todo) [conference](I-reminder/todo) .
+- remove [reminder](B-reminder/noun) to [buy](B-reminder/todo) [groceries](I-reminder/todo) .
+- delete [doctor](B-reminder/todo) [reminder](B-reminder/noun)
+- delete my [latest](B-reminder/reference) [reminder](B-reminder/noun)
+- cancel my [reminder](B-reminder/noun) to [walk](B-reminder/todo) [the](I-reminder/todo) [dog](I-reminder/todo)
+- delete my current [reminders](B-reminder/noun)
+- cancel my [reminder](B-reminder/noun) to [go](B-reminder/todo) [to](I-reminder/todo) [publix](I-reminder/todo) [this](B-datetime) [evening](I-datetime) .
+- cancel my [reminder](B-reminder/noun) to [buy](B-reminder/todo) [flowers](I-reminder/todo) [at](I-reminder/todo) [the](I-reminder/todo) [store](I-reminder/todo) .
+- cancel [reminder](B-reminder/noun) to [buy](B-reminder/todo) [copy](I-reminder/todo) [paper](I-reminder/todo) [at](I-reminder/todo) [store](I-reminder/todo) .
+- please cancel all of my [reminders](B-reminder/noun) [for](B-datetime) [the](I-datetime) [next](I-datetime) [week](I-datetime)
+- cancel my [reminder](B-reminder/noun) to [buy](B-reminder/todo) [fish](I-reminder/todo) [food](I-reminder/todo)
+- nevermind on that [reminder](B-reminder/noun)
+- can you cancel my [reminder](B-reminder/noun) to [buy](B-reminder/todo) [ice](I-reminder/todo) [cream](I-reminder/todo)
+- delete [reminder](B-reminder/noun) for [beckys](B-reminder/todo) [birthday](I-reminder/todo)
+- cancel [last](B-reminder/reference) [reminder](B-reminder/noun)
+- cancel all [reminders](B-reminder/noun) .
+- cancel my [reminder](B-reminder/noun) for [dentist](B-reminder/todo)
+- cancel all [reminders](B-reminder/noun) [for](B-datetime) [tuesday](I-datetime)
+- clear [reminder](B-reminder/noun) to [change](B-reminder/todo) [air](I-reminder/todo) [filter](I-reminder/todo) .
+- cancel [reminder](B-reminder/noun) to [call](B-reminder/todo) [dentist](I-reminder/todo)
+- delete [reminder](B-reminder/noun) [for](B-datetime) [1pm](I-datetime) [tomorrow](I-datetime) .
+- cancel all [reminders](B-reminder/noun) [set](B-reminder/todo) [for](I-reminder/todo) [the](I-reminder/todo) [rest](I-reminder/todo) [of](I-reminder/todo) [the](I-reminder/todo) [week](I-reminder/todo) .
+- cancel [playdate](B-reminder/todo) [reminder](B-reminder/noun)
+- cancel my [reminder](B-reminder/noun) [at](B-datetime) [7](I-datetime) [:](I-datetime) [00](I-datetime) .
+- cancel my [reminder](B-reminder/noun) to [go](B-reminder/todo) [to](I-reminder/todo) [the](I-reminder/todo) [ball](I-reminder/todo) [field](I-reminder/todo) [at](B-datetime) [5pm](I-datetime) .
+- cancel my [reminders](B-reminder/noun) [for](B-datetime) [tomorrow](I-datetime)
+- cancel my [reminder](B-reminder/noun) to [buy](B-reminder/todo) [cups](I-reminder/todo) [at](I-reminder/todo) [the](I-reminder/todo) [grocery](I-reminder/todo) [store](I-reminder/todo)
+- cancel all my [reminders](B-reminder/noun) [for](B-datetime) [next](I-datetime) [week](I-datetime)
+- cancel my [gym](B-reminder/todo) [reminder](B-reminder/noun) [for](B-datetime) [this](I-datetime) [friday](I-datetime)
+- erase all of my [reminders](B-reminder/noun) [for](B-datetime) [today](I-datetime)
+- cancel all [reminders](B-reminder/noun)
+- cancel my [reminder](B-reminder/noun) [for](B-datetime) [saturday](I-datetime) [date](B-reminder/todo) [night](I-reminder/todo)
+- cancel my [reminder](B-reminder/noun) to [pick](B-reminder/todo) [up](I-reminder/todo) [the](I-reminder/todo) [kids](I-reminder/todo) .
+- cancel my [reminder](B-reminder/noun) to [get](B-reminder/todo) [icecream](I-reminder/todo)
+- cancel all [reminders](B-reminder/noun) set [for](B-datetime) [today](I-datetime)
+- cancel my [reminder](B-reminder/noun) to [buy](B-reminder/todo) [eggs](I-reminder/todo) .
+- turn off [reminder](B-reminder/noun) to [go](B-reminder/todo) [pick](I-reminder/todo) [up](I-reminder/todo) [kids](I-reminder/todo) [after](I-reminder/todo) [school](I-reminder/todo)
+- cancel m [reminder](B-reminder/noun) for [dinner](B-reminder/todo) [tonight](B-datetime)
+- cancel [last](B-reminder/reference) [reminder](B-reminder/noun)
+- remove the [reminder](B-reminder/noun) to [buy](B-reminder/todo) [tickets](I-reminder/todo)
+- cancel [reminder](B-reminder/noun) [for](B-datetime) [july](I-datetime) [4th](I-datetime) now
+- delete [reminders](B-reminder/noun) set [for](B-datetime) [friday](I-datetime) .
+- disable [reminder](B-reminder/noun)
+- turn off all [reminders](B-reminder/noun) [for](B-datetime) [this](I-datetime) [weekend](I-datetime)
+- can you cancel all of my [reminders](B-reminder/noun) ?
+- cancel all [reminders](B-reminder/noun)
+- delete my [doctor](B-reminder/todo) [reminder](B-reminder/noun) [for](B-datetime) [tomorrow](I-datetime)
+- delete all [reminders](B-reminder/noun)
+- cancel all [reminders](B-reminder/noun) .
+- cancel [reminder](B-reminder/noun) to [visit](B-reminder/todo) [doctor](I-reminder/todo) [on](B-datetime) [wednesday](I-datetime) [at](I-datetime) [1](I-datetime) [pm](I-datetime)
+- cancel my [reminders](B-reminder/noun) .
+- cancel the [reminder](B-reminder/noun) before my [eye](B-reminder/todo) [doctor](I-reminder/todo) [appointment](I-reminder/todo) .
+- cancel [my](B-reminder/reference) [reminder](B-reminder/noun) to [buy](B-reminder/todo) [milk](I-reminder/todo) [at](I-reminder/todo) [grocery](I-reminder/todo) [store](I-reminder/todo)
+- delete that [last](B-reminder/reference) [reminder](B-reminder/noun)
+- cancel all [reminders](B-reminder/noun)
+- cancel my [reminder](B-reminder/noun) for the [dentist](B-reminder/todo) .
+- i want to delete all of my [reminders](B-reminder/noun) .
+- cancel my [reminder](B-reminder/noun) for [lunch](B-reminder/todo) [on](B-datetime) [wednesday](I-datetime)
+- cancel my [reminder](B-reminder/noun) to [buy](B-reminder/todo) [eggs](I-reminder/todo)
+- cancel all [my](B-reminder/reference) [reminders](B-reminder/noun)
+- remove " [pay](B-reminder/todo) [the](I-reminder/todo) [mortgage](I-reminder/todo) " from my [reminders](B-reminder/noun) .
+- cancel all [reminders](B-reminder/noun)
+- delete the [reminder](B-reminder/noun) to [buy](B-reminder/todo) [dinner](I-reminder/todo)
+- finished my [reminder](B-reminder/noun) please delete
+- delete [reminder](B-reminder/noun) .
+- remove [reminder](B-reminder/noun) on [wipes](B-reminder/todo)
+- cancel my [6pm](B-datetime) [reminder](B-reminder/noun)
+- cancel all [reminders](B-reminder/noun) [tomorrow](B-datetime)
+- delete the [reminder](B-reminder/noun) for the [school](B-reminder/todo) [list](I-reminder/todo)
+- delete my [past](B-reminder/reference) [reminder](B-reminder/noun) .
+- close [reminders](B-reminder/noun) .
+- cancel [my](B-reminder/reference) [reminder](B-reminder/noun) to [buy](B-reminder/todo) [milk](I-reminder/todo) [at](I-reminder/todo) [grocery](I-reminder/todo) [store](I-reminder/todo)
+- cancel my [reminder](B-reminder/noun) to [call](B-reminder/todo) [the](I-reminder/todo) [accountant](I-reminder/todo) .
+- cancel my [last](B-reminder/reference) [reminder](B-reminder/noun) .
+- cancel [reminder](B-reminder/noun) to [go](B-reminder/todo) [to](I-reminder/todo) [the](I-reminder/todo) [store](I-reminder/todo) [at](B-datetime) [1pm](I-datetime)
+- delete the [reminder](B-reminder/noun) [for](B-datetime) [tomorrow](I-datetime)
+- cancel the [doctors](B-reminder/todo) [appointment](I-reminder/todo) [reminder](B-reminder/noun)
+- cancel my [5](B-datetime) [:](I-datetime) [00](I-datetime) [pm](I-datetime) [reminder](B-reminder/noun)
+- cancel all [reminders](B-reminder/noun) [tomorrow](B-datetime)
+- dismiss [reminder](B-reminder/noun)
+- turn off all [reminders](B-reminder/noun)
+- cancel all [reminders](B-reminder/noun) [for](B-datetime) [friday](I-datetime)
+- delete [daily](B-reminder/recurring_period) [reminders](B-reminder/noun)
+- cancel my [reminder](B-reminder/noun)
+- delete that [reminder](B-reminder/noun)
+- cancel [my](B-reminder/reference) [reminder](B-reminder/noun) to [purchase](B-reminder/todo) [frozen](I-reminder/todo) [french](I-reminder/todo) [fries](I-reminder/todo) [at](I-reminder/todo) [publix](I-reminder/todo)
+- get rid of [my](B-reminder/reference) [school](B-reminder/todo) [reminder](B-reminder/noun) [for](B-datetime) [tomorrow](I-datetime) .
+- cancel all [reminders](B-reminder/noun)
+- cancel all [reminders](B-reminder/noun) [for](B-datetime) [friday](I-datetime)
+- skip [tomorrow's](B-datetime) [reminders](B-reminder/noun) .
+- remove [all](B-reminder/reference) [reminders](B-reminder/noun) [on](B-datetime) [the](I-datetime) [4th](I-datetime) [of](I-datetime) [july](I-datetime)
+- cancel [10am](B-datetime) [interview](B-reminder/todo) [reminder](B-reminder/noun)
+- delete all [reminders](B-reminder/noun)
+- delete my [reminders](B-reminder/noun) [for](B-datetime) [today](I-datetime)
+- delete all [reminders](B-reminder/noun)
+- delete all me [reminders](B-reminder/noun)
+- remove all my [reminders](B-reminder/noun) [for](B-datetime) [today](I-datetime)
+- the [reminder](B-reminder/noun) i made [an](B-datetime) [hour](I-datetime) [ago](I-datetime) , erase it please .
+- cancel my [reminder](B-reminder/noun) for [picking](B-reminder/todo) [the](I-reminder/todo) [kids](I-reminder/todo) [up](I-reminder/todo) [at](B-datetime) [4](I-datetime)
+- cancel my [last](B-reminder/reference) [reminder](B-reminder/noun)
+- cancel my [reminder](B-reminder/noun) that i just scheduled
+- cancel my [reminder](B-reminder/noun)
+- cancel [reminder](B-reminder/noun) to [visit](B-reminder/todo) [mike](I-reminder/todo) [tomorrow](B-datetime)
+- removal all [reminders](B-reminder/noun) [for](B-datetime) [the](I-datetime) [next](I-datetime) [week](I-datetime) .
+- cancel all [reminders](B-reminder/noun) [for](B-datetime) [tomorrow](I-datetime) .
+- move [reminder](B-reminder/noun) to trash
+- remove the [reminder](B-reminder/noun) about the [staff](B-reminder/todo) [meeting](I-reminder/todo) [on](B-datetime) [wednesday](I-datetime) .
+- cancel [reminder](B-reminder/noun)
+- cancel my [reminder](B-reminder/noun) to [get](B-reminder/todo) [groceries](I-reminder/todo)
+- cancel my [reminder](B-reminder/noun) to [wash](B-reminder/todo) [my](I-reminder/todo) [car](I-reminder/todo) [at](B-datetime) [3](I-datetime) [pm](I-datetime)
+- cancel my [study](B-reminder/todo) [reminder](B-reminder/noun) .
+- cancel my [reminder](B-reminder/noun) [for](B-datetime) [tomorrow](I-datetime)
+- cancel all [reminders](B-reminder/noun) .
+- cancel my [reminder](B-reminder/noun) to [stop](B-reminder/todo) [a](I-reminder/todo) [bread](I-reminder/todo) [store](I-reminder/todo)
+- do not remind me to [go](B-reminder/todo) [to](I-reminder/todo) [the](I-reminder/todo) [market](I-reminder/todo) [on](B-datetime) [friday](I-datetime) .
+- cancel my [reminder](B-reminder/noun) to [buy](B-reminder/todo) [apples](I-reminder/todo)
+- cancel my [reminder](B-reminder/noun) for the [concert](B-reminder/todo) [tonight](B-datetime)
+- cancel [reminders](B-reminder/noun) [for](B-datetime) [september](I-datetime) [8th](I-datetime)
+- cancel the [reminder](B-reminder/noun) for [buying](B-reminder/todo) [a](I-reminder/todo) [birthday](I-reminder/todo) [cake](I-reminder/todo) .
+- cancel [reminder](B-reminder/noun) about [johnny](B-reminder/todo)
+- cancel [reminders](B-reminder/noun) [for](B-datetime) [august](I-datetime) [18th](I-datetime)
+- delete [reminder](B-reminder/noun) to [go](B-reminder/todo) [to](I-reminder/todo) [post](I-reminder/todo) [office](I-reminder/todo) .
+- cancel [reminder](B-reminder/noun) to [pay](B-reminder/todo) [handyman](I-reminder/todo) .
+- cancel my [reminder](B-reminder/noun) to [buy](B-reminder/todo) [peanut](I-reminder/todo) [butter](I-reminder/todo) [at](I-reminder/todo) [the](I-reminder/todo) [store](I-reminder/todo)
+- cancel my [reminder](B-reminder/noun) to [buy](B-reminder/todo) [diapers](I-reminder/todo)
+- delete all [reminders](B-reminder/noun)
+- cancel [reminder](B-reminder/noun) for [dinner](B-reminder/todo)
+- remove my [reminder](B-reminder/noun)
+- cancel my [reminder](B-reminder/noun) to [get](B-reminder/todo) [bread](I-reminder/todo) [a](I-reminder/todo) [the](I-reminder/todo) [store](I-reminder/todo) [tonight](B-datetime) .
+- cancel my [reminder](B-reminder/noun) to [buy](B-reminder/todo) [apples](I-reminder/todo) [at](I-reminder/todo) [the](I-reminder/todo) [grocery](I-reminder/todo) [store](I-reminder/todo)
+- cancel all [my](B-reminder/reference) [reminders](B-reminder/noun)
+- cancel my [reminder](B-reminder/noun) for the [doctor's](B-reminder/todo)
+- delete [reminder](B-reminder/noun) [for](B-datetime) [wednesday](I-datetime)
+- cancel all [reminders](B-reminder/noun) [for](B-datetime) [today](I-datetime)
+- cancel my [gym](B-reminder/todo) [reminder](B-reminder/noun) [for](B-datetime) [this](I-datetime) [friday](I-datetime)
+- please cancel my [reminders](B-reminder/noun) [for](B-datetime) [tomorrow](I-datetime)
+- cancel my [reminder](B-reminder/noun) about [cleaning](B-reminder/todo) [out](I-reminder/todo) [the](I-reminder/todo) [garage](I-reminder/todo)
+- cancel my [reminder](B-reminder/noun) for [picking](B-reminder/todo) [up](I-reminder/todo) [groceries](I-reminder/todo) [tomorrow](B-datetime) .
+- cancel all [reminders](B-reminder/noun) [for](B-datetime) [today](I-datetime)
+- delete that [last](B-reminder/reference) set [reminder](B-reminder/noun)
+- cancel my [reminder](B-reminder/noun) [for](B-datetime) [tomorrow](I-datetime)
+- cancel my [reminder](B-reminder/noun) [for](B-datetime) [12](I-datetime) [pm](I-datetime) [31st](I-datetime) [dec](I-datetime) [2017](I-datetime)
+- cancel my [reminder](B-reminder/noun) to [call](B-reminder/todo) [my](I-reminder/todo) [mom](I-reminder/todo)
+- cancel all [reminders](B-reminder/noun) [for](B-datetime) [today](I-datetime)
+- cancel all current [reminders](B-reminder/noun) .
+- cancel [reminders](B-reminder/noun)
+- cancel [reminder](B-reminder/noun) for [ians](B-reminder/todo) [appt](I-reminder/todo) [on](B-datetime) [thursday](I-datetime)
+- cancel my [reminder](B-reminder/noun) to [call](B-reminder/todo) [the](I-reminder/todo) [doctor](I-reminder/todo)
+- cancel [milk](B-reminder/todo) [reminder](B-reminder/noun)
+- clear all [reminders](B-reminder/noun) [for](B-datetime) [today](I-datetime)
+- delete all [reminders](B-reminder/noun)
+- cancel all [workout](B-reminder/todo) [reminders](B-reminder/noun)
+- cancel [next](B-reminder/reference) [reminder](B-reminder/noun) .
+- cancel [reminders](B-reminder/noun)
+- delete all of my [reminders](B-reminder/noun) [for](B-datetime) [tomorrow](I-datetime) .
+- delete my [reminders](B-reminder/noun) [for](B-datetime) [this](I-datetime) [weekend](I-datetime)
+- cancel my [reminder](B-reminder/noun) to [go](B-reminder/todo) [shopping](I-reminder/todo)
+- cancel my [reminders](B-reminder/noun) [for](B-datetime) [tomorrow](I-datetime)
+- delete the [pay](B-reminder/todo) [rent](I-reminder/todo) [reminder](B-reminder/noun)
+- delete all [reminders](B-reminder/noun)
+- cancel my [reminder](B-reminder/noun) for my [dentist](B-reminder/todo) [appointment](I-reminder/todo) [tomorrow](B-datetime)
+- delete [reminders](B-reminder/noun) [for](B-datetime) [monday](I-datetime) , [wednesday](B-datetime) , and [friday](B-datetime) only
+
+
+## intent:reminder/show_reminders
+- show me my list of [reminders](B-reminder/noun) [for](B-datetime) [today](I-datetime) .
+- please remind me all the events [this](B-datetime) [week](I-datetime)
+- i need to see my reminds [for](B-datetime) [this](I-datetime) [weekend](I-datetime)
+- read me [friday's](B-datetime) [reminders](B-reminder/noun)
+- show my [reminders](B-reminder/noun) [for](B-datetime) [today](I-datetime)
+- what are my [reminders](B-reminder/noun) [for](B-datetime) [thursday](I-datetime)
+- show all [reminders](B-reminder/noun) [for](B-datetime) [this](I-datetime) [week](I-datetime)
+- show me [todays](B-datetime) [reminder](B-reminder/noun) list
+- how many [reminders](B-reminder/noun) are set [for](B-datetime) [this](I-datetime) [week](I-datetime)
+- remind me when my [alarm](B-reminder/todo) [is](I-reminder/todo) [set](I-reminder/todo)
+- what [reminders](B-reminder/noun) do i have set [for](B-datetime) [today](I-datetime)
+- review [tonight's](B-datetime) [reminders](B-reminder/noun) , please
+- what are my [reminders](B-reminder/noun) [for](B-datetime) [today](I-datetime)
+- [reminders](B-reminder/noun)
+- show me [reminders](B-reminder/noun) [for](B-datetime) [next](I-datetime) [two](I-datetime) [days](I-datetime)
+- open list of [reminders](B-reminder/noun)
+- list my [reminders](B-reminder/noun)
+- remind me all the [appointments](B-reminder/todo)
+- show me only the [reminders](B-reminder/noun) [for](B-datetime) [this](I-datetime) [week](I-datetime)
+- show me [today's](B-datetime) [reminders](B-reminder/noun)
+- do i have any [reminders](B-reminder/noun) set [for](B-datetime) [tonight](I-datetime)
+- show reminder for the [concert](B-reminder/todo) [in](I-reminder/todo) [july](I-reminder/todo)
+- do i have a [reminder](B-reminder/noun) [set](B-reminder/todo) [to](I-reminder/todo) [water](I-reminder/todo) [the](I-reminder/todo) [neighbor's](I-reminder/todo) [plants](I-reminder/todo)
+- show all [reminders](B-reminder/noun) [for](B-datetime) [the](I-datetime) [week](I-datetime)
+- what [reminders](B-reminder/noun) to i have in place [for](B-datetime) [this](I-datetime) [sunday](I-datetime)
+- [today's](B-datetime) [reminders](B-reminder/noun)
+- what [reminders](B-reminder/noun) do i have [this](B-datetime) [week](I-datetime)
+- show my [reminders](B-reminder/noun) [for](B-datetime) [tonight](I-datetime)
+- what time is my [reminder](B-reminder/noun) set [for](B-datetime) [in](I-datetime) [the](I-datetime) [morning](I-datetime)
+- show my [reminders](B-reminder/noun) [for](B-datetime) [this](I-datetime) [week](I-datetime)
+- show [today's](B-datetime) [reminders](B-reminder/noun)
+- show all of my [reminders](B-reminder/noun) [for](B-datetime) [the](I-datetime) [next](I-datetime) [two](I-datetime) [days](I-datetime)
+- display [this](B-datetime) [week's](I-datetime) [reminders](B-reminder/noun)
+- show me all [reminders](B-reminder/noun) [for](B-datetime) [this](I-datetime) [week](I-datetime)
+- show my [tomorrow's](B-datetime) [reminders](B-reminder/noun)
+- do i have any [reminders](B-reminder/noun) for the [week](B-datetime) [of](I-datetime) [the](I-datetime) [4th](I-datetime)
+- show my [reminder](B-reminder/noun) for [my](B-reminder/todo) [doctor's](I-reminder/todo) [appointment](I-reminder/todo)
+- show my [reminders](B-reminder/noun) [every](B-reminder/recurring_period) [30](I-reminder/recurring_period) [minutes](I-reminder/recurring_period) until i swipe them as done
+- how many meetings do i have planned for this week
+- show all my [reminders](B-reminder/noun) [for](B-datetime) [tomorrow](I-datetime)
+- show my [last](B-reminder/reference) [reminder](B-reminder/noun)
+- show [next](B-reminder/reference) [reminder](B-reminder/noun)
+- show my [next](B-reminder/reference) [reminder](B-reminder/noun)
+- what are my [reminders](B-reminder/noun) [for](B-datetime) [today](I-datetime) ?
+- show me [reminders](B-reminder/noun) [for](B-datetime) [today](I-datetime)
+- show me the [first](B-reminder/reference) [reminder](B-reminder/noun) that i set [for](B-datetime) [today](I-datetime)
+- what are my [reminders](B-reminder/noun) [tomorrow](B-datetime) ?
+- how many [reminders](B-reminder/noun) do i have set [for](B-datetime) [today](I-datetime) ?
+- show me my [reminders](B-reminder/noun)
+- show my [reminders](B-reminder/noun)
+- show me my [reminders](B-reminder/noun) [for](B-datetime) [tomorrow](I-datetime) .
+- show my [reminder](B-reminder/noun) for [the](B-reminder/todo) [doctor's](I-reminder/todo) [visit](I-reminder/todo)
+- do i have any [reminders](B-reminder/noun) ?
+- show me all [reminders](B-reminder/noun)
+- show my [reminders](B-reminder/noun) [for](B-datetime) [tomorrow](I-datetime)
+- show my [reminders](B-reminder/noun) [for](B-datetime) [tomorrow](I-datetime) .
+- show all my [reminders](B-reminder/noun) .
+- how much time is left before my [reminder](B-reminder/noun) ?
+- do i have any [reminders](B-reminder/noun) [for](B-datetime) [next](I-datetime) [month](I-datetime) ?
+- what [reminders](B-reminder/noun) do i have
+- do i have any [reminders](B-reminder/noun) ?
+- show all my [pending](B-reminder/todo) [reminders](B-reminder/noun)
+- show me all of my [reminders](B-reminder/noun) , please .
+- show my [reminders](B-reminder/noun) [for](B-datetime) [tuesday](I-datetime)
+- current [reminders](B-reminder/noun)
+- show my [reminder](B-reminder/noun) to [schedule](B-reminder/todo) [my](I-reminder/todo) [mom's](I-reminder/todo) [vacation](I-reminder/todo) [trip](I-reminder/todo) [next](B-datetime) [year](I-datetime)
+- what time is my first [reminder](B-reminder/noun) set for ?
+- what are my [reminders](B-reminder/noun) [for](B-datetime) [today](I-datetime)
+- show my [reminder](B-reminder/noun) [twice](B-reminder/recurring_period)
+- anything on my list of [reminders](B-reminder/noun)
+- show me [next](B-reminder/reference) [reminder](B-reminder/noun) .
+- show me all [reminders](B-reminder/noun) [for](B-datetime) [this](I-datetime) [week](I-datetime)
+- show me my [reminders](B-reminder/noun) [for](B-datetime) [tomorrow](I-datetime) .
+- what [reminders](B-reminder/noun) do i have [tomorrow](B-datetime) ?
+- what [reminders](B-reminder/noun) do i have set ?
+- show [all](B-reminder/reference) [reminders](B-reminder/noun)
+- what [reminders](B-reminder/noun) do i have [for](B-datetime) [tomorrow](I-datetime) ?
+- show [all](B-reminder/reference) [reminders](B-reminder/noun)
+- show all my [pending](B-reminder/todo) [reminders](B-reminder/noun)
+- show me [all](B-reminder/reference) my [reminders](B-reminder/noun)
+- show me [all](B-reminder/reference) my [reminders](B-reminder/noun)
+- what is the [next](B-reminder/reference) [reminder](B-reminder/noun) i have set ?
+- please show me [reminders](B-reminder/noun)
+- show [all](B-reminder/reference) [reminders](B-reminder/noun)
+- show all [reminders](B-reminder/noun) [for](B-datetime) [tomorrow](I-datetime)
+- show [all](B-reminder/reference) [reminders](B-reminder/noun)
+- give me a list of my [reminders](B-reminder/noun) that i set .
+- what's left on my [reminders](B-reminder/noun) ?
+- can you give a listing of all my [reminders](B-reminder/noun) [for](B-datetime) [the](I-datetime) [week](I-datetime)
+- who's [birthday](B-reminder/todo) reminder is up next ?
+- show my [reminders](B-reminder/noun) [for](B-datetime) [monday](I-datetime)
+- show me the [reminder](B-reminder/noun) for this event
+- what are [my](B-reminder/reference) [reminders](B-reminder/noun)
+- do i have any [reminders](B-reminder/noun) ?
+- read all [reminders](B-reminder/noun)
+- what are my [reminders](B-reminder/noun) [for](B-datetime) [today](I-datetime)
+- read me my [reminders](B-reminder/noun)
+- what are my [reminders](B-reminder/noun) ?
+- show [all](B-reminder/reference) [reminders](B-reminder/noun)
+- show me [tomorrow's](B-datetime) [reminder](B-reminder/noun)
+- view all [reminders](B-reminder/noun)
+- show me my [reminders](B-reminder/noun) [for](B-datetime) [tomorrow](I-datetime)
+- what [reminders](B-reminder/noun) do i have ?
+- show all my [reminders](B-reminder/noun) pleases
+- is there a [reminder](B-reminder/noun) set [for](B-datetime) [5](I-datetime) [tonight](I-datetime) ?
+- do i have any [reminders](B-reminder/noun) for [the](B-reminder/todo) [store](I-reminder/todo) .
+- how many [reminders](B-reminder/noun) do i have [today](B-datetime) ?
+- how many [reminders](B-reminder/noun) to i have
+- show my [reminder](B-reminder/noun) [for](B-datetime) [today](I-datetime)
+- show me all my [reminders](B-reminder/noun) [for](B-datetime) [today](I-datetime)
+- show my [reminders](B-reminder/noun) [for](B-datetime) [the](I-datetime) [week](I-datetime)
+- show [all](B-reminder/reference) my [reminders](B-reminder/noun)
+- show the most [recent](B-reminder/reference) [reminder](B-reminder/noun)
+- show all my [reminders](B-reminder/noun) [for](B-datetime) [this](I-datetime) [week](I-datetime) .
+- do i have any [reminders](B-reminder/noun) ?
+- list my [reminders](B-reminder/noun) for the day
+- show [all](B-reminder/reference) [reminders](B-reminder/noun)
+- see all my [reminders](B-reminder/noun)
+- show my [reminder](B-reminder/noun) to [get](B-reminder/todo) [my](I-reminder/todo) [tires](I-reminder/todo) [changed](I-reminder/todo) [next](B-datetime) [month](I-datetime)
+- read me all my [reminders](B-reminder/noun) [for](B-datetime) [today](I-datetime) .
+- display all of my [reminders](B-reminder/noun) .
+- show me the [last](B-reminder/reference) [reminder](B-reminder/noun) set
+- show me [my](B-reminder/reference) [reminders](B-reminder/noun) .
+- show my [reminder](B-reminder/noun) [for](B-datetime) [tomorrow](I-datetime)
+- can you show me all [reminder](B-reminder/noun)
+- tell me what [reminders](B-reminder/noun) i have [for](B-datetime) [tomorrow](I-datetime)
+- show my [reminders](B-reminder/noun)
+- show me [all](B-reminder/reference) my [reminders](B-reminder/noun)
+- tell me [my](B-reminder/reference) [reminders](B-reminder/noun)
+- show all [reminders](B-reminder/noun) .
+- what [reminders](B-reminder/noun) do i have coming up ?
+- show my [weekly](B-reminder/recurring_period) [reminder](B-reminder/noun) list
+- what [reminders](B-reminder/noun) do i have [today](B-datetime)
+- what are [my](B-reminder/reference) [reminders](B-reminder/noun)
+- read my [reminders](B-reminder/noun) [for](B-datetime) [today](I-datetime)
+- show [all](B-reminder/reference) [reminders](B-reminder/noun)
+- show my [reminders](B-reminder/noun) [for](B-datetime) [this](I-datetime) [week](I-datetime)
+- show [all](B-reminder/reference) [reminders](B-reminder/noun)
+- let me see my [weekly](B-reminder/recurring_period) [reminder](B-reminder/noun)
+- do i have any [reminders](B-reminder/noun) [this](B-datetime) [week](I-datetime)
+- show me my [reminders](B-reminder/noun)
+- when's the [next](B-reminder/reference) [reminder](B-reminder/noun) ?
+- do i have a [reminder](B-reminder/noun) set for my next [doctor](B-reminder/todo) [appointment](I-reminder/todo) ?
+- show me the [reminders](B-reminder/noun) i have [today](B-datetime) .
+- what [reminders](B-reminder/noun) do i have [friday](B-datetime) ?
+- read me [my](B-reminder/reference) [reminders](B-reminder/noun) [for](B-datetime) [today](I-datetime)
+- show my [reminders](B-reminder/noun) [for](B-datetime) [this](I-datetime) [week](I-datetime)
+- are there any [reminders](B-reminder/noun) [for](B-datetime) [thursday](I-datetime) ?
+- show [my](B-reminder/reference) [reminder](B-reminder/noun)
+- show [all](B-reminder/reference) [reminders](B-reminder/noun)
+- read me my [reminders](B-reminder/noun)
+- how many [reminders](B-reminder/noun) do i have [today](B-datetime) ?
+- what are my [reminders](B-reminder/noun) ?
+- do i have a reminder for [my](B-reminder/todo) [sister's](I-reminder/todo) [birthday](I-reminder/todo) ?
+- show all of my [reminders](B-reminder/noun) [for](B-datetime) [today](I-datetime) .
+- what [reminders](B-reminder/noun) do i have set .
+- show me the rest of the [reminders](B-reminder/noun) i have [for](B-datetime) [today](I-datetime) ?
+- show me my [daily](B-reminder/recurring_period) [reminders](B-reminder/noun)
+- do i have any [reminders](B-reminder/noun) set ?
+- show [all](B-reminder/reference) [reminders](B-reminder/noun)
+- how much [time](B-datetime) until my next [reminder](B-reminder/noun)
+- what are my [reminders](B-reminder/noun) [for](B-datetime) [today](I-datetime) ?
+- show [my](B-reminder/reference) [reminder](B-reminder/noun) [for](B-datetime) [this](I-datetime) [morning](I-datetime)
+- show [my](B-reminder/reference) [reminder](B-reminder/noun)
+- show [all](B-reminder/reference) [reminders](B-reminder/noun)
+- what is my [last](B-reminder/reference) [reminder](B-reminder/noun) of the day ?
+- show me all the [reminders](B-reminder/noun) [for](B-datetime) [next](I-datetime) [month](I-datetime)
+- read me all of my [reminders](B-reminder/noun) .
+- do i have any [reminders](B-reminder/noun) set [for](B-datetime) [next](I-datetime) [week](I-datetime) ?
+- what [reminders](B-reminder/noun) do i have set [for](B-datetime) [this](I-datetime) [week](I-datetime)
+- show the [reminders](B-reminder/noun) about [school](B-reminder/todo)
+- show all [reminders](B-reminder/noun) [for](B-datetime) [next](I-datetime) [week](I-datetime) .
+- show me remaining [reminders](B-reminder/noun) [today](B-datetime)
+- show my [reminders](B-reminder/noun) [for](B-datetime) [friday](I-datetime)
+- show my [reminders](B-reminder/noun)
+- what [reminders](B-reminder/noun) do i have left ?
+- show all [reminders](B-reminder/noun) [for](B-datetime) [tomorrow](I-datetime)
+- list all my [reminders](B-reminder/noun) [for](B-datetime) [today](I-datetime)
+- show [all](B-reminder/reference) my [reminders](B-reminder/noun)
+- when is my [next](B-reminder/reference) [reminder](B-reminder/noun) ?
+- show my [concert](B-reminder/todo) [reminder](B-reminder/noun)
+- show all my [reminders](B-reminder/noun) [today](B-datetime)
+- show [tonight's](B-datetime) [reminders](B-reminder/noun)
+- show [all](B-reminder/reference) [reminders](B-reminder/noun)
+- what are my [reminders](B-reminder/noun) [for](B-datetime) [today](I-datetime) ?
+- show reminder for [class](B-reminder/todo)
+- view [reminders](B-reminder/noun) for week
+- tell me my [reminders](B-reminder/noun) [for](B-datetime) [tomorrow](I-datetime)
+- please show me [reminders](B-reminder/noun) [for](B-datetime) [this](I-datetime) [afternoon](I-datetime)
+- show my [reminder](B-reminder/noun) about the [first](B-reminder/todo) [day](I-reminder/todo) [of](I-reminder/todo) [school](I-reminder/todo) .
+- show [all](B-reminder/reference) [reminders](B-reminder/noun)
+- show all [reminders](B-reminder/noun) [for](B-datetime) [today](I-datetime) and [tomorrow](B-datetime)
+- read my [last](B-reminder/reference) [reminder](B-reminder/noun) to me .
+- what is my [next](B-reminder/reference) [reminder](B-reminder/noun) ?
+- what [reminders](B-reminder/noun) do i have for the week ?
+- what time are my must do [reminders](B-reminder/noun)
+- do i have any [reminders](B-reminder/noun) [for](B-datetime) [tomorrow](I-datetime) ?
+- show my [reminders](B-reminder/noun)
+- how many [reminders](B-reminder/noun) do i have [for](B-datetime) [today](I-datetime) ?
+- show my [reminder](B-reminder/noun) list
+- show a [reminder](B-reminder/noun) for [date](B-reminder/todo) [on](B-datetime) [wed](I-datetime)
+- show that [reminder](B-reminder/noun) i [made](B-reminder/todo) [for](I-reminder/todo) [the](I-reminder/todo) [doctor's](I-reminder/todo) [tomorrow](B-datetime) .
+- show [all](B-reminder/reference) [reminders](B-reminder/noun)
+- did i already make a [reminder](B-reminder/noun) [for](B-datetime) [saturday's](I-datetime) game ?
+- show me all of my [reminders](B-reminder/noun) for this week .
+- do i have any active [reminders](B-reminder/noun) ?
+- what are my [reminders](B-reminder/noun) ?
+- how many [reminders](B-reminder/noun) do i have set up ?
+- when is the [reminder](B-reminder/noun) set for [traico's](B-reminder/todo) [birthday](I-reminder/todo) [party](I-reminder/todo) ?
+- show me my [reminders](B-reminder/noun) [for](B-datetime) [the](I-datetime) [15th](I-datetime) .
+- show me my [daily](B-reminder/recurring_period) [reminder](B-reminder/noun)
+- show [my](B-reminder/reference) [reminder](B-reminder/noun)
+- show me all [my](B-reminder/reference) [reminders](B-reminder/noun) .
+- show [all](B-reminder/reference) my [reminders](B-reminder/noun)
+- show my [reminder](B-reminder/noun) .
+- show all my [reminders](B-reminder/noun) [for](B-datetime) [tomorrow](I-datetime)
+- what [reminders](B-reminder/noun) are coming up ?
+- show the most [recent](B-reminder/reference) [reminder](B-reminder/noun)
+- show me all [reminders](B-reminder/noun) [this](B-datetime) [week](I-datetime)
+- do i have any [reminders](B-reminder/noun) set [for](B-datetime) [this](I-datetime) [week](I-datetime) ?
+- what [reminders](B-reminder/noun) do i have [today](B-datetime) ?
+- read me all my [reminders](B-reminder/noun) and alarms [for](B-datetime) [tuesday](I-datetime) .
+- show me [my](B-reminder/reference) [reminders](B-reminder/noun) .
+- show me what time the [soccer](B-reminder/todo) [game](I-reminder/todo) [reminder](B-reminder/noun) is set for .
+- show my [reminder](B-reminder/noun) [for](B-datetime) [thursday](I-datetime)
+- what are my [reminders](B-reminder/noun) ?
+- what [reminders](B-reminder/noun) do i have
+- do i have any [reminders](B-reminder/noun) [for](B-datetime) [this](I-datetime) [week](I-datetime) ?
+- show my [reminders](B-reminder/noun) for the day
+- show me my [reminders](B-reminder/noun)
+- show me the reminds for [mom](B-reminder/todo) [house](I-reminder/todo)
+- show all [reminders](B-reminder/noun) [for](B-datetime) [today](I-datetime)
+- show all [reminders](B-reminder/noun) for the day
+- how many [reminders](B-reminder/noun) do i have ?
+- what are my [reminders](B-reminder/noun) [for](B-datetime) [thursday](I-datetime)
+- how many [reminders](B-reminder/noun) do i have set [for](B-datetime) [this](I-datetime) [month](I-datetime) ?
+- show [reminders](B-reminder/noun)
+- show [all](B-reminder/reference) [reminders](B-reminder/noun)
+- how many [reminders](B-reminder/noun) are there
+- show [all](B-reminder/reference) [reminders](B-reminder/noun)
+- what [reminders](B-reminder/noun) do i have
+- tell me what [reminders](B-reminder/noun) i have [for](B-datetime) [tomorrow](I-datetime)
+- show all of [today's](B-datetime) [reminders](B-reminder/noun)
+- what is my [next](B-reminder/reference) [reminder](B-reminder/noun)
+- show [all](B-reminder/reference) [reminders](B-reminder/noun)
+- show me the reminds for [mom](B-reminder/todo) [house](I-reminder/todo)
+- show me my [daily](B-reminder/recurring_period) [reminder](B-reminder/noun)
+- do i have any [reminders](B-reminder/noun) set [today](B-datetime) ?
+- show my [reminders](B-reminder/noun) [for](B-datetime) [tomorrow](I-datetime)
+- what was my [reminder](B-reminder/noun) list [for](B-datetime) [may](I-datetime) [2017](I-datetime)
+- what is my [next](B-reminder/reference) [reminder](B-reminder/noun)
+- show all [reminders](B-reminder/noun) .
+- show me all of my [reminders](B-reminder/noun)
+- show me all [my](B-reminder/reference) [reminders](B-reminder/noun) .
+- please show me [all](B-reminder/reference) [reminders](B-reminder/noun) [for](B-datetime) [today](I-datetime)
+- show my [reminder](B-reminder/noun) [for](B-datetime) [this](I-datetime) [friday](I-datetime) .
+- show my [reminders](B-reminder/noun) [for](B-datetime) [tomorrow](I-datetime)
+- show me my [reminders](B-reminder/noun) [for](B-datetime) [the](I-datetime) [week](I-datetime)
+- is my [reminder](B-reminder/noun) set ?
+- show my [reminders](B-reminder/noun) [for](B-datetime) [next](I-datetime) [week](I-datetime) .
+- show all [reminders](B-reminder/noun) [for](B-datetime) [tomorrow](I-datetime)
+- show me all [reminders](B-reminder/noun) set [today](B-datetime)
+- do i have a [reminder](B-reminder/noun) set for my [doctor's](B-reminder/todo) [appointment](I-reminder/todo) [on](B-datetime) [thursday](I-datetime) ?
+- what's my [reminder](B-reminder/noun)
+- show me the list of [reminders](B-reminder/noun) i have
+- show me [my](B-reminder/reference) [reminder](B-reminder/noun) list
+- do i have any [reminders](B-reminder/noun) ?
+- show me all my [reminders](B-reminder/noun) [for](B-datetime) [this](I-datetime) [weekend](I-datetime)
+- show my [reminder](B-reminder/noun) [for](B-datetime) [tomorrow](I-datetime)
+- show [all](B-reminder/reference) [reminders](B-reminder/noun)
+- do i already have a [reminder](B-reminder/noun) to [call](B-reminder/todo) [the](I-reminder/todo) [leasing](I-reminder/todo) [office](I-reminder/todo) ?
+- show me my [reminders](B-reminder/noun) [for](B-datetime) [thursday](I-datetime) .
+- show any upcoming [reminders](B-reminder/noun) .
+- when is the [next](B-reminder/reference) [reminder](B-reminder/noun) ?
+- what are my [reminders](B-reminder/noun) ?
+- show all my [reminders](B-reminder/noun) [for](B-datetime) [this](I-datetime) [month](I-datetime)
+- show my list of [reminders](B-reminder/noun) .
+- how many [reminders](B-reminder/noun) do i have [for](B-datetime) [today](I-datetime) ?
+- show me all of [my](B-reminder/reference) [reminders](B-reminder/noun) .
+- what [active](B-reminder/reference) [reminders](B-reminder/noun) do i have ?
+- display [tomorrow's](B-datetime) [reminder](B-reminder/noun)
+- [reminders](B-reminder/noun) [for](B-datetime) [today](I-datetime)
+- what [reminders](B-reminder/noun) do i have [today](B-datetime)
+- what [reminders](B-reminder/noun) are coming up ?
+- what [reminders](B-reminder/noun) do i have [today](B-datetime) ?
+- read me any [reminders](B-reminder/noun) [for](B-datetime) [today](I-datetime) .
+- show my [reminder](B-reminder/noun) .
+
+
+## intent:weather/find
+- what's the [weather](B-weather/noun) in [seattle](B-location)
+- [weather](B-weather/noun)
+- what's the [weather](B-weather/noun) [today](B-datetime) ?
+- what's the [weather](B-weather/noun) [tomorrow](B-datetime) ?
+- what's the [weather](B-weather/noun) [this](B-datetime) [weekend](I-datetime) ?
+- [temperature](B-weather/noun)
+- what's the [temperature](B-weather/noun) [today](B-datetime) ?
+- what's the [temperature](B-weather/noun) [next](B-datetime) [week](I-datetime) ?
+- what's the [forecast](B-weather/noun) [this](B-datetime) [week](I-datetime) ?
+- what's the [weather](B-weather/noun) [morgan](B-location) [hill](I-location)
+- [weather](B-weather/noun) in the [tri](B-location) [-](I-location) [cities](I-location) [today](B-datetime)
+- is there a [hurricane](B-weather/noun) [warning](I-weather/noun) for big island of [hawaii](B-location) ?
+- what will the [temperature](B-weather/noun) be like [this](B-datetime) [weekend](I-datetime) in [santa](B-location) [barabara](I-location)
+- [high](B-weather/attribute) and [low](B-weather/attribute) [temperatures](B-weather/noun)
+- should i wear my [raincoat](B-weather/attribute) ?
+- what will the [weather](B-weather/noun) be like [tomorrow](B-datetime)
+- what is the [weather](B-weather/noun) in [wala](B-location) [wala](I-location)
+- what is the [temperature](B-weather/noun) ?
+- what is the [sever](B-weather/attribute) [weather](B-weather/noun) update for [southeast](B-location) [oklahoma](I-location) ?
+- display [local](B-location) [current](B-datetime) [weather](B-weather/noun)
+- will it be under 50 [today](B-datetime)
+- what's the [three](B-weather/attribute) [day](I-weather/attribute) [forcast](B-weather/noun) for [sacramento](B-location)
+- when will it [rain](B-weather/attribute) [this](B-datetime) [weekend](I-datetime) ?
+- are there any severe [weather](B-weather/noun) [alerts](I-weather/noun)
+- any chance of [snow](B-weather/attribute) day [tomorrow](B-datetime) ?
+- wheh will it start [raining](B-weather/attribute) [today](B-datetime)
+- should i bring my [umbrella](B-weather/attribute) to the baseball game [tonight](B-datetime)
+- what time will the [temperature](B-weather/noun) reach 70 ' s ?
+- should i bring an [umbrella](B-weather/attribute)
+- is it very [cold](B-weather/attribute) out [today](B-datetime) in [orlando](B-location)
+- what is [the](B-datetime) [current](I-datetime) [temperature](B-weather/noun) in [mammoth](B-location) [lakes](I-location) ?
+- will we be able to ski [tomorrow](B-datetime) ?
+- tell me the [forecast](B-weather/noun) [for](B-datetime) [tomorrow](I-datetime)
+- what will the [temperature](B-weather/noun) be [tomorrow](B-datetime) ?
+- what is the [temperature](B-weather/noun) [for](B-datetime) [wednesday](I-datetime) ?
+- what is the [high](B-weather/attribute) and [low](B-weather/attribute) [temperature](B-weather/noun) [for](B-datetime) [today](I-datetime) ?
+- will the [rain](B-weather/attribute) stop [by](B-datetime) [4pm](I-datetime) ?
+- what is the [weather](B-weather/noun) in [savannah](B-location)
+- open the [weather](B-weather/noun) in [vancover](B-location)
+- what is the [weather](B-weather/noun) like [today](B-datetime) ?
+- what is the [weather](B-weather/noun) like [this](B-datetime) [week](I-datetime) in [san](B-location) [fransicio](I-location)
+- how [sunny](B-weather/attribute) is [florida](B-location) [today](B-datetime)
+- will there be any [thunder](B-weather/attribute) and [lightning](B-weather/attribute) [today](B-datetime)
+- is there [snow](B-weather/attribute) in the [forecast](B-weather/noun)
+- will is be [cold](B-weather/attribute) [today](B-datetime) ?
+- give me the [forecast](B-weather/noun) .
+- is it [hot](B-weather/attribute) at the [beach](B-location) [today](B-datetime)
+- tell me the [weather](B-weather/noun) in [san](B-location) [francisco](I-location)
+- whats the [forecast](B-weather/noun) is [boise](B-location)
+- is it going to [rain](B-weather/attribute) [today](B-datetime) ?
+- do i need an [umbrella](B-weather/attribute) [today](B-datetime) ?
+- any [lightning](B-weather/attribute) [striking](I-weather/attribute) near by ?
+- please five me the [forecast](B-weather/noun) [for](B-datetime) [the](I-datetime) [week](I-datetime)
+- what's the [forecast](B-weather/noun) for [juno](B-location) [alaska](I-location) [for](B-datetime) [next](I-datetime) [week](I-datetime)
+- what's the [weather](B-weather/noun) [forecast](I-weather/noun) [for](B-datetime) [the](I-datetime) [next](I-datetime) [10](I-datetime) [days](I-datetime) ?
+- will it [rain](B-weather/attribute) [wednesday](B-datetime)
+- is there [lightning](B-weather/attribute)
+- is there [lightning](B-weather/attribute)
+- what is [the](B-datetime) [weekend](I-datetime) [forecast](B-weather/noun) for [juneau](B-location)
+- what is the [forecast](B-weather/noun)
+- what is [tomorrows](B-datetime) [low](B-weather/attribute)
+- what is he [current](B-datetime) [temperature](B-weather/noun) of [pittsburgh](B-location) [pa](I-location) ?
+- [tor](B-weather/attribute) [con](I-weather/attribute) [value](I-weather/attribute) [for](B-datetime) [today](I-datetime)
+- is it to [hot](B-weather/attribute) to wear jeans ?
+- what is the [temperature](B-weather/noun) going to be [saturday](B-datetime) ?
+- [weather](B-weather/noun) in [greensboro](B-location) [on](B-datetime) [friday](I-datetime) [night](I-datetime)
+- will it drop below [freezing](B-weather/attribute) [tonight](B-datetime)
+- is [weather](B-weather/noun) effecting traffic
+- will it be [overcast](B-weather/attribute) [tomorrow](B-datetime) ?
+- [weather](B-weather/noun) [this](B-datetime) [weekend](I-datetime)
+- is it going to [thunderstorm](B-weather/attribute) [this](B-datetime) [week](I-datetime)
+- what's the [climate](B-weather/noun) in [florida](B-location)
+- when will it [snow](B-weather/attribute)
+- what is the [weather](B-weather/noun) like in [hawaii](B-location) [this](B-datetime) [weekend](I-datetime)
+- did the [news](B-news/type) say it was going to [rain](B-weather/attribute) [today](B-datetime)
+- how [chilly](B-weather/attribute) is it
+- i said how many [storms](B-weather/attribute) hit [this](B-datetime) [month](I-datetime) , [not](B-negation) [this](B-datetime) [year](I-datetime)
+- did it say it was going to [rain](B-weather/attribute) [today](B-datetime) on the news
+- any [news](B-weather/noun) on the [tropical](B-weather/attribute) [storm](I-weather/attribute)
+- will it [snow](B-weather/attribute)
+- whats the [weather](B-weather/noun)
+- what is the [coolest](B-weather/attribute) [temperature](B-weather/noun) on record for [san](B-location) [antonio](I-location) [texas](I-location) [in](B-datetime) [the](I-datetime) [month](I-datetime) of [december](B-datetime)
+- will it [rain](B-weather/attribute) [tomorrow](B-datetime) in [san](B-location) [francisco](I-location)
+- when will [wichita](B-location) [,](I-location) [kansas](I-location) get [snow](B-weather/attribute) [this](B-datetime) [month](I-datetime)
+- what is the [weather](B-weather/noun) in [texas](B-location) [tonight](B-datetime)
+- is there [snow](B-weather/attribute) on [highways](B-location) [now](B-datetime)
+- is it [around](B-weather/attribute) [74](B-weather/attribute) [degree](B-weather/noun) [fahrenheit](B-weather/temperatureUnit) for [paris](B-location) [next](B-datetime) [week](I-datetime)
+- what is the [weather](B-weather/noun) [at](B-datetime) [the](I-datetime) [current](I-datetime) location right [now](B-datetime)
+- is it going to be [above](B-weather/attribute) [54](B-weather/attribute) in [degrees](B-weather/noun) [fahrenheit](B-weather/temperatureUnit) near [seattle](B-location) [tomorrow](B-datetime) [morning](I-datetime)
+- how [warm](B-weather/attribute) is it for [dehli](B-location) [tonight](B-datetime) [degree](B-weather/noun) [fahrenheit](B-weather/temperatureUnit)
+- [temperature](B-weather/noun) [next](B-datetime) [week](I-datetime) [seattle](B-location) [celcius](B-weather/temperatureUnit)
+- how [warm](B-weather/attribute) is it at [shanghai](B-location) [today](B-datetime) in [celsius](B-weather/temperatureUnit)
+- will it be [around](B-weather/attribute) [93](B-weather/attribute) in [degree](B-weather/noun) [celcius](B-weather/temperatureUnit) [chicago](B-location) [tomorrow](B-datetime) [morning](I-datetime)
+- is it going to be [around](B-weather/attribute) [97](B-weather/attribute) in [f](B-weather/temperatureUnit) [manila](B-location)
+- [temperature](B-weather/noun) [palo](B-location) [alto](I-location) [celcius](B-weather/temperatureUnit)
+- is it going to be [around](B-weather/attribute) [65](B-weather/attribute) [celcius](B-weather/temperatureUnit) around [mumbai](B-location) [tomorrow](B-datetime) [morning](I-datetime)
+- [temperature](B-weather/noun) at [tokyo](B-location) [f](B-weather/temperatureUnit)
+- will it be [below](B-weather/attribute) [40](B-weather/attribute) in [degree](B-weather/noun) [f](B-weather/temperatureUnit) [next](B-datetime) [week](I-datetime)
+- [temperature](B-weather/noun) [out](B-location) [there](I-location) [this](B-datetime) [weekend](I-datetime) [celcius](B-weather/temperatureUnit)
+- [temperature](B-weather/noun) in [san](B-location) [francisco](I-location) [tomorrow](B-datetime) [morning](I-datetime) [celcius](B-weather/temperatureUnit)
+- will it be [above](B-weather/attribute) [88](B-weather/attribute) in [degrees](B-weather/noun) [celsius](B-weather/temperatureUnit) around [houston](B-location) [tomorrow](B-datetime) [morning](I-datetime)
+- is it [above](B-weather/attribute) [15](B-weather/attribute) in [celcius](B-weather/temperatureUnit) [paris](B-location) [tomorrow](B-datetime)
+- [temperature](B-weather/noun) [tomorrow](B-datetime) [menlo](B-location) [park](I-location) [c](B-weather/temperatureUnit)
+- how [warm](B-weather/attribute) is it for [paris](B-location) [tomorrow](B-datetime) [morning](I-datetime) [degree](B-weather/noun) [fahrenheit](B-weather/temperatureUnit)
+- how [cold](B-weather/attribute) is it [next](B-datetime) [week](I-datetime) near [new](B-location) [york](I-location) in [degrees](B-weather/noun) [f](B-weather/temperatureUnit)
+- how [cold](B-weather/attribute) is it [san](B-location) [francisco](I-location) in [celcius](B-weather/temperatureUnit)
+- will it be [below](B-weather/attribute) [97](B-weather/attribute) in [f](B-weather/temperatureUnit) [paris](B-location) [this](B-datetime) [weekend](I-datetime)
+- is it [above](B-weather/attribute) [16](B-weather/attribute) in [celcius](B-weather/temperatureUnit) [tonight](B-datetime)
+- how [hot](B-weather/attribute) is it [houston](B-location) in [degree](B-weather/noun) [celcius](B-weather/temperatureUnit)
+- [temperature](B-weather/noun) [tomorrow](B-datetime) [morning](I-datetime) around [dublin](B-location) [fahrenheit](B-weather/temperatureUnit)
+- how [cold](B-weather/attribute) is it near [san](B-location) [francisco](I-location) [tomorrow](B-datetime) [morning](I-datetime) in [f](B-weather/temperatureUnit)
+- how [warm](B-weather/attribute) is it near [karachi](B-location) [tomorrow](B-datetime) [morning](I-datetime) in [degrees](B-weather/noun) [fahrenheit](B-weather/temperatureUnit)
+- how [hot](B-weather/attribute) is it for [boston](B-location) [this](B-datetime) [weekend](I-datetime) in [degrees](B-weather/noun) [c](B-weather/temperatureUnit)
+- is it [above](B-weather/attribute) [89](B-weather/attribute) [degrees](B-weather/noun) [c](B-weather/temperatureUnit) [mumbai](B-location) [tonight](B-datetime)
+- [temperature](B-weather/noun) at [beijing](B-location) [tonight](B-datetime) [celsius](B-weather/temperatureUnit)
+- [temperature](B-weather/noun) [today](B-datetime) [celcius](B-weather/temperatureUnit)
+- will it be [around](B-weather/attribute) [75](B-weather/attribute) in [c](B-weather/temperatureUnit) in [karachi](B-location) [next](B-datetime) [week](I-datetime)
+- [temperature](B-weather/noun) around [karachi](B-location) [next](B-datetime) [week](I-datetime) [celsius](B-weather/temperatureUnit)
+- [temperature](B-weather/noun) for [palo](B-location) [alto](I-location) [next](B-datetime) [week](I-datetime) [f](B-weather/temperatureUnit)
+- [temperature](B-weather/noun) [inside](B-location) [next](B-datetime) [week](I-datetime) [celcius](B-weather/temperatureUnit)
+- how [warm](B-weather/attribute) is it [outside](B-location) [tomorrow](B-datetime) in [f](B-weather/temperatureUnit)
+- is it going to be [below](B-weather/attribute) [28](B-weather/attribute) in [c](B-weather/temperatureUnit) around [houston](B-location) [today](B-datetime)
+- how [hot](B-weather/attribute) is it [next](B-datetime) [week](I-datetime) [madrid](B-location) in [degrees](B-weather/noun) [f](B-weather/temperatureUnit)
+- is it going to be [around](B-weather/attribute) [65](B-weather/attribute) [degrees](B-weather/noun) [c](B-weather/temperatureUnit) [sao](B-location) [paulo](I-location) [tomorrow](B-datetime)
+- is it going to be [below](B-weather/attribute) [88](B-weather/attribute) in [degrees](B-weather/noun) [celcius](B-weather/temperatureUnit) around [madrid](B-location) [tomorrow](B-datetime) [morning](I-datetime)
+- how [cold](B-weather/attribute) is it [tonight](B-datetime) [fahrenheit](B-weather/temperatureUnit)
+- is it [above](B-weather/attribute) [19](B-weather/attribute) in [degrees](B-weather/noun) [fahrenheit](B-weather/temperatureUnit) [dublin](B-location) [today](B-datetime)
+- how [warm](B-weather/attribute) is it [this](B-datetime) [weekend](I-datetime) in [paris](B-location) in [celsius](B-weather/temperatureUnit)
+- is it going to be [above](B-weather/attribute) [71](B-weather/attribute) in [f](B-weather/temperatureUnit) [houston](B-location) [tomorrow](B-datetime) [morning](I-datetime)
+- is it going to be [around](B-weather/attribute) [11](B-weather/attribute) in [celcius](B-weather/temperatureUnit) [dehli](B-location) [today](B-datetime)
+- how [hot](B-weather/attribute) is it [today](B-datetime) [paris](B-location) [c](B-weather/temperatureUnit)
+- is it going to be [below](B-weather/attribute) [22](B-weather/attribute) in [degrees](B-weather/noun) [celsius](B-weather/temperatureUnit) [new](B-location) [york](I-location)
+- how [hot](B-weather/attribute) is it [shanghai](B-location) [tomorrow](B-datetime) in [degree](B-weather/noun) [celsius](B-weather/temperatureUnit)
+- is it going to be [above](B-weather/attribute) [27](B-weather/attribute) in [fahrenheit](B-weather/temperatureUnit) [manila](B-location) [tonight](B-datetime)
+- how [cold](B-weather/attribute) is it [tonight](B-datetime) [chicago](B-location) in [degree](B-weather/noun) [celcius](B-weather/temperatureUnit)
+- how [warm](B-weather/attribute) is it at [houston](B-location) [f](B-weather/temperatureUnit)
+- [temperature](B-weather/noun) [today](B-datetime) [shanghai](B-location) [c](B-weather/temperatureUnit)
+- will it be [above](B-weather/attribute) [2](B-weather/attribute) in [c](B-weather/temperatureUnit) [madrid](B-location) [tomorrow](B-datetime) [morning](I-datetime)
+- is it [above](B-weather/attribute) [24](B-weather/attribute) [celsius](B-weather/temperatureUnit) [beijing](B-location) [tomorrow](B-datetime) [morning](I-datetime)
+- how [warm](B-weather/attribute) is it [today](B-datetime) [beijing](B-location) in [degrees](B-weather/noun) [f](B-weather/temperatureUnit)
+- is it going to be [around](B-weather/attribute) [26](B-weather/attribute) in [degrees](B-weather/noun) [fahrenheit](B-weather/temperatureUnit) [new](B-location) [york](I-location) [tomorrow](B-datetime) [morning](I-datetime)
+- [temperature](B-weather/noun) [tonight](B-datetime) [palo](B-location) [alto](I-location) [celsius](B-weather/temperatureUnit)
+- is it going to be [below](B-weather/attribute) [76](B-weather/attribute) in [degrees](B-weather/noun) [celcius](B-weather/temperatureUnit) in [manila](B-location)
+- will it be [above](B-weather/attribute) [59](B-weather/attribute) in [celcius](B-weather/temperatureUnit) at [menlo](B-location) [park](I-location) [tomorrow](B-datetime) [morning](I-datetime)
+- is it going to be [above](B-weather/attribute) [51](B-weather/attribute) in [degrees](B-weather/noun) [c](B-weather/temperatureUnit) for [shanghai](B-location) [today](B-datetime)
+- how [cold](B-weather/attribute) is it [paris](B-location) [today](B-datetime) in [degrees](B-weather/noun) [c](B-weather/temperatureUnit)
+- [temperature](B-weather/noun) [today](B-datetime) near [menlo](B-location) [park](I-location) [fahrenheit](B-weather/temperatureUnit)
+- will it be [around](B-weather/attribute) [99](B-weather/attribute) in [celsius](B-weather/temperatureUnit) [out](B-location) [there](I-location) [today](B-datetime)
+- is it going to be [below](B-weather/attribute) [84](B-weather/attribute) in [fahrenheit](B-weather/temperatureUnit) [houston](B-location) [next](B-datetime) [week](I-datetime)
+- how [warm](B-weather/attribute) is it [here](B-location) [tonight](B-datetime) in [f](B-weather/temperatureUnit)
+- [temperature](B-weather/noun) for [boston](B-location) [tonight](B-datetime) [f](B-weather/temperatureUnit)
+- how [warm](B-weather/attribute) is it in [madrid](B-location) [today](B-datetime) [degree](B-weather/noun) [f](B-weather/temperatureUnit)
+- is it going to be [above](B-weather/attribute) [99](B-weather/attribute) in [degree](B-weather/noun) [celcius](B-weather/temperatureUnit) around [seattle](B-location) [next](B-datetime) [week](I-datetime)
+- [temperature](B-weather/noun) [tonight](B-datetime) [madrid](B-location) [f](B-weather/temperatureUnit)
+- how [hot](B-weather/attribute) is it near [houston](B-location) [tomorrow](B-datetime) in [fahrenheit](B-weather/temperatureUnit)
+- will it be [above](B-weather/attribute) [22](B-weather/attribute) [degrees](B-weather/noun) [celcius](B-weather/temperatureUnit) [outside](B-location) [tomorrow](B-datetime) [morning](I-datetime)
+- is it going to be [below](B-weather/attribute) [87](B-weather/attribute) in [celsius](B-weather/temperatureUnit) near [manila](B-location) [next](B-datetime) [week](I-datetime)
+- how [warm](B-weather/attribute) is it near [paris](B-location) [tomorrow](B-datetime) in [celsius](B-weather/temperatureUnit)
+- is it [around](B-weather/attribute) [22](B-weather/attribute) in [f](B-weather/temperatureUnit) [madrid](B-location) [next](B-datetime) [week](I-datetime)
+- [temperature](B-weather/noun) around [sao](B-location) [paulo](I-location) [tomorrow](B-datetime) [morning](I-datetime) [celcius](B-weather/temperatureUnit)
+- [temperature](B-weather/noun) in [manila](B-location) [tonight](B-datetime) [celcius](B-weather/temperatureUnit)
+- is it [around](B-weather/attribute) [49](B-weather/attribute) in [degree](B-weather/noun) [f](B-weather/temperatureUnit) [out](B-location) [there](I-location)
+- is it going to be [above](B-weather/attribute) [69](B-weather/attribute) in [f](B-weather/temperatureUnit) [new](B-location) [york](I-location)
+- is it going to be [below](B-weather/attribute) [8](B-weather/attribute) [celsius](B-weather/temperatureUnit) [seattle](B-location) [this](B-datetime) [weekend](I-datetime)
+- [temperature](B-weather/noun) [sao](B-location) [paulo](I-location) [next](B-datetime) [week](I-datetime) [fahrenheit](B-weather/temperatureUnit)
+- [temperature](B-weather/noun) [tokyo](B-location) [tomorrow](B-datetime) [morning](I-datetime) [fahrenheit](B-weather/temperatureUnit)
+- is it [below](B-weather/attribute) [47](B-weather/attribute) in [f](B-weather/temperatureUnit) at [new](B-location) [york](I-location) [today](B-datetime)
+- is it going to be [below](B-weather/attribute) [40](B-weather/attribute) [c](B-weather/temperatureUnit) [san](B-location) [francisco](I-location) [tomorrow](B-datetime) [morning](I-datetime)
+- will it be [above](B-weather/attribute) [11](B-weather/attribute) in [degrees](B-weather/noun) [fahrenheit](B-weather/temperatureUnit) around [dublin](B-location) [tomorrow](B-datetime)
+- is it going to be [above](B-weather/attribute) [6](B-weather/attribute) in [fahrenheit](B-weather/temperatureUnit) at [tokyo](B-location) [next](B-datetime) [week](I-datetime)
+- [temperature](B-weather/noun) at [karachi](B-location) [celcius](B-weather/temperatureUnit)
+- [temperature](B-weather/noun) [karachi](B-location) [celsius](B-weather/temperatureUnit)
+- [temperature](B-weather/noun) [this](B-datetime) [weekend](I-datetime) [tokyo](B-location) [fahrenheit](B-weather/temperatureUnit)
+- [temperature](B-weather/noun) [inside](B-location) [tomorrow](B-datetime) [morning](I-datetime) [c](B-weather/temperatureUnit)
+- [temperature](B-weather/noun) around [paris](B-location) [today](B-datetime) [celcius](B-weather/temperatureUnit)
+- will it be [above](B-weather/attribute) [79](B-weather/attribute) in [degrees](B-weather/noun) [celsius](B-weather/temperatureUnit) [new](B-location) [york](I-location) [today](B-datetime)
+- is it [above](B-weather/attribute) [81](B-weather/attribute) in [degree](B-weather/noun) [c](B-weather/temperatureUnit) [boston](B-location) [tomorrow](B-datetime) [morning](I-datetime)
+- is it going to be [above](B-weather/attribute) [34](B-weather/attribute) in [degree](B-weather/noun) [f](B-weather/temperatureUnit) for [shanghai](B-location)
+- will it be [around](B-weather/attribute) [23](B-weather/attribute) [degrees](B-weather/noun) [fahrenheit](B-weather/temperatureUnit) [beijing](B-location) [tonight](B-datetime)
+- how [cold](B-weather/attribute) is it in [boston](B-location) [this](B-datetime) [weekend](I-datetime) in [celcius](B-weather/temperatureUnit)
+- how [hot](B-weather/attribute) is it [this](B-datetime) [weekend](I-datetime) around [houston](B-location) in [degree](B-weather/noun) [fahrenheit](B-weather/temperatureUnit)
+- how [warm](B-weather/attribute) is it [here](B-location) [tomorrow](B-datetime) [morning](I-datetime) in [degree](B-weather/noun) [f](B-weather/temperatureUnit)
+- is it [below](B-weather/attribute) [14](B-weather/attribute) in [degree](B-weather/noun) [fahrenheit](B-weather/temperatureUnit) around [manila](B-location) [tomorrow](B-datetime) [morning](I-datetime)
+- [temperature](B-weather/noun) [today](B-datetime) in [london](B-location) [f](B-weather/temperatureUnit)
+- [temperature](B-weather/noun) [london](B-location) [today](B-datetime) [fahrenheit](B-weather/temperatureUnit)
+- is it [around](B-weather/attribute) [83](B-weather/attribute) [fahrenheit](B-weather/temperatureUnit) in [london](B-location) [today](B-datetime)
+- is it [below](B-weather/attribute) [28](B-weather/attribute) in [celsius](B-weather/temperatureUnit) in [seattle](B-location)
+- is it going to be [below](B-weather/attribute) [93](B-weather/attribute) in [fahrenheit](B-weather/temperatureUnit) [menlo](B-location) [park](I-location) [next](B-datetime) [week](I-datetime)
+- how [warm](B-weather/attribute) is it [today](B-datetime) for [san](B-location) [francisco](I-location) in [degrees](B-weather/noun) [f](B-weather/temperatureUnit)
+- [temperature](B-weather/noun) [tonight](B-datetime) for [chicago](B-location) [celcius](B-weather/temperatureUnit)
+- how [warm](B-weather/attribute) is it [next](B-datetime) [week](I-datetime) [shanghai](B-location) in [celcius](B-weather/temperatureUnit)
+- is it [around](B-weather/attribute) [63](B-weather/attribute) in [celsius](B-weather/temperatureUnit) [inside](B-location)
+- is it going to be [around](B-weather/attribute) [20](B-weather/attribute) in [celcius](B-weather/temperatureUnit) [palo](B-location) [alto](I-location) [tomorrow](B-datetime) [morning](I-datetime)
+- [temperature](B-weather/noun) near [menlo](B-location) [park](I-location) [today](B-datetime) [f](B-weather/temperatureUnit)
+- will it be [around](B-weather/attribute) [29](B-weather/attribute) in [degrees](B-weather/noun) [celsius](B-weather/temperatureUnit) [chicago](B-location) [this](B-datetime) [weekend](I-datetime)
+- is it [above](B-weather/attribute) [46](B-weather/attribute) in [degrees](B-weather/noun) [celsius](B-weather/temperatureUnit) [houston](B-location) [tonight](B-datetime)
+- how [cold](B-weather/attribute) is it [karachi](B-location) [tonight](B-datetime) in [degrees](B-weather/noun) [f](B-weather/temperatureUnit)
+- [temperature](B-weather/noun) for [mumbai](B-location) [tonight](B-datetime) [celcius](B-weather/temperatureUnit)
+- [temperature](B-weather/noun) [tomorrow](B-datetime) in [san](B-location) [francisco](I-location) [f](B-weather/temperatureUnit)
+- will it be [around](B-weather/attribute) [99](B-weather/attribute) in [degree](B-weather/noun) [fahrenheit](B-weather/temperatureUnit) [madrid](B-location) [tonight](B-datetime)
+- is it [around](B-weather/attribute) [95](B-weather/attribute) in [degrees](B-weather/noun) [celsius](B-weather/temperatureUnit) [palo](B-location) [alto](I-location) [tomorrow](B-datetime)
+- [temperature](B-weather/noun) [karachi](B-location) [this](B-datetime) [weekend](I-datetime) [fahrenheit](B-weather/temperatureUnit)
+- is it going to be [around](B-weather/attribute) [68](B-weather/attribute) in [degree](B-weather/noun) [c](B-weather/temperatureUnit) [out](B-location) [there](I-location) [this](B-datetime) [weekend](I-datetime)
+- will it be [below](B-weather/attribute) [23](B-weather/attribute) in [degrees](B-weather/noun) [fahrenheit](B-weather/temperatureUnit) [seattle](B-location) [tomorrow](B-datetime) [morning](I-datetime)
+- is it [around](B-weather/attribute) [0](B-weather/attribute) in [celcius](B-weather/temperatureUnit) [shanghai](B-location) [today](B-datetime)
+- how [hot](B-weather/attribute) is it at [san](B-location) [francisco](I-location) [today](B-datetime) in [degree](B-weather/noun) [celcius](B-weather/temperatureUnit)
+- is it [below](B-weather/attribute) [56](B-weather/attribute) in [degree](B-weather/noun) [c](B-weather/temperatureUnit) [menlo](B-location) [park](I-location) [tomorrow](B-datetime) [morning](I-datetime)
+- will it be [below](B-weather/attribute) [34](B-weather/attribute) in [degree](B-weather/noun) [c](B-weather/temperatureUnit)
+- how [cold](B-weather/attribute) is it [next](B-datetime) [week](I-datetime) for [sao](B-location) [paulo](I-location) in [degree](B-weather/noun) [f](B-weather/temperatureUnit)
+- is it [above](B-weather/attribute) [43](B-weather/attribute) in [degrees](B-weather/noun) [fahrenheit](B-weather/temperatureUnit) for [dublin](B-location) [today](B-datetime)
+- how [hot](B-weather/attribute) is it in [madrid](B-location) [today](B-datetime) in [degree](B-weather/noun) [celcius](B-weather/temperatureUnit)
+- how [hot](B-weather/attribute) is it [tomorrow](B-datetime) [menlo](B-location) [park](I-location) in [degrees](B-weather/noun) [c](B-weather/temperatureUnit)
+- is it going to be [around](B-weather/attribute) [51](B-weather/attribute) in [degrees](B-weather/noun) [fahrenheit](B-weather/temperatureUnit) at [sao](B-location) [paulo](I-location)
+- is it going to be [above](B-weather/attribute) [9](B-weather/attribute) in [degree](B-weather/noun) [celsius](B-weather/temperatureUnit) near [chicago](B-location) [tomorrow](B-datetime) [morning](I-datetime)
+- how [warm](B-weather/attribute) is it [houston](B-location) [tonight](B-datetime) in [degrees](B-weather/noun) [celsius](B-weather/temperatureUnit)
+- [temperature](B-weather/noun) [outside](B-location) [f](B-weather/temperatureUnit)
+- [temperature](B-weather/noun) for [chicago](B-location) [this](B-datetime) [weekend](I-datetime) [celcius](B-weather/temperatureUnit)
+- is it [above](B-weather/attribute) [30](B-weather/attribute) [degree](B-weather/noun) [celsius](B-weather/temperatureUnit) near [tokyo](B-location) [tonight](B-datetime)
+- how [cold](B-weather/attribute) is it [tonight](B-datetime) [out](B-location) [there](I-location) in [degree](B-weather/noun) [celsius](B-weather/temperatureUnit)
+- how [hot](B-weather/attribute) is it [beijing](B-location) [tonight](B-datetime) in [degree](B-weather/noun) [celsius](B-weather/temperatureUnit)
+- [temperature](B-weather/noun) [today](B-datetime) [inside](B-location) [f](B-weather/temperatureUnit)
+- is it going to be [below](B-weather/attribute) [43](B-weather/attribute) in [degrees](B-weather/noun) [celcius](B-weather/temperatureUnit) at [shanghai](B-location) [this](B-datetime) [weekend](I-datetime)
+- [temperature](B-weather/noun) [next](B-datetime) [week](I-datetime) [here](B-location) [celsius](B-weather/temperatureUnit)
+- will it be [around](B-weather/attribute) [100](B-weather/attribute) in [celcius](B-weather/temperatureUnit) [beijing](B-location) [next](B-datetime) [week](I-datetime)
+- [temperature](B-weather/noun) [today](B-datetime) [karachi](B-location) [c](B-weather/temperatureUnit)
+- [temperature](B-weather/noun) [out](B-location) [there](I-location) [today](B-datetime) [f](B-weather/temperatureUnit)
+- will it be [above](B-weather/attribute) [70](B-weather/attribute) in [degrees](B-weather/noun) [celsius](B-weather/temperatureUnit) near [manila](B-location) [tomorrow](B-datetime)
+- how [warm](B-weather/attribute) is it in [seattle](B-location) [tonight](B-datetime) [degree](B-weather/noun) [fahrenheit](B-weather/temperatureUnit)
+- how [cold](B-weather/attribute) is it [tomorrow](B-datetime) for [chicago](B-location) [degrees](B-weather/noun) [c](B-weather/temperatureUnit)
+- how [warm](B-weather/attribute) is it [here](B-location) [this](B-datetime) [weekend](I-datetime) in [degrees](B-weather/noun) [c](B-weather/temperatureUnit)
+- will it be [around](B-weather/attribute) [77](B-weather/attribute) in [degrees](B-weather/noun) [celsius](B-weather/temperatureUnit) at [new](B-location) [york](I-location) [today](B-datetime)
+- how [warm](B-weather/attribute) is it [outside](B-location) [next](B-datetime) [week](I-datetime) [celcius](B-weather/temperatureUnit)
+- how [cold](B-weather/attribute) is it at [beijing](B-location) in [degree](B-weather/noun) [fahrenheit](B-weather/temperatureUnit)
+- is it [above](B-weather/attribute) [79](B-weather/attribute) in [f](B-weather/temperatureUnit) around [paris](B-location) [next](B-datetime) [week](I-datetime)
+- how [warm](B-weather/attribute) is it [this](B-datetime) [weekend](I-datetime) [san](B-location) [francisco](I-location) in [degree](B-weather/noun) [f](B-weather/temperatureUnit)
+- is it going to be [below](B-weather/attribute) [2](B-weather/attribute) in [degrees](B-weather/noun) [f](B-weather/temperatureUnit) [here](B-location) [this](B-datetime) [weekend](I-datetime)
+- will it be [around](B-weather/attribute) [37](B-weather/attribute) in [fahrenheit](B-weather/temperatureUnit) at [london](B-location) [tomorrow](B-datetime) [morning](I-datetime)
+- how [cold](B-weather/attribute) is it [next](B-datetime) [week](I-datetime) [beijing](B-location) in [fahrenheit](B-weather/temperatureUnit)
+- how [hot](B-weather/attribute) is it [this](B-datetime) [weekend](I-datetime) around [mumbai](B-location) in [degrees](B-weather/noun) [celsius](B-weather/temperatureUnit)
+- [temperature](B-weather/noun) [tomorrow](B-datetime) [morning](I-datetime) [houston](B-location) [celsius](B-weather/temperatureUnit)
+- [temperature](B-weather/noun) [here](B-location) [f](B-weather/temperatureUnit)
+- how [hot](B-weather/attribute) is it [today](B-datetime) [manila](B-location) in [degree](B-weather/noun) [fahrenheit](B-weather/temperatureUnit)
+- will it be [around](B-weather/attribute) [55](B-weather/attribute) in [degrees](B-weather/noun) [c](B-weather/temperatureUnit) [inside](B-location) [this](B-datetime) [weekend](I-datetime)
+- is it going to be [around](B-weather/attribute) [65](B-weather/attribute) in [degree](B-weather/noun) [celsius](B-weather/temperatureUnit) near [london](B-location) [this](B-datetime) [weekend](I-datetime)
+- how [warm](B-weather/attribute) is it around [sao](B-location) [paulo](I-location) [next](B-datetime) [week](I-datetime) in [degrees](B-weather/noun) [fahrenheit](B-weather/temperatureUnit)
+- how [cold](B-weather/attribute) is it [tomorrow](B-datetime) [morning](I-datetime) in [degrees](B-weather/noun) [celsius](B-weather/temperatureUnit)
+- [temperature](B-weather/noun) [this](B-datetime) [weekend](I-datetime) in [menlo](B-location) [park](I-location) [c](B-weather/temperatureUnit)
+- how [warm](B-weather/attribute) is it [tomorrow](B-datetime) [morning](I-datetime) [out](B-location) [there](I-location) in [degree](B-weather/noun) [celsius](B-weather/temperatureUnit)
+- [temperature](B-weather/noun) [next](B-datetime) [week](I-datetime) in [tokyo](B-location) [fahrenheit](B-weather/temperatureUnit)
+- how [hot](B-weather/attribute) is it at [mumbai](B-location) [next](B-datetime) [week](I-datetime) [fahrenheit](B-weather/temperatureUnit)
+- how [cold](B-weather/attribute) is it [inside](B-location) [this](B-datetime) [weekend](I-datetime) [degree](B-weather/noun) [celsius](B-weather/temperatureUnit)
+- will it be [below](B-weather/attribute) [37](B-weather/attribute) [degrees](B-weather/noun) [celcius](B-weather/temperatureUnit) for [manila](B-location) [tomorrow](B-datetime) [morning](I-datetime)
+- will it be [around](B-weather/attribute) [46](B-weather/attribute) in [degrees](B-weather/noun) [celcius](B-weather/temperatureUnit) at [boston](B-location) [tonight](B-datetime)
+- is it [above](B-weather/attribute) [56](B-weather/attribute) in [degrees](B-weather/noun) [fahrenheit](B-weather/temperatureUnit) [here](B-location)
+- is it [around](B-weather/attribute) [23](B-weather/attribute) [degrees](B-weather/noun) [fahrenheit](B-weather/temperatureUnit) near [san](B-location) [francisco](I-location) [tomorrow](B-datetime)
+- [temperature](B-weather/noun) [today](B-datetime) [houston](B-location) [celcius](B-weather/temperatureUnit)
+- [temperature](B-weather/noun) [shanghai](B-location) [celsius](B-weather/temperatureUnit)
+- how [hot](B-weather/attribute) is it near [tokyo](B-location) in [c](B-weather/temperatureUnit)
+- [temperature](B-weather/noun) for [san](B-location) [francisco](I-location) [fahrenheit](B-weather/temperatureUnit)
+- how [warm](B-weather/attribute) is it [tomorrow](B-datetime) around [mumbai](B-location) [degree](B-weather/noun) [c](B-weather/temperatureUnit)
+- how [cold](B-weather/attribute) is it [next](B-datetime) [week](I-datetime) [menlo](B-location) [park](I-location) in [degrees](B-weather/noun) [fahrenheit](B-weather/temperatureUnit)
+- is it going to be [above](B-weather/attribute) [78](B-weather/attribute) in [degree](B-weather/noun) [fahrenheit](B-weather/temperatureUnit) [shanghai](B-location) [next](B-datetime) [week](I-datetime)
+- [temperature](B-weather/noun) [beijing](B-location) [next](B-datetime) [week](I-datetime) [celsius](B-weather/temperatureUnit)
+- is it [above](B-weather/attribute) [65](B-weather/attribute) [degrees](B-weather/noun) [f](B-weather/temperatureUnit) around [dublin](B-location) [tonight](B-datetime)
+- is it [above](B-weather/attribute) [97](B-weather/attribute) in [degrees](B-weather/noun) [fahrenheit](B-weather/temperatureUnit) at [san](B-location) [francisco](I-location) [today](B-datetime)
+- is it [above](B-weather/attribute) [27](B-weather/attribute) in [f](B-weather/temperatureUnit) [outside](B-location) [today](B-datetime)
+- how [warm](B-weather/attribute) is it near [menlo](B-location) [park](I-location) [tonight](B-datetime) in [degree](B-weather/noun) [fahrenheit](B-weather/temperatureUnit)
+- how [hot](B-weather/attribute) is it [tomorrow](B-datetime) [morning](I-datetime) near [manila](B-location) in [degree](B-weather/noun) [fahrenheit](B-weather/temperatureUnit)
+- [temperature](B-weather/noun) at [sao](B-location) [paulo](I-location) [this](B-datetime) [weekend](I-datetime) [f](B-weather/temperatureUnit)
+- [temperature](B-weather/noun) near [london](B-location) [this](B-datetime) [weekend](I-datetime) [fahrenheit](B-weather/temperatureUnit)
+- is it going to be [below](B-weather/attribute) [99](B-weather/attribute) in [degrees](B-weather/noun) [c](B-weather/temperatureUnit) for [beijing](B-location) [tomorrow](B-datetime) [morning](I-datetime)
+- how [hot](B-weather/attribute) is it [tomorrow](B-datetime) in [seattle](B-location) [degrees](B-weather/noun) [celsius](B-weather/temperatureUnit)
+- [temperature](B-weather/noun) [today](B-datetime) [shanghai](B-location) [celcius](B-weather/temperatureUnit)
+- [temperature](B-weather/noun) near [new](B-location) [york](I-location) [next](B-datetime) [week](I-datetime) [celcius](B-weather/temperatureUnit)
+- is it going to be [below](B-weather/attribute) [71](B-weather/attribute) in [degree](B-weather/noun) [celsius](B-weather/temperatureUnit) around [palo](B-location) [alto](I-location) [next](B-datetime) [week](I-datetime)
+- how [hot](B-weather/attribute) is it [dehli](B-location) [next](B-datetime) [week](I-datetime) [celsius](B-weather/temperatureUnit)
+- [temperature](B-weather/noun) for [menlo](B-location) [park](I-location) [this](B-datetime) [weekend](I-datetime) [celcius](B-weather/temperatureUnit)
+- how [warm](B-weather/attribute) is it around [dublin](B-location) [next](B-datetime) [week](I-datetime) in [degrees](B-weather/noun) [f](B-weather/temperatureUnit)
+- [temperature](B-weather/noun) near [new](B-location) [york](I-location) [tomorrow](B-datetime) [c](B-weather/temperatureUnit)
+- [temperature](B-weather/noun) [this](B-datetime) [weekend](I-datetime) near [boston](B-location) [fahrenheit](B-weather/temperatureUnit)
+- how [hot](B-weather/attribute) is it near [san](B-location) [francisco](I-location) [tonight](B-datetime) in [degrees](B-weather/noun) [f](B-weather/temperatureUnit)
+- is it [above](B-weather/attribute) [83](B-weather/attribute) in [degree](B-weather/noun) [c](B-weather/temperatureUnit) for [dehli](B-location) [today](B-datetime)
+- will it be [above](B-weather/attribute) [86](B-weather/attribute) [degrees](B-weather/noun) [fahrenheit](B-weather/temperatureUnit) for [menlo](B-location) [park](I-location)
+- [temperature](B-weather/noun) for [chicago](B-location) [tonight](B-datetime) [c](B-weather/temperatureUnit)
+- how [warm](B-weather/attribute) is it [tomorrow](B-datetime) in [new](B-location) [york](I-location) in [c](B-weather/temperatureUnit)
+- will it be [below](B-weather/attribute) [10](B-weather/attribute) in [f](B-weather/temperatureUnit) [outside](B-location)
+- is it [above](B-weather/attribute) [20](B-weather/attribute) in [degrees](B-weather/noun) [c](B-weather/temperatureUnit) in [new](B-location) [york](I-location) [this](B-datetime) [weekend](I-datetime)
+- how [warm](B-weather/attribute) is it [tonight](B-datetime) in [degree](B-weather/noun) [celsius](B-weather/temperatureUnit)
+- is it going to be [around](B-weather/attribute) [95](B-weather/attribute) in [f](B-weather/temperatureUnit) in [boston](B-location) [tomorrow](B-datetime) [morning](I-datetime)
+- will it be [below](B-weather/attribute) [27](B-weather/attribute) in [degrees](B-weather/noun) [celsius](B-weather/temperatureUnit) for [shanghai](B-location) [tonight](B-datetime)
+- is it going to be [below](B-weather/attribute) [85](B-weather/attribute) [c](B-weather/temperatureUnit) near [london](B-location)
+- how [warm](B-weather/attribute) is it [today](B-datetime) near [palo](B-location) [alto](I-location) [degree](B-weather/noun) [c](B-weather/temperatureUnit)
+- is it going to be [around](B-weather/attribute) [72](B-weather/attribute) in [f](B-weather/temperatureUnit) near [sao](B-location) [paulo](I-location) [tonight](B-datetime)
+- is it [above](B-weather/attribute) [25](B-weather/attribute) in [degree](B-weather/noun) [f](B-weather/temperatureUnit) in [paris](B-location) [tonight](B-datetime)
+- [temperature](B-weather/noun) [inside](B-location) [tomorrow](B-datetime) [f](B-weather/temperatureUnit)
+- is it going to be [below](B-weather/attribute) [20](B-weather/attribute) [degree](B-weather/noun) [celsius](B-weather/temperatureUnit) at [dehli](B-location) [tomorrow](B-datetime) [morning](I-datetime)
+- [temperature](B-weather/noun) [outside](B-location) [tonight](B-datetime) [fahrenheit](B-weather/temperatureUnit)
+- how [cold](B-weather/attribute) is it [next](B-datetime) [week](I-datetime) [outside](B-location) in [celsius](B-weather/temperatureUnit)
+- will it be [above](B-weather/attribute) [3](B-weather/attribute) in [degrees](B-weather/noun) [f](B-weather/temperatureUnit) for [palo](B-location) [alto](I-location)
+- how [warm](B-weather/attribute) is it [this](B-datetime) [weekend](I-datetime) in [tokyo](B-location) [degree](B-weather/noun) [fahrenheit](B-weather/temperatureUnit)
+- how [warm](B-weather/attribute) is it around [dublin](B-location) in [degrees](B-weather/noun) [c](B-weather/temperatureUnit)
+- will it be [above](B-weather/attribute) [46](B-weather/attribute) in [degree](B-weather/noun) [f](B-weather/temperatureUnit) at [madrid](B-location) [this](B-datetime) [weekend](I-datetime)
+- is it going to be [below](B-weather/attribute) [100](B-weather/attribute) in [fahrenheit](B-weather/temperatureUnit) around [karachi](B-location) [today](B-datetime)
+- [temperature](B-weather/noun) [today](B-datetime) at [manila](B-location) [f](B-weather/temperatureUnit)
+- is it [below](B-weather/attribute) [19](B-weather/attribute) in [degree](B-weather/noun) [fahrenheit](B-weather/temperatureUnit) for [shanghai](B-location) [today](B-datetime)
+- will it be [around](B-weather/attribute) [84](B-weather/attribute) [degree](B-weather/noun) [celsius](B-weather/temperatureUnit) at [dehli](B-location) [this](B-datetime) [weekend](I-datetime)
+- [temperature](B-weather/noun) [tomorrow](B-datetime) around [shanghai](B-location) [celsius](B-weather/temperatureUnit)
+- is it [below](B-weather/attribute) [33](B-weather/attribute) in [f](B-weather/temperatureUnit) [outside](B-location) [next](B-datetime) [week](I-datetime)
+- how [cold](B-weather/attribute) is it [today](B-datetime) around [manila](B-location) in [celsius](B-weather/temperatureUnit)
+- [temperature](B-weather/noun) at [shanghai](B-location) [today](B-datetime) [celsius](B-weather/temperatureUnit)
+- is it going to be [below](B-weather/attribute) [67](B-weather/attribute) [f](B-weather/temperatureUnit) in [beijing](B-location) [this](B-datetime) [weekend](I-datetime)
+- is it [above](B-weather/attribute) [56](B-weather/attribute) in [degree](B-weather/noun) [f](B-weather/temperatureUnit) at [houston](B-location) [tonight](B-datetime)
+- [temperature](B-weather/noun) [today](B-datetime) [fahrenheit](B-weather/temperatureUnit)
+- how [warm](B-weather/attribute) is it [today](B-datetime) in [paris](B-location) in [celsius](B-weather/temperatureUnit)
+- is it [above](B-weather/attribute) [4](B-weather/attribute) [degrees](B-weather/noun) [fahrenheit](B-weather/temperatureUnit) in [madrid](B-location) [next](B-datetime) [week](I-datetime)
+- is it going to be [around](B-weather/attribute) [38](B-weather/attribute) in [degrees](B-weather/noun) [c](B-weather/temperatureUnit) around [london](B-location) [tonight](B-datetime)
+- [temperature](B-weather/noun) [here](B-location) [next](B-datetime) [week](I-datetime) [f](B-weather/temperatureUnit)
+- [temperature](B-weather/noun) for [chicago](B-location) [tomorrow](B-datetime) [f](B-weather/temperatureUnit)
+- how [cold](B-weather/attribute) is it [next](B-datetime) [week](I-datetime) at [chicago](B-location) in [degree](B-weather/noun) [f](B-weather/temperatureUnit)
+- how [warm](B-weather/attribute) is it [next](B-datetime) [week](I-datetime) around [dublin](B-location) in [degree](B-weather/noun) [celsius](B-weather/temperatureUnit)
+- will it be [around](B-weather/attribute) [42](B-weather/attribute) in [degree](B-weather/noun) [fahrenheit](B-weather/temperatureUnit) at [palo](B-location) [alto](I-location) [today](B-datetime)
+- how [hot](B-weather/attribute) is it [outside](B-location) [degrees](B-weather/noun) [f](B-weather/temperatureUnit)
+- how [hot](B-weather/attribute) is it in [mumbai](B-location) in [degree](B-weather/noun) [celsius](B-weather/temperatureUnit)
+- will it be [above](B-weather/attribute) [19](B-weather/attribute) [degrees](B-weather/noun) [fahrenheit](B-weather/temperatureUnit) around [shanghai](B-location) [tomorrow](B-datetime)
+- how [hot](B-weather/attribute) is it [today](B-datetime) in [degree](B-weather/noun) [c](B-weather/temperatureUnit)
+- [temperature](B-weather/noun) at [palo](B-location) [alto](I-location) [this](B-datetime) [weekend](I-datetime) [f](B-weather/temperatureUnit)
+- will it be [below](B-weather/attribute) [6](B-weather/attribute) in [degrees](B-weather/noun) [f](B-weather/temperatureUnit) around [madrid](B-location) [next](B-datetime) [week](I-datetime)
+- is it going to be [below](B-weather/attribute) [75](B-weather/attribute) in [degrees](B-weather/noun) [f](B-weather/temperatureUnit) for [new](B-location) [york](I-location) [tomorrow](B-datetime) [morning](I-datetime)
+- how [cold](B-weather/attribute) is it [tomorrow](B-datetime) [morning](I-datetime) near [san](B-location) [francisco](I-location) in [f](B-weather/temperatureUnit)
+- is it going to be [above](B-weather/attribute) [11](B-weather/attribute) in [degree](B-weather/noun) [f](B-weather/temperatureUnit) near [madrid](B-location) [tonight](B-datetime)
+- is it going to be [around](B-weather/attribute) [12](B-weather/attribute) in [degrees](B-weather/noun) [c](B-weather/temperatureUnit) at [karachi](B-location) [tomorrow](B-datetime)
+- will it be [around](B-weather/attribute) [70](B-weather/attribute) in [degree](B-weather/noun) [c](B-weather/temperatureUnit) in [tokyo](B-location)
+- is it [around](B-weather/attribute) [67](B-weather/attribute) [degree](B-weather/noun) [celsius](B-weather/temperatureUnit) in [mumbai](B-location) [today](B-datetime)
+- [temperature](B-weather/noun) [outside](B-location) [this](B-datetime) [weekend](I-datetime) [celsius](B-weather/temperatureUnit)
+- will it be [around](B-weather/attribute) [97](B-weather/attribute) in [degrees](B-weather/noun) [c](B-weather/temperatureUnit) around [tokyo](B-location) [today](B-datetime)
+- how [warm](B-weather/attribute) is it [tonight](B-datetime) in [seattle](B-location) [f](B-weather/temperatureUnit)
+- is it [below](B-weather/attribute) [98](B-weather/attribute) [degrees](B-weather/noun) [celsius](B-weather/temperatureUnit) in [karachi](B-location) [tomorrow](B-datetime)
+- [temperature](B-weather/noun) [tomorrow](B-datetime) [morning](I-datetime) at [beijing](B-location) [c](B-weather/temperatureUnit)
+- is it going to be [around](B-weather/attribute) [35](B-weather/attribute) in [degree](B-weather/noun) [f](B-weather/temperatureUnit) [inside](B-location)
+- how [hot](B-weather/attribute) is it [tonight](B-datetime) in [paris](B-location) in [fahrenheit](B-weather/temperatureUnit)
+- how [warm](B-weather/attribute) is it [tomorrow](B-datetime) [outside](B-location) in [f](B-weather/temperatureUnit)
+- [temperature](B-weather/noun) [tonight](B-datetime) at [new](B-location) [york](I-location) [c](B-weather/temperatureUnit)
+- will it be [around](B-weather/attribute) [98](B-weather/attribute) in [f](B-weather/temperatureUnit) in [madrid](B-location) [next](B-datetime) [week](I-datetime)
+- is it [around](B-weather/attribute) [64](B-weather/attribute) in [celsius](B-weather/temperatureUnit) at [shanghai](B-location) [next](B-datetime) [week](I-datetime)
+- [temperature](B-weather/noun) [tomorrow](B-datetime) [morning](I-datetime) near [karachi](B-location) [f](B-weather/temperatureUnit)
+- is it [above](B-weather/attribute) [94](B-weather/attribute) in [degree](B-weather/noun) [fahrenheit](B-weather/temperatureUnit) near [new](B-location) [york](I-location) [today](B-datetime)
+- will it be [below](B-weather/attribute) [91](B-weather/attribute) [f](B-weather/temperatureUnit) around [seattle](B-location) [tomorrow](B-datetime)
+- how [cold](B-weather/attribute) is it around [palo](B-location) [alto](I-location) [degree](B-weather/noun) [fahrenheit](B-weather/temperatureUnit)
+- is it going to be [around](B-weather/attribute) [49](B-weather/attribute) in [fahrenheit](B-weather/temperatureUnit) around [mumbai](B-location) [today](B-datetime)
+- [temperature](B-weather/noun) for [beijing](B-location) [f](B-weather/temperatureUnit)
+- is it going to be [around](B-weather/attribute) [25](B-weather/attribute) in [degrees](B-weather/noun) [fahrenheit](B-weather/temperatureUnit) at [tokyo](B-location) [today](B-datetime)
+- is it going to be [above](B-weather/attribute) [9](B-weather/attribute) in [c](B-weather/temperatureUnit) near [paris](B-location) [this](B-datetime) [weekend](I-datetime)
+- is it going to be [around](B-weather/attribute) [56](B-weather/attribute) [degree](B-weather/noun) [celsius](B-weather/temperatureUnit) in [sao](B-location) [paulo](I-location) [next](B-datetime) [week](I-datetime)
+- how [warm](B-weather/attribute) is it [tonight](B-datetime) near [sao](B-location) [paulo](I-location) in [degrees](B-weather/noun) [fahrenheit](B-weather/temperatureUnit)
+- [temperature](B-weather/noun) in [mumbai](B-location) [c](B-weather/temperatureUnit)
+- [temperature](B-weather/noun) [this](B-datetime) [weekend](I-datetime) around [new](B-location) [york](I-location) [f](B-weather/temperatureUnit)
+- how [cold](B-weather/attribute) is it in [tokyo](B-location) [tonight](B-datetime) in [degree](B-weather/noun) [c](B-weather/temperatureUnit)
+- how [warm](B-weather/attribute) is it near [seattle](B-location) [this](B-datetime) [weekend](I-datetime) in [degree](B-weather/noun) [f](B-weather/temperatureUnit)
+- will it be [above](B-weather/attribute) [13](B-weather/attribute) in [degrees](B-weather/noun) [celsius](B-weather/temperatureUnit) [next](B-datetime) [week](I-datetime)
+- is it going to be [below](B-weather/attribute) [53](B-weather/attribute) in [fahrenheit](B-weather/temperatureUnit) at [london](B-location)
+- [temperature](B-weather/noun) [next](B-datetime) [week](I-datetime) near [karachi](B-location) [f](B-weather/temperatureUnit)
+- is it [below](B-weather/attribute) [72](B-weather/attribute) [celsius](B-weather/temperatureUnit) [outside](B-location) [next](B-datetime) [week](I-datetime)
+- how [hot](B-weather/attribute) is it for [san](B-location) [francisco](I-location) [next](B-datetime) [week](I-datetime) [degrees](B-weather/noun) [c](B-weather/temperatureUnit)
+- is it [below](B-weather/attribute) [33](B-weather/attribute) in [celsius](B-weather/temperatureUnit) at [manila](B-location) [this](B-datetime) [weekend](I-datetime)
+- is it going to be [above](B-weather/attribute) [4](B-weather/attribute) in [degree](B-weather/noun) [celsius](B-weather/temperatureUnit) around [menlo](B-location) [park](I-location) [this](B-datetime) [weekend](I-datetime)
+- [temperature](B-weather/noun) near [houston](B-location) [tomorrow](B-datetime) [morning](I-datetime) [fahrenheit](B-weather/temperatureUnit)
+- how [warm](B-weather/attribute) is it near [palo](B-location) [alto](I-location) [next](B-datetime) [week](I-datetime) [degrees](B-weather/noun) [f](B-weather/temperatureUnit)
+- [temperature](B-weather/noun) [next](B-datetime) [week](I-datetime) [here](B-location) [fahrenheit](B-weather/temperatureUnit)
+- how [hot](B-weather/attribute) is it [out](B-location) [there](I-location) in [degree](B-weather/noun) [f](B-weather/temperatureUnit)
+- is it going to be [around](B-weather/attribute) [23](B-weather/attribute) in [degree](B-weather/noun) [fahrenheit](B-weather/temperatureUnit) [tomorrow](B-datetime) [morning](I-datetime)
+- [temperature](B-weather/noun) in [tokyo](B-location) [tomorrow](B-datetime) [fahrenheit](B-weather/temperatureUnit)
+- what is the [weather](B-weather/noun) for [my](B-location) [area](I-location)
+- how [windy](B-weather/attribute) is it going to be around fort mason
+- how [warm](B-weather/attribute) is it [tonight](B-datetime) near [new](B-location) [york](I-location) in [degrees](B-weather/noun) [fahrenheit](B-weather/temperatureUnit)
+- how [cold](B-weather/attribute) is it [this](B-datetime) [weekend](I-datetime) around [paris](B-location) in [degree](B-weather/noun) [fahrenheit](B-weather/temperatureUnit)
+- how [cold](B-weather/attribute) is it [today](B-datetime) near [mumbai](B-location) [degrees](B-weather/noun) [celsius](B-weather/temperatureUnit)
+- [temperature](B-weather/noun) [tonight](B-datetime) [outside](B-location) [celsius](B-weather/temperatureUnit)
+- [temperature](B-weather/noun) for [sao](B-location) [paulo](I-location) [tomorrow](B-datetime) [morning](I-datetime) [f](B-weather/temperatureUnit)
+- how [warm](B-weather/attribute) is it at [seattle](B-location) [next](B-datetime) [week](I-datetime) in [degree](B-weather/noun) [f](B-weather/temperatureUnit)
+- [temperature](B-weather/noun) near [karachi](B-location) [tonight](B-datetime) [fahrenheit](B-weather/temperatureUnit)
+- [temperature](B-weather/noun) in [new](B-location) [york](I-location) [tomorrow](B-datetime) [celsius](B-weather/temperatureUnit)
+- tell me how [hot](B-weather/attribute) [arizona](B-location) can get
+- what's the [weather](B-weather/noun) going to be like [on](B-datetime) [tuesday](I-datetime) in [chicago](B-location)
+- what is the [weather](B-weather/noun) [advisory](I-weather/noun) for [alabama](B-location) [this](B-datetime) [week](I-datetime)
+- tell me the [forecast](B-weather/noun) [for](B-datetime) [the](I-datetime) [weekend](I-datetime)
+- how [cold](B-weather/attribute) is [alaska](B-location) [now](B-datetime)
+- what is the [weather](B-weather/noun) in [temple](B-location) [terrace](I-location) [tampa](I-location) [florida](I-location)
+- what is the [weather](B-weather/noun) [forecast](I-weather/noun) in [philly](B-location) [next](B-datetime) [week](I-datetime)
+- what's the [forecast](B-weather/noun) [for](B-datetime) [next](I-datetime) [friday](I-datetime)
+- [santa](B-location) [cruz](I-location) [weather](B-weather/noun) [forecast](I-weather/noun)
+- what's the [weather](B-weather/noun) like in [amsterdam](B-location) [in](B-datetime) [august](I-datetime)
+- do i need an [umbrella](B-weather/attribute) [tonight](B-datetime)
+- what's the low [temperature](B-weather/noun) [for](B-datetime) [the](I-datetime) [next](I-datetime) [two](I-datetime) [days](I-datetime)
+- is it going to be very [humid](B-weather/attribute) [today](B-datetime)
+- is it going to be [sunny](B-weather/attribute) [this](B-datetime) [afternoon](I-datetime)
+- is there a [freeze](B-weather/noun) [warning](I-weather/noun) [for](B-datetime) [tonight](I-datetime)
+- what is the [weather](B-weather/noun) in [brooklyn](B-location) right [now](B-datetime)
+- what will the [temperature](B-weather/noun) be [at](B-datetime) [noon](I-datetime) [today](I-datetime)
+- [wind](B-weather/noun) [advisory](I-weather/noun) [for](B-datetime) [today](I-datetime)
+- should i bring my [raincoat](B-weather/attribute) in case it [rains](B-weather/attribute)
+- is it going to [rain](B-weather/attribute) in [brooklyn](B-location) [tonight](B-datetime)
+- will i need an [umbrella](B-weather/attribute) [today](B-datetime)
+- whats the [temperature](B-weather/noun) [outside](B-location) , right [now](B-datetime)
+- what is the [wind](B-weather/attribute) chill [today](B-datetime)
+- what is the [humidity](B-weather/attribute) [today](B-datetime)
+- is it going to [cool](B-weather/attribute) off [tonight](B-datetime)
+- is it gong to [rain](B-weather/attribute) [tonight](B-datetime)
+- when is the [cold](B-weather/attribute) [front](I-weather/attribute) supposed to move in
+- what's the [weather](B-weather/noun) [forecast](I-weather/noun) [for](B-datetime) [this](I-datetime) [weekend](I-datetime)
+- what will the [weather](B-weather/noun) in [tampa](B-location) be like [on](B-datetime) [thursday](I-datetime)
+- how [humid](B-weather/attribute) is [today](B-datetime)
+- will i need an [umbrella](B-weather/attribute) [this](B-datetime) [morning](I-datetime)
+- [tonights](B-datetime) [forecast](B-weather/noun)
+- is it goings to [snow](B-weather/attribute) [today](B-datetime)
+- how [hot](B-weather/attribute) will it be in [hemet](B-location) [california](I-location) [this](B-datetime) [weekend](I-datetime)
+- what is the [weather](B-weather/noun) in [brussels](B-location)
+- what is the [weather](B-weather/noun) at the [buffalo](B-location) [zoo](I-location) right [now](B-datetime)
+- what is the [average](B-weather/attribute) [humidity](I-weather/attribute) [for](B-datetime) [the](I-datetime) [week](I-datetime)
+- will it be [foggy](B-weather/attribute) [tomorrow](B-datetime) [morning](I-datetime)
+- how fast is the [wind](B-weather/attribute) blowing
+- is it going to be below [freezing](B-weather/attribute) [tonight](B-datetime)
+- what's [next](B-datetime) [week's](I-datetime) [forecast](B-weather/noun)
+- will i need to wear [warmer](B-weather/attribute) [clothes](I-weather/attribute)
+- how will the [humidity](B-weather/attribute) be [tomorrow](B-weather/noun)
+- what was the [weather](B-weather/noun) [warning](I-weather/noun)
+- what will be the [temperature](B-weather/noun) [tonight](B-datetime)
+- should i wear a [raining](B-weather/attribute) [jacket](I-weather/attribute)
+- what is the low [temp](B-weather/noun) [for](B-datetime) [tonight](I-datetime)
+- can you tell me a [weather](B-weather/noun) update for [charlotte](B-location)
+- how was the [temperature](B-weather/noun) [yesterday](B-datetime) in [nyc](B-location)
+- will it [rain](B-weather/attribute) [this](B-datetime) [afternoon](I-datetime)
+- what is the [weather](B-weather/noun) going to be [for](B-datetime) [the](I-datetime) [next](I-datetime) [two](I-datetime) [weeks](I-datetime) in [myrtle](B-location) [beach](I-location)
+- what's the [weather](B-weather/noun) [for](B-datetime) [the](I-datetime) [weekend](I-datetime)
+- what's [the](B-datetime) [weekly](I-datetime) [forecast](B-weather/noun) in [dallas](B-location)
+- what is the [weather](B-weather/noun) in [richfield](B-location) [mn](I-location) [tomorrow](B-datetime) [night](I-datetime)
+- what is the [forecast](B-weather/noun) [for](B-datetime) [the](I-datetime) [25th](I-datetime) of [this](B-datetime) [month](I-datetime)
+- [weather](B-weather/attribute) [forecast](I-weather/attribute) in [new](B-location) [york](I-location)
+- what is the typical [daily](B-datetime) [forecast](B-weather/noun) in [rome](B-location) [,](I-location) [italy](I-location) [in](B-datetime) [june](I-datetime)
+- what is the chance of [precipitation](B-weather/attribute) [today](B-datetime)
+- what is the [weather](B-weather/noun) going to be [tonight](B-datetime)
+- will it [rain](B-weather/attribute) [today](B-datetime) at [home](B-location)
+- what is the [weather](B-weather/noun) like in [los](B-location) [feliz](I-location) right [now](B-datetime)
+- what is [tomorrow's](B-datetime) [windchill](B-weather/attribute) ?
+- what is the [temperature](B-weather/noun) [for](B-datetime) [tomorrow](I-datetime) ?
+- how many [storms](B-weather/attribute) were [last](B-datetime) [week](I-datetime) ?
+- what is the [temperature](B-weather/noun) [this](B-datetime) [morning](I-datetime)
+- should i have an [umbrella](B-weather/attribute) [today](B-datetime)
+- when will the [temp](B-weather/noun) reach 100 degress
+- how much [snow](B-weather/attribute) did we get [yesterday](B-datetime)
+- how many times did the [temperature](B-weather/noun) get above 95 degrees [this](B-datetime) [month](I-datetime)
+- how [hot](B-weather/attribute) was it [yesterday](B-datetime)
+- did oklahoma have tornadoes [last](B-datetime) [week](I-datetime)
+- what the [weather](B-weather/noun) like in [hawaii](B-location) this time of year
+- is the [weather](B-weather/noun) going to be [nice](B-weather/attribute) [this](B-datetime) [saturday](I-datetime)
+- did it [snow](B-weather/attribute) [last](B-datetime) [night](I-datetime)
+- how [cold](B-weather/attribute) will it be [today](B-datetime)
+- is it [cold](B-weather/attribute) [outside](B-location) right [now](B-datetime)
+- [temp](B-weather/noun) [this](B-datetime) [afternoon](I-datetime)
+- what does the [weather](B-weather/noun) look like [for](B-datetime) [monday](I-datetime) [night](I-datetime)
+- did it [rain](B-weather/attribute) [last](B-datetime) [night](I-datetime)
+- how will it be [outside](B-location) [today](B-datetime)
+- what is the high [temperature](B-weather/noun) [today](B-datetime)
+- will it [rain](B-weather/attribute) [all](B-datetime) [day](I-datetime) [today](I-datetime)
+- how much did it [snow](B-weather/attribute) [last](B-datetime) [night](I-datetime)
+- will it [rain](B-weather/attribute) [tonight](B-datetime)
+- will the sky be [clear](B-weather/attribute) [tonight](B-datetime)
+- is it going to [rain](B-weather/attribute) [wednesday](B-datetime)
+- what does the [weather](B-weather/noun) look like [today](B-datetime)
+- when will it [snow](B-weather/attribute) again
+- how is the [weather](B-weather/noun) in [washington](B-location) [dc](I-location) [now](B-datetime)
+- will i need my [raincoat](B-weather/attribute) [for](B-datetime) [the](I-datetime) [next](I-datetime) [week](I-datetime)
+- are there any severe [weather](B-weather/noun) [warnings](I-weather/noun) in [my](B-location) [area](I-location)
+- will it be [raining](B-weather/attribute) [tonight](B-datetime)
+- is it going to [rain](B-weather/attribute) [next](B-datetime) [week](I-datetime) in [seattle](B-location)
+- what is the [temperature](B-weather/noun) going to be [today's](B-datetime) [evening](I-datetime)
+- is it going to be [cold](B-weather/attribute) [tonight](B-datetime)
+- how [hot](B-weather/attribute) is it going to be [today](B-datetime)
+- is it going to [rain](B-weather/attribute) [wednesday](B-datetime)
+- what was the [forecast](B-weather/noun) [for](B-datetime) [yesterday](I-datetime)
+- [current](B-datetime) [weather](B-weather/noun) in [albania](B-location)
+- will it be [windy](B-weather/attribute) [today](B-datetime)
+- tell me if it will [rain](B-weather/attribute)
+- is it going to [snow](B-weather/attribute) [tonight](B-datetime)
+- are there any [severe](B-weather/noun) [storm](I-weather/noun) [warnings](I-weather/noun) in [my](B-location) [area](I-location)
+- did it [rain](B-weather/attribute) on the 12th of [last](B-datetime) [month](I-datetime)
+- are they calling for [nice](B-weather/attribute) [weather](B-weather/noun) for labor day weekend
+- how many inches of [snow](B-weather/attribute) is expected
+- should i bring a [lightweight](B-weather/attribute) [jacket](I-weather/attribute) [for](B-datetime) [the](I-datetime) [evening](I-datetime)
+- how [humid](B-weather/attribute) is it [today](B-datetime) in my city , [houston](B-location)
+- should i wear a [rain](B-weather/attribute) [hat](I-weather/attribute)
+- what is the [temperature](B-weather/noun) going to be [today](B-datetime) in [hopatcong](B-location) [,](I-location) [nj](I-location)
+- will it be [nice](B-weather/attribute) [out](B-location) later
+- [tomorrow's](B-datetime) [temp](B-weather/noun)
+- are we expecting to have heavy rainthis [evening](I-datetime)
+- what's the [weather](B-weather/noun) like for [guthrie](B-location) [oklahoma](I-location)
+- what's the [weather](B-weather/noun) [forecast](I-weather/noun) in [seattle](B-location) [this](B-datetime) [week](I-datetime)
+- should i take my kids ' [rain](B-weather/attribute) [jackets](I-weather/attribute) with me [tomorrow](B-datetime)
+- will it be [freezing](B-weather/attribute) [overnight](B-datetime)
+- [temperatures](B-weather/noun) [for](B-datetime) [the](I-datetime) [week](I-datetime)
+- will it [rain](B-weather/attribute) at the ravens game [this](B-datetime) [week](I-datetime)
+- how many inches of [snow](B-weather/attribute) did we get [last](B-datetime) [night](I-datetime)
+- what is the low [temperature](B-weather/noun) for [charlotte](B-location) [today](B-datetime)
+- what will the [weather](B-weather/noun) be in [my](B-location) [location](I-location) [at](B-datetime) [2](I-datetime) [o'clock](I-datetime)
+- what is the low [temperature](B-weather/noun) [today](B-datetime)
+- should i wear a [rainjacket](B-weather/attribute) [today](B-datetime)
+- what day is it predicted to be partly [sunny](B-weather/attribute)
+- what will the [uv](B-weather/attribute) [index](I-weather/attribute) be between 10 am and 2 pm [today](B-datetime)
+- should i bring an [umbrella](B-weather/attribute) [tomorrow](B-datetime) [morning](I-datetime)
+- what is the [forecast](B-weather/noun) [for](B-datetime) [10pm](I-datetime) [tonight](I-datetime)
+- will it be [nice](B-weather/attribute) at the [coast](B-location) [this](B-datetime) [week](I-datetime)
+- when will it stop being [cold](B-weather/attribute)
+- how's the [weather](B-weather/noun) looking in [houston](B-location) [for](B-datetime) [next](I-datetime) [weekend's](I-datetime) festival
+- what was [yesterday's](B-datetime) low [temperature](B-weather/noun)
+- what are the chances of [snow](B-weather/attribute) [today](B-datetime)
+- will [today](B-datetime) be [stormy](B-weather/attribute)
+- do i need to bring a [winter](B-weather/attribute) [hat](I-weather/attribute) to the football game in [penfield](B-location)
+- what's the [forecast](B-weather/noun) [for](B-datetime) [the](I-datetime) [week](I-datetime)
+- how much did it [rain](B-weather/attribute) [last](B-datetime) [night](I-datetime)
+- is there [rain](B-weather/attribute) [forecast](B-weather/noun) [for](B-datetime) [tonight](I-datetime)
+- is it [snowing](B-weather/attribute) in the [mountains](B-location)
+- what is [weather](B-weather/noun) conditions in [london](B-location) like
+- are there any local alerts
+- how [hot](B-weather/attribute) is it going to be [tomorrow](B-datetime)
+- should i wear [shorts](B-weather/attribute) [or](I-weather/attribute) [long](I-weather/attribute) [pants](I-weather/attribute) [today](B-datetime)
+- what is the [temperature](B-weather/noun) [outside](B-location)
+- what is the [temperature](B-weather/noun) like right [now](B-datetime)
+- how long will the [cold](B-weather/attribute) front last
+- what's the [weather](B-weather/noun) [now](B-datetime)
+- [weekly](B-weather/attribute) [forecast](B-weather/noun) for [zip](B-location) [11211](I-location)
+- how [windy](B-weather/attribute) is it [outside](B-location) right [now](B-datetime)
+- should i wear something over my head
+- show me [next](B-datetime) [week](I-datetime) [forecast](B-weather/noun)
+- [current](B-datetime) [temp](B-weather/noun)
+- what is the [forecast](B-weather/noun) for [my](B-location) [area](I-location) [next](B-datetime) [week](I-datetime)
+- whats the [weather](B-weather/noun) like [tomorrow](B-datetime)
+- what is the [humidity](B-weather/attribute) percentage [for](B-datetime) [tomorrow](I-datetime)
+- any [weather](B-weather/noun) [alerts](I-weather/noun) for [my](B-location) [area](I-location)
+- whats [todays](B-datetime) [temperature](B-weather/noun)
+- will it be [humid](B-weather/attribute) [today](B-datetime)
+- how many days [this](B-datetime) [month](I-datetime) is it going to be over 80 degrees
+- can we expect [hail](B-weather/attribute) [today](B-datetime)
+- is this [tornado](B-weather/attribute) [weather](B-weather/noun)
+- how much [snow](B-weather/attribute) is expected to fall
+- is there a [tornado](B-weather/noun) [warning](I-weather/noun) [nearby](B-location)
+- when will it [rain](B-weather/attribute) next
+- do i need a [coat](B-weather/attribute) in [marseille](B-location) [,](I-location) [france](I-location) [this](B-datetime) [friday](I-datetime)
+- is [today](B-datetime) gonna be [humid](B-weather/attribute)
+- any [storms](B-weather/attribute) coming near [this](B-location) [town](I-location)
+- is there a chance of [flooding](B-weather/attribute) [this](B-datetime) [afternoon](I-datetime)
+- how many days [this](B-datetime) [week](I-datetime) is it going to be [under](B-weather/attribute) [50](I-weather/attribute) degrees
+- are there any [hurricane](B-weather/noun) [warnings](I-weather/noun)
+- will there be [ice](B-weather/attribute) on the road [tonight](B-datetime) in [my](B-location) [area](I-location)
+- will i need a [jacket](B-weather/attribute) [tomorrow](B-datetime) [night](I-datetime)
+- whats the [weather](B-weather/noun) [for](B-datetime) [today](I-datetime) [at](I-datetime) [noon](I-datetime)
+- will there be [sunshine](B-weather/attribute) later [on](B-datetime) [today](I-datetime)
+- how [hot](B-weather/attribute) will it be [this](B-datetime) [afternoon](I-datetime) in [my](B-location) [neighborhood](I-location)
+- are we under a [flash](B-weather/noun) [flood](I-weather/noun) [warning](I-weather/noun)
+- what the [weather](B-weather/noun) [this](B-datetime) [weekend](I-datetime) in [chicago](B-location)
+- what is [tomorrows](B-datetime) [forecast](B-weather/noun)
+- is [snow](B-weather/attribute) in the [forecast](B-weather/noun)
+- what is the [weather](B-weather/noun) like in [tallahasse](B-location) right [now](B-datetime)
+- what is the [weather](B-weather/noun) in [syracuse](B-location) [at](B-datetime) [noon](I-datetime)
+- what [the](B-datetime) [latest](I-datetime) on the [tropical](B-weather/attribute) [storm](I-weather/attribute)
+- will [la](B-location) be very [smoggy](B-weather/attribute) [today](B-location)
+- is it below [freezing](B-weather/attribute)
+- what is the [temperature](B-weather/noun) in [truth](B-location) [or](I-location) [consequences](I-location) [,](I-location) [new](I-location) [mexico](I-location) right [now](B-datetime)
+- when should we expect a [nice](B-weather/attribute) day
+- what is the [weather](B-weather/noun) like in [seattle](B-location) right [now](B-datetime)
+- read me any [weather](B-weather/noun) [advisories](I-weather/noun)
+- is it going to be [cloudy](B-weather/attribute) [this](B-datetime) [afternoon](I-datetime)
+- is [today's](B-datetime) [temperature](B-weather/noun) [higher](B-weather/attribute) than average
+- will it get [below](B-weather/attribute) [freezing](I-weather/attribute) [tonight](B-datetime)
+- do i need a [raincoat](B-weather/attribute) [this](B-datetime) [afternoon](I-datetime)
+- when is it going to [rain](B-weather/attribute) next
+- what's [today's](B-datetime) [weather](B-weather/noun) [forecast](I-weather/noun)
+- is there [currently](B-datetime) a [drought](B-weather/attribute) in any part of the [united](B-location) [states](I-location)
+- how [cold](B-weather/attribute) is it in [vermont](B-location)
+- what does [this](B-datetime) [weekend's](I-datetime) [forecast](B-weather/noun) look like
+- are there are [weather](B-weather/noun) [advisories](I-weather/noun) in [my](B-location) [area](I-location)
+- is there a [cold](B-weather/attribute) [front](I-weather/attribute) coming in [my](B-location) [area](I-location)
+- any [weather](B-weather/noun) [advisories](I-weather/noun)
+- what's the [temp](B-weather/noun)
+- is it going to be [sunny](B-weather/attribute) all [weekend](B-datetime)
+- is it supposed to [storm](B-weather/attribute) [tonight](B-datetime)
+- how many inches of [snow](B-weather/attribute) did we get [yesterday](B-datetime)
+- when is it supposed to [snow](B-weather/attribute) ? i want to go skiing
+- what is the high [temperature](B-weather/noun) [this](B-datetime) [week](I-datetime)
+- what is the [temp](B-weather/noun) [outside](B-location)
+- will it be [below](B-weather/attribute) [zero](I-weather/attribute) [next](B-datetime) [week](I-datetime)
+- would i need an [umbrella](B-weather/attribute) [this](B-datetime) [weekend](I-datetime)
+- does [my](B-location) [area](I-location) have a [tornado](B-weather/noun) [warning](I-weather/noun)
+- what is the [weather](B-weather/noun) going to be in [dewitt](B-location) [on](B-datetime) [saturday](I-datetime)
+- [5](B-datetime) [day](I-datetime) [weather](B-weather/noun) [forecast](I-weather/noun) please
+- how [hot](B-weather/attribute) will it get [this](B-datetime) [afternoon](I-datetime)
+- what is the [temperature](B-weather/noun) right [now](B-datetime)
+- what will [tomorrows](B-datetime) [temperature](B-weather/noun) be
+- is it going to [rain](B-weather/attribute) in [crosby](B-location) [,](I-location) [nd](I-location) anytime [this](B-datetime) [week](I-datetime)
+- does it look like [snow](B-weather/attribute) [for](B-datetime) [the](I-datetime) [weekend](I-datetime)
+- whats [the](B-datetime) [current](I-datetime) [temperature](B-weather/noun) in [pittsburgh](B-location) [pa](I-location)
+- is the sky going to be [clear](B-weather/attribute) [tonight](B-datetime)
+- how many days are we expecting it to be 90 degrees
+- did it [freeze](B-weather/attribute) [last](B-datetime) [night](I-datetime)
+- will there be [thunderstorms](B-weather/attribute) [this](B-datetime) [evening](I-datetime)
+- what time will the [storm](B-weather/attribute) start / end
+- what will the [weather](B-weather/noun) be like in [showlow](B-location) [next](B-datetime) [weekend](I-datetime)
+- how much did it [rain](B-weather/attribute) [yesterday](B-datetime)
+- how's the [weather](B-weather/noun) [this](B-datetime) [week](I-datetime)
+- what's [the](B-datetime) [week's](I-datetime) [weather](B-weather/noun) [forecast](I-weather/noun)
+- whats the [temp](B-weather/noun) [today](B-datetime)
+- what's [the](B-datetime) [weekly](I-datetime) [weather](B-weather/noun) [forecast](I-weather/noun) for around [here](B-location)
+- what is the [weather](B-weather/noun) [outside](B-location) right [now](B-datetime)
+- how much [rain](B-weather/attribute) did we get [last](B-datetime) [week](I-datetime)
+- what is the low [temp](B-weather/noun) [today](B-datetime)
+- is it going to be [cloudy](B-weather/attribute) [this](B-datetime) [afternoon](I-datetime)
+- how much [rain](B-weather/attribute) will we get
+- do i need to wear a [scarf](B-weather/attribute) [and](I-weather/attribute) [mittens](I-weather/attribute) [today](B-datetime)
+- do i need a [jacket](B-weather/attribute) [tonight](B-datetime)
+- what is the [uv](B-weather/attribute) [index](I-weather/attribute) [today](B-datetime)
+- should i wear a [jacket](B-weather/attribute) [today](B-datetime)
+- what is the [weather](B-weather/noun) like in [florida](B-location) right [now](B-datetime)
+- what is [this](B-datetime) [weekend's](I-datetime) [weather](B-weather/noun)
+- [weather](B-weather/noun) [forecast](I-weather/noun) in [savannah](B-location) please
+- how many days over 100 degrees are we expected to have in phoenix
+- how much [hotter](B-weather/attribute) will it be in vegas than san diego [tomorrow](B-datetime)
+- do i need to wear a [jacket](B-weather/attribute) [tonight](B-datetime)
+- will it be [cold](B-weather/attribute) [tonight](B-datetime)
+- was there a lot of [rain](B-weather/attribute) [last](B-datetime) [night](I-datetime)
+- what is the chance of [rain](B-weather/attribute)
+- is it going to [warm](B-weather/attribute) up [today](B-datetime)
+- is it going to be [cloudy](B-weather/attribute)
+- what is [today's](B-datetime) [weather](B-weather/noun)
+- do i need a [coat](B-weather/attribute) [after](B-datetime) [sundown](I-datetime) [tonight](I-datetime)
+- is it [raining](B-weather/attribute) [now](B-datetime)
+- what is the [wind](B-weather/attribute) speed
+- whats [today's](B-datetime) [temperature](B-weather/noun) high
+- what's the [humidity](B-weather/attribute)
+- whats the [temperature](B-weather/noun) going to be [at](B-datetime) [8](I-datetime) [today](I-datetime)
+- what is the [temperature](B-weather/noun) right [now](B-datetime)
+- is it going to [rain](B-weather/attribute) [this](B-datetime) [afternoon](I-datetime)
+- will it be [sunny](B-weather/attribute) [this](B-datetime) [week](I-datetime)
+- is it [storming](B-weather/attribute) near [belleville](B-location) [,](I-location) [il](I-location) right [now](B-datetime)
+- when does the [snow](B-weather/attribute) start [tonight](B-datetime)
+- is there any hazardous [weather](B-weather/noun) [alert](I-weather/noun)
+- what is the [weather](B-weather/noun) in [seattle](B-location)
+- [rain](B-weather/attribute) [forecast](B-weather/noun) for [grandview](B-location) [speedway](I-location)
+- is [today's](B-datetime) [weather](B-weather/noun) going to be [nice](B-weather/attribute)
+- do i need a [winter](B-weather/attribute) [jacket](I-weather/attribute) [today](B-datetime)
+- will [the](B-datetime) [winter](I-datetime) [weather](B-weather/noun) for 2018 be more severe than in 2015
+- is it going to [freeze](B-weather/attribute) [overnight](B-datetime)
+- will [today](B-datetime) be [clear](B-weather/attribute) and [sunny](B-weather/attribute)
+- whats the [forecast](B-weather/noun) [for](B-datetime) [the](I-datetime) [week](I-datetime)
+- what's the [uv](B-weather/attribute) [index](I-weather/attribute)
+- will there be any [thunderstorms](B-weather/attribute) [this](B-datetime) [afternoon](I-datetime)
+- is it suppose to [snow](B-weather/attribute) [next](B-datetime) [tuesday](I-datetime)
+- how many inches of [rain](B-weather/attribute) did we get [yesterday](B-datetime)
+- is [today](B-datetime) [hotter](B-weather/attribute) than [yesterday](B-datetime)
+- what was the [temperature](B-weather/noun) [yesterday](B-datetime)
+- are there [tornado](B-weather/noun) [warnings](I-weather/noun) in [east](B-location) [texas](I-location) [tonight](B-datetime)
+- are we under any [flood](B-weather/noun) [warnings](I-weather/noun)
+- what is the [forecast](B-weather/noun) [for](B-datetime) [today](I-datetime)
+- what is the [weather](B-weather/noun) [forecast](I-weather/noun) [for](B-datetime) [tomorrow](I-datetime)
+- what is [the](B-datetime) [hourly](I-datetime) [forecast](B-weather/noun)
+- give me the [extended](B-weather/attribute) [forecast](B-weather/noun)
+- what will the [weather](B-weather/noun) be on [granite](B-location) [mountain](I-location) [on](B-datetime) [friday](I-datetime) [night](I-datetime)
+- will it [rain](B-weather/attribute) [tomorrow](B-datetime)
+- what will the [weather](B-weather/noun) be from boise to post falls [on](B-datetime) [wednesday](I-datetime) [night](I-datetime)
+- is it supposed to [rain](B-weather/attribute) [tonight](B-datetime)
+- what's the [weather](B-weather/noun) going to be like in [lincoln](B-location) [county](I-location)
+- what was the high [temp](B-weather/noun) [yesterday](B-datetime)
+- is it going to [snow](B-weather/attribute) [today](B-datetime)
+- what's the [weather](B-weather/noun)
+- what is the [temperature](B-weather/noun)
+- will i need my [umbrella](B-weather/attribute) [friday](B-datetime) [morning](I-datetime)
+- what is [next](B-datetime) [week's](I-datetime) [forecast](B-weather/noun)
+- how [hot](B-weather/attribute) will it be [this](B-datetime) [afternoon](I-datetime)
+- when will the [heat](B-weather/attribute) wave be over
+- what's the [temperature](B-weather/noun) like in tempe [today](B-datetime)
+- how [warm](B-weather/attribute) should i dress [tomorrow](B-datetime)
+- what will the low be [today](B-datetime) in [downtown](B-location)
+- what will be the high [temperature](B-weather/noun) [tomorrow](B-datetime)
+- will it be [raining](B-weather/attribute) [later](B-datetime) [today](I-datetime)
+- is there any [weather's](B-weather/noun) [alert](I-weather/noun)
+- should i take a [jacket](B-weather/attribute) to the baseball game [tonight](B-datetime)
+- how far will i have to drive to be in 70 degree [weather](B-weather/noun)
+- is there [flash](B-weather/attribute) [flooding](I-weather/attribute) [now](B-datetime)
+- did it [rain](B-weather/attribute) [yesterday](B-datetime)
+- what [uv](B-weather/attribute) [index](I-weather/attribute) [today](B-datetime)
+- how much [snow](B-weather/attribute) are we supposed to get [tonight](B-datetime)
+- [overcast](B-weather/attribute) days [this](B-datetime) [week](I-datetime)
+- is it going to [rain](B-weather/attribute) [this](B-datetime) [afternoon](I-datetime)
+- what will be the [temperature](B-weather/noun) when i leave [work](B-location) [tonight](B-datetime)
+- what was [yesterdays](B-datetime) high [temperature](B-weather/noun)
+- what is the [weather](B-weather/noun) [at](B-datetime) [2pm](I-datetime) in [san](B-location) [francisco](I-location)
+- what's the [temperature](B-weather/noun)
+- what's the [forecast](B-weather/noun) for the [oregon](B-location) [coast](I-location) [this](B-datetime) [weekend](I-datetime)
+- what's it like [out](B-location)
+- when's the next [storm](B-weather/attribute)
+- whats [the](B-datetime) [hourly](I-datetime) [temperature](B-weather/noun) [forecast](B-weather/noun) [today](B-datetime)
+- is it going to [rain](B-weather/attribute) [after](B-datetime) [5](I-datetime) [pm](I-datetime)
+- is [sleet](B-weather/attribute) better than [rain](B-weather/attribute)
+- will i be stuck in a [rainstorm](B-weather/attribute) [today](B-datetime)
+- [bay](B-location) [area](I-location) [weather](B-weather/noun) [forecast](I-weather/noun)
+- do i need a [sweater](B-weather/attribute) [this](B-datetime) [afternoon](I-datetime)
+- what was the high [temp](B-weather/noun) [yesterday](B-datetime)
+- is it [freezing](B-weather/attribute) [out](B-location)
+- should i wear a [jacket](B-weather/attribute) to [disneyland](B-location) [this](B-datetime) [weekend](I-datetime)
+- what is the [hottest](B-weather/attribute) day [forecast](B-weather/noun) [this](B-datetime) [week](I-datetime)
+- will there be [rain](B-weather/attribute) in bernheim forest area [next](B-datetime) [weekend](I-datetime)
+- is there [snow](B-weather/attribute) [forecasted](B-weather/noun) [for](B-datetime) [the](I-datetime) [next](I-datetime) [three](I-datetime) [days](I-datetime)
+- is there supposed to be [cloud](B-weather/attribute) coverage [today](B-datetime)
+- is there a chance of [snow](B-weather/attribute)
+- do my kids need to wear [hats](B-weather/attribute) and [mittens](B-weather/attribute) [today](B-datetime)
+- are we expecting [snow](B-weather/attribute)
+- how [cold](B-weather/attribute) is it in [nyc](B-location) right [now](B-datetime)
+- how is the [weather](B-weather/noun) [for](B-datetime) [next](I-datetime) [week](I-datetime) looking like
+- is the [weather](B-weather/noun) going to be [nice](B-weather/attribute) in [bellingham](B-location) [,](I-location) [wa](I-location)
+- what's the [weather](B-weather/noun) [forecast](I-weather/noun) for the rest of [the](B-datetime) [week](I-datetime)
+- are there any [tornado](B-weather/attribute) watches or warnings in the [u.s](B-location) [.](I-location) [today](B-datetime)
+- how [humid](B-weather/attribute) is [london](B-location) right [now](B-datetime)
+- what's [the](B-datetime) [overnight](I-datetime) low
+- is it going to break 100 degrees
+- how [cold](B-weather/attribute) will it reach [tonight](B-datetime) [at](I-datetime) [1](I-datetime) [am](I-datetime)
+- what is the [weather](B-weather/noun) [today](B-datetime)
+- will it be [sunny](B-weather/attribute) in the [pacific](B-location) [northwest](I-location) [tomorrow](B-datetime)
+- how [hot](B-weather/attribute) was is [yesterday](B-datetime)
+- what is the [weather](B-weather/noun) like in [central](B-location) [fl](I-location)
+- should i bring a [rain](B-weather/attribute) [jacket](I-weather/attribute) to [manhattan](B-location) [next](B-datetime) [monday](I-datetime)
+- what is the percentage that it will [rain](B-weather/attribute) [tonight](B-datetime)
+- is it going to [rain](B-weather/attribute)
+- is it going to [snow](B-weather/attribute) [today](B-datetime)
+- please give me [today's](B-datetime) [forecast](B-weather/noun)
+- will i be [hot](B-weather/attribute) with a [sweatshirt](B-weather/attribute) [on](B-datetime) [today](I-datetime)
+- do i need my [rain](B-weather/attribute) [boots](I-weather/attribute) [today](B-datetime)
+- what is [today's](B-datetime) high
+- do i need a [winter](B-weather/attribute) [coat](I-weather/attribute) [tonight](B-datetime)
+- will there be [flooding](B-weather/attribute) conditions [this](B-datetime) [week](I-datetime)
+- is there going be severe [thunderstorms](B-weather/attribute) [on](B-datetime) [friday](I-datetime)
+- [monsoons](B-weather/attribute) in [chandler](B-location)
+- what is [the](B-datetime) [current](I-datetime) [temperature](B-weather/noun)
+- what's [today's](B-datetime) [weather](B-weather/noun)
+- what is my [10](B-weather/attribute) [-](I-weather/attribute) [day](I-weather/attribute) [weather](B-weather/noun) outlook
+- what is the [wind](B-weather/attribute) mph
+- should i dress in layers
+- should i take a [sweater](B-weather/attribute) when i go to the [out](B-location) [door](I-location) concert [tonight](B-datetime)
+- will it be [sunny](B-weather/attribute) [on](B-datetime) [sunday](I-datetime) [afternoon](I-datetime)
+- do i need an [umbrella](B-weather/attribute) [today](B-datetime)
+- are the roads still covered in [ice](B-weather/attribute) [this](B-datetime) [morning](I-datetime)
+- is there a [flash](B-weather/noun) [flood](I-weather/noun) [warning](I-weather/noun) for [richmond](B-location) [,](I-location) [va](I-location)
+- what is the [weather](B-weather/noun) [here](B-location) [at](B-datetime) [10](I-datetime) [pm](I-datetime)
+- should i wear my [winter](B-weather/attribute) [coat](I-weather/attribute)
+- what's the [hottest](B-weather/attribute) [temperature](B-weather/noun) [last](B-datetime) [week](I-datetime)
+- should i have my [umbrella](B-weather/attribute) with me [today](B-datetime)
+- where is there a [flash](B-weather/noun) [flood](I-weather/noun) [warning](I-weather/noun) around [my](B-location) [area](I-location)
+- should i bring a [sweatshirt](B-weather/attribute) [tonight](B-datetime)
+- was it [hotter](B-weather/attribute) [yesterday](B-datetime) than it is [today](B-datetime)
+- will it be [raining](B-weather/attribute) [at](B-datetime) [5](I-datetime) [tomorrow](I-datetime)
+- will there be a [weather](B-weather/noun) delay
+- whats the [record](B-weather/attribute) [high](I-weather/attribute) [for](B-datetime) [last](I-datetime) [week](I-datetime)
+- what is the local [weather](B-weather/noun)
+- can you tell me the [forecast](B-weather/noun) [for](B-datetime) [the](I-datetime) [next](I-datetime) [2](I-datetime) [days](I-datetime)
+- how many days has [lubbock](B-location) had over 100 degrees
+- will i need [long](B-weather/attribute) [pants](I-weather/attribute) if i stay [out](B-location) past [10pm](B-datetime)
+- how much [rain](B-weather/attribute) did we get [last](B-datetime) [night](I-datetime)
+- what is the [temperature](B-weather/noun) low [for](B-datetime) [today](I-datetime)
+- will the [indy](B-location) [500](I-location) be [rained](B-weather/attribute) out
+- what will the [weather](B-weather/noun) be like [next](B-datetime) [week](I-datetime) [here](B-location)
+- what is the [humidity](B-weather/attribute) [for](B-datetime) [today](I-datetime)
+- how much did it [rain](B-weather/attribute) [last](B-datetime) [night](I-datetime)
+- do we have a [freeze](B-weather/noun) [warning](I-weather/noun) [tonight](B-datetime)
+- is there [rain](B-weather/attribute) expected [this](B-datetime) [weekend](I-datetime)
+- what is the [weather](B-weather/noun) [for](B-datetime) [the](I-datetime) [week](I-datetime)
+- do i need a [hat](B-weather/attribute) [and](I-weather/attribute) [gloves](I-weather/attribute) for [outside](B-location) [today](B-datetime)
+- is a [hurricane](B-weather/attribute) coming [this](B-datetime) [week](I-datetime)
+- will it [rain](B-weather/attribute) in [chicago](B-location) if i leave to go there [now](B-datetime)
+- will there be any [rain](B-weather/attribute) in key west on 8 / 16 / 17
+- whats the [forecast](B-weather/noun) [for](B-datetime) [saturday](I-datetime) [afternoon](I-datetime)
+- how many inches of [snow](B-weather/attribute) are we going to get [tonight](B-datetime)
+- what's the [temperature](B-weather/noun) going to be like [this](B-datetime) [afternoon](I-datetime)
+- will it [rain](B-weather/attribute) [tomorrow](B-datetime)
+- what's the [temperature](B-weather/noun) right [now](B-datetime) ?
+- [forecast](B-weather/noun) [for](B-datetime) [this](I-datetime) [weekend](I-datetime)
+- what does [next](B-datetime) [week](I-datetime) look like ?
+- [rain](B-weather/attribute) percentage [for](B-datetime) [today](I-datetime)
+- what are the chances for [rain](B-weather/attribute) ?
+- what is [the](B-datetime) [current](I-datetime) [weather](B-weather/noun) in [ireland](B-location)
+- are we expecting [snow](B-weather/attribute) [this](B-datetime) [week](I-datetime) ?
+- is going to [rain](B-weather/attribute) [on](B-datetime) [saturday](I-datetime) ?
+- is [hail](B-weather/attribute) expected [today](B-datetime) ?
+- whats the relative [humidity](B-weather/attribute) in [savannah](B-location) [,](I-location) [ga](I-location) ?
+- how deep is the [snow](B-weather/attribute)
+- should i wear a [hat](B-weather/attribute)
+- what is the [forecast](B-weather/noun) like [for](B-datetime) [this](I-datetime) [weekend](I-datetime) ?
+- what is the [temperature](B-weather/noun) going [to](B-datetime) [this](I-datetime) [week](I-datetime) ?
+- what is the [humidity](B-weather/attribute) in [orlando](B-location) [florida](I-location) ?
+- what is the [uv](B-weather/attribute) [index](I-weather/attribute) [for](B-datetime) [today](I-datetime) ?
+- what's the [temperature](B-weather/noun) low [today](B-datetime) ?
+- is it going to [snow](B-weather/attribute) [today](B-datetime) ?
+- what is [today's](B-datetime) high [temp](B-weather/noun) ?
+- what is the [weather](B-weather/noun) [forecast](I-weather/noun) for [seattle](B-location) [,](I-location) [washington](I-location) [this](B-datetime) [weekend](I-datetime) ?
+- will it be [windy](B-weather/attribute) in [dallas](B-location) ?
+- what is the [highest](B-weather/noun) [temperature](I-weather/noun) in [las](B-location) [vegas](I-location)
+- what is the [humidity](B-weather/attribute) [today](B-datetime)
+- what is the low [tonight](B-datetime)
+- what is the [weather](B-weather/noun) [today](B-datetime) in [la](B-location) [jolla](I-location) ?
+- is there [rain](B-weather/attribute) [forecast](B-weather/noun) [for](B-datetime) [wednesday](I-datetime) ?
+- will it be [windy](B-weather/attribute) [today](B-datetime) in [naples](B-location) ?
+- will i need an [unbrella](B-weather/attribute) [tomorrow](B-datetime)
+- will the [weather](B-weather/noun) be [nice](B-weather/attribute) to wear [shorts](B-weather/attribute) ?
+- what is the [forecast](B-weather/noun) [for](B-datetime) [next](I-datetime) [week](I-datetime)
+- what is [the](B-datetime) [5](I-datetime) [day](I-datetime) [forecast](B-weather/noun) for [phoenix](B-location) ?
+- how [hot](B-weather/attribute) does it get in [death](B-location) [valley](I-location)
+- will it be be [cloudy](B-weather/attribute) [tomorrow](B-datetime)
+- what is [today's](B-datetime) [temperature](B-weather/noun) ?
+- how long is it supposed to [rain](B-weather/attribute) [this](B-datetime) [week](I-datetime) ?
+- how does the [weather](B-weather/noun) look [today](B-datetime)
+- what time is the [lightening](B-weather/attribute) going to start [today](B-datetime) ?
+- is it going to [snow](B-weather/attribute) [today](B-datetime)
+- what is the [forecast](B-weather/noun) [for](B-datetime) [the](I-datetime) [next](I-datetime) [five](I-datetime) [days](I-datetime) in [findlay](B-location) [,](I-location) [oh](I-location) ?
+- is it [snowing](B-weather/attribute) in [new](B-location) [york](I-location) ?
+- how [windy](B-weather/attribute) is it on i - 80 ?
+- will there be [ice](B-weather/attribute) on the roads
+- how [warm](B-weather/attribute) is it [out](B-location)
+- will i need a [jacket](B-weather/attribute) ?
+- is it going to [rain](B-weather/attribute) [today](B-datetime) or [tomorrow](B-datetime)
+- how does [today's](B-datetime) [weather](B-weather/noun) [forecast](I-weather/noun) look for [vegas](B-location) [today](B-datetime) ?
+- [temperature](B-weather/noun) right [now](B-datetime)
+- will the [temp](B-weather/noun) go below [freezing](B-weather/attribute) [tonight](B-datetime) ?
+- should i bring an [umbrella](B-weather/attribute) with me [tonight](B-datetime) ?
+- will it be [sunny](B-weather/attribute) [today](B-datetime) ?
+- is it going to [snow](B-weather/attribute) [saturday](B-datetime)
+- should i take my [coat](B-weather/attribute) to [work](B-location) [today](B-datetime) ?
+- where is it [raining](B-weather/attribute) [today](B-datetime) ?
+- what is [the](B-datetime) [10](I-datetime) [day](I-datetime) [forecast](B-weather/noun) look like ?
+- how [hot](B-weather/attribute) is it supposed to get [this](B-datetime) [weekend](I-datetime) ?
+- how much [rain](B-weather/attribute) does miami get ?
+- show me the [weather](B-weather/noun)
+- will it be [windy](B-weather/attribute) [today](B-datetime) ?
+- how much [snow](B-weather/attribute) can we expect for [windham](B-location) [mountain](I-location) [this](B-datetime) [weekend](I-datetime) ?
+- what is the [weather](B-weather/noun) like in [nebraska](B-location)
+- tell me the [weather](B-weather/noun) .
+- what is the [forecast](B-weather/noun) [for](B-datetime) [today](I-datetime)
+- what will be the high [temperature](B-weather/noun) [on](B-datetime) [friday](I-datetime) in [cincinnati](B-location) ?
+- will it [snow](B-weather/attribute) [tomorrow](B-datetime) ?
+- will i need a [jacket](B-weather/attribute) [today](B-datetime) ?
+- will it [rain](B-weather/attribute) [today](B-datetime)
+- what is the [coldest](B-weather/attribute) it will get [all](B-datetime) [week](I-datetime) ?
+- [sunny](B-weather/attribute) or [cloudy](B-weather/attribute) [today](B-datetime)
+- what's the [weather](B-weather/noun) in [galveston](B-location) [today](B-datetime) ?
+- will i be needing a [jacket](B-weather/attribute)
+- how [cold](B-weather/attribute) will it get [today](B-datetime) ?
+- will it be [cloudy](B-weather/attribute) [today](B-datetime) ?
+- what is the [weather](B-weather/noun) like in [san](B-location) [antonio](I-location) ?
+- should i bring [sunscreen](B-weather/attribute) to the [beach](B-location) [today](B-datetime) ?
+- is it [snowing](B-weather/attribute) in [canada](B-location)
+- do i need a [jacket](B-weather/attribute) in [new](B-location) [york](I-location) [city](I-location) [today](B-datetime)
+- can i walk in this [weather](B-weather/noun)
+- what is the [temperature](B-weather/noun) in [las](B-location) [vegas](I-location) right [now](B-datetime) ?
+- is there [rain](B-weather/attribute) in the [forecast](B-weather/noun) [next](B-datetime) [week](I-datetime) on [michigan](B-location) [city](I-location) ?
+- what does the [temperature](B-weather/noun) feel like [today](B-datetime) ?
+- what time is it going to start [raining](B-weather/attribute) [on](B-datetime) [friday](I-datetime) ?
+- how much [snow](B-weather/attribute) is expected [this](B-datetime) [week](I-datetime) ?
+- tell me what its like [outside](B-location)
+- what was the highest [temperature](B-weather/noun) [today](B-datetime) ?
+- can i wear [shorts](B-weather/attribute) [today](B-datetime)
+- when will we see a break in the [humidity](B-weather/attribute)
+- is it going to [rain](B-weather/attribute) [tomorrow](B-datetime) ?
+- is [alaska](B-location) pretty [warm](B-weather/attribute) [now](B-datetime) ?
+- should i use [snow](B-weather/attribute) [boots](I-weather/attribute) [today](B-datetime) ?
+- what is the [temperature](B-weather/noun) in [san](B-location) [jose](I-location) [,](I-location) [ca](I-location)
+- what will the [weather](B-weather/noun) be like [on](B-datetime) [friday](I-datetime) ?
+- what is the high [temp](B-weather/noun) [for](B-datetime) [today](I-datetime)
+- should i wear a [jacket](B-weather/attribute) [tomorrow](B-datetime) [morning](I-datetime) ?
+- how [windy](B-weather/attribute) is it
+- should i bring an [umbrella](B-weather/attribute) ?
+- is [moisture](B-weather/attribute) in the [forecast](B-weather/noun) ?
+- what's the [weather](B-weather/noun) like in [los](B-location) [angeles](I-location)
+- when is the next time it's going to [rain](B-weather/attribute) ?
+- what is the [weather](B-weather/noun) [forecast](I-weather/noun) [for](B-datetime) [this](I-datetime) [weekend](I-datetime)
+- is it going to [rain](B-weather/attribute) [today](B-datetime) ?
+- how [hot](B-weather/attribute) will it be
+- is it going to [rain](B-weather/attribute) ?
+- can i wear [shorts](B-weather/attribute) [saturday](B-datetime) ?
+- is there [ice](B-weather/attribute) on the roads ?
+- will it be [humid](B-weather/attribute) [today](B-datetime) ?
+- what is the [weather](B-weather/noun) in [butte](B-location) [,](I-location) [ia](I-location)
+- will it [rain](B-weather/attribute) in [los](B-location) [angeles](I-location) [next](B-datetime) [monday](I-datetime) ?
+- what is the [hottest](B-weather/attribute) day in [tampa](B-location)
+- will it [snow](B-weather/attribute) [tomorrow](B-datetime) ?
+- what is the [temperature](B-weather/noun) in [mesa](B-location) [,](I-location) [az](I-location)
+- will i need an [umbrella](B-weather/attribute) [tomorrow](B-datetime) ?
+- is it [cold](B-weather/attribute) enough for a [coat](B-weather/attribute)
+- will the [temperature](B-weather/noun) be [above](B-weather/attribute) [70](I-weather/attribute) [degrees](B-weather/noun) [tomorrow](B-datetime)
+- what will be the [temperature](B-weather/noun) [tomorrow](B-datetime) [morning](I-datetime) ?
+- how [hot](B-weather/attribute) will it be [today](B-datetime) ?
+- do i need an [umbrella](B-weather/attribute) [today](B-datetime) ?
+- is it [hot](B-weather/attribute) [outside](B-location) ?
+- will there be [sunshine](B-weather/attribute) in the [forecast](B-weather/noun) [this](B-datetime) [week](I-datetime) ?
+- is there any [snow](B-weather/attribute) in the [forecast](B-weather/noun) [for](B-datetime) [today](I-datetime) ?
+- what is [the](B-datetime) [10](I-datetime) [day](I-datetime) [forecast](B-weather/noun) ?
+- what is the [weather](B-weather/noun) like [outside](B-location) right [now](B-datetime) ?
+- how many [fahrenheit](B-weather/temperatureUnit) is it gonna be [tomorrow](B-datetime)
+- do i need an [umbrella](B-weather/attribute) [today](B-datetime)
+- how [hot](B-weather/attribute) is it on the [west](B-location) [coast](I-location) [this](B-datetime) [week](I-datetime) ?
+- do i need a [coat](B-weather/attribute)
+- is it [cold](B-weather/attribute)
+- what's the [temp](B-weather/noun) [outside](B-location) ?
+- is it [storming](B-weather/attribute) in [new](B-location) [york](I-location) [city](I-location)
+- will it be [hot](B-weather/attribute) [today](B-datetime) ?
+- what is the [forecast](B-weather/noun) [today](B-datetime)
+- is it going to [rain](B-weather/attribute) in [orlando](B-location) [tomorrow](B-datetime) ?
+- is it [humid](B-weather/attribute) [today](B-datetime) ?
+- is [today](B-datetime) a good day to go to the [beach](B-location)
+- is it [humid](B-weather/attribute) [today](B-datetime) ?
+- what is the high [temperature](B-weather/noun) [tomorrow](B-datetime)
+- do i need a [winter](B-weather/attribute) [coat](I-weather/attribute) [tomorrow](B-datetime) ?
+- what's the [weather](B-weather/noun) like ?
+- what's the [weather](B-weather/noun) in [tampa](B-location)
+- when will it [snow](B-weather/attribute) [this](B-datetime) [week](I-datetime) ?
+- can we expect sun [this](B-datetime) [weekend](I-datetime)
+- is it supposed to [rain](B-weather/attribute) in [palm](B-location) [springs](I-location) [next](B-datetime) [week](I-datetime) ?
+- what is [the](B-datetime) [current](I-datetime) [humidity](B-weather/attribute) ?
+- what is the [forecast](B-weather/noun) [for](B-datetime) [the](I-datetime) [week](I-datetime) ?
+- is there [sleet](B-weather/attribute) in the [forecast](B-weather/noun) ?
+- what is the [temperature](B-weather/noun) in [houston](B-location) [today](B-datetime) ?
+- is it [warm](B-weather/attribute) in [pennsylvania](B-location) [in](B-datetime) [october](I-datetime) ?
+- how is the [temperature](B-weather/noun) ?
+- do i need an [umbrella](B-weather/attribute) [today](B-datetime) ?
+- whats [the](B-datetime) [current](I-datetime) [humidity](B-weather/attribute) [outisde](B-location)
+- what's the high [temperature](B-weather/noun) [today](B-datetime) ?
+- whats the high [today](B-datetime) in [sydney](B-location)
+- when is the next [sunny](B-weather/attribute) day ?
+- how [hot](B-weather/attribute) is it right [now](B-datetime)
+- do i need a [coat](B-weather/attribute) later [in](B-datetime) [the](I-datetime) [evening](I-datetime) [today](I-datetime) ?
+- what [temperature](B-weather/noun) will it be [at](B-datetime) [noon](I-datetime) [tomorrow](I-datetime) ?
+- is it supposed to [rain](B-weather/attribute) anytime soon
+- will it [rain](B-weather/attribute) [in](B-datetime) [the](I-datetime) [next](I-datetime) [week](I-datetime) ?
+- how [cold](B-weather/attribute) will it be [today](B-datetime) ?
+- is it [raining](B-weather/attribute) in [hoboken](B-location) [nj](I-location)
+- what is [the](B-datetime) [current](I-datetime) [humidity](B-weather/attribute) ?
+- are there [thunderstorms](B-weather/attribute) in the [forecast](B-weather/noun) [this](B-datetime) [week](I-datetime)
+- will it [snow](B-weather/attribute) in [nyc](B-location) [today](B-datetime)
+- give me the [weather](B-weather/noun) [forecast](I-weather/noun) [for](B-datetime) [next](I-datetime) [thursday](I-datetime)
+- what is the [temperature](B-weather/noun) by the [lake](B-location) ?
+- should i wear [shorts](B-weather/attribute) [on](B-datetime) [tuesday](I-datetime) ?
+- is it going to be [cloudy](B-weather/attribute) [today](B-datetime) ?
+- will there be a [frost](B-weather/noun) [advisory](I-weather/noun) [tonight](B-datetime) .
+- when is it going to [rain](B-weather/attribute) ?
+- what is the [weather](B-weather/noun) in [hawaii](B-location) [this](B-datetime) [week](I-datetime) ?
+- how [cold](B-weather/attribute) will it be [at](B-datetime) [10](I-datetime) [pm](I-datetime)
+- is it supposed to [snow](B-weather/attribute) [next](B-datetime) [week](I-datetime)
+- how [humid](B-weather/attribute) is it [today](B-datetime)
+- will it be [sunny](B-weather/attribute) or [cloudy](B-weather/attribute) in [kona](B-location) [today](B-datetime) ?
+- what is the [weather](B-weather/noun) in [seattle](B-location) [today](B-datetime) ?
+- what is the [weather](B-weather/noun) in [chicago](B-location) like [today](B-datetime) ?
+- do you think the [cold](B-weather/attribute) [front](I-weather/attribute) will bring [snow](B-weather/attribute) ?
+- what's the chance of [rain](B-weather/attribute) [today](B-datetime) ?
+- what is the [forecast](B-weather/noun) [for](B-datetime) [june](I-datetime) [27th](I-datetime) ?
+- will it [rain](B-weather/attribute) [tomorrow](B-datetime) ?
+- will i need to wear [warm](B-weather/attribute) [clothes](I-weather/attribute) [on](B-datetime) [monday](I-datetime) ?
+- should i bring a [umbrella](B-weather/attribute) [today](B-datetime) ?
+- is it going to [rain](B-weather/attribute) [tonight](B-datetime) ?
+- what is [today's](B-datetime) high ?
+- whats [weather](B-weather/noun) [forecast](I-weather/noun) [for](B-datetime) [tomorrow](I-datetime)
+- what's the [wind](B-weather/attribute) speed right [now](B-datetime) ?
+- will i need my [coat](B-weather/attribute) [this](B-datetime) [evening](I-datetime) ?
+- will it [rain](B-weather/attribute) [today](B-datetime) ?
+- do i need a [hat](B-weather/attribute) [today](B-datetime) ?
+- do i need an [umbrella](B-weather/attribute) [today](B-datetime) ?
+- what is the [low](B-weather/noun) [for](B-datetime) [tonight](I-datetime) ?
+- how [hot](B-weather/attribute) is going to be [this](B-datetime) [weekend](I-datetime) ?
+- i'd like to know if it's supposed to [rain](B-weather/attribute) in [knoxville](B-location) [this](B-datetime) [weekend](I-datetime) .
+- should i bring a [jacket](B-weather/attribute) [today](B-datetime) ?
+- pull up [today's](B-datetime) [weather](B-weather/noun)
+- is it going to [rain](B-weather/attribute) in [phoenix](B-location) [tomorrow](B-datetime)
+- is it [raining](B-weather/attribute) in [okinawa](B-location) ?
+- will is be [sunny](B-weather/attribute) [outside](B-location)
+- how long will this [blizzard](B-weather/attribute) last
+- what is the [humidity](B-weather/attribute) in [egypt](B-location)
+- what is the [temperature](B-weather/noun) in [norway](B-location) right [now](B-datetime) ?
+- will it [rain](B-weather/attribute)
+- what is the high [temperature](B-weather/noun) [for](B-datetime) [tomorrow](I-datetime)
+- is it [cold](B-weather/attribute) [out](B-location) ?
+- what is the [weather](B-weather/noun) like in the [northeast](B-location) [this](B-datetime) [week](I-datetime) ?
+- [weather](B-weather/noun) [warnings](I-weather/noun) near [me](B-location)
+- will we have [freezing](B-weather/attribute) [temperatures](B-weather/noun) [tomorrow](B-datetime)
+- when will the [storm](B-weather/attribute) be over ?
+- when is it going to stop [snowing](B-weather/attribute)
+- how strong are the [winds](B-weather/attribute) [today](B-datetime)
+- is it [cold](B-weather/attribute) in [rhode](B-location) [island](I-location) right [now](B-datetime) ?
+- do i need a [coat](B-weather/attribute) [tomorrow](B-datetime) ?
+- whats the high and low [today](B-datetime) ?
+- is it [hailing](B-weather/attribute)
+- are there any [weather](B-weather/noun) [alerts](I-weather/noun) [today](B-datetime) ?
+- at what time [today](B-datetime) is the [rain](B-weather/attribute) heavy
+- will it [rain](B-weather/attribute) [today](B-datetime)
+- what is the chance of [rain](B-weather/attribute) [tomorrow](B-datetime) in [toronto](B-location) [,](I-location) [on](I-location) ?
+- is there [rain](B-weather/attribute) in the [forecast](B-weather/noun) [today](B-datetime) ?
+- is it going to stay above [freezing](B-weather/attribute) .
+- will it be a [sunny](B-weather/attribute) day ?
+- is it too [hot](B-weather/attribute) in [caribbean](B-location) [islands](I-location) ?
+- [current](B-datetime) [temperature](B-weather/noun) in [atlanta](B-location) please .
+- what's the [temperature](B-weather/noun) right [now](B-datetime) in [taipei](B-location) ?
+- will it [rain](B-weather/attribute) [today](B-datetime)
+- what is the percentage of [rain](B-weather/attribute) [for](B-datetime) [today](I-datetime) ?
+- what is the [temperature](B-weather/noun) going to be like with the [heat](B-weather/attribute) [index](I-weather/attribute) [today](B-datetime)
+- what's the [weather](B-weather/noun) [for](B-datetime) [this](I-datetime) [weekend](I-datetime) ?
+- what is the [weather](B-weather/noun) in [chapel](B-location) [hill](I-location) [at](B-datetime) [10](I-datetime) [am](I-datetime) ?
+- is it going to be [sunny](B-weather/attribute) [on](B-datetime) [sunday](I-datetime) ?
+- what's the [humidity](B-weather/attribute) [today](B-datetime)
+- is it supposed to [rain](B-weather/attribute) [this](B-datetime) [weekend](I-datetime) ?
+- when is it supposed to [rain](B-weather/attribute)
+- should i wear [long](B-weather/attribute) [sleeves](I-weather/attribute) [today](B-datetime) ?
+- is it supposed to [storm](B-weather/attribute) [today](B-datetime) ?
+- what's the [weather](B-weather/noun) in [north](B-location) [carolina](I-location) ?
+- what will the high be [today](B-datetime)
+- what time is is going to [rain](B-weather/attribute) [today](B-datetime) ?
+- will it [storm](B-weather/attribute) [this](B-datetime) [week](I-datetime)
+- give me all [current](B-datetime) [weather](B-weather/noun) [advisories](I-weather/noun) and warnings for [indianapolis](B-location) .
+- is it [cold](B-weather/attribute) ?
+- do i need to wear a [coat](B-weather/attribute) [today](B-datetime) ?
+- will i need to bring a [jacket](B-weather/attribute) ?
+- is there [rain](B-weather/attribute) [today](B-datetime)
+- what is the [temperature](B-weather/noun) [downtown](B-location) [columbus](I-location) [,](I-location) [ohio](I-location) ?
+- [heat](B-weather/attribute) [index](I-weather/attribute) please
+- is there [rain](B-weather/attribute) in the [forecast](B-weather/noun) [today](B-datetime) ?
+- will it be [windy](B-weather/attribute) [today](B-datetime)
+- are there any [weather](B-weather/noun) [advisories](I-weather/noun) for [my](B-location) [county](I-location) ?
+- is it safe to drive [today](B-datetime) ?
+- [current](B-datetime) [weather](B-weather/noun) in [chicago](B-location)
+- what is the [weather](B-weather/noun) [for](B-datetime) [saturday](I-datetime) ?
+- when are we most likely to get [rain](B-weather/attribute) next ?
+- when is the [rain](B-weather/attribute) supposed to end ?
+- is it going to [rain](B-weather/attribute) [on](B-datetime) [tuesday](I-datetime)
+- do i need a [jacket](B-weather/attribute) [today](B-datetime)
+- is [snow](B-weather/attribute) in the [forecast](B-weather/noun) for [colorado](B-location) [tomorrow](B-datetime)
+- when will the [rain](B-weather/attribute) move [out](B-location) ?
+- what will the [temperature](B-weather/noun) be like [at](B-datetime) [noon](I-datetime)
+- what is [chicago's](B-location) [weather](B-weather/noun) ?
+- is it going to [rain](B-weather/attribute) [this](B-datetime) [weekend](I-datetime) ?
+- will it be [nice](B-weather/attribute) [tomorrow](B-datetime)
+- is the [sun](B-weather/attribute) [shining](I-weather/attribute) in [luckey](B-location) [,](I-location) [ohio](I-location) [today](B-datetime) ?
+- should i bring an [umbrella](B-weather/attribute)
+- should i bring a [sweater](B-weather/attribute) [today](B-datetime) ?
+- when the [temperature](B-weather/noun) drop below 50 degrees [tonight](B-datetime) ?
+- how [warm](B-weather/attribute) is it right [now](B-datetime) in [los](B-location) [angeles](I-location) ?
+- what is the [temperature](B-weather/noun) going to be [next](B-datetime) [monday](I-datetime) ?
+- are there supposed to be any [hurricanes](B-weather/attribute) in [miami](B-location) [this](B-datetime) [weekend](I-datetime) ?
+- is it [humid](B-weather/attribute) [today](B-datetime) ?
+- what is the [temperature](B-weather/noun) [today](B-datetime) ?
+- what time is the [rain](B-weather/attribute) supposed to start [today](B-datetime)
+- what's the [weather](B-weather/noun) for [virginia](B-location) [beach](I-location) [this](B-datetime) [weekend](I-datetime) ?
+- tell me please what is the [weather](B-weather/noun) of coming [friday](B-datetime) ?
+- what are the chances of [snow](B-weather/attribute) [tomorrow](B-datetime) ?
+- [today's](B-datetime) [forecast](B-weather/noun) please .
+- what is the [weather](B-weather/noun) like in [seattle](B-location)
+- what is the [temperature](B-weather/noun) [today](B-datetime) ?
+- is it [raining](B-weather/attribute) ?
+- what is the [weather](B-weather/noun) like [for](B-datetime) [the](I-datetime) [weekend](I-datetime)
+- what is the [forecast](B-weather/noun) [for](B-datetime) [next](I-datetime) [week](I-datetime) ?
+- what is [next](B-datetime) [weeks](I-datetime) [weather](B-weather/noun)
+- should i wear a [jacket](B-weather/attribute) [today](B-datetime) ?
+- will it [rain](B-weather/attribute) in [southern](B-location) [va](I-location) [tomorrow](B-datetime) ?
+- what days is it supposed to [rain](B-weather/attribute) [next](B-datetime) [week](I-datetime)
+- is it going to [snow](B-weather/attribute) ?
+- is it going to [snow](B-weather/attribute) [today](B-datetime) ?
+- will it be [sunny](B-weather/attribute) [tomorrow](B-datetime) ?
+- what are we looking at for [weather](B-weather/noun) [this](B-datetime) [week](I-datetime) ?
+- do i need to bring a [coat](B-weather/attribute) if i come back [home](B-location) [by](B-datetime) [5pm](I-datetime) ?
+- will it be [hot](B-weather/attribute) [today](B-datetime)
+- [temperature](B-weather/noun) [today](B-datetime) in [chandler](B-location)
+- should i bring a [rain](B-weather/attribute) [coat](I-weather/attribute) [today](B-datetime)
+- how long will it [rain](B-weather/attribute) [for](B-datetime) [today](I-datetime)
+- [forecast](B-weather/noun) [for](B-datetime) [the](I-datetime) [upcoming](I-datetime) [week](I-datetime)
+- what is the [weather](B-weather/noun) in [new](B-location) [york](I-location) [today](B-datetime) ?
+- what is the [temperature](B-weather/noun) in [alaska](B-location)
+- what are the chances for [rain](B-weather/attribute) [on](B-datetime) [saturday](I-datetime)
+- [hourly](B-datetime) [forecast](B-weather/noun)
+- is it going to [rain](B-weather/attribute) [tomorrow](B-datetime) in [naples](B-location) ?
+- tell me if there is [rain](B-weather/attribute) in the [forecast](B-weather/noun) [this](B-datetime) [week](I-datetime) .
+- will it [rain](B-weather/attribute) [tonight](B-datetime)
+- how [cold](B-weather/attribute) will it be [today](B-datetime)
+- should i carry an [umbrella](B-weather/attribute) ?
+- whats the [temperature](B-weather/noun) in [new](B-location) [york](I-location) ?
+- do i need a [jacket](B-weather/attribute) [today](B-datetime) ?
+- [weather](B-weather/noun) [forecast](I-weather/noun) [for](B-datetime) [today](I-datetime)
+- how [cold](B-weather/attribute) is it [outside](B-location) ?
+- what is the [weather](B-weather/noun) like [next](B-datetime) [week](I-datetime) ?
+- will it [rain](B-weather/attribute) [on](B-datetime) [monday](I-datetime) in [ithaca](B-location) ?
+- what is the [temperature](B-weather/noun) like in the [north](B-location) [pole](I-location) right [now](B-datetime) ?
+- how [hot](B-weather/attribute) is it ?
+- will i need to use an [umbrella](B-weather/attribute) [today](B-datetime) ?
+- what is the [weather](B-weather/noun) like in [madrid](B-location) right [now](B-datetime) ?
+- are there [tornado](B-weather/noun) [warnings](I-weather/noun) [for](B-datetime) [today](I-datetime) ?
+- what are the [rain](B-weather/attribute) chances [in](B-datetime) [the](I-datetime) [next](I-datetime) [3](I-datetime) [days](I-datetime) ?
+- will it [rain](B-weather/attribute) [this](B-datetime) [afternoon](I-datetime)
+- best [weather](B-weather/noun) [this](B-datetime) [upcoming](I-datetime) [week](I-datetime)
+- what's [the](B-datetime) [3](I-datetime) [day](I-datetime) [forecast](B-weather/noun) ?
+- what's [seattle's](B-location) [weather](B-weather/noun) [for](B-datetime) [tuesday](I-datetime)
+- how will the [weather](B-weather/noun) be like [tomorrow](B-datetime) ?
+- is it going to [rain](B-weather/attribute) [later](B-datetime) ?
+- is it supposed to [snow](B-weather/attribute) ?
+- what is the [temperature](B-weather/noun) ?
+- what is the [temperature](B-weather/noun) in [philadelphia](B-location) ?
+- how much [rain](B-weather/attribute) are we going to get [today](B-datetime) ?
+- it it supposed to [rain](B-weather/attribute) [tomorrow](B-datetime) [morning](I-datetime) ?
+- what is the [temperature](B-weather/noun) in [new](B-location) [york](I-location) ?
+- will i need to wear a [raincoat](B-weather/attribute) [today](B-datetime) ?
+- what's the [weather](B-weather/noun) in [london](B-location) ?
+- what is the [temperature](B-weather/noun) like on the [east](B-location) [coast](I-location)
+- should i wear my heavy puffer [jacket](B-weather/attribute) ?
+- [weekend](B-datetime) [forecast](B-weather/noun)
+- what's it like [outside](B-location) ?
+- when is this [rain](B-weather/attribute) going to end ?
+- what is [weather](B-weather/noun) like in [my](B-location) [area](I-location) ?
+- how [hot](B-weather/attribute) will it be at lunchtime [today](B-datetime) ?
+- [thunderstorms](B-weather/attribute) expected [this](B-datetime) [week](I-datetime)
+- is it going to [storm](B-weather/attribute) [today](B-datetime)
+- do i need [pants](B-weather/attribute) or [shorts](B-weather/attribute) [for](B-datetime) [tonight](I-datetime) ?
+- what's the [temperature](B-weather/noun) in [new](B-location) [york](I-location) ?
+- should i pack light or heavy for the camping trip [this](B-datetime) [weekend](I-datetime) ?
+- is it going to be [hot](B-weather/attribute) [today](B-datetime) ?
+- should i bring a [jacket](B-weather/attribute) [today](B-datetime)
+- what will the [weather](B-weather/noun) in [atlanta](B-location) be like [today](B-datetime) ?
+- what are the chances of it [snowing](B-weather/attribute) in [henderson](B-location) [today](B-datetime) ?
+- do we have a chance of [snow](B-weather/attribute) [tomorrow](B-datetime)
+- is it going to [rain](B-weather/attribute) in [new](B-location) [york](I-location) [city](I-location) [tomorrow](B-datetime) ?
+- is it [snowing](B-weather/attribute) in [washington](B-location) ?
+- will there be [fog](B-weather/attribute) [in](B-datetime) [the](I-datetime) [morning](I-datetime) ?
+- is there a chance for [snow](B-weather/attribute) [this](B-datetime) [week](I-datetime) ?
+- how low will the [temperature](B-weather/noun) be [today](B-datetime) ?
+- what's the [temperature](B-weather/noun) ?
+- what is the [weather](B-weather/noun) going to be like [on](B-datetime) [august](I-datetime) [21st](I-datetime) ?
+- how [cold](B-weather/attribute) will it be [today](B-datetime) ?
+- do i need a [jacket](B-weather/attribute) [today](B-datetime)
+- is the [temperature](B-weather/noun) high [today](B-datetime)
+- will it [rain](B-weather/attribute) [today](B-datetime) ?
+- what will the high [temperature](B-weather/noun) be at [wells](B-location) [maine](I-location) [today](B-datetime) ?
+- will it [rain](B-weather/attribute) in [elysburg](B-location) [,](I-location) [pa](I-location) [this](B-datetime) [weekend](I-datetime) ?
+- how [hot](B-weather/attribute) will it be [tomorrow](B-datetime)
+- what is [today's](B-datetime) highest [temperature](B-weather/noun) ?
+- what time is the [rain](B-weather/attribute) supposed to start ?
+- [heat](B-weather/attribute) [index](I-weather/attribute) [for](B-datetime) [this](I-datetime) [afternoon](I-datetime) ?
+- what is the [uv](B-weather/attribute) [rating](I-weather/attribute) [today](B-datetime) ?
+- is it [raining](B-weather/attribute) in [tucson](B-location) ?
+- what is the [forecast](B-weather/noun) [one](B-datetime) [week](I-datetime) [from](I-datetime) [now](I-datetime) ?
+- what's the chance of [rain](B-weather/attribute) in [biloxi](B-location) [this](B-datetime) [weekend](I-datetime) ?
+- what is the [weather](B-weather/noun) like [next](B-datetime) [week](I-datetime)
+- give me [the](B-datetime) [3](I-datetime) [day](I-datetime) local [forecast](B-weather/noun)
+- is it in the 70s [today](B-datetime)
+- what is the [weather](B-weather/noun) like [today](B-datetime) in [new](B-location) [york](I-location) [,](I-location) [ny](I-location) ?
+- should i pack my [umbrella](B-weather/attribute) to go to [chicago](B-location) [tomorrow](B-datetime) ?
+- how is the [weather](B-weather/noun) in [omaha](B-location) [,](I-location) [nebraska](I-location) during the end of [september](B-datetime) ?
+- is it [cold](B-weather/attribute) enough to [snow](B-weather/attribute) ?
+- is it going to [rain](B-weather/attribute) [this](B-datetime) [week](I-datetime)
+- what will the [weather](B-weather/noun) be [this](B-datetime) [weekend](I-datetime) ?
+- [high](B-weather/attribute) [and](I-weather/attribute) [low](I-weather/attribute) [for](B-datetime) [tomorrow](I-datetime)
+- what is the [temperature](B-weather/noun) in [montgomery](B-location) ?
+- is there a [tornado](B-weather/noun) [warning](I-weather/noun) in [tulsa](B-location) right [now](B-datetime) ?
+- how many inches of [snow](B-weather/attribute) will fall ?
+- what is the [temperature](B-weather/noun) in [beijing](B-location) ?
+- will it [rain](B-weather/attribute) [tomorrow](B-datetime)
+- what is the high [temperature](B-weather/noun) in [dallas](B-location) [on](B-datetime) [friday](I-datetime) ?
+- what is the [weather](B-weather/noun) like in [houston](B-location) [this](B-datetime) [weekend](I-datetime) ?
+- what is the [wind](B-weather/attribute) chill
+- what is the [weather](B-weather/noun) looking like for the game in [la](B-location) [sunday](B-datetime) ?
+- is it [cold](B-weather/attribute) [today](B-datetime) ?
+- [weather](B-weather/noun) for [washington](B-location) [dc](I-location) [tonight](B-datetime)
+- will it [rain](B-weather/attribute) [tomorrow](B-datetime) ?
+- what's [the](B-datetime) [current](I-datetime) real feel [temperature](B-weather/noun) [outside](B-location) ?
+- will it be [sunny](B-weather/attribute) [today](B-datetime)
+- will there be a [blizzard](B-weather/attribute) [tomorrow](B-datetime) ?
+- is the [weather](B-weather/noun) good to wear a dress [today](B-datetime)
+- is it [cloudy](B-weather/attribute) [today](B-datetime)
+- is it supposed to [snow](B-weather/attribute) ?
+- give me the [temperature](B-weather/noun)
+- is it [raining](B-weather/attribute) in [waco](B-location) [,](I-location) [tx](I-location) right [now](B-datetime) ?
+- how much [snow](B-weather/attribute) is expected [this](B-datetime) [weekend](I-datetime) ?
+- what is the [weather](B-weather/noun) [for](B-datetime) [the](I-datetime) [next](I-datetime) [hour](I-datetime) ?
+- do i need a [raincoat](B-weather/attribute) [today](B-datetime) ?
+- what will the [temperature](B-weather/noun) be [at](B-datetime) [noon](I-datetime) [today](I-datetime) ?
+- show upcoming [storms](B-weather/attribute) .
+- what is the low [for](B-datetime) [today](I-datetime)
+- what is the [weather](B-weather/noun) like in [trenton](B-location) [today](B-datetime)
+- how is the [weather](B-weather/noun) in [canada](B-location) ?
+- what will the [temp](B-weather/noun) be [for](B-datetime) [the](I-datetime) [next](I-datetime) [2](I-datetime) [days](I-datetime)
+- how [hot](B-weather/attribute) is it [outside](B-location)
+- is there [rain](B-weather/attribute) [forecasted](B-weather/noun) in [panama](B-location) [city](I-location) [,](I-location) [fl](I-location) [next](B-datetime) [week](I-datetime) ?
+- will it be [cold](B-weather/attribute) [today](B-datetime) ?
+- how bad is the [weather](B-weather/noun) supposed to be [today](B-datetime) ?
+- it's not going to [flood](B-weather/attribute) [today](B-datetime) is it ?
+- [current](B-datetime) [weather](B-weather/noun) in [buena](B-location) [park](I-location) [,](I-location) [california](I-location)
+- let me know if it is supposed to [rain](B-weather/attribute) [tomorrow](B-datetime) [morning](I-datetime) , please .
+- what are the [rain](B-weather/attribute) chances in [hawaii](B-location) [tomorrow](B-datetime) ?
+- tell me [the](B-datetime) [next](I-datetime) [week](I-datetime) [forescast](B-weather/noun) in [spain](B-location)
+- what is the low [for](B-datetime) [today](I-datetime)
+- what are the chances of getting [hail](B-weather/attribute) [today](B-datetime) ?
+- what is the [forecast](B-weather/noun) for [roswell](B-location) [at](B-datetime) [12](I-datetime) [:](I-datetime) [00](I-datetime) [noon](I-datetime) ?
+- i need to know if it's going to [rain](B-weather/attribute)
+- is it going to be [windy](B-weather/attribute) [out](B-location)
+- is it going to get [cold](B-weather/attribute) over [the](B-datetime) [next](I-datetime) [10](I-datetime) [days](I-datetime) ?
+- has the [wind](B-weather/attribute) stopped in [london](B-location) ?
+- will it be [sunny](B-weather/attribute) [tomorrow](B-datetime) ?
+- will it be [cold](B-weather/attribute) [today](B-datetime)
+- what will the [weather](B-weather/noun) be in [san](B-location) [francisco](I-location) [tomorrow](B-datetime) ?
+- is it going to be [cold](B-weather/attribute) [this](B-datetime) [week](I-datetime) ?
+- will it be [sunny](B-weather/attribute) [by](B-datetime) [3pm](I-datetime) [today](I-datetime) ?
+- when will it get [cooler](B-weather/attribute) [outside](B-location) ?
+- what's the [weather](B-weather/noun) in [moscow](B-location) ?
+- will it get above 90 [today](B-datetime) ?
+- how much [snow](B-weather/attribute) are we supposed to get [today](B-datetime)
+- how long is it going to [rain](B-weather/attribute) [for](B-datetime) [today](I-datetime)
+- how is the [weather](B-weather/noun) [today](B-datetime) in [my](B-location) [area](I-location) ?
+- what time will it start [raining](B-weather/attribute) [today](B-datetime) ?
+- [tomorrows](B-datetime) [lows](B-weather/attribute)
+- will it [rain](B-weather/attribute) [today](B-datetime)
+- what is the [temperature](B-weather/noun) in [new](B-location) [york](I-location) ?
+- what is the [weather](B-weather/noun) in [australia](B-location) like [in](B-datetime) [september](I-datetime) ?
+- is it going to be [foggy](B-weather/attribute) ?
+- should i bring my [umbrella](B-weather/attribute) [today](B-datetime) ?
+- what time is it going to be the [hottest](B-weather/attribute) [today](B-datetime)
+- [humidity](B-weather/attribute) of [today](B-datetime) ?
+- what are the [highs](B-weather/attribute) and [lows](B-weather/attribute) [for](B-datetime) [today](I-datetime) ?
+- do i need [shorts](B-weather/attribute) or [pants](B-weather/attribute) ?
+- what is the [weather](B-weather/noun) in [chicago](B-location) [at](B-datetime) [10](I-datetime) [am](I-datetime) ?
+- will it [rain](B-weather/attribute) [next](B-datetime) [weekend](I-datetime) ?
+- will it [rain](B-weather/attribute) in [san](B-location) [diego](I-location) [this](B-datetime) [week](I-datetime) ?
+- i need the [weather](B-weather/noun) for [troy](B-location) [michigan](I-location) please .
+- how [hot](B-weather/attribute) is it in [tempe](B-location)
+- what is the [humidity](B-weather/attribute) level [today](B-datetime) ?
+- is it going to [snow](B-weather/attribute) [tomorrow](B-datetime) ?
+- is it going to [snow](B-weather/attribute) [tomorrow](B-datetime) ?
+- is it suppose to [rain](B-weather/attribute) [today](B-datetime)
+- what is the [temperature](B-weather/noun)
+- what's the [forecast](B-weather/noun) [for](B-datetime) [tonight](I-datetime)
+- how much [rain](B-weather/attribute) is predicted [for](B-datetime) [tomorrow](I-datetime) ?
+- what is the [weather](B-weather/noun) news in [michigan](B-location)
+- is it [hailing](B-weather/attribute) ?
+- what's the [temperature](B-weather/noun) ?
+- how is the [weather](B-weather/noun) on the [beach](B-location) [today](B-datetime)
+- what is the [weather](B-weather/noun) like in [alabama](B-location) ?
+- what is the low [temperature](B-weather/noun) going to be every [night](B-datetime) [this](I-datetime) [week](I-datetime)
+- will i need a [raincoat](B-weather/attribute)
+- will i need my [rain](B-weather/attribute) [boots](I-weather/attribute) [today](B-datetime) ?
+- do i need a heavy [jacket](B-weather/attribute) [today](B-datetime)
+- what is the [forecast](B-weather/noun) [next](B-datetime) [week](I-datetime) in [aspen](B-location) ?
+- how's the [weather](B-weather/noun)
+- what is the [weather](B-weather/noun) [forecast](I-weather/noun) [this](B-datetime) [afternoon](I-datetime)
+- when is [the](B-datetime) [next](I-datetime) [day](I-datetime) it is suppose to [rain](B-weather/attribute) ?
+- what's the [temperature](B-weather/noun) in [louisville](B-location) ?
+- [temperature](B-weather/noun) [for](B-datetime) [this](I-datetime) [week](I-datetime)
+- is it going to be [cloudy](B-weather/attribute) [this](B-datetime) [weekend](I-datetime)
+- will there be [hail](B-weather/attribute) in [wyoming](B-location) [next](B-datetime) [week](I-datetime) ?
+- do i need to have an [umbrella](B-weather/attribute) with me [today](B-datetime) ?
+- what is the [weather](B-weather/noun) like [sunday](B-datetime) [afternoon](I-datetime) ?
+- what is the local [weather](B-weather/noun) [today](B-datetime) ?
+- how the [weather](B-weather/noun) look [for](B-datetime) [the](I-datetime) [week](I-datetime)
+- what is the [temperature](B-weather/noun) [for](B-datetime) [tomorrow](I-datetime)
+- any [snow](B-weather/attribute) in the [forecast](B-weather/noun) ?
+- how [windy](B-weather/attribute) is it going to be [today](B-datetime)
+- should i bring an [umbrella](B-weather/attribute) ?
+- when will the [rain](B-weather/attribute) stop
+- what is the [temperature](B-weather/noun) [for](B-datetime) [today](I-datetime) ?
+- is it [cold](B-weather/attribute) [outside](B-location) ?
+- whats the [forecasted](B-weather/noun) high [for](B-datetime) [today](I-datetime) ?
+- will it be [sunny](B-weather/attribute) [today](B-datetime) ?
+- is it [raining](B-weather/attribute) in [san](B-location) [diego](I-location) ?
+- hows the [weather](B-weather/noun) for the rest of [the](B-datetime) [week](I-datetime)
+- what is the high [temp](B-weather/noun) [for](B-datetime) [today](I-datetime) ?
+- is the [weather](B-weather/noun) good enough for picnicking
+- will it be [sunny](B-weather/attribute) [tomorrow](B-datetime) ?
+- will there be [high](B-weather/attribute) [winds](I-weather/attribute) [today](B-datetime) ?
+- any [rain](B-weather/attribute) in the [forecast](B-weather/noun)
+- what is the [forecast](B-weather/noun) [for](B-datetime) [next](I-datetime) [week](I-datetime) for [nashville](B-location) ?
+- should i bring a [jacket](B-weather/attribute) [today](B-datetime) ?
+- are we expecting any [hail](B-weather/attribute) [today](B-datetime) ?
+- will it be [hot](B-weather/attribute) [today](B-datetime) ?
+- what is [in](B-datetime) [this](I-datetime) [weeks](I-datetime) [forecast](B-weather/noun)
+- what's the [temperature](B-weather/noun) right [now](B-datetime)
+- what is the low [temperature](B-weather/noun) supposed to be ?
+- is the road to [idyllwild](B-location) [clear](B-weather/attribute) of [snow](B-weather/attribute) yet
+- what is the [humidity](B-weather/attribute) [for](B-datetime) [the](I-datetime) [day](I-datetime)
+- any [rain](B-weather/attribute) expected [today](B-datetime)
+- is there a [frost](B-weather/noun) [warning](I-weather/noun)
+- what's the [weather](B-weather/noun) [this](B-datetime) [weekend](I-datetime) in wildwood ?
+- can i expect a [cold](B-weather/attribute) day [next](B-datetime) [week](I-datetime) ?
+- how much [snow](B-weather/attribute) can i expect in [my](B-location) [area](I-location) ?
+- how [cold](B-weather/attribute) will it be [during](B-datetime) [the](I-datetime) [day](I-datetime)
+- how [hot](B-weather/attribute) will it be [today](B-datetime) ?
+- what will be the low and high [temperatures](B-weather/noun) [this](B-datetime) [weekend](I-datetime) ?
+- is it supposed to [rain](B-weather/attribute) [tomorrow](B-datetime) ?
+- will it get below [freezing](B-weather/attribute) [this](B-datetime) [week](I-datetime) ?
+- is it [snowing](B-weather/attribute) [on](B-datetime) [christmas](I-datetime)
+- whats the [forecast](B-weather/noun) [this](B-datetime) [week](I-datetime) ?
+- will it be [raining](B-weather/attribute) [at](B-datetime) [5pm](I-datetime) [tomorrow](I-datetime) ?
+- when is the [snow](B-weather/attribute) supposed to start ?
+- what's the national [weather](B-weather/noun) [forecast](I-weather/noun) ?
+- what is the [weather](B-weather/noun) like [next](B-datetime) [week](I-datetime)
+- will it [snow](B-weather/attribute) [today](B-datetime) ?
+- what is the [temperature](B-weather/noun) going to be like in [chicago](B-location) [on](B-datetime) [wednesday](I-datetime) ?
+- is [today](B-datetime) going to be [windy](B-weather/attribute) ?
+- is it going to be [cold](B-weather/attribute) [tomorrow](B-datetime) ?
+- is it going to [storm](B-weather/attribute) [today](B-datetime) ?
+- what's the [forecast](B-weather/noun) [for](B-datetime) [this](I-datetime) [friday](I-datetime) ?
+- do i need an [umbrella](B-weather/attribute) in [new](B-location) [york](I-location) [tomorrow](B-datetime) ?
+- should i wear my [snow](B-weather/attribute) [boots](I-weather/attribute) [today](B-datetime) ?
+- is it going to be [chilly](B-weather/attribute) [today](B-datetime)
+- what are the chances of [snow](B-weather/attribute) [next](B-datetime) [week](I-datetime) ?
+- what is the [weather](B-weather/noun) going to be [at](B-datetime) [7p.m](I-datetime) ?
+- what's the [weather](B-weather/noun) at [clearwater](B-location) [beach](I-location) [today](B-datetime) ?
+- does the [boston](B-location) [weather](B-weather/noun) call for [rain](B-weather/attribute) [this](B-datetime) [week](I-datetime)
+- what is the [temperature](B-weather/noun) going to be [tomorrow](B-datetime) ?
+- will it [rain](B-weather/attribute) [today](B-datetime)
+- what time is the [rain](B-weather/attribute) going to stop ?
+- how much [cooler](B-weather/attribute) is it on [chicago's](B-location) [lakefront](I-location) [today](B-datetime) ?
+- [rain](B-weather/attribute) or [shine](B-weather/attribute) ?
+- what the [weather](B-weather/noun) like on the [beach](B-location) ?
+- is there a [tornado](B-weather/attribute) watch ?
+- do i need a [coat](B-weather/attribute) [today](B-datetime) ?
+- what is the [weather](B-weather/noun) in [sanibel](B-location) [florida](I-location) ?
+- is there [rain](B-weather/attribute) in the [forecast](B-weather/noun) ?
+- is it going to be [windy](B-weather/attribute) at the [beach](B-location) [tomorrow](B-datetime) [night](I-datetime) ?
+- what is the [weather](B-weather/noun) in [vegas](B-location) like [next](B-datetime) [week](I-datetime) ?
+- how [hot](B-weather/attribute) will it be [on](B-datetime) [sunday](I-datetime) ?
+- do i need an [umbrella](B-weather/attribute) ?
+- should i bring an [umbrella](B-weather/attribute) [today](B-datetime) ?
+- what is the [weather](B-weather/noun) in [anchorage](B-location) [today](B-datetime)
+- is it too [cold](B-weather/attribute) for a walk ?
+- please tell me [this](B-datetime) [week's](I-datetime) [forecast](B-weather/noun)
+- will it [snow](B-weather/attribute) [this](B-datetime) [weekend](I-datetime)
+- will it be too [hot](B-weather/attribute) to keep my dog [outside](B-location) [today](B-datetime) ?
+- what is the high and low [temperature](B-weather/noun) [for](B-datetime) [the](I-datetime) [day](I-datetime) ?
+- is it suppose to [snow](B-weather/attribute) [during](B-datetime) [the](I-datetime) [night](I-datetime)
+- is it going to [rain](B-weather/attribute) [on](B-datetime) [monday](I-datetime) ?
+- do you think it will be [sunny](B-weather/attribute) enough [tomorrow](B-datetime) to go to the pool ?
+- is it [hailing](B-weather/attribute) in [orlando](B-location)
+- when will it [rain](B-weather/attribute) next ?
+- what will the [temperature](B-weather/noun) be [on](B-datetime) [thursday](I-datetime) ?
+- do i need an [umbrella](B-weather/attribute) [now](B-datetime) ?
+- how [hot](B-weather/attribute) is it in [orlando](B-location)
+- do i need a [jacket](B-weather/attribute) [tonight](B-datetime) ?
+- how strong is the [wind](B-weather/attribute) supposed to be [today](B-datetime) ?
+- how [warm](B-weather/attribute) will it be [this](B-datetime) [week](I-datetime) ?
+- what is the [temp](B-weather/noun) supposed to be [tonight](B-datetime)
+- what's the [temp](B-weather/noun) going to be [around](B-datetime) [6pm](I-datetime) [tonight](I-datetime)
+- will it be [humid](B-weather/attribute) [this](B-datetime) [friday](I-datetime) [evening](I-datetime) ?
+- what is the high and low for [phoenix](B-location) [today](B-datetime) ?
+- do i need a [coat](B-weather/attribute) ?
+- will it be [raining](B-weather/attribute) [tomorrow](B-datetime) ?
+- what is the [weather](B-weather/noun) like in [philly](B-location) ?
+- is it going to [rain](B-weather/attribute) [tomorrow](B-datetime) in [fort](B-location) [myers](I-location) ?
+- how high is the [snow](B-weather/attribute) [outside](B-location) ?
+- [winston](B-location) [salem's](I-location) [forecast](B-weather/noun)
+- what is the [temperature](B-weather/noun) in [nyc](B-location) right [now](B-datetime) ?
+- is it [currently](B-datetime) [raining](B-weather/attribute) in [dublin](B-location) ?
+- how [hot](B-weather/attribute) will it be in [myrtle](B-location) [beach](I-location) ?
+- [weather](B-weather/noun) [forecast](I-weather/noun)
+- how does the [weather](B-weather/noun) look in [burlington](B-location) [,](I-location) [vt](I-location) [next](B-datetime) [week](I-datetime) ?
+- what is the [temp](B-weather/noun) in [la](B-location) right [now](B-datetime) ?
+- should i wear [shorts](B-weather/attribute) [of](I-weather/attribute) [long](I-weather/attribute) [pants](I-weather/attribute) when i go [out](B-location) ?
+- what is the top [wind](B-weather/attribute) speed [for](B-datetime) [today](I-datetime) ?
+- is it going to [rain](B-weather/attribute) [on](B-datetime) [tuesday](I-datetime) ?
+- high [temperature](B-weather/noun) [tomorrow](B-datetime)
+- is it supposed to [rain](B-weather/attribute) [on](B-datetime) [thursday](I-datetime) ?
+- please let me know if there will be [rain](B-weather/attribute) [next](B-datetime) [week](I-datetime)
+- do i need [sunscreen](B-weather/attribute) [today](B-datetime) ?
+- how [humid](B-weather/attribute) is [outside](B-location)
+- what is the [forecast](B-weather/noun) [for](B-datetime) [the](I-datetime) [next](I-datetime) [7](I-datetime) [days](I-datetime) ?
+- what is the [weather](B-weather/noun) in [san](B-location) [diego](I-location)
+- what's the [temperature](B-weather/noun) ?
+- is it going to be [cloudy](B-weather/attribute) [at](B-datetime) [11am](I-datetime) [today](I-datetime)
+- [temperatures](B-weather/noun) [this](B-datetime) [weekend](I-datetime)
+- what is low [for](B-datetime) [today](I-datetime) ?
+- what is the high [temperature](B-weather/noun) [for](B-datetime) [today](I-datetime) ?
+- do i need my [umbrella](B-weather/attribute)
+- what is the [weather](B-weather/noun) like right [now](B-datetime) ?
+- what is [the](B-datetime) [7](I-datetime) [day](I-datetime) [forecast](B-weather/noun) ?
+- what the chance of [rain](B-weather/attribute) [for](B-datetime) [tomorrow](I-datetime) in [shenandoah](B-location) ?
+- what's the low [for](B-datetime) [tomorrow](I-datetime) ?
+- will it [rain](B-weather/attribute) [today](B-datetime) ?
+- what is the [weather](B-weather/noun) [forecasted](B-weather/noun) [for](B-datetime) [next](I-datetime) [month](I-datetime) because it is my wedding ?
+- what's the [weather](B-weather/noun) like right [now](B-datetime) ?
+- how long will it [rainfall](B-weather/attribute) [for](B-datetime) [today](I-datetime)
+- whats the [temperature](B-weather/noun) going to be [sunday](B-datetime) [evening](I-datetime)
+- what is the high [temperature](B-weather/noun) [today](B-datetime)
+- will it [rain](B-weather/attribute) [at](B-datetime) [5](I-datetime) [pm](I-datetime)
+- is the [storm](B-weather/attribute) expected to turn severe
+- how [hot](B-weather/attribute) will it get [today](B-datetime)
+- what will the [weather](B-weather/noun) be like [tomorrow](B-datetime) in [florida](B-location) ?
+- should i pack an [umbrella](B-weather/attribute) [tomorrow](B-datetime) ?
+- is there [hail](B-weather/attribute) ?
+- what is the [weather](B-weather/noun) going to look like [next](B-datetime) [week](I-datetime) in [orlando](B-location) ?
+- are there any watches or warnings in [my](B-location) [area](I-location)
+- what kind of [weather](B-weather/noun) should i expect [this](B-datetime) [weekend](I-datetime) ?
+- what will be the [temperature](B-weather/noun) [for](B-datetime) [next](I-datetime) [tuesday](I-datetime) ?
+- what is the [weather](B-weather/noun) like in [monroeville](B-location) [,](I-location) [al](I-location) right [now](B-datetime) ?
+- is it [hot](B-weather/attribute) [outside](B-location) ?
+- do i need a [jacket](B-weather/attribute) [tonight](B-datetime)
+- at what time will it [rain](B-weather/attribute) [today](B-datetime)
+- when is it going to [stop](B-weather/attribute) [raining](B-weather/attribute) [today](B-datetime) ?
+- how much [snow](B-weather/attribute) has fallen in [chicago](B-location) ?
+- is there a chance for [thunderstorms](B-weather/attribute) [today](B-datetime) ?
+- did it say it was going to [rain](B-weather/attribute) [today](B-datetime) on the news
+- when is the [storm](B-weather/attribute) starting [today](B-datetime) ?
+- how [cold](B-weather/attribute) is it [out](B-location)
+- is the [weather](B-weather/noun) ok to walk or run in ?
+- will it [rain](B-weather/attribute) on my way to [work](B-location) ?
+- do i need my [sunglasses](B-weather/attribute) [this](B-datetime) [weekend](I-datetime)
+- is it going to [rain](B-weather/attribute) [sunday](B-datetime) ?
+- what's the [forecast](B-weather/noun) [for](B-datetime) [this](I-datetime) [weekend](I-datetime) ?
+- will the [storm](B-weather/attribute) produce [hail](B-weather/attribute) ?
+- what is the [weather](B-weather/noun) like [this](B-datetime) [weekend](I-datetime) ?
+- is it [snowing](B-weather/attribute) in [chicago](B-location) ?
+- is it [cold](B-weather/attribute) enough to need a [jacket](B-weather/attribute) ?
+- is [rain](B-weather/attribute) in the [forecast](B-weather/noun) ?
+- is it going to [rain](B-weather/attribute) [next](B-datetime) [sunday](I-datetime)
+- do i need [boots](B-weather/attribute)
+- what is the low [temperature](B-weather/noun) [for](B-datetime) [saturday](I-datetime) [night](I-datetime) ?
+- will it [rain](B-weather/attribute) in [hilo](B-location) [today](B-datetime) ?
+- when is it going to stop [raining](B-weather/attribute)
+- will it [rain](B-weather/attribute) [today](B-datetime)
+- what is the [weather](B-weather/noun) [forecast](I-weather/noun) [today](B-datetime) ?
+- what are the [humidity](B-weather/attribute) levels supposed to be [tomorrow](B-datetime) ?
+- will it be [warm](B-weather/attribute) [today](B-datetime) ?
+- is it gonna be [hot](B-weather/attribute) [tomorrow](B-datetime)
+- what is the highest [temperature](B-weather/noun) [tomorrow](B-datetime) ?
+- what's the [weather](B-weather/noun) like [outside](B-location) right [now](B-datetime) .
+- is it going to [rain](B-weather/attribute) [tonight](B-datetime) ?
+- what's the [weather](B-weather/noun) [today](B-datetime)
+- should i take my [umbrella](B-weather/attribute) ?
+- what's [tomorrows](B-datetime) [highs](B-weather/attribute) and [lows](B-weather/attribute)
+- is there going to be [wind](B-weather/attribute) on the [beach](B-location) right [now](B-datetime)
+- will [this](B-datetime) [weekend](I-datetime) be good for sailing ?
+- what is the [forecast](B-weather/noun) like for my daughters game [tomorrow](B-datetime) [night](I-datetime)
+- will it [rain](B-weather/attribute) [tomorrow](B-datetime) [afternoon](I-datetime)
+- what is [this](B-datetime) [weeks](I-datetime) [forecast](B-weather/noun) ?
+- i'd like to know if i'll need an [umbrella](B-weather/attribute) [today](B-datetime) .
+- can i leave my [umbrella](B-weather/attribute) at [home](B-location) [on](B-datetime) [friday](I-datetime) ?
+- can i wear [shorts](B-weather/attribute) [today](B-datetime)
+- what is [shoreline](B-location) [weather](B-weather/noun) [for](B-datetime) [next](I-datetime) [week](I-datetime) [end](I-datetime) ?
+- will we see the stars [tonight](B-datetime)
+- will i need my [rain](B-weather/attribute) [boots](I-weather/attribute) ?
+- should i wear a dress [today](B-datetime) ?
+- what is the [weather](B-weather/noun) like [today](B-datetime) in [new](B-location) [york](I-location) ?
+- what does it feel like [outside](B-location) ?
+- do i need a [coat](B-weather/attribute) [today](B-datetime) ?
+- what is the chance of [rain](B-weather/attribute) [today](B-datetime) ?
+- will it be [sunny](B-weather/attribute) [this](B-datetime) [weekend](I-datetime) ?
+- what will [this](B-datetime) [afternoons](I-datetime) [temperature](B-weather/noun) be
+- is it going to be [windy](B-weather/attribute) [today](B-datetime) ?
+- will it be [sunny](B-weather/attribute) [later](B-datetime) ?
+- what is the [weather](B-weather/noun) in [chicago](B-location) ?
+- what is the [forecast](B-weather/noun) [for](B-datetime) [today](I-datetime) ?
+- is it going to [rain](B-weather/attribute) in [new](B-location) [york](I-location) [this](B-datetime) [week](I-datetime)
+- is it too [hot](B-weather/attribute) to wear a [coat](B-weather/attribute) ?
+- what is the high going to be [today](B-datetime) ?
+- what's the [weather](B-weather/noun) in [florida](B-location)
+- is there any [snow](B-weather/attribute) [in](B-datetime) [this](I-datetime) [week's](I-datetime) [forecast](B-weather/noun) ?
+- when is [the](B-datetime) [next](I-datetime) [day](I-datetime) it is supposed to [rain](B-weather/attribute) ?
+- what's the [temperature](B-weather/noun) in [orlando](B-location) [today](B-datetime) ?
+- what's the [weather](B-weather/noun) like in [dallas](B-location) [today](B-datetime)
+- what is the [climate](B-weather/noun) prediction [for](B-datetime) [the](I-datetime) [next](I-datetime) [3](I-datetime) [months](I-datetime) ?
+- what will the [weather](B-weather/noun) be like [tomorrow](B-datetime) ?
+- hows the [temperature](B-weather/noun) in central park [today](B-datetime)
+- [weather](B-weather/noun) ?
+- is it going to [hail](B-weather/attribute) [tonight](B-datetime) ?
+- what is [today's](B-datetime) [weather](B-weather/noun) ?
+- what is the chance of [rain](B-weather/attribute) [for](B-datetime) [friday](I-datetime) ?
+- what is the [temp](B-weather/noun) [today](B-datetime)
+- what will the high be [today](B-datetime) ?
+- what is the [uv](B-weather/attribute) [index](I-weather/attribute) [for](B-datetime) [today](I-datetime) ?
+- will there be a [tornado](B-weather/attribute) [today](B-datetime) ?
+- what is the [humidity](B-weather/attribute) in [fort](B-location) [lauderdale](I-location) [today](B-datetime) ?
+- is [hail](B-weather/attribute) in the [forecast](B-weather/noun) ?
+- is it expected to be a [cold](B-weather/attribute) [winter](I-weather/attribute)
+- what will the [temperature](B-weather/noun) be [tomorrow](B-datetime) [morning](I-datetime) ?
+- whats [todays](B-datetime) [weather](B-weather/noun)
+- how should i pack for [nova](B-location) [scotia](I-location) [next](B-datetime) [week](I-datetime) ?
+- when will start to [snow](B-weather/attribute) [today](B-datetime) ?
+- what is the [weather](B-weather/noun) in [san](B-location) [antonio](I-location) ?
+- should i bring an [umbrella](B-weather/attribute) with me [tomorrow](B-datetime) ?
+- what will the [temp](B-weather/noun) be [outside](B-location) [tonight](B-datetime)
+- is it [raining](B-weather/attribute) right [now](B-datetime) ?
+- what will the [temperature](B-weather/noun) be like at [twin](B-location) [peaks](I-location) [tonight](B-datetime) [at](I-datetime) [10pm](I-datetime) ?
+- is it supposed to [storm](B-weather/attribute) [today](B-datetime)
+- is it going to be [cold](B-weather/attribute) [today](B-datetime) ?
+- what [temperature](B-weather/noun) is it in [las](B-location) [vegas](I-location) ?
+- do i need an [umbrella](B-weather/attribute) [today](B-datetime) ?
+- what are the chances of [rain](B-weather/attribute) [today](B-datetime)
+- what the average [temp](B-weather/noun) [this](B-datetime) [week](I-datetime)
+- is it going to be [sunny](B-weather/attribute) [today](B-datetime) ?
+- should i expect it to be [hot](B-weather/attribute) [this](B-datetime) [afternoon](I-datetime) ?
+- what is [the](B-datetime) [current](I-datetime) [wind](B-weather/attribute) speed at [lax](B-location) ?
+- is the [rain](B-weather/attribute) heavy enough to [flood](B-weather/attribute) ?
+- is it [sunny](B-weather/attribute) [tomorrow](B-datetime)
+- can i wear [shorts](B-weather/attribute) [today](B-datetime) ?
+- does the [forecast](B-weather/noun) [for](B-datetime) [next](I-datetime) [week](I-datetime) show [snow](B-weather/attribute) ?
+- update on the [weather](B-weather/noun) [alerts](I-weather/noun) ?
+- should i bring an [umbrella](B-weather/attribute) [today](B-datetime) ?
+- what's the high for [portland](B-location) [today](B-datetime)
+- what will the low [temperature](B-weather/noun) be [tonight](B-datetime) ?
+- is there going to be [rain](B-weather/attribute) in [jersey](B-location) [this](B-datetime) [weekend](I-datetime) ?
+- how long will it [rain](B-weather/attribute) ?
+- what is [weather](B-weather/noun) [for](B-datetime) [friday](I-datetime) ?
+- what is the [temperature](B-weather/noun) going to be in [new](B-location) [hampshire](I-location) [tomorrow](B-datetime) ?
+- how many [sunny](B-weather/attribute) days [in](B-datetime) [the](I-datetime) [next](I-datetime) [10](I-datetime) [days](I-datetime) ?
+- how many inches of [rain](B-weather/attribute) are we getting [during](B-datetime) [the](I-datetime) [weekend](I-datetime) ?
+- [temperature](B-weather/noun) on the strip in [las](B-location) [vegas](I-location) right [now](B-datetime) ?
+- is it [windy](B-weather/attribute)
+- is it going to [rain](B-weather/attribute) [today](B-datetime) ?
+- is the sun out ?
+- is [hail](B-weather/attribute) in the [forecast](B-weather/noun) for [waco](B-location)
+- is it going to be [hot](B-weather/attribute) in [charlotte](B-location) [this](B-datetime) [week](I-datetime) ?
+- should i bring an [umbrella](B-weather/attribute)
+- how's the [weather](B-weather/noun) [for](B-datetime) [tomorrow](I-datetime) ?
+- what is the [weather](B-weather/noun) in [texas](B-location) like right [now](B-datetime) ?
+- how [humid](B-weather/attribute) is it [outside](B-location) ?
+- what's the [humidity](B-weather/attribute) [today](B-datetime) in [h](B-location) [town](I-location) ?
+- what is the [temperature](B-weather/noun) [on](B-datetime) [friday](I-datetime) ?
+- is it supposed to be [stormy](B-weather/noun) [next](B-datetime) [week](I-datetime) ?
+- is it [raining](B-weather/attribute) ?
+- any [rain](B-weather/attribute) [in](B-datetime) [today's](I-datetime) [forecast](B-weather/noun) ?
+- what will the [weather](B-weather/noun) be like [this](B-datetime) [friday](I-datetime)
+- will it [rain](B-weather/attribute) [today](B-datetime)
+- is [new](B-location) [york](I-location) [city](I-location) expecting [rain](B-weather/attribute) [this](B-datetime) [week](I-datetime) ?
+- what is the [weather](B-weather/noun) going to be [this](B-datetime) [weekend](I-datetime) ?
+- what is the high [for](B-datetime) [today](I-datetime) ?
+- do i need to wear a [jacket](B-weather/attribute) [today](B-datetime) ?
+- is it [raining](B-weather/attribute) in [seattle](B-location) right [now](B-datetime) ?
+- how [hot](B-weather/attribute) will it be [tomorrow](B-datetime) ?
+- how many inches of [snow](B-weather/attribute) is [portland](B-location) [oregon](I-location) supposed to get [tomorrow](B-datetime) ?
+- what will the [wind](B-weather/attribute) chill be [today](B-datetime) ?
+- will there be a lot of [rain](B-weather/attribute) [this](B-datetime) [weekend](I-datetime) ?
+- what's the [temperature](B-weather/noun) back at [home](B-location) ?
+- will it [rain](B-weather/attribute) [saturday](B-datetime)
+- will it be [hot](B-weather/attribute) [out](B-location) [today](B-datetime) ?
+- are the [temperatures](B-weather/noun) getting [cooler](B-weather/attribute) [this](B-datetime) [weekend](I-datetime) ?
+- what's the [temperature](B-weather/noun) in [juarez](B-location) [today](B-datetime) ?
+- do i need a [jacket](B-weather/attribute) [today](B-datetime) ?
+- what is the [temperature](B-weather/noun) for [barcelona](B-location) [,](I-location) [spain](I-location) ?
+- what will the [weather](B-weather/noun) be like [for](B-datetime) [the](I-datetime) [next](I-datetime) [three](I-datetime) [days](I-datetime) ?
+- is it [raining](B-weather/attribute) ?
+- is it going to [rain](B-weather/attribute) [today](B-datetime) ?
+- how many inches of [rain](B-weather/attribute) are we going to get ?
+- what will [today's](B-datetime) high be ?
+- how will [miami](B-location) be [tomorrow](B-datetime) ?
+- what is the record [temperature](B-weather/noun) for this date in [chicago](B-location) ?
+- how many degrees will it be [today](B-datetime) ?
+- do i need a [jacket](B-weather/attribute) for the game [on](B-datetime) [sunday](I-datetime) ?
+- what is [the](B-datetime) [current](I-datetime) marine [weather](B-weather/noun) outlook .
+- what is the [heat](B-weather/attribute) [index](I-weather/attribute) [today](B-datetime) near [me](B-location) ?
+- what will be the [coolest](B-weather/attribute) day [this](B-datetime) [week](I-datetime)
+- will the [sun](B-weather/attribute) be out [today](B-datetime) ?
+- is it [hot](B-weather/attribute) enough to go to the [beach](B-location) [today](B-datetime)
+- what is the low [temp](B-weather/noun) [on](B-datetime) [thursday](I-datetime)
+- is [tuesday](B-datetime) or [wednesday](B-datetime) supposed to be nicer ?
+- are we in a [drought](B-weather/attribute) ?
+- what is the [weather](B-weather/noun) like in [alaska](B-location)
+- should i wear [warm](B-weather/attribute) [clothes](I-weather/attribute) [today](B-datetime) ?
+- will it [snow](B-weather/attribute) in [new](B-location) [england](I-location) [this](B-datetime) [weekend](I-datetime) ?
+- what is the [weather](B-weather/noun) in [chicago](B-location) ?
+- is there [clear](B-weather/attribute) skies in the [forecast](B-weather/noun) [today](B-datetime) ?
+- is it going to [cool](B-weather/attribute) off [tonight](B-datetime)
+- is going to [snow](B-weather/attribute) [today](B-datetime) ?
+- what is the [humidity](B-weather/attribute)
+- is it a good idea to bring an [umbrella](B-weather/attribute) or leave it at [home](B-location)
+- is there a [flood](B-weather/noun) [warning](I-weather/noun) in place [for](B-datetime) [tomorrow](I-datetime) ?
+- how is the [weather](B-weather/noun) going to be in [colorado](B-location) [springs](I-location) [on](B-datetime) [friday](I-datetime) day ?
+- what is the [humidity](B-weather/attribute) percentage in [phoenix](B-location) .
+- what is the low [temperature](B-weather/noun) [tomorrow](B-datetime) ?
+- what days is it going to [rain](B-weather/attribute) [this](B-datetime) [week](I-datetime)
+- what is the [weather](B-weather/noun) [for](B-datetime) [the](I-datetime) [week](I-datetime) ?
+- is there [rain](B-weather/attribute) [today](B-datetime) at the [atlanta](B-location) [hartsfield](I-location) [aiport](I-location) ?
+- wiil i need an [umbrella](B-weather/attribute) [on](B-datetime) [tuesday](I-datetime)
+- what is the [temperature](B-weather/noun) in [palm](B-location) [beach](I-location) [florida](I-location) ?
+- what will the [weather](B-weather/noun) be like [monday](B-datetime)
+- is [tomorrow](B-datetime) going to be [sunny](B-weather/attribute)
+- is it going to [snow](B-weather/attribute) [tonight](B-datetime)
+- whats the average [temperature](B-weather/noun) [this](B-datetime) [weekend](I-datetime)
+- will i need an [umbrella](B-weather/attribute) [tomorrow](B-datetime) ?
+- is it going to [snow](B-weather/attribute) [tomorrow](B-datetime) ?
+- [forecast](B-weather/noun) for [southern](B-location) [california](I-location) .
+- what is the high [temperature](B-weather/noun) [today](B-datetime) ?
+- how [hot](B-weather/attribute) will it be [today](B-datetime) ?
+- how [hot](B-weather/attribute) is it supposed to be [today](B-datetime)
+- show me [the](B-datetime) [hourly](I-datetime) [weather](B-weather/noun) [forecast](I-weather/noun) [today](B-datetime) ?
+- what is the high supposed to be in [tampa](B-location) [tomorrow](B-datetime) ?
+- do i need an [umbrella](B-weather/attribute) [today](B-datetime) ?
+- when will the [temperature](B-weather/noun) drop [this](B-datetime) [week](I-datetime) ?
+- will i need a [rain](B-weather/attribute) [jacket](I-weather/attribute) on my hike [today](B-datetime)
+- what's the [weather](B-weather/noun) going to be in [dc](B-location) [tomorrow](B-datetime) ?
+- is there a [storm](B-weather/attribute) coming this way ?
+- how [hot](B-weather/attribute) is it in [hawaii](B-location) [today](B-datetime) ?
+- will it [rain](B-weather/attribute) [tomorrow](B-datetime) [afternoon](I-datetime)
+- what is the [weather](B-weather/noun) in [chapel](B-location) [hill](I-location) [at](B-datetime) [11](I-datetime) [am](I-datetime) ?
+- will it [snow](B-weather/attribute) [this](B-datetime) [week](I-datetime) ?
+- what are chances of [snow](B-weather/attribute)
+- how [hot](B-weather/attribute) will it be [tonight](B-datetime) ?
+- what is the [weather](B-weather/noun) like in [hampton](B-location) [park](I-location) right [now](B-datetime) ?
+- is it [sunny](B-weather/attribute)
+- what are the chances it will [rain](B-weather/attribute) [today](B-datetime)
+- what is the [weather](B-weather/noun) in [charlotte](B-location) ?
+- is it [windy](B-weather/attribute) at the [donner](B-location) [summit](I-location) [today](B-datetime) ?
+- show me the upcoming [weather](B-weather/noun) [forecast](I-weather/noun) in [denver](B-location)
+- will it [rain](B-weather/attribute) [on](B-datetime) [saturday](I-datetime) ?
+- what is the [heat](B-weather/attribute) [index](I-weather/attribute) [for](B-datetime) [tomorrow](I-datetime) ?
+- how [cold](B-weather/attribute) will it be [tomorrow](B-datetime)
+- is it going to [storm](B-weather/attribute) [tonight](B-datetime) ?
+- should i wear [gloves](B-weather/attribute) [outside](B-location) ?
+- should i take an [umbrella](B-weather/attribute)
+- is it going to be [hot](B-weather/attribute) [today](B-datetime) ?
+- is it [tornado](B-weather/attribute) [weather](B-weather/noun) [out](B-location)
+- how long until the [fog](B-weather/attribute) lifts ?
+- should i wear [shorts](B-weather/attribute) [today](B-datetime) ?
+- is it going to [rain](B-weather/attribute) [this](B-datetime) [week](I-datetime) ?
+- is there [storms](B-weather/attribute) in the [forecast](B-weather/noun)
+- what is the [weather](B-weather/noun) in [birmingham](B-location) [al](I-location)
+- can i wear [shorts](B-weather/attribute) [today](B-datetime) ?
+- what's the [weather](B-weather/noun) [today](B-datetime)
+- what is the high [today](B-datetime) ?
+- is it going to [snow](B-weather/attribute) [today](B-datetime) ?
+- is the [humidity](B-weather/attribute) going to be high ?
+- is it going to [snow](B-weather/attribute) ?
+- is it [cold](B-weather/attribute) [outside](B-location) ?
+- what time will it start [raining](B-weather/attribute) ?
+- tell me the [weather](B-weather/noun) [tomorrow](B-datetime)
+- can i wear [sandals](B-weather/attribute) ?
+- how is the [weather](B-weather/noun) near [me](B-location) ?
+- do i need my [umbrella](B-weather/attribute) [today](B-datetime) ?
+- should i bring an [umbrella](B-weather/attribute) ?
+- should i bring an [umbrella](B-weather/attribute) with me to [work](B-location) [today](B-datetime) ?
+- what will the [weather](B-weather/noun) be like [next](B-datetime) [week](I-datetime) in [myrtle](B-location) [beach](I-location)
+- will it [rain](B-weather/attribute) [today](B-datetime)
+- what's the [temperature](B-weather/noun) [now](B-datetime)
+- is it going to be really [hot](B-weather/attribute) [tomorrow](B-datetime)
+- is it [windy](B-weather/attribute) [today](B-datetime) ?
+- is there a [heat](B-weather/attribute) [wave](I-weather/attribute) going on in the [pacific](B-location) [northwest](I-location) ?
+- is it [sunny](B-weather/attribute) [today](B-datetime) ?
+- is it going to [rain](B-weather/attribute) [today](B-datetime) ?
+- is it [hot](B-weather/attribute) ?
+- are we in for a [cloudy](B-weather/attribute) [day](B-datetime)
+- should we take an [umbrella](B-weather/attribute) [today](B-datetime)
+- how much [snow](B-weather/attribute) will fall [tonight](B-datetime)
+- what is the [temperature](B-weather/noun) [forecast](I-weather/noun) between [2](B-datetime) [pm](I-datetime) [to](I-datetime) [7](I-datetime) [pm](I-datetime) ?
+- is it [windy](B-weather/attribute) enough to fly a kite [today](B-datetime) ?
+- will it [rain](B-weather/attribute) [tonight](B-datetime)
+- is there [rain](B-weather/attribute) [today](B-datetime) ?
+- chances for [snow](B-weather/attribute)
+- [weather](B-weather/noun) [report](I-weather/noun)
+- what is [the](B-datetime) [10](I-datetime) [day](I-datetime) [forecast](B-weather/noun) ?
+- will i need a [jacket](B-weather/attribute) [today](B-datetime) ?
+- how [cold](B-weather/attribute) is it going to be in [quebec](B-location) [tonight](B-datetime)
+- what is [the](B-datetime) [hourly](I-datetime) [forecast](B-weather/noun) for [melbourne](B-location) [beach](I-location) ?
+- should i take my [jacket](B-weather/attribute) ?
+- [forecast](B-weather/noun) for [dallas](B-location)
+- is [today](B-datetime) going to be [sunny](B-weather/attribute)
+- is there a chance of [rain](B-weather/attribute) [today](B-datetime) ?
+- how long will it [rain](B-weather/attribute)
+- will i need my [rain](B-weather/attribute) [coat](I-weather/attribute) [for](B-datetime) [this](I-datetime) [weekend](I-datetime) ?
+- what is the chance of [rain](B-weather/attribute) [for](B-datetime) [tomorrow](I-datetime) ?
+- should i take a [jacket](B-weather/attribute) to [las](B-location) [vegas](I-location) ?
+- do i need to wear a [rain](B-weather/attribute) [jacket](I-weather/attribute) [today](B-datetime)
+- do i need an [umbrella](B-weather/attribute) [today](B-datetime) ?
+- will there be [frost](B-weather/attribute) on the ground [tomorrow](B-datetime) ?
+- how bad will the [storm](B-weather/attribute) be [tomorrow](B-datetime) ?
+- should i bring a light [jacket](B-weather/attribute) ?
+- will the [temperature](B-weather/noun) be over 80 degrees
+- what is the [wind](B-weather/attribute) chill
+- will it be [sunny](B-weather/attribute) [all](B-datetime) [day](I-datetime) [tomorrow](I-datetime) ?
+- how [muggy](B-weather/attribute) will it be [tomorrow](B-datetime) ?
+- is there a [tornado](B-weather/attribute) [nearby](B-location)
+- how [cold](B-weather/attribute) will it be [today](B-datetime) ?
+- what will the [weather](B-weather/noun) be like in [atlanta](B-location) [tomorrow](B-datetime) [morning](I-datetime) ?
+- show me [the](B-datetime) [7](I-datetime) [day](I-datetime) [forecast](B-weather/noun) .
+- is it suppose to [rain](B-weather/attribute) [this](B-datetime) [weekend](I-datetime) ?
+- hows the [weather](B-weather/noun) in [california](B-location) ?
+- how much longer is it going to [rain](B-weather/attribute) ?
+- will the [tropical](B-weather/attribute) [storm](I-weather/attribute) hit [little](B-location) [cayman](I-location)
+- is it going to [snow](B-weather/attribute) in [ny](B-location)
+- is it going to [rain](B-weather/attribute) ?
+- give me a [current](B-datetime) [weather](B-weather/noun) conditions report , please
+- what is the [forecast](B-weather/noun) for [my](B-location) [city](I-location) [today](B-datetime) ?
+- what is [tomorrow's](B-datetime) high ?
+- how [hot](B-weather/attribute) is it [outside](B-location) ?
+- will it [rain](B-weather/attribute) [tomorrow](B-datetime)
+- what is the [temperature](B-weather/noun) like in [austria](B-location)
+- will it [rain](B-weather/attribute) [next](B-datetime) [week](I-datetime) ?
+- what is the [weather](B-weather/noun) like [this](B-datetime) [week](I-datetime)
+- what is the [temperature](B-weather/noun) for [mesa](B-location) [today](B-datetime) ?
+- how [warm](B-weather/attribute) will it be [at](B-datetime) [12](I-datetime) [pm](I-datetime) ?
+- is i t going to [snow](B-weather/attribute) [today](B-datetime)
+- how's the [weather](B-weather/noun)
+- what is the low [temperature](B-weather/noun) [tonight](B-datetime) ?
+- will there be a [hurricane](B-weather/attribute) [in](B-datetime) [the](I-datetime) [next](I-datetime) [ten](I-datetime) [days](I-datetime)
+- what's the [weather](B-weather/noun) like in [maine](B-location) [next](B-datetime) [wednesday](I-datetime)
+- is it supposed to [rain](B-weather/attribute) in [salem](B-location) ?
+- do i need a [jacket](B-weather/attribute) [tomorrow](B-datetime) ?
+- should i wear a [sun](B-weather/attribute) [visor](I-weather/attribute) [today](B-datetime) ?
+- it is [freezing](B-weather/attribute) ?
+- will their be [cloud](B-weather/attribute) covering [today](B-datetime) at [newport](B-location) [beach](I-location) ?
+- how [cold](B-weather/attribute) is it going to get [tonight](B-datetime) ?
+- give me a [weather](B-weather/noun) [report](I-weather/noun)
+- what are the [hottest](B-weather/attribute) days of [this](B-datetime) [week](I-datetime) ?
+- do i need to bring my [sweater](B-weather/attribute)
+- any [rain](B-weather/attribute) in the [forecast](B-weather/noun) [this](B-datetime) [week](I-datetime)
+- what will the [weather](B-weather/noun) be like [next](B-datetime) [week](I-datetime) ?
+- what was [today's](B-datetime) high [temperature](B-weather/noun) ?
+- what is [the](B-datetime) [10](I-datetime) [day](I-datetime) [forecast](B-weather/noun)
+- will i need a [sweater](B-weather/attribute) [sunday](B-datetime) ?
+- what's the [weather](B-weather/noun) in [orlando](B-location) [today](B-datetime) ?
+- is the coming [storm](B-weather/attribute) expected to include [hail](B-weather/attribute) ?
+- how [humid](B-weather/attribute) is it [outside](B-location) ?
+- what is the [temperature](B-weather/noun) in [reno](B-location) ?
+- what is the [temperature](B-weather/noun) like in [miami](B-location) ?
+- can you please give me [the](B-datetime) [5](I-datetime) [day](I-datetime) [forecast](B-weather/noun) for [buffalo](B-location) [,](I-location) [ny](I-location) ?
+- should i take an [umbrella](B-weather/attribute)
+- are [storms](B-weather/attribute) predicted for [north](B-location) [florida](I-location) [this](B-datetime) [weekend](I-datetime) ?
+- is it supposed to [rain](B-weather/attribute) [today](B-datetime) ?
+- will it [snow](B-weather/attribute) [today](B-datetime)
+- should i wear [shorts](B-weather/attribute) [tomorrow](B-datetime) ?
+- is the sky [clear](B-weather/attribute) or [cloudy](B-weather/attribute)
+- is it [hot](B-weather/attribute) [today](B-datetime) ?
+- what is the [temperature](B-weather/noun) in [honolulu](B-location) ?
+- what is [the](B-datetime) [3](I-datetime) [day](I-datetime) [forecast](B-weather/noun) ?
+- what is the [weather](B-weather/noun) in [tempe](B-location) right [now](B-datetime) ?
+- tell me the [weather](B-weather/noun) .
+- is it going to be [hot](B-weather/attribute) [today](B-datetime) ?
+- how [hot](B-weather/attribute) is it [today](B-datetime)
+- is it [raining](B-weather/attribute) in [northern](B-location) [california](I-location)
+- what is the [temperature](B-weather/noun) [today](B-datetime) ?
+- give me the [weather](B-weather/noun) [report](I-weather/noun) .
+- will i be able to wear [shorts](B-weather/attribute) [tomorrow](B-datetime) ?
+- how [hot](B-weather/attribute) will it be [today](B-datetime) ?
+- should i bring an [umbrella](B-weather/attribute) ?
+- will it feel [nice](B-weather/attribute) [outside](B-location) [today](B-datetime) ?
+- what time is the [rain](B-weather/attribute) supposed to start [today](B-datetime) ?
+- what is the [temperature](B-weather/noun) [today](B-datetime) in [gleason](B-location) [park](I-location) ?
+- what's the low [temperature](B-weather/noun) [for](B-datetime) [tomorrow](I-datetime) ?
+- how high will it get [tonight](B-datetime) [today](I-datetime)
+- will there be any [snow](B-weather/attribute) [this](B-datetime) [upcoming](I-datetime) [weekend](I-datetime) in [cleveland](B-location) ?
+- [new](B-location) [england](I-location) area [weather](B-weather/noun) and news update
+- whats the [weather](B-weather/noun) [today](B-datetime)
+- what will the [weather](B-weather/noun) be like in [eastlake](B-location) [park](I-location) [today](B-datetime) ?
+- how [hot](B-weather/attribute) is it going to get this [summer](B-weather/attribute) ?
+- what is the [weather](B-weather/noun) in [africa](B-location)
+- is there a [wind](B-weather/noun) [chill](I-weather/noun) [advisory](I-weather/noun) [today](B-datetime) .
+- [weather](B-weather/noun) for [sandia](B-location) [peak](I-location)
+- when is [the](B-datetime) [next](I-datetime) [day](I-datetime) it will [rain](B-weather/attribute) ?
+- what should i expect for the [weather](B-weather/noun) [today](B-datetime)
+- will it [snow](B-weather/attribute) in [nebraska](B-location) [today](B-datetime)
+- should i bring my [boots](B-weather/attribute)
+- what's the [forecast](B-weather/noun) [for](B-datetime) [the](I-datetime) [week](I-datetime) ?
+- what is the chance of [rain](B-weather/attribute) [tomorrow](B-datetime)
+- [weather](B-weather/noun) update
+- will i need an [umbrella](B-weather/attribute) [today](B-datetime) ?
+- show me [todays](B-datetime) [weather](B-weather/noun)
+- what will the high and low [temps](B-weather/noun) be [on](B-datetime) [thursday](I-datetime)
+- what is the [forecast](B-weather/noun) [at](B-datetime) [8pm](I-datetime)
+- what is the average [temperature](B-weather/noun) in [cozumel](B-location) ?
+- is there a [wind](B-weather/noun) [advisory](I-weather/noun) in effect [for](B-datetime) [today](I-datetime) ?
+- what is the [temperature](B-weather/noun) in [play](B-location) [del](I-location) [carmen](I-location) ?
+- do i need a [jacket](B-weather/attribute)
+- is it [cloudy](B-weather/attribute) in [farmington](B-location) [,](I-location) [pa](I-location) ?
+- what is the [weather](B-weather/noun) in [new](B-location) [york](I-location) [at](B-datetime) [night](I-datetime) ?
+- will it [rain](B-weather/attribute) [today](B-datetime) ?
+- is it [raining](B-weather/attribute) in [hawaii](B-location) ?
+- what will the [forecast](B-weather/noun) look like [next](B-datetime) [week](I-datetime) ?
+- is it [cold](B-weather/attribute) in [portland](B-location) [today](B-datetime) ?
+- do i need my [umbrella](B-weather/attribute) [today](B-datetime) ?
+- what does the [weather](B-weather/noun) look like [for](B-datetime) [this](I-datetime) [weekend](I-datetime) .
+- what is the [temperature](B-weather/noun) in [seattle](B-location) ?
+- should i bring an [umbrella](B-weather/attribute)
+- is it going to [rain](B-weather/attribute) [today](B-datetime)
+- is there a [tornado](B-weather/noun) [warning](I-weather/noun)
+- is it going to [snow](B-weather/attribute) [on](B-datetime) [monday](I-datetime)
+- is it going to [rain](B-weather/attribute) in [miramar](B-location) [tonight](B-datetime) ?
+- when will the [rain](B-weather/attribute) stop
+- should i wear [rain](B-weather/attribute) [boots](I-weather/attribute) [today](B-datetime) ?
+- should the boys wear [shorts](B-weather/attribute) or [pants](B-weather/attribute) [today](B-datetime) ?
+- should it [rain](B-weather/attribute) [on](B-datetime) [tuesday](I-datetime) or [wednesday](B-datetime) ?
+- is it [muggy](B-weather/attribute) [outside](B-location) [tomorrow](B-datetime) ?
+- possibility of [rain](B-weather/attribute) in [new](B-location) [orleans](I-location) [today](B-datetime) ?
+- is it supposed to be [cold](B-weather/attribute) [on](B-datetime) [friday](I-datetime) ?
+- will it [rain](B-weather/attribute) [later](B-datetime) ?
+- is it going to be [sunny](B-weather/attribute) [today](B-datetime) ?
+- will it get [chilly](B-weather/attribute) [tonight](B-datetime) ?
+- is it going to be [windy](B-weather/attribute) ?
+- is it supposed to [rain](B-weather/attribute) [tomorrow](B-datetime) ?
+- what's the [weather](B-weather/noun) going to be at [home](B-location) [tomorrow](B-datetime) ?
+- what is the [humidity](B-weather/attribute) [today](B-datetime) ?
+- what is the [temperature](B-weather/noun) ?
+- what is the [weather](B-weather/noun) like in [atlanta](B-location) [today](B-datetime) ?
+- is it supposed to [rain](B-weather/attribute) at all [this](B-datetime) [week](I-datetime)
+- what is the [weather](B-weather/noun) in [miami](B-location) [next](B-datetime) [week](I-datetime) ?
+- what is the [weather](B-weather/noun) like on the [east](B-location) [coast](I-location)
+- are there any [tropical](B-weather/attribute) [storms](I-weather/attribute) in the [gulf](B-location) [of](I-location) [mexico](I-location) ?
+- is there a chance of [rain](B-weather/attribute) [today](B-datetime) ?
+- what is the [forecast](B-weather/noun) [for](B-datetime) [next](I-datetime) [week](I-datetime) in [phoenix](B-location) ?
+- should i carry a [umbrella](B-weather/attribute) [today](B-datetime)
+- should i carry a [jacket](B-weather/attribute) [today](B-datetime)
+- will it be [chilly](B-weather/attribute) [tonight](B-datetime)
+- what is the [temperature](B-weather/noun) suppose to be [tomorrow](B-datetime)
+- do i need a [jacket](B-weather/attribute) [in](B-datetime) [december](I-datetime) in [florida](B-location)
+- is it going to [rain](B-weather/attribute) [next](B-datetime) [week](I-datetime) in [las](B-location) [vegas](I-location) ?
+- what is the [weather](B-weather/noun) [today](B-datetime) ?
+- what's the [forecast](B-weather/noun) [for](B-datetime) [tomorrow](I-datetime) ?
+- should i worry about [flash](B-weather/noun) [flooding](I-weather/noun) [at](B-datetime) [7pm](I-datetime) [tonight](I-datetime)
+- is it going to [rain](B-weather/attribute) [tomorrow](B-datetime) ?
+- what is the [temperature](B-weather/noun) right [now](B-datetime) ?
+- is it suppose to [snow](B-weather/attribute) [tomorrow](B-datetime)
+- what is the projected [forecast](B-weather/noun) [for](B-datetime) [friday](I-datetime)
+- [this](B-datetime) [week's](I-datetime) [forecast](B-weather/noun) in the [bahamas](B-location)
+- what is the [forecast](B-weather/noun) [for](B-datetime) [tomorrow](I-datetime) ?
+- what is the high [temperature](B-weather/noun) [for](B-datetime) [today](I-datetime)
+- what was the record low [for](B-datetime) [this](I-datetime) [day](I-datetime) ?
+- when is it supposed to be [warmest](B-weather/attribute) [today](B-datetime) ?
+- how [cool](B-weather/attribute) will it be [tomorrow](B-datetime) ?
+- how strong is the [wind](B-weather/attribute) [now](B-datetime) ?
+- what is the [temperature](B-weather/noun) right [now](B-datetime) .
+- is it [snowing](B-weather/attribute) in [chicago](B-location) ?
+- when will the heaviest [snowfall](B-weather/attribute) hit the [area](B-location) ?
+- how much [snow](B-weather/attribute) are we expecting in [oklahoma](B-location) [city](I-location) [tonight](B-datetime) ?
+- when will it [rain](B-weather/attribute)
+- do i need an [umbrella](B-weather/attribute) [today](B-datetime)
+- should i wear a heavy [coat](B-weather/attribute) ?
+- what will the [temperature](B-weather/noun) be [tomorrow](B-datetime) ?
+- what's the [weather](B-weather/noun) like [today](B-datetime) ?
+- should i bring an [umbrella](B-weather/attribute) [this](B-datetime) [weekend](I-datetime) ?
+- how's my [weather](B-weather/noun) look
+- how [hot](B-weather/attribute) is it ?
+- what's the [humidity](B-weather/attribute) level
+- do i need my [rain](B-weather/attribute) [boots](I-weather/attribute) ?
+- show me [the](B-datetime) [hourly](I-datetime) [weather](B-weather/noun) for [miami](B-location)
+- should i wear [snow](B-weather/attribute) [boots](I-weather/attribute) ?
+- will we reach 100 [today](B-datetime) ?
+- is it [hot](B-weather/attribute) [outside](B-location) ?
+- how [cold](B-weather/attribute) will it be [today](B-datetime) ?
+- what's the [humidity](B-weather/attribute) [now](B-datetime) in [yonkers](B-location) ?
+- what should i expected for the [forecast](B-weather/noun) [today](B-datetime) ?
+- is it [hot](B-weather/attribute) [out](B-location) ?
+- how [hot](B-weather/attribute) is it going to be [on](B-datetime) [thursday](I-datetime) ?
+- what's the [temperature](B-weather/noun) [today](B-datetime)
+- will it [rain](B-weather/attribute) in [seattle](B-location) [tomorrow](B-datetime) ?
+- is it going to be [hot](B-weather/attribute)
+- will it [rain](B-weather/attribute) [today](B-datetime)
+- is it gonna [rain](B-weather/attribute)
+- what is the [temperature](B-weather/noun) going to be [tomorrow](B-datetime)
+- is it going to be [windy](B-weather/attribute) [today](B-datetime) ?
+- how [hot](B-weather/attribute) is it going to get ?
+- [weather](B-weather/noun) [tomorrow](B-datetime)
+- what's the [weather](B-weather/noun) [report](I-weather/noun) [for](B-datetime) [today](I-datetime)
+- any [tornado](B-weather/noun) [warnings](I-weather/noun) in [texas](B-location) [today](B-datetime) ?
+- how [hot](B-weather/attribute) is it getting [today](B-datetime) ?
+- will it get above 70 [today](B-datetime)
+- should i carry an [umbrella](B-weather/attribute) [today](B-datetime) ?
+- [rochester](B-location) [weather](B-weather/noun)
+- how much [rain](B-weather/attribute) will we get [today](B-datetime)
+- what are [today's](B-datetime) [rain](B-weather/attribute) chances ?
+- what is the [weather](B-weather/noun) looking like [tomorrow](B-datetime) ?
+- will it [rain](B-weather/attribute) [tonight](B-datetime) ?
+- how [hot](B-weather/attribute) is it [outside](B-location) ?
+- what is the [temperature](B-weather/noun) ?
+- do i need to wear [rain](B-weather/attribute) [boots](I-weather/attribute) at all [this](B-datetime) [week](I-datetime) ?
+- will it be [raining](B-weather/attribute) in [ashville](B-location) [this](B-datetime) [week](I-datetime) ?
+- are we going to get any [storms](B-weather/attribute) [today](B-datetime) ?
+- what is the [weather](B-weather/noun) like in [belleville](B-location) [,](I-location) [il](I-location) ?
+- is it going to [rain](B-weather/attribute) during the wedding [on](B-datetime) [sunday](I-datetime) ?
+- can i expect [rain](B-weather/attribute) [this](B-datetime) [afternoon](I-datetime) ?
+- what is the probability of [snow](B-weather/attribute) in [big](B-location) [bear](I-location) [tomorrow](B-datetime) [morning](I-datetime) ?
+- will it be [humid](B-weather/attribute) [today](B-datetime)
+- what is the [weather](B-weather/noun) in [boston](B-location) [,](I-location) [ma](I-location) [tomorrow](B-datetime) ?
+- can i wear [shorts](B-weather/attribute) [today](B-datetime) ?
+- will it be [sunny](B-weather/attribute) [next](B-datetime) [weekend](I-datetime) ?
+- when will the [snow](B-weather/attribute) [storm](I-weather/attribute) begin ?
+- is it going to be [nice](B-weather/attribute) [this](B-datetime) [weekend](I-datetime)
+- should i expect [rain](B-weather/attribute) [tonight](B-datetime)
+- how long will it [rain](B-weather/attribute) ?
+- how [hot](B-weather/attribute) is it [outside](B-location) ?
+- [forecast](B-weather/noun) please
+- do i need [rain](B-weather/attribute) [boots](I-weather/attribute) [today](B-datetime) ?
+- [temperature](B-weather/noun) in [raleigh](B-location) [nc](I-location)
+- what is [next](B-datetime) [weeks](I-datetime) [forecast](B-weather/noun)
+- how [hot](B-weather/attribute) will it be in [st](B-location) [.](I-location) [louis](I-location) [this](B-datetime) [weekend](I-datetime) ?
+- will it be [cold](B-weather/attribute) [tomorrow](B-datetime) ?
+- what is the [weather](B-weather/noun) right [now](B-datetime) in the [next](B-location) [town](I-location) ?
+- would you please give me information on the [weather](B-weather/noun) [for](B-datetime) [today](I-datetime) ?
+- what's the [temp](B-weather/noun) [today](B-datetime) ?
+- what [weather](B-weather/noun) can i expect in [oregon](B-location) [in](B-datetime) [september](I-datetime) ?
+- how [cold](B-weather/attribute) is it going to be [today](B-datetime) ?
+- what's the [weather](B-weather/noun) ?
+- what is the [forecast](B-weather/noun) [for](B-datetime) [today](I-datetime) ?
+- when is [rain](B-weather/attribute) expected [this](B-datetime) [week](I-datetime) ?
+- [weekend](B-datetime) [forecast](B-weather/noun)
+- going to a baseball game [on](B-datetime) [saturday](I-datetime) - what's the [weather](B-weather/noun) that day ?
+- is it going to be [cold](B-weather/attribute) ?
+- is it going to [rain](B-weather/attribute) in [orlando](B-location) [next](B-datetime) [week](I-datetime) ?
+- do i need a [winter](B-weather/attribute) [coat](I-weather/attribute) [today](B-datetime)
+- when is it going to be [sunny](B-weather/attribute) [this](B-datetime) [week](I-datetime) ?
+- is it [cooling](B-weather/attribute) off [this](B-datetime) [week](I-datetime) ?
+- [storm](B-weather/attribute) [today](B-datetime) ?
+- will it [snow](B-weather/attribute) [today](B-datetime) ?
+- how [hot](B-weather/attribute) will it be [tomorrow](B-datetime) ?
+- will it [snow](B-weather/attribute) [today](B-datetime) ?
+- will the [temperature](B-weather/noun) go above [freezing](B-weather/attribute) [this](B-datetime) [week](I-datetime) ?
+- what is the [weather](B-weather/noun) in [branson](B-location) . we are traveling [now](B-datetime)
+- will it [rain](B-weather/attribute) [next](B-datetime) [week](I-datetime) ?
+- update me on the [weather](B-weather/noun) [today](B-datetime)
+- are there any [weather](B-weather/noun) updates i should know about ?
+- is it going to [rain](B-weather/attribute) [today](B-datetime)
+- give me information on the [weather](B-weather/noun) [forecast](I-weather/noun) [for](B-datetime) [tonight](I-datetime) .
+- is there a [tornado](B-weather/attribute) [watch](B-weather/noun)
+- what is the chance of [rain](B-weather/attribute)
+- what is the chance for [rain](B-weather/attribute) [today](B-datetime) ?
+- what is the [weather](B-weather/noun) going to be [at](B-datetime) [10a.m](I-datetime) in [greenville](B-location) [nc](I-location) ?
+- is it going to [snow](B-weather/attribute) [today](B-datetime) ?
+- will i need a [jacket](B-weather/attribute) for dinner [tonight](B-datetime) ?
+- should i bring a [coat](B-weather/attribute) [tomorrow](B-datetime) ?
+- what is the low [temperature](B-weather/noun) in [providence](B-location) [today](B-datetime)
+- how much [rain](B-weather/attribute) are we supposed to get [this](B-datetime) [week](I-datetime) ?
+- do i need a [raincoat](B-weather/attribute) [today](B-datetime) ?
+- how much [snow](B-weather/attribute) will we get ?
+- [weather](B-weather/noun) [today](B-datetime) [at](I-datetime) [7](I-datetime) [:](I-datetime) [30](I-datetime) [am](I-datetime)
+- what will the high [temperature](B-weather/noun) be [for](B-datetime) [today](I-datetime) ?
+- tell me what the [weather](B-weather/noun) is going to be like [for](B-datetime) [the](I-datetime) [weekend](I-datetime) /
+- will is [rain](B-weather/attribute) [today](B-datetime)
+- please update me on the [weather](B-weather/noun)
+- what is [the](B-datetime) [10](I-datetime) [-](I-datetime) [day](I-datetime) [forecast](B-weather/noun) for [ohio](B-location) ?
+- what is the [temperature](B-weather/noun) in [california](B-location) right [now](B-datetime) ?
+- is there a [thunderstorm](B-weather/noun) [warning](I-weather/noun) in [pensacola](B-location) [today](B-datetime)
+- will the road conditions be [icy](B-weather/attribute) [this](B-datetime) [evening](I-datetime) ?
+- how much is it going to [rain](B-weather/attribute) [this](B-datetime) [weekend](I-datetime) ?
+- show a [10](B-datetime) [day](I-datetime) [forecast](B-weather/noun) for [detroit](B-location) .
+- will it [rain](B-weather/attribute) in [london](B-location) [on](B-datetime) [thursday](I-datetime) ?
+- is it swimming [weather](B-weather/noun) [today](B-datetime)
+- is it [sunny](B-weather/attribute) in [nashville](B-location) [,](I-location) [tn](I-location)
+- how much [snow](B-weather/attribute) are they getting in [new](B-location) [york](I-location) [this](B-datetime) [weekend](I-datetime)
+- what is the chance of [rain](B-weather/attribute) [tomorrow](B-datetime) [at](I-datetime) [1](I-datetime) [pm](I-datetime) ?
+- is there any prediction of [rain](B-weather/attribute) [for](B-datetime) [today](I-datetime)
+- what is the high [temperature](B-weather/noun) [for](B-datetime) [the](I-datetime) [week](I-datetime) ?
+- do i need an [umbrella](B-weather/attribute) [today](B-datetime) ?
+- how much [snow](B-weather/attribute) will we get
+- what will be the [temperature](B-weather/noun) in [portland](B-location) [tomorrow](B-datetime) ?
+- what is the [dewpoint](B-weather/attribute) ?
+- will i need a [jacket](B-weather/attribute) [today](B-datetime) ?
+- how [cold](B-weather/attribute) will it be [tomorrow](B-datetime)
+- do i need an [umbrella](B-weather/attribute) [today](B-datetime) ?
+- should i wear [shorts](B-weather/attribute) [today](B-datetime) ?
+- what is the [weather](B-weather/noun) like in [china](B-location) ?
+- [weather](B-weather/noun) in [portland](B-location)
+- what is the [weather](B-weather/noun) in [chapel](B-location) [hill](I-location) [at](B-datetime) [5](I-datetime) [am](I-datetime) ?
+- do i need to dress [warm](B-weather/attribute)
+- when will the [fog](B-weather/attribute) lift in [san](B-location) [francisco](I-location) ?
+- should i bring a [jacket](B-weather/attribute)
+- is there going to any days [warmer](B-weather/attribute) than 80 degrees [this](B-datetime) [week](I-datetime) ?
+- is it going to [storm](B-weather/attribute) in [bloomington](B-location) ?
+- what is [tomorrow's](B-datetime) [weather](B-weather/noun) [forecast](I-weather/noun) ?
+- what is the high [today](B-datetime) ?
+- will it [rain](B-weather/attribute) [in](B-datetime) [two](I-datetime) [weeks](I-datetime)
+- is there a chance for [thunderstorms](B-weather/attribute) in [my](B-location) [area](I-location) ?
+- will it [rain](B-weather/attribute) [today](B-datetime)
+- [weather](B-weather/noun) , [3](B-datetime) [day](I-datetime) outlook
+- should i dress lightly or wear [long](B-weather/attribute) [sleeves](I-weather/attribute) ?
+- what is the high [temperature](B-weather/noun) [for](B-datetime) [today](I-datetime) ?
+- what is the [weather](B-weather/noun) in [new](B-location) [york](I-location)
+- is it below [freezing](B-weather/attribute) [today](B-datetime) ?
+- what will the [weather](B-weather/noun) be like [at](B-datetime) [5pm](I-datetime) ?
+- will the [wind](B-weather/attribute) be strong ?
+- should i wear a [t](B-weather/attribute) [-](I-weather/attribute) [shirt](I-weather/attribute) in [seattle](B-location) ?
+- how many inches of [snow](B-weather/attribute) will we get [today](B-datetime) ?
+- [weather](B-weather/noun)
+- do i need an [umbrella](B-weather/attribute) [today](B-datetime) ?
+- when does the [temperature](B-weather/noun) drop ?
+- is [today](B-datetime) [cool](B-weather/attribute) enough for a [jacket](B-weather/attribute) ?
+- should i bring a [jacket](B-weather/attribute) [tonight](B-datetime)
+- when is the next [rain](B-weather/attribute) in [phoenix](B-location)
+- is it [warm](B-weather/attribute) [outside](B-location) .
+- what's the [weather](B-weather/noun) going to be [today](B-datetime)
+- how many inches of [snow](B-weather/attribute)
+- what's the [weather](B-weather/noun) like ?
+- when is the [rain](B-weather/attribute) going to move in ?
+- chance of [percipitation](B-weather/attribute)
+- what will the low [temperature](B-weather/noun) be [today](B-datetime)
+- check [weather](B-weather/noun) [forecast](I-weather/noun) [for](B-datetime) [this](I-datetime) [weekend](I-datetime)
+- what is the expected [weather](B-weather/noun) [on](B-datetime) [saturday](I-datetime)
+- when is the next [forecasted](B-weather/noun) [rain](B-weather/attribute)
+- are they calling for heavy showers [today](B-datetime) ?
+- is it [humid](B-weather/attribute) [today](B-datetime) ?
+- will it [rain](B-weather/attribute) [this](B-datetime) [week](I-datetime) ?
+- will i need an [umbrella](B-weather/attribute) [tomorrow](B-datetime)
+- any [snow](B-weather/attribute) on the horizon ?
+- can you tell me how [hot](B-weather/attribute) it will be [today](B-datetime) ?
+- is there a [hurricane](B-weather/attribute) coming
+- when will it stop [raining](B-weather/attribute) [today](B-datetime)
+- what is the [temperature](B-weather/noun) in [chicago](B-location) [today](B-datetime) ?
+- what's the [weather](B-weather/noun) in [kissimmee](B-location) [this](B-datetime) [weekend](I-datetime) ?
+- is it gonna be [cold](B-weather/attribute) [this](B-datetime) [week](I-datetime) ?
+- will there be [snow](B-weather/attribute) [next](B-datetime) [week](I-datetime) ?
+- when is the [rain](B-weather/attribute) supposed to start
+- what is the [temp](B-weather/noun) in [ny](B-location) [ny](I-location) [today](B-datetime)
+- what is the [weather](B-weather/noun) going to be [today](B-datetime) ?
+- what is the high [for](B-datetime) [monday](I-datetime) ?
+- when is the [hottest](B-weather/attribute) time [tomorrow](B-datetime) ?
+- how [cold](B-weather/attribute) will it get [tonight](B-datetime) ?
+- did we have bad [weather](B-weather/noun) at [home](B-location) [today](B-datetime) ?
+- should i use [rainboots](B-weather/attribute)
+- is it [raining](B-weather/attribute) hard [outside](B-location) ?
+- what does it look like [today](B-datetime) ?
+- what is the [weather](B-weather/noun) like [this](B-datetime) [week](I-datetime) ?
+- is it [cold](B-weather/attribute) [outside](B-location) ?
+- do i need a [jacket](B-weather/attribute) [today](B-datetime) ?
+- what time is it supposed to [rain](B-weather/attribute) ?
+- how [hot](B-weather/attribute) is it going to be [tomorrow](B-datetime) ?
+- is it going to [rain](B-weather/attribute) [tomorrow](B-datetime) ?
+- how many inches of [snow](B-weather/attribute) are we expecting [tonight](B-datetime)
+- how [cold](B-weather/attribute) is it
+- will i need an [umbrella](B-weather/attribute) [tonight](B-datetime)
+- [weather](B-weather/noun) [forecast](I-weather/noun) [for](B-datetime) [next](I-datetime) [three](I-datetime) [days](I-datetime) for [home](B-location)
+- is it [raining](B-weather/attribute) in [iowa](B-location) ?
+- is it going to be [warm](B-weather/attribute) [today](B-datetime) ?
+- how [cold](B-weather/attribute) is the [winter](B-weather/noun) in [lima](B-location) ?
+- what is the high and low [temperatures](B-weather/noun) of [today](B-datetime) ?
+- how [cold](B-weather/attribute) is it [outside](B-location) [today](B-datetime) ?
+- do i need an [umbrella](B-weather/attribute) [today](B-datetime) ?
+- what is [the](B-datetime) [current](I-datetime) [temperature](B-weather/noun) ?
+- is it [raining](B-weather/attribute) in [africa](B-location) these days ?
+- is it [snowing](B-weather/attribute) right [now](B-datetime) ?
+- what's the low [temperature](B-weather/noun) [for](B-datetime) [tomorrow](I-datetime) ?
+- is [dallas](B-location) expecting a [blizzard](B-weather/attribute) [on](B-datetime) [monday](I-datetime) ?
+- what will the [highs](B-weather/attribute) be [for](B-datetime) [tomorrow](I-datetime)
+- how [windy](B-weather/attribute) is it [outside](B-location) right [now](B-datetime) ?
+- are there any [storm](B-weather/noun) [warnings](I-weather/noun) [for](B-datetime) [this](I-datetime) [week](I-datetime)
+- is it going to [rain](B-weather/attribute) [sunday](B-datetime)
+- will it be [shorts](B-weather/attribute) [weather](B-weather/noun) [today](B-datetime) ?
+- are there any [tornado](B-weather/attribute) watches or warnings in the [dyersburg](B-location) [area](I-location) right [now](B-datetime) ?
+- are we expecting [rain](B-weather/attribute) [today](B-datetime) ?
+- tell me the [weather](B-weather/noun) [forecast](I-weather/noun) [for](B-datetime) [this](I-datetime) [coming](I-datetime) [week](I-datetime) .
+- will it be [cloudy](B-weather/attribute) [tomorrow](B-datetime) [at](I-datetime) [5pm](I-datetime) ?
+- is it going to be [hot](B-weather/attribute) [today](B-datetime) ?
+- what is [the](B-datetime) [weekend](I-datetime) [forecast](B-weather/noun) ?
+- what is the [forecast](B-weather/noun) in [new](B-location) [york](I-location) [next](B-datetime) [week](I-datetime) ?
+- tell me if it is going to [rain](B-weather/attribute)
+- is it going to be [raining](B-weather/attribute) [later](B-datetime) in [boston](B-location)
+- is it a good day to go to the [beach](B-location) ?
+- are we expecting [rain](B-weather/attribute) [today](B-datetime) ?
+- is it [snowy](B-weather/attribute) [out](B-location) ?
+- what is the [forecast](B-weather/noun) [for](B-datetime) [tomorrow](I-datetime) [night](I-datetime) ?
+- will we get [hail](B-weather/attribute) [in](B-datetime) [friday's](I-datetime) [storm](B-weather/attribute) ?
+- will i need [rain](B-weather/attribute) [boots](I-weather/attribute) [today](B-datetime) ?
+- what is the [temperature](B-weather/noun) in the [caribbean](B-location) [today](B-datetime)
+- [weather](B-weather/noun) [forecast](I-weather/noun) [next](B-datetime) [week](I-datetime) ?
+- should i wear a [sweater](B-weather/attribute) [today](B-datetime) ?
+- should i wear [summer](B-weather/attribute) [clothing](I-weather/attribute) ?
+- what will the [weather](B-weather/noun) be [next](B-datetime) [sunday](I-datetime)
+- what direction is the [wind](B-weather/attribute) blowing [in](B-datetime) [today](I-datetime) ?
+- will the roads be [wet](B-weather/attribute) [today](B-datetime)
+- is it going to [snow](B-weather/attribute) [today](B-datetime) or no
+- how [hot](B-weather/attribute) is it [outside](B-location)
+- will i need a [rain](B-weather/attribute) [coat](I-weather/attribute) [tomorrow](B-datetime) ?
+- what's the [temperature](B-weather/noun) going to be [tomorrow](B-datetime) ?
+- how [cold](B-weather/attribute) is it
+- when is it supposed to [rain](B-weather/attribute) ?
+- what is going to be the [hottest](B-weather/attribute) day [this](B-datetime) [week](I-datetime) ?
+- am i going to need [sunscreen](B-weather/attribute) [today](B-datetime)
+- what time is it going to stop [raining](B-weather/attribute) [today](B-datetime) ?
+- how's the [weather](B-weather/noun) in [malibu](B-location) [today](B-datetime) ?
+- are we expecting [sleet](B-weather/attribute) [tomorrow](B-datetime) ?
+- when will it start getting [cooler](B-weather/attribute) in [florida](B-location)
+- what will [tonights](B-datetime) low [temperature](B-weather/noun) be
+- is it going to [rain](B-weather/attribute)
+- how many [degrees](B-weather/noun) [celsius](B-weather/temperatureUnit) is it
+- how [cold](B-weather/attribute) is it going to be [today](B-datetime) ?
+- do i need a [hood](B-weather/attribute) to go [outside](B-location) ?
+- what is the [weather](B-weather/noun) prediction [for](B-datetime) [friday](I-datetime) ?
+- is it going to [rain](B-weather/attribute) in [dallas](B-location) [texas](I-location) [on](B-datetime) [thursday](I-datetime) ?
+- whats the [weather](B-weather/noun) like [this](B-datetime) [week](I-datetime) ?
+- is there a [blizzard](B-weather/noun) [warning](I-weather/noun)
+- did the [forecast](B-weather/noun) call for [snow](B-weather/attribute) [today](B-datetime)
+- is [california](B-location) still in a [drought](B-weather/attribute) ?
+- how's [this](B-datetime) [week's](I-datetime) [weather](B-weather/noun) looking ?
+- [suffern](B-location) [,](I-location) [new](I-location) [york](I-location) [weather](B-weather/noun)
+- should i bring a [umbrella](B-weather/attribute) ?
+- [rain](B-weather/attribute) [today](B-datetime) ?
+- will there be [rain](B-weather/attribute) [on](B-datetime) [tuesday](I-datetime) ?
+- do i need to bring an [umbrella](B-weather/attribute) ?
+- are there any [tornado](B-weather/attribute) watches ?
+- what will the [forecast](B-weather/noun) be in [oregon](B-location) [next](B-datetime) [week](I-datetime) ?
+- whats the [weather](B-weather/noun) [today](B-datetime)
+- is it supposed to [rain](B-weather/attribute) [today](B-datetime)
+- how [hot](B-weather/attribute) is it going to be ?
+- what is the average [temperature](B-weather/noun) in [utah](B-location) ?
+- should i cancel my trip to [san](B-location) [diego](I-location) due to [weather](B-weather/noun) ?
+- will there be [rain](B-weather/attribute) for the entire day ?
+- how [cold](B-weather/attribute) is [chicago](B-location)
+- will there be lightening [tonight](B-datetime) ?
+- what [temperature](B-weather/noun) will it be [at](B-datetime) [7](I-datetime) [:](I-datetime) [00](I-datetime) [pm](I-datetime) ?
+- is there severe [weather](B-weather/noun) expected [today](B-datetime) ?
+- any strong [winds](B-weather/attribute) [this](B-datetime) [morning](I-datetime) ?
+- what is the [forecast](B-weather/noun) [for](B-datetime) [the](I-datetime) [month](I-datetime) ?
+- what is the [weather](B-weather/noun) going to be like in [myrtle](B-location) [beach](I-location) [next](B-datetime) [week](I-datetime)
+- what is the low [temperature](B-weather/noun) [tonight](B-datetime)
+- how [hot](B-weather/attribute) is it [outside](B-location) [today](B-datetime) ?
+- what will the [temperature](B-weather/noun) be [overnight](B-datetime) ?
+- is there a chance of [snow](B-weather/attribute) [tomorrow](B-datetime)
+- how [cold](B-weather/attribute) does it get in [detroit](B-location) ?
+- what is the [uv](B-weather/attribute) [index](I-weather/attribute) right [now](B-datetime) ?
+- is it supposed to [rain](B-weather/attribute) [today](B-datetime)
+- how bad the [weather](B-weather/noun) is ?
+- what is the [weather](B-weather/noun) supposed to be like on my commute [home](B-location) [this](B-datetime) [evening](I-datetime) ?
+- what's the high and low [for](B-datetime) [tomorrow](I-datetime) ?
+- give me the [temperature](B-weather/noun) and [forecast](B-weather/noun) [for](B-datetime) [tomorrow](I-datetime) [afternoon](I-datetime) [at](I-datetime) [1](I-datetime) [pm](I-datetime) in my [current](B-datetime) location
+- should i bring an [umbrella](B-weather/attribute)
+- what is [the](B-datetime) [5](I-datetime) [day](I-datetime) [forecast](B-weather/noun) ?
+- is [tonight](B-datetime) good stargazing [weather](B-weather/noun)
+- how much [rain](B-weather/attribute) is expected to fall ?
+- will it be [cloudy](B-weather/attribute) [tonight](B-datetime) ?
+- is there a chance of [rain](B-weather/attribute) [tomorrow](B-datetime) ?
+- is it going to [snow](B-weather/attribute) [next](B-datetime) [weekend](I-datetime) ?
+- what's the [weather](B-weather/noun) for [my](B-location) [destination](I-location)
+- how [cold](B-weather/attribute) is it [outside](B-location) ?
+- will it [rain](B-weather/attribute) [today](B-datetime) ?
+- should i bring my [jacket](B-weather/attribute) [on](B-datetime) [friday](I-datetime) ?
+- what's the [forecast](B-weather/noun) [this](B-datetime) [week](I-datetime)
+- what will the [weather](B-weather/noun) be like [today](B-datetime) ?
+- will it [rain](B-weather/attribute) soon ?
+- will it [storm](B-weather/attribute) [today](B-datetime) ?
+- what is the [weather](B-weather/noun) going to be like [tomorrow](B-datetime) in [seattle](B-location) ?
+- what day will be [coldest](B-weather/attribute) [this](B-datetime) [week](I-datetime) ?
+- is it going to be [cold](B-weather/attribute) [today](B-datetime)
+- how fast is the [temperature](B-weather/noun) going to drop [today](B-datetime)
+- is it [snowing](B-weather/attribute) in [colorado](B-location) [springs](I-location) ?
+- what is the high in [chicago](B-location) ?
+- how much [rain](B-weather/attribute) are we supposed to get [today](B-datetime) ?
+- is there a [storm](B-weather/attribute) expected in [tahoe](B-location) [tomorrow](B-datetime) ?
+- is there going to be [snow](B-weather/attribute) [on](B-datetime) [sunday](I-datetime)
+- what is the low [temperature](B-weather/noun) [for](B-datetime) [today](I-datetime)
+- should i wear a [coat](B-weather/attribute) [this](B-datetime) [morning](I-datetime) ?
+- will it [rain](B-weather/attribute) in [yellowstone](B-location) [in](B-datetime) [the](I-datetime) [next](I-datetime) [few](I-datetime) [days](I-datetime) ?
+- read me [tomorrow's](B-datetime) [weather](B-weather/noun) [report](I-weather/noun)
+- what is the [humidity](B-weather/attribute) in [houston](B-location) right [now](B-datetime) ?
+- will it be [hot](B-weather/attribute) [today](B-datetime)
+- what is the [wind](B-weather/attribute) chill [outside](B-location)
+- do i need [sunscreen](B-weather/attribute) [today](B-datetime)
+- whats the [uv](B-weather/attribute) [today](B-datetime)
+- what's the likelihood of [rain](B-weather/attribute) [tomorrow](B-datetime) ?
+- what is [the](B-datetime) [current](I-datetime) [forecast](B-weather/noun) ?
+- did it [rain](B-weather/attribute) [today](B-datetime) ?
+- low [temperature](B-weather/noun) [for](B-datetime) [tonight](I-datetime)
+- will we get a [frost](B-weather/attribute) [this](B-datetime) [week](I-datetime) ?
+- is it [stormy](B-weather/attribute) [outside](B-location) ?
+- do i need a [scarf](B-weather/attribute) ?
+- do i need to bring a [jacket](B-weather/attribute) with me [today](B-datetime)
+- what direction is the [storm](B-weather/attribute) moving ?
+- will it [rain](B-weather/attribute) [in](B-datetime) [the](I-datetime) [next](I-datetime) [three](I-datetime) [hours](I-datetime) ?
+- what is the [forecast](B-weather/noun) for [manhattan](B-location) [today](B-datetime) ?
+- [weather](B-weather/noun) [for](B-datetime) [monday](I-datetime)
+- is it going to [snow](B-weather/attribute) [today](B-datetime) ?
+- what is the [uv](B-weather/attribute) [index](I-weather/attribute) [today](B-datetime)
+- is it [jacket](B-weather/attribute) [weather](B-weather/noun) [today](B-datetime) ?
+- is it [raining](B-weather/attribute) in [ny](B-location) [today](B-datetime) ?
+- what [temperature](B-weather/noun) did it get [to](B-datetime) [today](I-datetime) ?
+- what is the [hottest](B-weather/attribute) it will be [tomorrow](B-datetime) ?
+- do i need a [jacket](B-weather/attribute) [today](B-datetime)
+- is it going to [snow](B-weather/attribute) [today](B-datetime)
+- what is the [weather](B-weather/noun) in [new](B-location) [jersey](I-location)
+- what is [the](B-datetime) [weekly](I-datetime) [weather](B-weather/noun) for [lakewood](B-location) [,](I-location) [ohio](I-location) ?
+- what's the [weather](B-weather/noun) at [my](B-location) [mom's](I-location) [house](I-location) ?
+- is it gonna [rain](B-weather/attribute) [tonight](B-datetime) ?
+- is going to [rain](B-weather/attribute) [tomorrow](B-datetime) ?
+- tell me the [temperature](B-weather/noun) in [celcius](B-weather/temperatureUnit)
+- how [cold](B-weather/attribute) is it [outside](B-location) right [now](B-datetime) ?
+- [current](B-datetime) [temp](B-weather/noun) ?
+- will it [snow](B-weather/attribute) [today](B-datetime) ?
+- is the [snow](B-weather/attribute) gone in [seattle](B-location)
+- when can i expect [rain](B-weather/attribute) [next](B-datetime) [week](I-datetime) ?
+- will it [rain](B-weather/attribute) in [lititz](B-location) [today](B-datetime) ?
+- is it going to be [windy](B-weather/attribute) [today](B-datetime)
+- how [hot](B-weather/attribute) will it be [tomorrow](B-datetime) ?
+- what is the [weather](B-weather/noun) in [san](B-location) [diego](I-location) .
+- [weather](B-weather/noun) please
+- what is the high [today](B-datetime) ?
+- is it going to [rain](B-weather/attribute) [today](B-datetime) ?
+- how [cold](B-weather/attribute) will it be [tonight](B-datetime)
+- will i need to wear [warm](B-weather/attribute) [clothes](I-weather/attribute) [on](B-datetime) [saturday](I-datetime) ?
+- how long will [this](B-datetime) [current](I-datetime) [storm](B-weather/attribute) last ?
+- what is the low [temperature](B-weather/noun) [tonight](B-datetime)
+- how [chilly](B-weather/attribute) is it ?
+- is it going to be [over](B-weather/attribute) [90](I-weather/attribute) [degrees](B-weather/noun) [f](B-weather/temperatureUnit) [all](B-datetime) [week](I-datetime) ?
+- should i bring my [umbrella](B-weather/attribute) [today](B-datetime) ?
+- what is the [temperature](B-weather/noun) in [antarctica](B-location) ?
+- what's the expected low [for](B-datetime) [today](I-datetime) ?
+- do i need a [jacket](B-weather/attribute) [tonight](B-datetime)
+- what time is the [rain](B-weather/attribute) going to stop [today](B-datetime)
+- what is the [temperature](B-weather/noun) going to be [tomorrow](B-datetime) ?
+- any [snow](B-weather/attribute) in the [forecast](B-weather/noun) ?
+- [snow](B-weather/attribute) [forecast](B-weather/noun) [for](B-datetime) [next](I-datetime) [week](I-datetime)
+- will it [snow](B-weather/attribute) [tomorrow](B-datetime) ?
+- will it be [raining](B-weather/attribute) [today](B-datetime) ?
+- do i need my [rain](B-weather/attribute) [boots](I-weather/attribute) [today](B-datetime)
+- do i need a [jacket](B-weather/attribute) [today](B-datetime)
+- what's [the](B-datetime) [10](I-datetime) [day](I-datetime) [forecast](B-weather/noun) ?
+- how much [snow](B-weather/attribute) is expected to fall [today](B-datetime) ?
+- what's the [weather](B-weather/noun) outlook [for](B-datetime) [this](I-datetime) [weekend](I-datetime) ?
+- will it [rain](B-weather/attribute) [saturday](B-datetime)
+- how much more [snow](B-weather/attribute) do we expect ?
+- is it [windy](B-weather/attribute) [today](B-datetime) ?
+- what is the [temp](B-weather/noun) ?
+- is it [raining](B-weather/attribute) in [boston](B-location)
+- should i wear a heavy [coat](B-weather/attribute) or a light [jacket](B-weather/attribute) [outside](B-location) ?
+- should i bring an [umbrella](B-weather/attribute) ?
+- what is the [forecast](B-weather/noun) [for](B-datetime) [tonight](I-datetime) ?
+- what is the [temp](B-weather/noun) in [nyc](B-location) [today](B-datetime) ?
+- is it [raining](B-weather/attribute) in [london](B-location) ?
+- will it be [cold](B-weather/attribute) [today](B-datetime) ?
+- how [cold](B-weather/attribute) will it get [on](B-datetime) [tuesday](I-datetime)
+- is it going to be [hot](B-weather/attribute) [all](B-datetime) [week](I-datetime) ?
+- what is the [humidity](B-weather/attribute) right [now](B-datetime) ?
+- how much [rain](B-weather/attribute) is expected over the next few days
+- when will it [rain](B-weather/attribute) [this](B-datetime) [week](I-datetime)
+- what is [the](B-datetime) [3](I-datetime) [day](I-datetime) [forecast](B-weather/noun)
+- is there a chance of [snow](B-weather/attribute) [on](B-datetime) [saturday](I-datetime) ?
+- is it [cold](B-weather/attribute) [outside](B-location)
+- are there any [weather](B-weather/noun) [warnings](I-weather/noun) ?
+- will it [rain](B-weather/attribute) [at](B-datetime) [noon](I-datetime) ?
+- will i need an [umbrella](B-weather/attribute) for my trip to [seattle](B-location) [tomorrow](B-datetime) ?
+- how long will it [snow](B-weather/attribute) for
+- is it [cold](B-weather/attribute) [outside](B-location) ?
+- is [sunday](B-datetime) [rain](B-weather/attribute) free ?
+- what the [average](B-weather/noun) [temperature](I-weather/noun) [for](B-datetime) [the](I-datetime) [week](I-datetime)
+- when are the [thunderstorms](B-weather/attribute) supposed to hit
+- is it going to get [cooler](B-weather/attribute) at all
+- what is the [weather](B-weather/noun) in [vegas](B-location) [next](B-datetime) [week](I-datetime) ?
+- what is the [weather](B-weather/noun) in [jericho](B-location) [at](B-datetime) [8pm](I-datetime)
+- will it [rain](B-weather/attribute) [this](B-datetime) [week](I-datetime) ?
+- should i bring an [umbrella](B-weather/attribute)
+- what is the [temperature](B-weather/noun) right [now](B-datetime)
+- are we going to have [thunderstorms](B-weather/attribute) [tomorrow](B-datetime) ?
+- how does the [weather](B-weather/noun) look [for](B-datetime) [today](I-datetime)
+- how [windy](B-weather/attribute) is it right [now](B-datetime)
+- what is [the](B-datetime) [5](I-datetime) [day](I-datetime) [forecast](B-weather/noun) ?
+- is it [raining](B-weather/attribute) [today](B-datetime)
+- how long is the [dust](B-weather/attribute) [storm](I-weather/attribute) going to last ?
+- give me [the](B-datetime) [weekly](I-datetime) [weather](B-weather/noun) update .
+- how [hot](B-weather/attribute) will it get [today](B-datetime) ?
+- any [tropical](B-weather/attribute) [storms](I-weather/attribute) [nearby](B-location) ?
+- when is the [rain](B-weather/attribute) going to stop ?
+- what is the [weather](B-weather/noun) like [out](B-location) on the water ?
+- what is the [weather](B-weather/noun) like in [sahara](B-location) [desert](I-location)
+- is there a [heat](B-weather/noun) [advisory](I-weather/noun) [today](B-datetime) ?
+- how much [snow](B-weather/attribute) are we going to get ?
+- how is the [weather](B-weather/noun) looking for the next few days ?
+- is there a [heat](B-weather/noun) [advisory](I-weather/noun) [warning](I-weather/noun) for [luzerne](B-location) [county](I-location) ?
+- what is the [temp](B-weather/noun) [this](B-datetime) [weekend](I-datetime) ?
+- what is the high [today](B-datetime)
+- what is the high [today](B-datetime)
+- is [tomorrow](B-datetime) a good day for the [beach](B-location) ?
+- [sunny](B-weather/attribute) [tomorrow](B-datetime) [afternoon](I-datetime) ?
+- how [hot](B-weather/attribute) is [today](B-datetime) ?
+- how much [snow](B-weather/attribute) are we supposed to get ?
+- do i need a [jacket](B-weather/attribute) for my walk to [work](B-location) ?
+- are the roads [icy](B-weather/attribute) ?
+- when does the [weather](B-weather/noun) predict it will [snow](B-weather/attribute) next
+- [lake](B-location) [mead](I-location) [weather](B-weather/noun)
+- it is going to [rain](B-weather/attribute) [this](B-datetime) [evening](I-datetime)
+- what is the [weather](B-weather/noun) in [port](B-location) [st](I-location) [lucie](I-location) [today](B-datetime)
+- what is the high [for](B-datetime) [sunday](I-datetime) ?
+- what is the expected high [today](B-datetime) ?
+- what's the chance of [rain](B-weather/attribute) [this](B-datetime) [weekend](I-datetime) ?
+- will i need an [umbrella](B-weather/attribute) [today](B-datetime) ?
+- what's the chance of [lightning](B-weather/attribute) [today](B-datetime) ?
+- what is the [weather](B-weather/noun) [forecast](I-weather/noun) [for](B-datetime) [sunday](I-datetime) ?
+- is it going to be a [sunny](B-weather/attribute) day [on](B-datetime) [sunday](I-datetime) ?
+- what is the [weather](B-weather/noun) [today](B-datetime) ?
+- do i need a [coat](B-weather/attribute) [today](B-datetime) ?
+- how [windy](B-weather/attribute) is [chicago](B-location)
+- is it going to [snow](B-weather/attribute) [today](B-datetime)
+- what is the [weather](B-weather/noun) [tomorrow](B-datetime) ?
+- what's the [forecast](B-weather/noun) [for](B-datetime) [tomorrow](I-datetime) in [san](B-location) [francisco](I-location) ?
+- is it [raining](B-weather/attribute) in [dallas](B-location) [today](B-datetime) ?
+- is it supposed to [rain](B-weather/attribute) [tomorrow](B-datetime) ?
+- what's the [humidity](B-weather/attribute) level [today](B-datetime)
+- when is it going to [snow](B-weather/attribute) [this](B-datetime) [week](I-datetime) ?
+- what is [today's](B-datetime) high [temperature](B-weather/noun) ?
+- is it [sunny](B-weather/attribute) in [las](B-location) [vegas](I-location)
+- is there severe [weather](B-weather/noun) near [me](B-location) ?
+- i'd like to know if it'll [rain](B-weather/attribute) [this](B-datetime) [weekend](I-datetime) .
+- how long until it [rains](B-weather/noun) [today](B-datetime) ?
+- what is the [temperature](B-weather/noun) in [orlando](B-location) ?
+- how is the [weather](B-weather/noun) doing in [california](B-location)
+- what will the [temperature](B-weather/noun) be [at](B-datetime) [noon](I-datetime)
+- how [hot](B-weather/attribute) will it be [on](B-datetime) [sunday](I-datetime) ?
+- will i need an [umbrella](B-weather/attribute) [today](B-datetime) ?
+- what is the [forecast](B-weather/noun) for [amsterdam](B-location) [today](B-datetime) ?
+- low [temps](B-weather/noun) for [new](B-location) [york](I-location) [this](B-datetime) [week](I-datetime)
+- show me [today's](B-datetime) [weather](B-weather/noun)
+- what is the high [temperature](B-weather/noun) [today](B-datetime)
+- what [temp](B-weather/noun) will it be [today](B-datetime) ?
+- what are [the](B-datetime) [latest](I-datetime) headlines about the [hurricane](B-weather/attribute) ?
+- how [hot](B-weather/attribute) is it
+- is it going to be [sunny](B-weather/attribute) [today](B-datetime) ?
+- show [weather](B-weather/noun) for [my](B-location) [city](I-location)
+- is is going to [snow](B-weather/attribute) [tomorrow](B-datetime) ?
+- is it going to [snow](B-weather/attribute) [tomorrow](B-datetime)
+- what's the [forecast](B-weather/noun) [for](B-datetime) [this](I-datetime) [weekend](I-datetime)
+- what is the [forecast](B-weather/noun) [one](B-datetime) [week](I-datetime) [from](I-datetime) [now](I-datetime) ?
+- is it going to [rain](B-weather/attribute) [tomorrow](B-datetime) ?
+- are there any [thunderstorms](B-weather/attribute) in the [area](B-location) [today](B-datetime) ?
+- any chance it's [raining](B-weather/attribute) [today](B-datetime) ?
+- is it going to be [cold](B-weather/attribute) [tomorrow](B-datetime) ?
+- when is the [weather](B-weather/noun) going to be much [cooler](B-weather/attribute)
+- is it [cloudy](B-weather/attribute) ?
+- should i bring a [sweater](B-weather/attribute) for the game in [seattle](B-location)
+- when is it going to [rain](B-weather/attribute) ?
+- is there any [thunderstorms](B-weather/attribute) in [georgia](B-location) [today](B-datetime)
+- when will it [warm](B-weather/attribute) up ?
+- [temperature](B-weather/noun) [tomorrow](B-datetime) .
+- is a [hot](B-weather/attribute) right [now](B-datetime) in [hawaii](B-location) [at](B-datetime) [9](I-datetime) [pm](I-datetime)
+- should i bring an [umbrella](B-weather/attribute) ?
+- high [temps](B-weather/noun) for the [beach](B-location) [today](B-location)
+- is there a [blizzard](B-weather/attribute) coming ?
+- is it [sunny](B-weather/attribute) out side in [dallas](B-location)
+- what is the record high [temp](B-weather/noun) [for](B-datetime) [today](I-datetime) ?
+- is the [temperature](B-weather/noun) [moderate](B-weather/attribute)
+- how [hot](B-weather/attribute) is it ?
+- when is the next [thunderstorm](B-weather/attribute) expected in [new](B-location) [york](I-location) ?
+- what is the [temperature](B-weather/noun) in [virginia](B-location) ?
+- will i need a [jacket](B-weather/attribute) [on](B-datetime) [friday](I-datetime) ?
+- what's [today's](B-datetime) high [temperature](B-weather/noun) ?
+- is there a tropical [storm](B-weather/noun) [warning](I-weather/noun) issued for the [east](B-location) [coast](I-location) ?
+- how [cold](B-weather/attribute) will it get in [newark](B-location) [tonight](B-datetime) ?
+- whats the [weather](B-weather/noun) like in [dallas](B-location) [texas](I-location)
+- will it [rain](B-weather/attribute) [today](B-datetime) ?
+- will there be a [blizzard](B-weather/attribute) [today](B-datetime) ?
+- what is the [weather](B-weather/noun) [outside](B-location) ?
+- how [warm](B-weather/attribute) is it in [ocean](B-location) [city](I-location)
+- is a [hurricane](B-weather/attribute) coming to [florida](B-location) ?
+- hows the [weather](B-weather/noun) looking in [north](B-location) [carolina](I-location)
+- how [windy](B-weather/attribute) is it going to be [today](B-datetime)
+- will it be [raining](B-weather/attribute) [this](B-datetime) [weekend](I-datetime) ?
+- whats the [forecast](B-weather/noun) [this](B-datetime) [weekend](I-datetime)
+- what is the [forecast](B-weather/noun) [for](B-datetime) [saturday](I-datetime) ?
+- is it going to [rain](B-weather/attribute) [this](B-datetime) [week](I-datetime) ?
+- is it [hot](B-weather/attribute) [outside](B-location) ?
+- what time is it going to [rain](B-weather/attribute) ?
+- will it be [hot](B-weather/attribute) [tonight](B-datetime) ?
+- what's [the](B-datetime) [10](I-datetime) [day](I-datetime) [forecast](B-weather/noun) ?
+- any idea how the [weather](B-weather/noun) looks in [tampa](B-location) [bay](I-location) [this](B-datetime) [weekend](I-datetime) ?
+- any [rain](B-weather/attribute) in the [forecast](B-weather/noun) for [ocho](B-location) [rios](I-location) [,](I-location) [jamaica](I-location) [this](B-datetime) [week](I-datetime)
+- are there dark skies in [mt](B-location) [.](I-location) [charleston](I-location) ?
+- what time will the [rain](B-weather/attribute) start ?
+- can i wear [shorts](B-weather/attribute) [today](B-datetime)
+- will it be [cold](B-weather/attribute) [today](B-datetime)
+- what's [the](B-datetime) [10](I-datetime) [day](I-datetime) [forecast](B-weather/noun) ?
+- [current](B-datetime) [temperature](B-weather/noun) in [la](B-location) .
+- do i need a [jacket](B-weather/attribute) [today](B-datetime) ?
+- is the [weather](B-weather/noun) [nice](B-weather/attribute) [today](B-datetime) ?
+- what time is it supposed to start [raining](B-weather/attribute)
+- will there be [snow](B-weather/attribute) [for](B-datetime) [christmas](I-datetime)
+- what will the low be [tonight](B-datetime) ?
+- is it supposed to [rain](B-weather/attribute) [today](B-datetime)
+- how [hot](B-weather/attribute) will it be
+- how is the [weather](B-weather/noun) in [belize](B-location) [next](B-datetime) [week](I-datetime) ?
+- what time will it start [raining](B-weather/attribute)
+- will the [hurricane](B-weather/attribute) hit us ?
+- is there any [flooding](B-weather/attribute) near [my](B-location) [neighborhood](I-location) ?
+- what is [the](B-datetime) [latest](I-datetime) [weather](B-weather/noun) [report](I-weather/noun) for [seattle](B-location) ?
+- how [hot](B-weather/attribute) is [tomorrow](B-datetime) going to be ?
+- how [hot](B-weather/attribute) will it get [on](B-datetime) [friday](I-datetime) ?
+- will it [snow](B-weather/attribute) ?
+- when is it going to [rain](B-weather/attribute)
+- will it [storm](B-weather/attribute) [today](B-datetime)
+- whats the [storm](B-weather/attribute) chances [tonight](B-datetime)
+- do i need a [coat](B-weather/attribute) ?
+- what's the [uv](B-weather/attribute) [index](I-weather/attribute) [today](B-datetime) ?
+- will it [storm](B-weather/attribute) [tomorrow](B-datetime)
+- is it going to be [hot](B-weather/attribute) [today](B-datetime) ?
+- let's hear [the](B-datetime) [10](I-datetime) [day](I-datetime) [forecast](B-weather/noun)
+- what's the [weather](B-weather/noun) in [san](B-location) [diego](I-location) [today](B-datetime) ?
+- is it going to [rain](B-weather/attribute) at all [this](B-datetime) [week](I-datetime) ?
+- when will it be [sunny](B-weather/attribute) ?
+- will be [hot](B-weather/attribute) in [naples](B-location) [next](B-datetime) [week](I-datetime) ?
+- is it going to be [sunny](B-weather/attribute) [on](B-datetime) [sunday](I-datetime) ?
+- how [cold](B-weather/attribute) is it going to be
+- should i carry my [rain](B-weather/attribute) [jacket](I-weather/attribute) ?
+- how is the [weather](B-weather/noun) [today](B-datetime) ?
+- is there a chance of [rain](B-weather/attribute) [on](B-datetime) [tuesday](I-datetime)
+- what will the [weather](B-weather/noun) be like [tomorrow](B-datetime) ?
+- what is the chance of [hail](B-weather/attribute) [today](B-datetime) ?
+- should i bring a [jacket](B-weather/attribute)
+- did it [rain](B-weather/attribute) [this](B-datetime) [morning](I-datetime) ?
+- should i expect [rain](B-weather/attribute) [this](B-datetime) [week](I-datetime)
+- how much [rain](B-weather/attribute) is expected
+- is there a [storm](B-weather/attribute) coming
+- will it [hit](B-weather/attribute) 90 degrees [today](B-datetime) ?
+- do i need to bring a [jacket](B-weather/attribute) [today](B-datetime) ?
+- is it [raining](B-weather/attribute) in [nashville](B-location) ?
+- do i need an [umbrella](B-weather/attribute)
+- will it be [colder](B-weather/attribute) [tomorrow](B-datetime) than [today](B-datetime) .
+- what is the [weather](B-weather/noun) predictions [for](B-datetime) [tomorrow](I-datetime) ?
+- is it going to [snow](B-weather/attribute) [today](B-datetime) ?
+- is it going to be [warm](B-weather/attribute) [on](B-datetime) [sunday](I-datetime) ?
+- [snow](B-weather/attribute) [today](B-datetime) ?
+- what is the [forecast](B-weather/noun) [for](B-datetime) [next](I-datetime) [weekend](I-datetime) ?
+- are we having any [heat](B-weather/attribute) [waves](I-weather/attribute) [this](B-datetime) [summer](I-datetime) ?
+- is [rain](B-weather/attribute) in the [forecast](B-weather/noun) [for](B-datetime) [next](I-datetime) [week](I-datetime) in [nyc](B-location) ?
+- read the [weather](B-weather/noun) [forecast](I-weather/noun) [for](B-datetime) [today](I-datetime)
+- is [california](B-location) still in a [drought](B-weather/attribute) ?
+- do i need a [jacket](B-weather/attribute) [today](B-datetime)
+- will it [rain](B-weather/attribute) [tomorrow](B-datetime) ?
+- do i need to wear a [coat](B-weather/attribute) [today](B-datetime)
+- what are the [thunderstorm](B-weather/attribute) chances [today](B-datetime) ?
+- what's the [temperature](B-weather/noun) [for](B-datetime) [tonight](I-datetime) ?
+- [forecast](B-weather/noun) please
+- whats the [forecast](B-weather/noun) [for](B-datetime) [next](I-datetime) [weekend](I-datetime) ?
+- what is the [heat](B-weather/attribute) [index](I-weather/attribute) [today](B-datetime)
+- will it [rain](B-weather/attribute) [today](B-datetime) ?
+- what is the [surf](B-weather/noun) [advisory](I-weather/noun) ?
+- what is [temperature](B-weather/noun) in [death](B-location) [valley](I-location) ?
+- is it supposed to [rain](B-weather/attribute) ?
+- how [warm](B-weather/attribute) will it get [today](B-datetime) ?
+- will i need [sunglasses](B-weather/attribute) ?
+- [weather](B-weather/noun) [this](B-datetime) [week](I-datetime)
+- whats the [weather](B-weather/noun) [today](B-datetime)
+- will it [snow](B-weather/attribute) [today](B-datetime) ?
+- whats [temperature](B-weather/noun) at [turman](B-location) [log](I-location) [home](I-location)
+- what are [next](B-datetime) [week's](I-datetime) [temperatures](B-weather/noun) ?
+- is it [hailing](B-weather/attribute) ?
+- is there going to be [thunderstorms](B-weather/attribute) [today](B-datetime) ?
+- should i wear a [long](B-weather/attribute) [sleeve](I-weather/attribute) to the chiefs game [today](B-datetime) ?
+- should i bring a [jacket](B-weather/attribute) ?
+- is there going to be a [frost](B-weather/attribute) [this](B-datetime) [week](I-datetime) ?
+- what's [today's](B-datetime) [humidity](B-weather/attribute) like ?
+- how [hot](B-weather/attribute) is it in [cabo](B-location) ?
+- what is the [weather](B-weather/noun) like [today](B-datetime) ?
+- can i wear [shorts](B-weather/attribute) [today](B-datetime) ?
+- is [hail](B-weather/attribute) in the [forecast](B-weather/noun)
+- what is the [temperature](B-weather/noun) like in [downtown](B-location) [kc](I-location) [tonight](B-datetime) ?
+- do i need a [coat](B-weather/attribute)
+- what time will the [snow](B-weather/attribute) start [today](B-datetime)
+- is [rain](B-weather/attribute) in the [forecast](B-weather/noun)
+- what is [forecast](B-weather/noun) like [in](B-datetime) [2](I-datetime) [week](I-datetime) in [las](B-location) [vegas](I-location) ?
+- are there any [cool](B-weather/attribute) days [this](B-datetime) [week](I-datetime)
+- is there a chance for [ice](B-weather/attribute) ?
+- will is [snow](B-weather/attribute) [this](B-datetime) [winter](I-datetime) ?
+- any [rain](B-weather/attribute) [on](B-datetime) [saturday](I-datetime) ?
+- what should i wear [today](B-datetime) ?
+- is it going to [rain](B-weather/attribute) in [new](B-location) [york](I-location) =
+- is it [raining](B-weather/attribute) right [now](B-datetime) in [madagascar](B-location) ?
+- is there a chance for [hail](B-weather/attribute) [today](B-datetime) ?
+- what is the chance for [rain](B-weather/attribute) ?
+- should i bring [rain](B-weather/attribute) [boots](I-weather/attribute) ?
+- when will it [rain](B-weather/attribute) [this](B-datetime) [week](I-datetime) ?
+- how [hot](B-weather/attribute) is it going to be [today](B-datetime) ?
+- what's [today's](B-datetime) [weather](B-weather/noun) ?
+- can i wear [shorts](B-weather/attribute)
+- is it [hot](B-weather/attribute) enough to wear [shorts](B-weather/attribute) ?
+- how [humid](B-weather/attribute) will it be [tomorrow](B-datetime) ?
+- what's the [weather](B-weather/noun) in [salt](B-location) [lake](I-location) [city](I-location) [on](B-datetime) [thursday](I-datetime) ?
+- [sunny](B-weather/attribute) [on](B-datetime) [thursday](I-datetime) ?
+- will i need an [umbrella](B-weather/attribute) [tomorrow](B-datetime) ?
+- is it going to [rain](B-weather/attribute) near [me](B-location) [today](B-datetime) ?
+- how is the [weather](B-weather/noun) in [tokyo](B-location) [next](B-datetime) [week](I-datetime) ?
+- how [humid](B-weather/attribute) is it [outside](B-location)
+- what's the [forecast](B-weather/noun) [for](B-datetime) [this](I-datetime) [weekend](I-datetime) ?
+- do i need to bring [umbrella](B-weather/attribute)
+- is it below [freezing](B-weather/attribute) ?
+- will it [thunder](B-weather/attribute) [today](B-datetime)
+- what time is the [storm](B-weather/attribute) going to start
+- how [hot](B-weather/attribute) is it going to get [today](B-datetime) ?
+- what are the chances for [rain](B-weather/attribute)
+- when will it [rain](B-weather/attribute) ?
+- what's the [forecast](B-weather/noun) [for](B-datetime) [the](I-datetime) [week](I-datetime)
+- is it going to [rain](B-weather/attribute) at [fenway](B-location) [today](B-datetime) ?
+- is it supposed to [rain](B-weather/attribute) [tomorrow](B-datetime)
+- will i need a [coat](B-weather/attribute) [tomorrow](B-datetime)
+- will it be [hot](B-weather/attribute) [today](B-datetime)
+- is it [raining](B-weather/attribute) in [dallas](B-location) ?
+- how [cold](B-weather/attribute) is it suppose to get [next](B-datetime) [week](I-datetime) ?
+- will it [snow](B-weather/attribute) [today](B-datetime)
+- should i bring an [umbrella](B-weather/attribute) with me [today](B-datetime) ?
+- tell me [today's](B-datetime) [forecast](B-weather/noun) for [houston](B-location) [,](I-location) [texas](I-location)
+- will i need an [umbrella](B-weather/attribute) [today](B-datetime) ?
+- what are the [temperatures](B-weather/noun) near [work](B-location) [next](B-datetime) [week](I-datetime) ?
+- what is [todays](B-datetime) high and low
+- what time is it going to stop [snowing](B-weather/attribute) in [rochester](B-location) [,](I-location) [ny](I-location) [today](B-datetime) ?
+- [weather](B-weather/noun) news [for](B-datetime) [today](I-datetime)
+- is it any [storm](B-weather/attribute) close to us
+- what's the [temperature](B-weather/noun) [outside](B-location)
+- any [rain](B-weather/attribute) coming down [today](B-datetime)
+- will i need an [umbrella](B-weather/attribute) [today](B-datetime) ?
+- what is [the](B-datetime) [current](I-datetime) [temperature](B-weather/noun) ?
+- what is the [weather](B-weather/noun) [next](B-datetime) [week](I-datetime)
+- is there [rain](B-weather/attribute) in the [forecast](B-weather/noun) [this](B-datetime) [week](I-datetime)
+- what is the [humidity](B-weather/attribute) [index](I-weather/attribute) [for](B-datetime) [today](I-datetime)
+- is it supposed to [rain](B-weather/attribute) [this](B-datetime) [weekend](I-datetime) ?
+- will i need an [umbrella](B-weather/attribute) [tomorrow](B-datetime) ?
+- is it going to [snow](B-weather/attribute) [today](B-datetime)
+- should i bring an [extra](B-weather/attribute) [layer](I-weather/attribute) ?
+- what's the [weather](B-weather/noun) like [today](B-datetime) ?
+- is it good swimming [weather](B-weather/noun) ?
+- what is the [temperature](B-weather/noun) [for](B-datetime) [today](I-datetime) ?
+- will i be able to go to the [beach](B-location) [today](B-datetime)
+- how is the [weather](B-weather/noun) going to be [this](B-datetime) [week](I-datetime) ?
+- do i need a [sweater](B-weather/attribute) [tonight](B-datetime) ?
+- what is the [forecast](B-weather/noun) [for](B-datetime) [today](I-datetime) ?
+- how [hot](B-weather/attribute) is it [outside](B-location)
+- what is the [weather](B-weather/noun) [forecast](I-weather/noun) [for](B-datetime) [today](I-datetime)
+- what is the chance of [snow](B-weather/attribute) [today](B-datetime) ?
+- what is the [temperature](B-weather/noun) ?
+- how many inches of [snow](B-weather/attribute) is expected ?
+- what's the [weather](B-weather/noun) like in [alabama](B-location)
+- [cloudy](B-weather/attribute) or [sunny](B-weather/attribute) ?
+- is it going to [rain](B-weather/attribute) [this](B-datetime) [week](I-datetime) ?
+- is there [snow](B-weather/attribute) in the [forecast](B-weather/noun) [this](B-datetime) [week](I-datetime)
+- will it [rain](B-weather/attribute) [this](B-datetime) [weekend](I-datetime) in [nyc](B-location) ?
+- how [hot](B-weather/attribute) will it be [on](B-datetime) [friday](I-datetime)
+- should i bring a [umbrella](B-weather/attribute) ?
+- will it be [windy](B-weather/attribute) in [new](B-location) [orleans](I-location) ?
+- what is the [forecast](B-weather/noun) [for](B-datetime) [tomorrow](I-datetime) ?
+- will it [snow](B-weather/attribute) [tomorrow](B-datetime)
+- will the [temp](B-weather/noun) [rise](B-weather/attribute) to the 80 ' s
+- what's the [weather](B-weather/noun) at [tampa](B-location) [airport](I-location) [at](B-datetime) [1](I-datetime) [pm](I-datetime) ?
+- how much [snow](B-weather/attribute) did we get
+- do i need [sunscreen](B-weather/attribute) [today](B-datetime) ?
+- what is chance of [snow](B-weather/attribute)
+- are the odds good that it will [rain](B-weather/attribute) [today](B-datetime)
+- how [hot](B-weather/attribute) will it be [today](B-datetime)
+- what is the [forecast](B-weather/noun) [for](B-datetime) [this](I-datetime) [weekend](I-datetime) ?
+- will it [rain](B-weather/attribute) [today](B-datetime)
+- will i need a [winter](B-weather/attribute) [coat](I-weather/attribute) [next](B-datetime) [week](I-datetime)
+- what is the high [temperature](B-weather/noun) [for](B-datetime) [today](I-datetime) ?
+- when will the [rain](B-weather/attribute) start
+- is it going to be [cloudy](B-weather/attribute) [all](B-datetime) [day](I-datetime)
+- what are the [hottest](B-weather/attribute) and [coldest](B-weather/attribute) [temperatures](B-weather/noun) predicted [for](B-datetime) [tomorrow](I-datetime) ?
+- when will it [cool](B-weather/attribute) down [today](B-datetime) ?
+- will it be [sunny](B-weather/attribute) or [cloudy](B-weather/attribute) [tomorrow](B-datetime)
+- whats the [weather](B-weather/noun) [today](B-datetime)
+- what is the [temperature](B-weather/noun) going to be [friday](B-datetime)
+- any [hail](B-weather/attribute) in the [forecast](B-weather/noun) ?
+- is it [warm](B-weather/attribute) enough for [shorts](B-weather/attribute) [today](B-datetime)
+- what are [the](B-datetime) [current](I-datetime) [flash](B-weather/attribute) [flood](I-weather/attribute) notifications ?
+- how is the [weather](B-weather/noun) in [southern](B-location) [california](I-location) this time of year ?
+- what is the [weather](B-weather/noun) like in [nebraska](B-location) [today](B-datetime) ?
+- what is the [weather](B-weather/noun) in [chapel](B-location) [hill](I-location) [at](B-datetime) [12](I-datetime) [am](I-datetime) ?
+- what is the [temperature](B-weather/noun) at [baby](B-location) [beach](I-location) [today](B-datetime) ?
+- how [hot](B-weather/attribute) is it in [florida](B-location) [during](B-datetime) [august](I-datetime) ?
+- will i need a [sweater](B-weather/attribute) [tomorrow](B-datetime) ?
+- what is the [weather](B-weather/noun) in [golden](B-location) [gate](I-location) [park](I-location) [at](B-datetime) [3pm](I-datetime) ?
+- should i take an [umbrella](B-weather/attribute) [today](B-datetime) ?
+- how [hot](B-weather/attribute) is it in [phoenix](B-location) ?
+- is it [raining](B-weather/attribute) in [new](B-location) [jersey](I-location) [today](B-datetime) ?
+- what will the high [temperature](B-weather/noun) be [today](B-datetime) ?
+- should i wear a [hat](B-weather/attribute) [today](B-datetime)
+- what is the [forecast](B-weather/noun) in [savannah](B-location) [this](B-datetime) [weekend](I-datetime) ?
+- can i leave my [umbrella](B-weather/attribute) at [home](B-location)
+- is there [lightning](B-weather/attribute) [outside](B-location) ?
+- is there a big enough chance of [rain](B-weather/attribute) for me to bring a [coat](B-weather/attribute) ?
+- whats the [humidity](B-weather/attribute) level [today](B-datetime)
+- how [cold](B-weather/attribute) will it get [today](B-datetime) and [the](B-datetime) [next](I-datetime) [day](I-datetime) ?
+- do i need a [jacket](B-weather/attribute) [today](B-datetime) ?
+- what is the [weather](B-weather/noun) like in [florida](B-location) ?
+- will it [rain](B-weather/attribute) [this](B-datetime) [weekend](I-datetime) ?
+- should i expect any [showers](B-weather/attribute) [today](B-datetime)
+- will it [rain](B-weather/attribute) in [ocho](B-location) [rios](I-location) [,](I-location) [jamaica](I-location) [this](B-datetime) [week](I-datetime) ?
+- is it [cold](B-weather/attribute) [out](B-location)
+- do i need to wear a [coat](B-weather/attribute) [today](B-datetime) ?
+- do i need [rain](B-weather/attribute) [golashes](I-weather/attribute) in [london](B-location) [tomorrow](B-datetime)
+- what is the [temperature](B-weather/noun) going to be [next](B-datetime) [monday](I-datetime) ?
+- what is the high [temperature](B-weather/noun) [for](B-datetime) [today](I-datetime) ?
+- is it [hot](B-weather/attribute) in [chicago](B-location) right [now](B-datetime) ?
+- is it [snowing](B-weather/attribute) in [minnesota](B-location) ?
+- what is [the](B-datetime) [current](I-datetime) [temperature](B-weather/noun) ?
+- when will this [snowstorm](B-weather/attribute) end ?
+- do i need a [coat](B-weather/attribute) ?
+- is [today](B-datetime) going to be [overcast](B-weather/attribute) ?
+- tell me [the](B-datetime) [7](I-datetime) [day](I-datetime) [forecast](B-weather/noun) .
+- will it [rain](B-weather/attribute) [on](B-datetime) [the](I-datetime) [weekend](I-datetime) ?
+- what time will the [rain](B-weather/attribute) start ?
+- what's the [weather](B-weather/noun) look like [for](B-datetime) [the](I-datetime) [week](I-datetime) ahead ?
+- [forecast](B-weather/noun) please
+- how much [rainfall](B-weather/attribute) is expected [tomorrow](B-datetime) ?
+- how's the [weather](B-weather/noun) in [new](B-location) [orleans](I-location) ?
+- will it be [sunny](B-weather/attribute) [on](B-datetime) [saturday](I-datetime) ?
+- do i need a [coat](B-weather/attribute)
+- is there a [tornado](B-weather/attribute) watch for [this](B-location) [area](I-location) [in](B-datetime) [the](I-datetime) [next](I-datetime) [week](I-datetime)
+- will it be [sunny](B-weather/attribute) or [cloudy](B-weather/attribute) [tomorrow](B-datetime) ?
+- what is the [temperature](B-weather/noun) [today](B-datetime) [at](I-datetime) [8am](I-datetime)
+- is it [raining](B-weather/attribute) in [seattle](B-location) ?
+- how [hot](B-weather/attribute) will it get in [dallas](B-location) [this](B-datetime) [weekend](I-datetime)
+- please tell me [the](B-datetime) [weekend](I-datetime) [forecast](B-weather/noun) .
+- will i need an [umbrella](B-weather/attribute) [this](B-datetime) [afternoon](I-datetime) ?
+- is [rain](B-weather/attribute) in the [forecast](B-weather/noun) [for](B-datetime) [saturday](I-datetime)
+- how [hot](B-weather/attribute) will it be [today](B-datetime)
+- how [humid](B-weather/attribute) is it [this](B-datetime) [week](I-datetime) ?
+- are there any [weather](B-weather/noun) [warnings](I-weather/noun) right [now](B-datetime) in [texas](B-location)
+- should i grab my [boots](B-weather/attribute)
+- is there a [weather](B-weather/noun) [advisory](I-weather/noun) in effect for [olympia](B-location) ?
+- is a [frost](B-weather/attribute) expected [tonight](B-datetime) ?
+- how [hot](B-weather/attribute) is it in [vegas](B-location) [today](B-datetime) ?
+- is it a [beach](B-location) [weekend](B-datetime)
+- will it be [cloudy](B-weather/attribute) ?
+- expected [snowfall](B-weather/attribute) [this](B-datetime) [weekend](I-datetime) at [mammoth](B-location) ?
+- whats the [rain](B-weather/attribute) percentage [for](B-datetime) [today](I-datetime) ?
+- what is the chance of [rain](B-weather/attribute) [today](B-datetime) ?
+- how much [snow](B-weather/attribute) is expected [tonight](B-datetime) ?
+- do i need to bring an [umbrella](B-weather/attribute)
+- what is the [temperature](B-weather/noun) right [now](B-datetime) ?
+- what's the chance of [snow](B-weather/attribute) ?
+- is it too [cold](B-weather/attribute) for a [t](B-weather/attribute) [-](I-weather/attribute) [shirt](I-weather/attribute) ?
+- is it going to [rain](B-weather/attribute) [today](B-datetime) ?
+- what's the [weather](B-weather/noun) like in [spain](B-location) [next](B-datetime) [week](I-datetime) ?
+- what's [tomorrow's](B-datetime) [forecast](B-weather/noun)
+- is there going to be a [tornado](B-weather/attribute) in the [caribbean](B-location)
+- what's [the](B-datetime) [current](I-datetime) [humidity](B-weather/attribute) ?
+- what's the high [temperature](B-weather/noun) [for](B-datetime) [the](I-datetime) [next](I-datetime) [week](I-datetime) ?
+- is it going to [snow](B-weather/attribute) [today](B-datetime) ?
+- how [hot](B-weather/attribute) is it [today](B-datetime)
+- are we expected to have hazardous [weather](B-weather/noun) [this](B-datetime) [afternoon](I-datetime) ?
+- are there [storms](B-weather/attribute) in [florida](B-location) right [now](B-datetime) ?
+- is there [rain](B-weather/attribute) in the [forecast](B-weather/noun) [today](B-datetime)
+- what's [tomorrow's](B-datetime) [forecast](B-weather/noun) ?
+- how should i dress [today](B-datetime)
+- is it going to be [clear](B-weather/attribute) and [sunny](B-weather/attribute) [today](B-datetime) ?
+- are there any severe [weather](B-weather/noun) [alerts](I-weather/noun) ?
+- should i bring an [umbrella](B-weather/attribute) ?
+- is it going to [rain](B-weather/attribute) [on](B-datetime) [thursday](I-datetime)
+- should i bring an [umbrella](B-weather/attribute) [today](B-datetime) ?
+- what's the [weather](B-weather/noun) in [arizona](B-location) [today](B-datetime) ?
+- will the roads [freeze](B-weather/attribute) [tonight](B-datetime) ?
+- should i wear a [sweater](B-weather/attribute) [today](B-datetime) ?
+- when is the next [cloudy](B-weather/attribute) day
+- whats the [weather](B-weather/noun) [this](B-datetime) [week](I-datetime) ?
+- will it be [humid](B-weather/attribute)
+- what's the [temperature](B-weather/noun) in [arizona](B-location) [today](B-datetime) ?
+- are they saying that it's going to [rain](B-weather/attribute) at all [this](B-datetime) [weekend](I-datetime) ?
+- what will the [temperature](B-weather/noun) be [at](B-datetime) [6am](I-datetime) [tomorrow](I-datetime) ?
+- what time will the [storm](B-weather/attribute) hit [sheboygan](B-location) ?
+- should i wear [rain](B-weather/attribute) [boots](I-weather/attribute) [today](B-datetime) ?
+- what's the [temperature](B-weather/noun) right [now](B-datetime)
+- are the [clouds](B-weather/attribute) [out](B-location) [today](B-datetime)
+- what the [humidity](B-weather/attribute) going to be [tomorrow](B-datetime) ?
+- will i need an [umbrella](B-weather/attribute) [today](B-datetime) ?
+- what is the [climate](B-weather/noun) in [hawaii](B-location)
+- whats the low [for](B-datetime) [today](I-datetime)
+- is it going to [rain](B-weather/attribute) [today](B-datetime) in [my](B-location) [location](I-location) ?
+- what is the [weather](B-weather/noun) [forecast](I-weather/noun) [for](B-datetime) [this](I-datetime) [weekend](I-datetime) ?
+- how will [cold](B-weather/attribute) will it get in [montana](B-location) [tomorrow](B-datetime)
+- do i need to dress [warm](B-weather/attribute) [today](B-datetime) ?
+- what's the [weather](B-weather/noun) like in [seattle](B-location) ?
+- is it going to [snow](B-weather/attribute) [today](B-datetime) ?
+- what is the [humidity](B-weather/attribute) in [spokane](B-location) ?
+- do i need a [jacket](B-weather/attribute) [today](B-datetime)
+- [storm](B-weather/attribute) [today](B-datetime) ?
+- what is the chance of [snow](B-weather/attribute) [today](B-datetime) ?
+- are there [clear](B-weather/attribute) skies [all](B-datetime) [day](I-datetime) ?
+- what's the [weather](B-weather/noun) [for](B-datetime) [noon](I-datetime) ?
+- is it going to [sleet](B-weather/attribute) [tonight](B-datetime) ?
+- what is the [weather](B-weather/noun) like where my children [currently](B-datetime) live : [massachusetts](B-location) and [georgia](B-location)
+- will it be [hot](B-weather/attribute) [out](B-location) [today](B-datetime) ?
+- when is it going to [rain](B-weather/attribute) [this](B-datetime) [week](I-datetime)
+- when is is supposed to [rain](B-weather/attribute) ?
+- what is [the](B-datetime) [weekend](I-datetime) [weather](B-weather/noun) ?
+- what time will the [weather](B-weather/noun) be the [coolest](B-weather/attribute) [outside](B-location)
+- is it going to [snow](B-weather/attribute) [this](B-datetime) [weekend](I-datetime) ?
+- do i need [sunscreen](B-weather/attribute) ?
+- should i bring my [sweater](B-weather/attribute) to the game
+- whats the [temperature](B-weather/noun) [this](B-datetime) [saturday](I-datetime)
+- does the [forecast](B-weather/noun) call for [snow](B-weather/attribute) [tomorrow](B-datetime)
+- how is the [weather](B-weather/noun) in [new](B-location) [york](I-location) right [now](B-datetime)
+- will i need a [raincoat](B-weather/attribute) [today](B-datetime) ?
+- what's the [temperature](B-weather/noun) in [chicago](B-location) ?
+- how [hot](B-weather/attribute) will it get [today](B-datetime) ?
+- is it [hot](B-weather/attribute) [today](B-datetime) ?
+- what will be the lowest [temperature](B-weather/noun) [today](B-datetime) ?
+- what time will the [rain](B-weather/attribute) begin ?
+- is it [currently](B-datetime) [raining](B-weather/attribute) in [seattle](B-location) ?
+- is it going to be [cooler](B-weather/attribute) [tonight](B-datetime) ?
+- what's the [weather](B-weather/noun) looking like [for](B-datetime) [the](I-datetime) [rest](I-datetime) [of](I-datetime) [week](I-datetime) ?
+- how long is this [rain](B-weather/attribute) going to last ?
+- how [cold](B-weather/attribute) is it [outside](B-location) ?
+- how likely is it to [rain](B-weather/attribute) [tonight](B-datetime) ?
+- do i need an [umbrella](B-weather/attribute) [today](B-datetime) ?
+- do i need a [jacket](B-weather/attribute)
+- give me [the](B-datetime) [extended](I-datetime) [forecast](B-weather/noun) for [sacramento](B-location)
+- is it going to [rain](B-weather/attribute) ?
+- how should i dress according to the [weather](B-weather/noun) [today](B-datetime) ?
+- do i need a [jacket](B-weather/attribute) [this](B-datetime) [morning](I-datetime) ?
+- what is the chance of [thunderstorms](B-weather/attribute) [this](B-datetime) [weekend](I-datetime)
+- what will the [temperature](B-weather/noun) be [tonight](B-datetime) ?
+- what will be [today's](B-datetime) high ?
+- what is the [weather](B-weather/noun) at [disney](B-location) [world](I-location) right [now](B-datetime) ?
+- good sky coverage [today](B-datetime) ?
+- what is the [forecast](B-weather/noun) for [new](B-location) [york](I-location) [tomorrow](B-datetime)
+- will i need a [jacket](B-weather/attribute) [today](B-datetime) ?
+- are we expecting [dense](B-weather/attribute) [fog](I-weather/attribute) [in](B-datetime) [the](I-datetime) [morning](I-datetime) ?
+- let me know if i need an [umbrella](B-weather/attribute)
+- is there [hail](B-weather/attribute) in the [area](B-location) ?
+- will i need a [jacket](B-weather/attribute) [tomorrow](B-datetime)
+- is it going to [rain](B-weather/attribute) [tomorrow](B-datetime) ?
+- what is the predicted [weather](B-weather/noun) [for](B-datetime) [dec](I-datetime) [25](I-datetime) [,](I-datetime) [2017](I-datetime)
+- am i going to get [rained](B-weather/attribute) [on](B-datetime) [tonight](I-datetime) ?
+- what is the [weather](B-weather/noun) [forecast](I-weather/noun) [for](B-datetime) [this](I-datetime) [weekend](I-datetime) ?
+- do i need a [coat](B-weather/attribute) [today](B-datetime) ?
+- is [rain](B-weather/attribute) in the [forecast](B-weather/noun) [this](B-datetime) [week](I-datetime)
+- how [hot](B-weather/attribute) will it get [today](B-datetime)
+- what is [the](B-datetime) [10](I-datetime) [day](I-datetime) [forecast](B-weather/noun) ?
+- any [fog](B-weather/attribute) in the [forecast](B-weather/noun) ?
+- what is the [temperature](B-weather/noun) [tomorrow](B-datetime)
+- how [warm](B-weather/attribute) should i dress
+- will it [rain](B-weather/attribute) [tonight](B-datetime) ?
+- is it [cold](B-weather/attribute) is [lhasa](B-location) right [now](B-datetime) ?
+- will the [temperature](B-weather/noun) be [cool](B-weather/attribute) [today](B-datetime) ?
+- how [hot](B-weather/attribute) will the [temperature](B-weather/noun) be [today](B-datetime) ?
+- should i bring a [coat](B-weather/attribute) ?
+- what is the low [temperature](B-weather/noun) [today](B-datetime) ?
+- is it [cold](B-weather/attribute) [tonight](B-datetime) ?
+- how long will the sun be out [today](B-datetime) ?
+- show me the [forecast](B-weather/noun) [for](B-datetime) [tomorrow](I-datetime)
+- do i need my [winter](B-weather/attribute) [coat](I-weather/attribute) ?
+- how much longer is it going to [rain](B-weather/attribute) ?
+- what is the [snow](B-weather/attribute) [forecast](B-weather/noun) [for](B-datetime) [next](I-datetime) [week](I-datetime) ?
+- when is the highest [temperature](B-weather/noun) [today](B-datetime) ?
+- what is the [weather](B-weather/noun) [forecast](I-weather/noun) [for](B-datetime) [this](I-datetime) [sunday](I-datetime) at [new](B-location) [york](I-location) ?
+- what's [the](B-datetime) [current](I-datetime) [temperature](B-weather/noun) in [las](B-location) [vegas](I-location) ?
+- when is it suppose to begin to [rain](B-weather/attribute) [today](B-datetime) ?
+- how many inches of [rain](B-weather/attribute) will we be getting over [the](B-datetime) [next](I-datetime) [week](I-datetime)
+- is is going to be [cold](B-weather/attribute) [tomorrow](B-datetime) ?
+- will it [hail](B-weather/attribute) [today](B-datetime) ?
+- how's the [weather](B-weather/noun) at the [beach](B-location)
+- how [cold](B-weather/attribute) will it be [tomorrow](B-datetime)
+- what's the [temperature](B-weather/noun) [at](B-datetime) [7](I-datetime) [am](I-datetime) [tomorrow](I-datetime)
+- whats the [weather](B-weather/noun) in [houston](B-location)
+- pull up the [weather](B-weather/noun) [report](I-weather/noun) .
+- is it [raining](B-weather/attribute) in [denver](B-location)
+- should i bring my [umbrella](B-weather/attribute) ?
+- will it be [hot](B-weather/attribute) in [chicago](B-location) [next](B-datetime) [week](I-datetime) ?
+- what is the [weather](B-weather/noun) outlook [for](B-datetime) [next](I-datetime) [weekend](I-datetime) ?
+- should i wear a [jacket](B-weather/attribute) ?
+- will the sun be out [this](B-datetime) [afternoon](I-datetime)
+- hows the [weather](B-weather/noun) going to be [next](B-datetime) [monday](I-datetime) ?
+- what is [the](B-datetime) [current](I-datetime) [temperature](B-weather/noun) ?
+- is it going to [rain](B-weather/attribute) or be [sunny](B-weather/attribute) ?
+- [weather](B-weather/noun) , [76120](B-location)
+- what is the [forecast](B-weather/noun) [for](B-datetime) [next](I-datetime) [week](I-datetime) in [shreveport](B-location) [,](I-location) [la](I-location) ?
+- is there any [storm](B-weather/noun) [warnings](I-weather/noun)
+- will i need a [hat](B-weather/attribute) [today](B-datetime) ?
+- how [hot](B-weather/attribute) is it [today](B-datetime) ?
+- are we getting [rain](B-weather/attribute) [tomorrow](B-datetime) ?
+- [temperature](B-weather/noun) [today](B-datetime) in [phoenix](B-location)
+- should i anticipate [rain](B-weather/attribute) [for](B-datetime) [this](I-datetime) [weekend](I-datetime) ?
+- should i wear a [jacket](B-weather/attribute) ?
+- what is the high [today](B-datetime)
+- what is the [weather](B-weather/noun) like in [scotland](B-location) ?
+- what is the [temperature](B-weather/noun)
+- what's the [forecast](B-weather/noun) [for](B-datetime) [the](I-datetime) [next](I-datetime) [10](I-datetime) [days](I-datetime) ?
+- [next](B-datetime) [week](I-datetime) [weather](B-weather/noun) [here](B-location)
+- how [cloudy](B-weather/attribute) will it be [today](B-datetime) ?
+- should i bring a [jacket](B-weather/attribute)
+- will it [snow](B-weather/attribute) [tonight](B-datetime) ?
+- what is the [weather](B-weather/noun) in [russia](B-location)
+- what is the [weather](B-weather/noun) [currently](B-datetime) like in [beijing](B-location) ?
+- [current](B-datetime) [temperature](B-weather/noun) in [plainfield](B-location) ?
+- will it be [rainy](B-weather/attribute) [at](B-datetime) [10pm](I-datetime) [tonight](I-datetime) ?
+- what is the [weather](B-weather/noun) in [savannah](B-location) [for](B-datetime) [monday](I-datetime) ?
+- is there a [storm](B-weather/attribute) coming my way ?
+- do i need [gloves](B-weather/attribute) and a [scarf](B-weather/attribute) [today](B-datetime)
+- will it be [cloudy](B-weather/attribute) [today](B-datetime) ?
+- how should i dress [today](B-datetime) ?
+- what's it like [outside](B-location)
+- is it going to stay [cloudy](B-weather/attribute) ?
+- is there a [tropical](B-weather/attribute) [storm](I-weather/attribute) brewing on the [southeast](B-location) [coast](I-location) ?
+- is it going to [rain](B-weather/attribute) [this](B-datetime) [week](I-datetime)
+- [weather](B-weather/noun) near [me](B-location)
+- what is the [temperature](B-weather/noun) [today](B-datetime)
+- what are the [weather](B-weather/noun) conditions in [galveston](B-location) [today](B-datetime) ?
+- is any [ice](B-weather/attribute) expected [today](B-datetime) in [my](B-location) [location](I-location) ?
+- what's [the](B-datetime) [7](I-datetime) [day](I-datetime) [forecast](B-weather/noun) ?
+- what [about](B-datetime) [friday](I-datetime) ? what are the [temps](B-weather/noun) for that ?
+- what [shoes](B-weather/attribute) should i wear [today](B-datetime) that [work](B-location) best in the [weather](B-weather/noun) ?
+- should i wear [shorts](B-weather/attribute) [tomorrow](B-datetime) ?
+- is it going to [hail](B-weather/attribute)
+- expect sun [for](B-datetime) [today](I-datetime) ?
+- is there [thunderstorms](B-weather/attribute) in the [forecast](B-weather/noun) for later [this](B-datetime) [evening](I-datetime) ?
+- is it going to [rain](B-weather/attribute)
+- what's the [weather](B-weather/noun) [forecast](I-weather/noun) for [nashville](B-location) [on](B-datetime) [september](I-datetime) [9](I-datetime) ?
+- is it going to be [cloudy](B-weather/attribute) [on](B-datetime) [friday](I-datetime) ?
+- what will the [temperature](B-weather/noun) be on the 29th ?
+- when will it [rain](B-weather/attribute)
+- what will the [temperature](B-weather/noun) be [at](B-datetime) [noon](I-datetime) ?
+- is it supposed to [rain](B-weather/attribute) [this](B-datetime) [weekend](I-datetime) ?
+- what is the [weather](B-weather/noun) like [today](B-datetime) ?
+- is there [freezing](B-weather/attribute) [rain](I-weather/attribute) in the [forecast](B-weather/noun)
+- is it going to [rain](B-weather/attribute) [this](B-datetime) [afternoon](I-datetime) ?
+- [this](B-datetime) [week's](I-datetime) [weather](B-weather/noun) in [houston](B-location)
+- will there be [lightning](B-weather/attribute) [tomorrow](B-datetime) ?
+- how much [rain](B-weather/attribute) are we expecting in [nashville](B-location) [today](B-datetime) ?
+- how much [snow](B-weather/attribute) should i expect [next](B-datetime) [week](I-datetime) ?
+- is there a chance of [snow](B-weather/attribute) [tomorrow](B-datetime) ?
+- how many inches of [snow](B-weather/attribute) did we get [this](B-datetime) [morning](I-datetime) ?
+- what is the [weather](B-weather/noun) in [ohio](B-location) [in](B-datetime) [the](I-datetime) [next](I-datetime) [hour](I-datetime) ?
+- [forecast](B-weather/noun) [for](B-datetime) [this](I-datetime) [weekend](I-datetime) please .
+- will it [rain](B-weather/attribute) [tomorrow](B-datetime) ?
+- what is the [temperature](B-weather/noun) right [now](B-datetime) ?
+- how [humid](B-weather/attribute) is it [outside](B-location) ?
+- tell me should i carry a [overcoat](B-weather/attribute) with me [today](B-datetime) ?
+- chance of [snow](B-weather/attribute)
+- is there a chance of [rain](B-weather/attribute) [tomorrow](B-datetime)
+- what is [the](B-datetime) [5](I-datetime) [day](I-datetime) [forecast](B-weather/noun) ?
+- will it [rain](B-weather/attribute) [today](B-datetime)
+- what does the [weather](B-weather/noun) look like [for](B-datetime) [next](I-datetime) [week](I-datetime) ?
+- what is the [heat](B-weather/attribute) [index](I-weather/attribute) [for](B-datetime) [today](I-datetime)
+- how [hot](B-weather/attribute) will it be [today](B-datetime) ?
+- is it going to [snow](B-weather/attribute) [this](B-datetime) [week](I-datetime)
+- will it be [sunny](B-weather/attribute) [next](B-datetime) [weekend](I-datetime) ?
+- shall i bring a [sweater](B-weather/attribute) or a [bikini](B-weather/attribute) to the [cannon](B-location) [beach](I-location) [today](B-datetime) ?
+- how much [rain](B-weather/attribute) [next](B-datetime) [week](I-datetime) ?
+- [sweater](B-weather/attribute) or no sweater ?
+- what does the [weather](B-weather/noun) look like [for](B-datetime) [3pm](I-datetime) [today](I-datetime)
+- should i wear my [winter](B-weather/attribute) [coat](I-weather/attribute) [next](B-datetime) [week](I-datetime) ?
+- is it going to [rain](B-weather/attribute) [next](B-datetime) [week](I-datetime)
+- tell me what it will [rain](B-weather/attribute) .
+- will it be [windy](B-weather/attribute) [this](B-datetime) [evening](I-datetime) in [san](B-location) [diego](I-location) ?
+- how is the [weather](B-weather/noun) in [waterford](B-location) ?
+- is it [raining](B-weather/attribute) in [london](B-location) when i land [at](B-datetime) [1](I-datetime) [p.m](I-datetime) [.](I-datetime) local time ?
+- what is the [weather](B-weather/noun) in [orlando](B-location) ?
+- chances of [snow](B-weather/attribute) [tomorrow](B-datetime)
+- should i bring a [jacket](B-weather/attribute) ?
+- what is the long term [forecast](B-weather/noun) for [tampa](B-location) ?
+- are the [winds](B-weather/attribute) bad [today](B-datetime)
+- do i need to wear a [sweater](B-weather/attribute) [tomorrow](B-datetime) ?
+- is it going to [rain](B-weather/attribute) [tomorrow](B-datetime) ?
+- tell me about the [weather](B-weather/noun) [on](B-datetime) [saturday](I-datetime) .
+- when is it supposed to stop [raining](B-weather/attribute) [this](B-datetime) [week](I-datetime) ?
+- [weekly](B-datetime) [snow](B-weather/attribute) [forecast](B-weather/noun)
+- should i bring an [umbrella](B-weather/attribute) ?
+- what are [the](B-datetime) [current](I-datetime) [weather](B-weather/noun) conditions in [europe](B-location) ?
+- is it [raining](B-weather/attribute) in [minneapolis](B-location) right [now](B-datetime) ?
+- should i bring a [jacket](B-weather/attribute) [today](B-datetime) ?
+- what is [the](B-datetime) [10](I-datetime) [day](I-datetime) [forecast](B-weather/noun) for [bear](B-location) [butte](I-location) [mountain](I-location) ?
+- [weather](B-weather/noun) is [dubai](B-location)
+- what are the [temperature](B-weather/noun) ranges [for](B-datetime) [tomorrow](I-datetime)
+- are we getting [rain](B-weather/attribute) [today](B-datetime) ?
+- how is [monday](B-datetime) [weather](B-weather/noun) looking
+- show me [danvers](B-location) [10](B-datetime) [day](I-datetime) [forecast](B-weather/noun)
+- is it [raining](B-weather/attribute)
+- what is the lowest [temperature](B-weather/noun) [tonight](B-datetime) ?
+- will it [snow](B-weather/attribute) [today](B-datetime)
+- what is [the](B-datetime) [3](I-datetime) [day](I-datetime) [forecast](B-weather/noun)
+- will it be [hot](B-weather/attribute) [today](B-datetime) ?
+- how is the [weather](B-weather/noun) in buffalo [today](B-datetime) ?
+- what's the [heat](B-weather/attribute) [index](I-weather/attribute) in [las](B-location) [vegas](I-location)
+- will it be [raining](B-weather/attribute) when i leave [work](B-location)
+- how [cold](B-weather/attribute) does it get in [las](B-location) [vegas](I-location)
+- is there a chance of [thunderstorms](B-weather/attribute) [this](B-datetime) [week](I-datetime) ?
+- what is the [weather](B-weather/noun) like in [japan](B-location) ?
+- did it [hail](B-weather/attribute) in [reno](B-location) [this](B-datetime) [afternoon](I-datetime) ?
+- is it going to [rain](B-weather/attribute) in [seattle](B-location) [tomorrow](B-datetime)
+- what will the [temperature](B-weather/noun) be [tomorrow](B-datetime)
+- do i need my [gloves](B-weather/attribute) ?
+- is it [cold](B-weather/attribute) [out](B-location)
+- what is the [forecast](B-weather/noun) [for](B-datetime) [the](I-datetime) [next](I-datetime) [10](I-datetime) [days](I-datetime) in [harford](B-location) ?
+- how many inches of [rain](B-weather/attribute) are expected
+- any predictions for [rain](B-weather/attribute) in [my](B-location) [area](I-location) [this](B-datetime) [week](I-datetime) .
+- what is the [weather](B-weather/noun) in [spokane](B-location) [,](I-location) [washington](I-location) ?
+- is it going to [snow](B-weather/attribute) in [hackettstown](B-location) [today](B-datetime)
+- high [temperature](B-weather/noun) [tomorrow](B-datetime) ?
+- will it be [sunny](B-weather/attribute) in [florida](B-location) [tomorrow](B-datetime) ?
+- what is the [weather](B-weather/noun) like in [seattle](B-location) [today](B-datetime) ?
+- are we expected to get a [frost](B-weather/attribute) anytime within [the](B-datetime) [next](I-datetime) [week](I-datetime) ?
+- will i need a [sweater](B-weather/attribute) [this](B-datetime) [morning](I-datetime) ?
+- is it going to be [cloudy](B-weather/attribute) [here](B-location) [all](B-datetime) [day](I-datetime) ?
+- is there [fog](B-weather/attribute) ?
+- can i be wearing [shorts](B-weather/attribute)
+- is it going to [rain](B-weather/attribute) [today](B-datetime) ?
+- do i need my [rain](B-weather/attribute) [boots](I-weather/attribute) [today](B-datetime)
+- what is the [weather](B-weather/noun) like in [abington](B-location) [.](I-location) [pa](I-location) ?
+- what are [the](B-datetime) [weekend](I-datetime) [rain](B-weather/attribute) chances
+- will it [rain](B-weather/attribute) [on](B-datetime) [saturday](I-datetime) ?
+- which day [next](B-datetime) [week](I-datetime) will be the [sunniest](B-weather/attribute) ?
+- what's the [forecast](B-weather/noun) [for](B-datetime) [the](I-datetime) [weekend](I-datetime) ?
+- do i need to wear a [coat](B-weather/attribute) [today](B-datetime) ?
+- what is the [weather](B-weather/noun) in [hawaii](B-location)
+- what's the [temperature](B-weather/noun) in [boston](B-location) ?
+- what is the [forecast](B-weather/noun) [for](B-datetime) [the](I-datetime) [next](I-datetime) [three](I-datetime) [days](I-datetime) ?
+- is there a [rain](B-weather/attribute) chance [tomorrow](B-datetime) ?
+- how [cold](B-weather/attribute) will it be [today](B-datetime)
+- what's [friday's](B-datetime) [forecast](B-weather/noun)
+- is there a [hurricane](B-weather/attribute)
+- is it [raining](B-weather/attribute) in [waco](B-location) ?
+- should i bring [snow](B-weather/attribute) [boots](I-weather/attribute) ?
+- is it really [hot](B-weather/attribute) right [now](B-datetime) ?
+- how [cold](B-weather/attribute) is it ?
+- do i need a [coat](B-weather/attribute) for [new](B-location) [york](I-location) [next](B-datetime) [week](I-datetime)
+- what is the [weather](B-weather/noun) in [new](B-location) [york](I-location) [city](I-location) [today](B-datetime)
+- is there a [thunderstorm](B-weather/attribute) happening [this](B-datetime) [weekend](I-datetime) ?
+- is there [rain](B-weather/attribute) in the [forecast](B-weather/noun) [today](B-datetime) ?
+- any threat of severe [weather](B-weather/noun) [today](B-datetime) ?
+- tell me the chances of a [hurricane](B-weather/attribute) .
+- will i need a [coat](B-weather/attribute) [today](B-datetime)
+- what day [this](B-datetime) [week](I-datetime) will be ideal to go to the [beach](B-location)
+- are the roads [icy](B-weather/attribute) ?
+- what is the [weather](B-weather/noun) going to be like in [westminster](B-location) [on](B-datetime) [thursday](I-datetime) [at](I-datetime) [3](I-datetime) [pm](I-datetime)
+- is there a chance for [hailstorms](B-weather/attribute) [today](B-datetime) ?
+- what is [daytona's](B-location) [uv](B-weather/attribute) [index](I-weather/attribute) ?
+- should i bring a [jacket](B-weather/attribute) with me [today](B-datetime)
+- how [hot](B-weather/attribute) is it going to be in [phoenix](B-location) [this](B-datetime) [weekend](I-datetime)
+- do i need a [coat](B-weather/attribute) [today](B-datetime)
+- how [windy](B-weather/attribute) is it going to be [tomorrow](B-datetime)
+- what will be the high [on](B-datetime) [friday](I-datetime) ?
+- what is the low [temperature](B-weather/noun) [for](B-datetime) [today](I-datetime) ?
+- what is the [temperature](B-weather/noun) [outside](B-location)
+- how [windy](B-weather/attribute) is it going to be [today](B-datetime) ?
+- will i need a light [jacket](B-weather/attribute) ?
+- what is the [forecast](B-weather/noun) for [orlando](B-location) [,](I-location) [florida](I-location) ?
+- what is the [temperature](B-weather/noun) in [london](B-location) in [farenheit](B-weather/temperatureUnit) [today](B-datetime) ?
+- how [hot](B-weather/attribute) will it get ?
+- any chance of [rain](B-weather/attribute) [this](B-datetime) [morning](I-datetime) ?
+- is it [cold](B-weather/attribute) in [new](B-location) [york](I-location) [city](I-location) ?
+- how [hot](B-weather/attribute) will it be in [cuba](B-location)
+- will it [rain](B-weather/attribute) [in](B-datetime) [the](I-datetime) [next](I-datetime) [week](I-datetime) ?
+- how [cold](B-weather/attribute) is it going to be [tonight](B-datetime) ?
+- is [friday](B-datetime) a [nice](B-weather/attribute) day for the [beach](B-location)
+- what's the high [today](B-datetime) ?
+- whats the high [today](B-datetime)
+- should i wear a [hat](B-weather/attribute) ?
+- what is the [temperature](B-weather/noun) [today](B-datetime) in [dallas](B-location) ?
+- what is the [humidity](B-weather/attribute)
+- will i need a [jacket](B-weather/attribute) [on](B-datetime) [friday](I-datetime) ?
+- [stormy](B-weather/attribute) [outside](B-location) ?
+- is it going to [rain](B-weather/attribute) [in](B-datetime) [the](I-datetime) [next](I-datetime) [three](I-datetime) [days](I-datetime) ?
+- what's [next](B-datetime) [week's](I-datetime) [forecast](B-weather/noun) for [chicago](B-location) ?
+- what is the chance of [rain](B-weather/attribute)
+- [weather](B-weather/noun) [next](B-datetime) [week](I-datetime) .
+- should i bring a [sun](B-weather/attribute) [hat](I-weather/attribute) ?
+- how much [snow](B-weather/attribute) are we supposed to get [tomorrow](B-datetime) ?
+- what's the [weather](B-weather/noun) in [philly](B-location) [at](B-datetime) [9am](I-datetime) ?
+- should i bring a [sweatshirt](B-weather/attribute) [today](B-datetime)
+- what time will it start [raining](B-weather/attribute) [tomorrow](B-datetime) ?
+- is it going to [rain](B-weather/attribute) [on](B-datetime) [monday](I-datetime) [of](I-datetime) [next](I-datetime) [week](I-datetime) ?
+- will it [rain](B-weather/attribute) [today](B-datetime) in the [porcupine](B-location) [mountains](I-location) ?
+- is it going to be [sunny](B-weather/attribute) [today](B-datetime) ?
+- do i need to bring an [umbrella](B-weather/attribute) [today](B-datetime) ?
+- will the [weather](B-weather/noun) be decent [tomorrow](B-datetime) ?
+- what is the [temperature](B-weather/noun) in [paris](B-location) ?
+- will it be [cold](B-weather/attribute) [next](B-datetime) [wednesday](I-datetime) ?
+- can i expect it to [warm](B-weather/attribute) up [this](B-datetime) [weekend](I-datetime) ?
+- is it [hot](B-weather/attribute) in [florida](B-location)
+- do i need my [winter](B-weather/attribute) [coat](I-weather/attribute) [today](B-datetime) ?
+- how much [rain](B-weather/attribute) will we get
+- will it [rain](B-weather/attribute) [today](B-datetime) ?
+- how high is [today's](B-datetime) [temperature](B-weather/noun) supposed to be ?
+- what is the chance of [rain](B-weather/attribute) [next](B-datetime) [wednesday](I-datetime) ?
+- [weather](B-weather/noun) [outside](B-location) .
+- what where the [winds](B-weather/attribute) [gusts](I-weather/attribute) up [to](B-datetime) [today](I-datetime) ?
+- is it going to be [sunny](B-weather/attribute) [today](B-datetime) ?
+- [today's](B-datetime) [forecast](B-weather/noun)
+- will it be [sunny](B-weather/attribute) [this](B-datetime) [week](I-datetime)
+- what is the [weather](B-weather/noun) in [alaska](B-location) [in](B-datetime) [march](I-datetime)
+- what's [today's](B-datetime) high
+- do i need a [sweatshirt](B-weather/attribute) [today](B-datetime) in [phoenix](B-location)
+- are we expecting [snow](B-weather/attribute) in [my](B-location) [area](I-location) ?
+- how much will it [rain](B-weather/attribute) [today](B-datetime) ?
+- what is the [heat](B-weather/attribute) [index](I-weather/attribute) [for](B-datetime) [today](I-datetime) ?
+- is it going to [rain](B-weather/attribute) [this](B-datetime) [weekend](I-datetime) ?
+- will it be [sunny](B-weather/attribute) [all](B-datetime) [day](I-datetime) ?
+- hows the [weather](B-weather/noun) [this](B-datetime) [week](I-datetime)
+- is [rain](B-weather/attribute) in the [forecast](B-weather/noun) ?
+- how much [rain](B-weather/attribute) is expected to fall [today](B-datetime) ?
+- what is the [forecast](B-weather/noun) [for](B-datetime) [next](I-datetime) [week](I-datetime) ?
+- are we expecting a [heat](B-weather/attribute) [wave](I-weather/attribute) [next](B-datetime) [week](I-datetime) ?
+- is it going to be over 90 [today](B-datetime) ?
+- how [hot](B-weather/attribute) will it be in [washington](B-location) [state](I-location) [today](B-datetime) ?
+- read me the most updated [weather](B-weather/noun) [report](I-weather/noun) .
+- whats the [weather](B-weather/noun) ?
+- will it be [warm](B-weather/attribute) [all](B-datetime) [week](I-datetime) ?
+- what is the [forecast](B-weather/noun) for [brooklyn](B-location) [on](B-datetime) [wednesday](I-datetime) ?
+- how's the [weather](B-weather/noun) in [orlando](B-location)
+- give me the [weather](B-weather/noun)
+- what's the [weather](B-weather/noun)
+- is it going to be [cold](B-weather/attribute) [tomorrow](B-datetime) ?
+- is there [rain](B-weather/attribute) in the [forecast](B-weather/noun) [for](B-datetime) [the](I-datetime) [weekend](I-datetime) ?
+- is it [cold](B-weather/attribute) [today](B-datetime)
+- is it going to be [chilly](B-weather/attribute) [tonight](B-datetime) ?
+- will the [temperature](B-weather/noun) be [more](B-weather/attribute) [than](I-weather/attribute) [100](I-weather/attribute) [degrees](B-weather/noun)
+- tell me the highest [temperature](B-weather/noun) [for](B-datetime) [today](I-datetime)
+- is it [beach](B-location) [weather](B-weather/noun) [for](B-datetime) [tomorrow](I-datetime) ?
+- will it be [windy](B-weather/attribute) ?
+- what is the [hottest](B-weather/attribute) day [this](B-datetime) [week](I-datetime) ?
+- is [snow](B-weather/attribute) in the [forecast](B-weather/noun) over the course of [the](B-datetime) [next](I-datetime) [4](I-datetime) [days](I-datetime)
+- when will it be [dry](B-weather/attribute) ?
+- whats the [hottest](B-weather/attribute) time of [the](B-datetime) [day](I-datetime) [today](I-datetime)
+- any [snow](B-weather/attribute) in the [forecast](B-weather/noun) ?
+- how does the [weather](B-weather/noun) feel [outside](B-location) right [now](B-datetime)
+- is it going to [rain](B-weather/attribute) [tomorrow](B-datetime) ?
+- is it going to [rain](B-weather/attribute) [tomorrow](B-datetime)
+- what's the [weather](B-weather/noun) in [colorado](B-location) [in](B-datetime) [october](I-datetime) ?
+- what is the [weather](B-weather/noun) [forecast](I-weather/noun) for [denver](B-location) [next](B-datetime) [week](I-datetime)
+- will [trinidad](B-location) be [humid](B-weather/attribute) [next](B-datetime) [week](I-datetime) ?
+- is it going to [rain](B-weather/attribute) [this](B-datetime) [weekend](I-datetime) ?
+- chance of [rain](B-weather/attribute)
+- is there a [storm](B-weather/attribute) coming
+- can i skip the [jacket](B-weather/attribute) [tonight](B-datetime) , or is it gonna get [chilly](B-weather/attribute) ?
+- is it supposed to be [hot](B-weather/attribute) [this](B-datetime) [weekend](I-datetime)
+- is it going to be [humid](B-weather/attribute) [today](B-datetime)
+- what is the [temperature](B-weather/noun) in [toledo](B-location)
+- is it going to be [hot](B-weather/attribute) [out](B-location) [today](B-datetime)
+- what is [today's](B-datetime) [temperature](B-weather/noun) in [new](B-location) [york](I-location) [city](I-location)
+- is it [raining](B-weather/attribute) right [now](B-datetime) in [new](B-location) [york](I-location)
+- what is the [weather](B-weather/noun) ?
+- will we ever see the sun ?
+- is it [snowing](B-weather/attribute) in [tibet](B-location) ?
+- when will it be [sunny](B-weather/attribute) again ?
+- what's the high and low [temperature](B-weather/noun) [for](B-datetime) [today](I-datetime) ?
+- will it [rain](B-weather/attribute) [overnight](B-datetime) ?
+- is it going to be [hot](B-weather/attribute) [today](B-datetime) ?
+- will it [snow](B-weather/attribute) or [rain](B-weather/attribute) [today](B-datetime) ?
+- is it [snowing](B-weather/attribute) in [new](B-location) [york](I-location)
+- how's the [weather](B-weather/noun) ?
+- what is [tonight's](B-datetime) [weather](B-weather/noun) ?
+- should i pack an [umbrella](B-weather/attribute) [today](B-datetime) ?
+- what is the [weather](B-weather/noun) looking like [tomorrow](B-datetime)
+- what's the [humidity](B-weather/attribute) like [outside](B-location) ?
+- what is the [weather](B-weather/noun) [for](B-datetime) [the](I-datetime) [next](I-datetime) [3](I-datetime) [days](I-datetime)
+- is there [rain](B-weather/attribute) in the [forecast](B-weather/noun) [this](B-datetime) [weekend](I-datetime) ?
+- do i need to bring an [umbrella](B-weather/attribute) ?
+- what will be the [weather](B-weather/noun) like in [taiwan](B-location) [next](B-datetime) [month](I-datetime) ?
+- do i need an [umbrella](B-weather/attribute) ?
+- [weather](B-weather/noun) in [san](B-location) [francisco](I-location) [on](B-datetime) [friday](I-datetime)
+- will it be [sunny](B-weather/attribute) [tomorrow](B-datetime) ?
+- should i wear my [rainboots](B-weather/attribute) [today](B-datetime)
+- chance of [snow](B-weather/attribute) [for](B-datetime) [tomorrow](I-datetime)
+- whats the [forecast](B-weather/noun) in [california](B-location)
+- what is the [humidity](B-weather/attribute) ?
+- how strong are the [winds](B-weather/attribute) [today](B-datetime)
+- i'm hoping it won't [rain](B-weather/attribute) [today](B-datetime) , what does it look like ?
+- what does the [weather](B-weather/noun) look like [for](B-datetime) [the](I-datetime) [next](I-datetime) [week](I-datetime) ?
+- what is the [hottest](B-weather/attribute) day of [the](B-datetime) [week](I-datetime) in [miami](B-location) ?
+- what will the [temperature](B-weather/noun) be [on](B-datetime) [tuesday](I-datetime)
+- high [today](B-datetime)
+- [tomorrow's](B-datetime) [forecast](B-weather/noun) in [des](B-location) [moines](I-location) .
+- tell me the chance of [rain](B-weather/attribute) [tonight](B-datetime)
+- should i bring an [umbrella](B-weather/attribute) ?
+- what is the percentage of [rain](B-weather/attribute) [today](B-datetime)
+- what is the [forecast](B-weather/noun) [for](B-datetime) [wednesday](I-datetime) ?
+- what is the [forecast](B-weather/noun) [for](B-datetime) [the](I-datetime) [rest](I-datetime) [of](I-datetime) [the](I-datetime) [week](I-datetime) ?
+- what is [the](B-datetime) [10](I-datetime) [day](I-datetime) [forecast](B-weather/noun) ?
+- whats the [temperature](B-weather/noun) [this](B-datetime) [weekend](I-datetime)
+- what time is it going to [rain](B-weather/attribute) ?
+- what will the real feel be [tonight](B-datetime)
+- will there be severe [weather](B-weather/noun) [today](B-datetime) ?
+- [hottest](B-weather/attribute) [time](B-weather/noun) [today](B-datetime)
+- what is the low [temperature](B-weather/noun) [today](B-datetime)
+- should i bring an [umbrella](B-weather/attribute) with me [today](B-datetime) ?
+- will the [temperatures](B-weather/noun) drop as [the](B-datetime) [day](I-datetime) goes on [here](B-location) ?
+- what's the chance of [rain](B-weather/attribute) [tomorrow](B-datetime)
+- will the [weather](B-weather/noun) [warm](B-weather/attribute) up [during](B-datetime) [the](I-datetime) [day](I-datetime) ?
+- how [hot](B-weather/attribute) is it in [az](B-location) ?
+- how is the [weather](B-weather/noun) [today](B-datetime) ?
+- will it [rain](B-weather/attribute) in [texas](B-location) [today](B-datetime)
+- what is the [temp](B-weather/noun) in [louisianna](B-location) [today](B-datetime)
+- what [temperature](B-weather/noun) will it be [tomorrow](B-datetime) [at](I-datetime) [6am](I-datetime) ?
+- should i bring an [umbrella](B-weather/attribute) [today](B-datetime) ?
+- is it [colder](B-weather/attribute) on the [beach](B-location) than it is at [my](B-location) [location](I-location) ?
+- will the [temperature](B-weather/noun) drop [this](B-datetime) [evening](I-datetime) ?
+- is there [snow](B-weather/attribute) in the [forecast](B-weather/noun) ?
+- what is the [forecast](B-weather/noun)
+- what is the high [temperature](B-weather/noun) [for](B-datetime) [today](I-datetime) ?
+- [weather](B-weather/noun) overview [today](B-datetime)
+- do i need [gloves](B-weather/attribute) to go [outside](B-location) [today](B-datetime)
+- should i bring an [umbrella](B-weather/attribute) [tonight](B-datetime) ?
+- is it going to [rain](B-weather/attribute) [today](B-datetime)
+- how [hot](B-weather/attribute) is it [today](B-datetime)
+- what is the high [temp](B-weather/noun) [today](B-datetime)
+- will it [freeze](B-weather/attribute) [tomorrow](B-datetime)
+- will it [snow](B-weather/attribute) [tomorrow](B-datetime) ?
+- will it be [sunny](B-weather/attribute) [on](B-datetime) [saturday](I-datetime)
+- what will be the [weather](B-weather/noun) [next](B-datetime) [hour](I-datetime) ?
+- is it [cold](B-weather/attribute) enough for a [jacket](B-weather/attribute) ?
+- is it going to be [windy](B-weather/attribute) ?
+- what is the [forecast](B-weather/noun) [for](B-datetime) [today](I-datetime)
+- do i need a [sweater](B-weather/attribute) [today](B-datetime) ?
+- is it [muggy](B-weather/attribute) [outside](B-location) ?
+- am i going to need an [umbrella](B-weather/attribute) [today](B-datetime) ?
+- any update on the [hurricane](B-weather/attribute) ?
+- what's the [weather](B-weather/noun) like in [new](B-location) [york](I-location) [city](I-location) ?
+- how [hot](B-weather/attribute) is it going to be [today](B-datetime) ?
+- i want to go for an early walk [on](B-datetime) [sunday](I-datetime) . can you please tell me the [weather](B-weather/noun) [forecast](I-weather/noun) [for](B-datetime) [the](I-datetime) [weekend](I-datetime) ?
+- is it going to [rain](B-weather/attribute) in [tampa](B-location) [tomorrow](B-datetime) ?
+- is it [cold](B-weather/attribute) [outside](B-location)
+- what is the [humidity](B-weather/attribute) percentage [today](B-datetime) ?
+- what is the [temperature](B-weather/noun) [this](B-datetime) [saturday](I-datetime) ?
+- will i need an [umbrella](B-weather/attribute) [today](B-datetime)
+- what is the [hottest](B-weather/attribute) day [this](B-datetime) [week](I-datetime) ?
+- will it [rain](B-weather/attribute) [this](B-datetime) [weekend](I-datetime)
+- what are the chances of [precipitation](B-weather/attribute) [today](B-datetime) ?
+- will it [snow](B-weather/attribute) ?
+- whats the [temperature](B-weather/noun) in [tokyo](B-location) [,](I-location) [japan](I-location) [today](B-datetime) ?
+- is it [umbrella](B-weather/attribute) [weather](B-weather/noun) ?
+- is it going to [snow](B-weather/attribute) [tomorrow](B-datetime) ?
+- what is the [weather](B-weather/noun) at [six](B-location) [flags](I-location) [this](B-datetime) [afternoon](I-datetime) ?
+- do i need to wear a [jacket](B-weather/attribute) [on](B-datetime) [tuesday](I-datetime) ?
+- what's the [weather](B-weather/noun) like [today](B-datetime) ?
+- going to [flordia](B-location) [next](B-datetime) [week](I-datetime) what should i bring to wear
+- what's the [weather](B-weather/noun) like in [alabama](B-location) ?
+- what is the [weather](B-weather/noun) like [on](B-datetime) [tuesday](I-datetime)
+- what is [today's](B-datetime) [weather](B-weather/noun) [forecast](I-weather/noun) ?
+- is it [hot](B-weather/attribute)
+- is it [raining](B-weather/attribute) in [idaho](B-location) [today](B-datetime)
+- is their [rain](B-weather/attribute) in the [forecast](B-weather/noun) [this](B-datetime) [week](I-datetime) ?
+- will it be [sunny](B-weather/attribute) [tomorrow](B-datetime) ?
+- how many inches of [snow](B-weather/attribute)
+- [forecast](B-weather/noun) [for](B-datetime) [next](I-datetime) [weekend](I-datetime)
+- how much [rain](B-weather/attribute) are we expected to get
+- should i wear [shorts](B-weather/attribute) [today](B-datetime) ?
+- is it going to be [cloudy](B-weather/attribute) [today](B-datetime) ?
+- any [storms](B-weather/attribute) in the [weather](B-weather/noun) [this](B-datetime) [week](I-datetime)
+- what is the [weather](B-weather/noun) like in [oklahoma](B-location) ?
+- should i cover up my [plants](B-weather/attribute) ?
+- should i go [out](B-location) with an [umbrella](B-weather/attribute) [today](B-datetime) ?
+- will there be [snow](B-weather/attribute) day [today](B-datetime) ?
+- what time is it going to [rain](B-weather/attribute) ?
+- will it [rain](B-weather/attribute) [today](B-datetime) ?
+- how [hot](B-weather/attribute) will it be [today](B-datetime)
+- is it [hot](B-weather/attribute) [today](B-datetime)
+- should i wear a [raincoat](B-weather/attribute) ?
+- should we wear [winter](B-weather/attribute) [clothes](I-weather/attribute) ?
+- what will be the highest [temperature](B-weather/noun) [today](B-datetime)
+- is there a [tropical](B-weather/attribute) [system](I-weather/attribute) coming ?
+- is there [snow](B-weather/attribute) [today](B-datetime) ?
+- what is the [temperature](B-weather/noun) in [boca](B-location) [raton](I-location) ?
+- how much [snow](B-weather/attribute) are we going to get [today](B-datetime) ?
+- will it [rain](B-weather/attribute) at [south](B-location) [padre](I-location) [island](I-location) [today](B-datetime)
+- it's going to be [warm](B-weather/attribute) [tomorrow](B-datetime)
+- is it going to [rain](B-weather/attribute) [next](B-datetime) [week](I-datetime) ?
+- is it [windy](B-weather/attribute)
+- will i need to wear [rain](B-weather/attribute) [boots](I-weather/attribute) [on](B-datetime) [saturday](I-datetime)
+- is there a [tornado](B-weather/attribute) [nearby](B-location)
+- is it going to [snow](B-weather/attribute)
+- will there be [rain](B-weather/attribute) [tomorrow](B-datetime) ?
+- should i bring an [umbrella](B-weather/attribute) ?
+- what is [tomorrow's](B-datetime) [forecast](B-weather/noun) ?
+- what is the [temperature](B-weather/noun) [for](B-datetime) [tuesday](I-datetime) ?
+- what will the [weather](B-weather/noun) in [big](B-location) [sur](I-location) be like [this](B-datetime) [weekend](I-datetime) ?
+- can i wear [shorts](B-weather/attribute) [today](B-datetime) ?
+- how strong are the [winds](B-weather/attribute) going to be ?
+- feels like [temperature](B-weather/noun) [today](B-datetime) .
+- will we have [clear](B-weather/attribute) skies [today](B-datetime) or will it be [cloudy](B-weather/attribute)
+- what is the [temperature](B-weather/noun) going to be like [next](B-datetime) [week](I-datetime) ?
+- when is the [hottest](B-weather/attribute) time of [the](B-datetime) [day](I-datetime) ?
+- what is the [temperature](B-weather/noun) [here](B-location) [tomorrow](B-datetime)
+- any chance of [rain](B-weather/attribute) [today](B-datetime) ?
+- will it be [hot](B-weather/attribute) [out](B-location) [tomorrow](B-datetime) ?
+- will it be [sunny](B-weather/attribute) ?
+- will it get [colder](B-weather/attribute) [tonight](B-datetime) ?
+- is it going to [rain](B-weather/attribute) [tomorrow](B-datetime) ?
+- can i wear [shorts](B-weather/attribute) [next](B-datetime) [week](I-datetime) ?
+- will it [snow](B-weather/attribute) [tomorrow](B-datetime) [night](I-datetime)
+- what is the [temperature](B-weather/noun)
+- chances of sun [this](B-datetime) [week](I-datetime)
+- when is the next time it will [snow](B-weather/attribute) ?
+- [saturday's](B-datetime) [weather](B-weather/noun) ?
+- do i need to take [winter](B-weather/attribute) [clothes](I-weather/attribute) to go to the [east](B-location) [coast](I-location) [next](B-datetime) [week](I-datetime) ?
+- do i need [sunscreen](B-weather/attribute)
+- need to take [umbrella](B-weather/attribute) ?
+- is it going to be [stormy](B-weather/attribute) in [big](B-location) [bear](I-location) [next](B-datetime) [week](I-datetime) ?
+- what are the high / [lows](B-weather/attribute) [tomorrow](B-datetime)
+- how [hot](B-weather/attribute) will it get [today](B-datetime) in [houston](B-location) ?
+- is there [snow](B-weather/attribute) ?
+- will it be [cold](B-weather/attribute) [tonight](B-datetime) ?
+- should i cover my plants for [frost](B-weather/attribute) ?
+- will i sweat [today](B-datetime)
+- is [tomorrow](B-datetime) a [good](B-weather/attribute) day to go swimming ?
+- do i need a [jacket](B-weather/attribute) ?
+- how is the [weather](B-weather/noun) in [central](B-location) [florida](I-location) [today](B-datetime)
+- is there a chance of [rain](B-weather/attribute) [this](B-datetime) [weekend](I-datetime) ?
+- what's the [weather](B-weather/noun) in [la](B-location) [next](B-datetime) [week](I-datetime) ?
+- is it going to be [cloudy](B-weather/attribute) ?
+- what is the [forecast](B-weather/noun) [for](B-datetime) [the](I-datetime) [upcoming](I-datetime) [week](I-datetime) ?
+- [weather](B-weather/noun) [next](B-datetime) [week](I-datetime) please
+- will it be [sunny](B-weather/attribute) [tomorrow](B-datetime) ?
+- how many inches of [snow](B-weather/attribute) has it [snowed](B-weather/attribute) [today](B-datetime) ?
+- when is there [snow](B-weather/attribute) [forecasted](B-weather/noun)
+- will we have s [warm](B-weather/attribute) fall or a [cold](B-weather/attribute) [fall](I-weather/attribute)
+- should i bring a [jacket](B-weather/attribute) [today](B-datetime) ?
+- [weather](B-weather/noun) [for](B-datetime) [next](I-datetime) [week](I-datetime) in [washington](B-location) [dc](I-location)
+- is it going to [rain](B-weather/attribute) ?
+- should i wear a [sweater](B-weather/attribute) ?
+- [temperature](B-weather/noun) in [belmont](B-location) [,](I-location) [maryland](I-location) .
+- what is the [temperature](B-weather/noun) like [for](B-datetime) [tomorrow](I-datetime) ?
+- will it [rain](B-weather/attribute) [this](B-datetime) [week](I-datetime) in [new](B-location) [york](I-location) ?
+- whats the high [temp](B-weather/noun) [for](B-datetime) [today](I-datetime)
+- do i need an [umbrella](B-weather/attribute)
+- will it stop [raining](B-weather/attribute) soon ?
+- how is the [weather](B-weather/noun) at [ocean](B-location) [city](I-location) [next](B-datetime) [week](I-datetime)
+- what is the chance of [rain](B-weather/attribute) [today](B-datetime) ?
+- will it [snow](B-weather/attribute) [this](B-datetime) [week](I-datetime)
+- is there a [monsoon](B-weather/attribute) [storm](I-weather/attribute) expected [today](B-datetime) ?
+- what is the [temp](B-weather/noun) going to be like [this](B-datetime) [evening](I-datetime) ?
+- what is the [wind](B-weather/attribute) chill [today](B-datetime)
+- how much [rain](B-weather/attribute) is expected ?
+- will it [hail](B-weather/attribute) anywhere on the [mainland](B-location) [today](B-datetime) ?
+- what is the [forecast](B-weather/noun) calling [for](B-datetime) [today](I-datetime)
+- should i wear a [rain](B-weather/attribute) [coat](I-weather/attribute) [today](B-datetime)
+- how many [sunny](B-weather/attribute) days [the](B-datetime) [next](I-datetime) [week](I-datetime)
+- do i need a heavy [coat](B-weather/attribute) [today](B-datetime)
+- what is the average [rainfall](B-weather/attribute) in [dallas](B-location) ?
+- is it going to [rain](B-weather/attribute) [saturday](B-datetime) ?
+- what is the [forecast](B-weather/noun) [for](B-datetime) [saturday](I-datetime) ?
+- is it going to [rain](B-weather/attribute) [next](B-datetime) [week](I-datetime) ?
+- what time is the [storm](B-weather/attribute) passing through [waukesha](B-location) [tonight](B-datetime) ?
+- what is the [temperature](B-weather/noun) low [for](B-datetime) [tomorrow](I-datetime)
+- is it [cold](B-weather/attribute) enough for a [coat](B-weather/attribute) ?
+- do i need to bring a [jacket](B-weather/attribute) [tonight](B-datetime)
+- will it be [hot](B-weather/attribute) in [cleveland](B-location) [today](B-datetime) ?
+- how [cold](B-weather/attribute) is it in [chicago](B-location) ?
+- is it going to [snow](B-weather/attribute) [wednesday](B-datetime)
+- what is the [weather](B-weather/noun) in [bali](B-location) ?
+- what is the percentage of [rain](B-weather/attribute) [for](B-datetime) [today](I-datetime)
+- is it going to be [warm](B-weather/attribute) enough to swim ?
+- what is [the](B-datetime) [7](I-datetime) [day](I-datetime) [forecast](B-weather/noun)
+- how long is it expected to [rain](B-weather/attribute) [today](B-datetime) ?
+- what is the [humidity](B-weather/attribute) like [today](B-datetime)
+- what's the [weather](B-weather/noun) in [tucson](B-location) [today](B-datetime) ?
+- are we under a [flash](B-weather/noun) [flood](I-weather/noun) [warning](I-weather/noun) ?
+- what is the [temperature](B-weather/noun) going to be [tomorrow](B-datetime) ?
+- is it [raining](B-weather/attribute) in [boston](B-location) right [now](B-datetime)
+- how [hot](B-weather/attribute) will it be [at](B-datetime) [3pm](I-datetime) [today](I-datetime) ?
+- should i bring my [sunscreen](B-weather/attribute) ?
+- will i need to [heat](B-weather/attribute) up my car [this](B-datetime) [morning](I-datetime)
+- how is the [weather](B-weather/noun) [today](B-datetime) ?
+- what is the [weather](B-weather/noun) in [london](B-location) ?
+- what is the [weather](B-weather/noun) like in [kingston](B-location)
+- will it [rain](B-weather/attribute) [tonight](B-datetime) ?
+- what the [temperature](B-weather/noun) going to be like
+- what is the [weather](B-weather/noun) like in [florida](B-location) [today](B-datetime)
+- are the roads covered in [ice](B-weather/attribute)
+- [current](B-datetime) [temperature](B-weather/noun) in [martinsville](B-location) ?
+- is it going to be [warm](B-weather/attribute) in [new](B-location) [york](I-location) [next](B-datetime) [week](I-datetime) ?
+- how many inches will we get [tonight](B-datetime) ?
+- will it [storm](B-weather/attribute) [on](B-datetime) [saturday](I-datetime) ?
+- should i bring a [winter](B-weather/attribute) [jacket](I-weather/attribute) [today](B-datetime) ?
+- what are the [snow](B-weather/attribute) chances for [flagstaff](B-location) [this](B-datetime) [week](I-datetime) ?
+- do i need an [umbrella](B-weather/attribute)
+- are the roads [icy](B-weather/attribute) ?
+- what is the chance of [precipitation](B-weather/attribute) [this](B-datetime) [weekend](I-datetime) ?
+- is it going to be [sunny](B-weather/attribute) in [denver](B-location) [on](B-datetime) [wednesday](I-datetime) [night](I-datetime) ?
+- how is the [weather](B-weather/noun) in [alaska](B-location) ' ?
+- is [my](B-location) [area](I-location) prone to [tornadoes](B-weather/attribute) ?
+- what is the [humidity](B-weather/attribute) like
+- is there a [thunderstorm](B-weather/attribute) headed to [sedona](B-location) ?
+- is there [snow](B-weather/attribute) in the [forecast](B-weather/noun) [this](B-datetime) [weekend](I-datetime) ?
+- is there a land or a sea breeze in [ocean](B-location) [city](I-location) [today](B-datetime) ?
+- what is the [precipitation](B-weather/attribute) [today](B-datetime) ?
+- are [the](B-datetime) [evenings](I-datetime) [cold](B-weather/attribute) in [san](B-location) [diego](I-location) ?
+- is there [rain](B-weather/attribute) in the [forecast](B-weather/noun) [for](B-datetime) [next](I-datetime) [week](I-datetime) ?
+- is it ever going to get [sunny](B-weather/attribute) [today](B-datetime) ?
+- do i need an [umbrella](B-weather/attribute) for later [today](B-datetime) ?
+- is it going to be [sunny](B-weather/attribute) [today](B-datetime) ?
+- what's the [weather](B-weather/noun) like [today](B-datetime) ?
+- what is the [forecast](B-weather/noun) looking like
+- how [hot](B-weather/attribute) will it be [today](B-datetime)
+- will it be [sunny](B-weather/attribute) [tomorrow](B-datetime) ?
+- what is the [forecast](B-weather/noun) in [smithers](B-location) [british](I-location) [columbia](I-location)
+- what are the chances for [rain](B-weather/attribute) [sunday](B-datetime) ?
+- will the [wind](B-weather/attribute) die down [today](B-datetime) before dark
+- do i need a [rain](B-weather/attribute) [jacket](I-weather/attribute) [today](B-datetime) ?
+- is it going to be [hot](B-weather/attribute) [today](B-datetime) ?
+- is it going to [snow](B-weather/attribute) [tonight](B-datetime) ?
+- what's the [weather](B-weather/noun) [thursday](B-datetime) [morning](I-datetime) ?
+- [weather](B-weather/noun) info [for](B-datetime) [today](I-datetime)
+- how [hot](B-weather/attribute) is it going to be [today](B-datetime) ?
+- how much [rain](B-weather/attribute) is expected [this](B-datetime) [week](I-datetime)
+- is it [cold](B-weather/attribute) in [new](B-location) [jersey](I-location) right [now](B-datetime)
+- will it [snow](B-weather/attribute) [tomorrow](B-datetime)
+- will it be [sunny](B-weather/attribute) [this](B-datetime) [week](I-datetime) ?
+- when is it supposed to [rain](B-weather/attribute) again ?
+- will it [snow](B-weather/attribute) [tomorrow](B-datetime) ?
+- what is the [temp](B-weather/noun) [today](B-datetime)
+- do i need to bring a [jacket](B-weather/attribute) [today](B-datetime) ?
+- how does the [weather](B-weather/noun) look for [minnesota](B-location) [this](B-datetime) [month](I-datetime) ?
+- what is the [temperature](B-weather/noun) going to be [today](B-datetime) ?
+- whats [today's](B-datetime) [forecasted](B-weather/noun) [temperature](B-weather/noun) ?
+- what is [tonight's](B-datetime) high ?
+- is there [sleet](B-weather/attribute) in the [forecast](B-weather/noun) ?
+- what's the [weather](B-weather/noun) look like [this](B-datetime) [weekend](I-datetime) ?
+- tell me the [weather](B-weather/noun) [for](B-datetime) [today](I-datetime)
+- will it [snow](B-weather/attribute) [today](B-datetime) ?
+- will i need my [umbrella](B-weather/attribute) [tomorrow](B-datetime)
+- what's the [weather](B-weather/noun) like in [branson](B-location) [on](B-datetime) [september](I-datetime) [11](I-datetime) ?
+- will i need a [jacket](B-weather/attribute) [today](B-datetime)
+- what is the [weather](B-weather/noun) [today](B-datetime) in [ny](B-location)
+- what's the [weather](B-weather/noun) like in [detroit](B-location) [today](B-datetime) ?
+- what are the average [temperatures](B-weather/noun) in [vegas](B-location) [for](B-datetime) [next](I-datetime) [week](I-datetime) ?
+- what will be the [temperature](B-weather/noun) [around](B-datetime) [4](I-datetime) [pm](I-datetime) ?
+- how [hot](B-weather/attribute) is it
+- how [cold](B-weather/attribute) will be be [tonight](B-datetime) ?
+- will i need my [umbrella](B-weather/attribute) [today](B-datetime)
+- should i pack a [jacket](B-weather/attribute) for my trip [tomorrow](B-datetime) ?
+- is there an emergency [flood](B-weather/noun) [alert](I-weather/noun)
+- will it be [cloudy](B-weather/attribute) [tomorrow](B-datetime) ?
+- is it going to [rain](B-weather/attribute) [all](B-datetime) [day](I-datetime) [today](I-datetime) ?
+- do we need [jackets](B-weather/attribute) at the bus stop [in](B-datetime) [the](I-datetime) [morning](I-datetime)
+- how [cold](B-weather/attribute) is it
+- is it going to [rain](B-weather/attribute) [in](B-datetime) [the](I-datetime) [next](I-datetime) [week](I-datetime) ?
+- are there any [weather](B-weather/noun) [warnings](I-weather/noun) right [now](B-datetime) ?
+- will it [rain](B-weather/attribute) in [kansas](B-location) [today](B-datetime) ?
+- is it [sunny](B-weather/attribute) in [philadelphia](B-location) ?
+- how [hot](B-weather/attribute) is [jamaica](B-location) [now](B-datetime)
+- what is the max [temp](B-weather/noun) [for](B-datetime) [this](I-datetime) [week](I-datetime)
+- how [hot](B-weather/attribute) will [texas](B-location) be [tomorrow](B-datetime)
+- is the conditions [icy](B-weather/attribute) [for](B-datetime) [the](I-datetime) [next](I-datetime) [week](I-datetime)
+- what's the [weather](B-weather/noun) like in [london](B-location) [next](B-datetime) [week](I-datetime) ?
+- will it [rain](B-weather/attribute) in [chicago](B-location) [next](B-datetime) [week](I-datetime) ?
+- when will it [rain](B-weather/attribute) next ?
+- what will the [temperature](B-weather/noun) feel like [today](B-datetime) ?
+- what is [the](B-datetime) [current](I-datetime) [temperature](B-weather/noun) on [long](B-location) [island](I-location)
+- what is the [coldest](B-weather/attribute) part of [the](B-datetime) [day](I-datetime) [today](I-datetime)
+- should i bring a light [jacket](B-weather/attribute)
+- will it be [sunny](B-weather/attribute) [today](B-datetime) ?
+- what is the [weather](B-weather/noun) like [this](B-datetime) [week](I-datetime) ?
+- how much [snow](B-weather/attribute) does [massachusetts](B-location) get
+- will i be comfortable in [long](B-weather/attribute) [sleeves](I-weather/attribute) [today](B-datetime) ?
+- how much [snow](B-weather/attribute) will we get [today](B-datetime) ?
+- how long until expected [rain](B-weather/attribute) ?
+- is it going to [rain](B-weather/attribute) hard [today](B-datetime)
+- what is the [forescast](B-weather/noun) for [miami](B-location) [next](B-datetime) [week](I-datetime) ?
+- how much [rain](B-weather/attribute) is expected [tomorrow](B-datetime) ?
+- what is [today's](B-datetime) high [temperature](B-weather/noun) ?
+- how [warm](B-weather/attribute) is it [outside](B-location) ?
+- is there any [snow](B-weather/attribute) [next](B-datetime) [weekend](I-datetime) ?
+- [tomorrow's](B-datetime) [weather](B-weather/noun) , please .
+- what is the [wind](B-weather/attribute) chill [tomorrow](B-datetime) in [milwaukee](B-location) ?
+- what will the [weather](B-weather/noun) be like [this](B-datetime) [week](I-datetime)
+- what in the [weather](B-weather/noun) like in [canada](B-location) ?
+- will it [rain](B-weather/attribute) [today](B-datetime) ?
+- tell me the [weather](B-weather/noun)
+- where is the [storm](B-weather/attribute) [at](B-datetime) [now](I-datetime) ?
+- will it continue to [snow](B-weather/attribute) [this](B-datetime) [week](I-datetime) ?
+- please give me the [weather](B-weather/noun) for [south](B-location) [florida](I-location) [today](B-datetime)
+- give me [the](B-datetime) [7](I-datetime) [day](I-datetime) [forecast](B-weather/noun) .
+- will it [freeze](B-weather/attribute) [tonight](B-datetime)
+- it is going to be [humid](B-weather/attribute) [today](B-datetime) ?
+- what is the [temperature](B-weather/noun) right [now](B-datetime) ?
+- is [today](B-datetime) a good day for a barbecue ?
+- what is [this](B-datetime) [afternoon's](I-datetime) [forecast](B-weather/noun) at [epcot](B-location) ?
+- remind me if there will be a [rain](B-weather/attribute) [forecast](B-weather/noun) [tomorrow](B-datetime)
+- what will the [temperature](B-weather/noun) be in [newport](B-location) [today](B-datetime) ?
+- what is the chance of [rain](B-weather/attribute) [for](B-datetime) [tomorrow](I-datetime)
+- how [warm](B-weather/attribute) will it be [on](B-datetime) [sunday](I-datetime) in [san](B-location) [diego](I-location) ?
+- will i burn if i go to the [beach](B-location) [today](B-datetime)
+- when is the next time it will [snow](B-weather/attribute) ?
+- what is [this](B-datetime) [weekend's](I-datetime) [forecast](B-weather/noun) ?
+- will it [snow](B-weather/attribute) [on](B-datetime) [the](I-datetime) [weekend](I-datetime) ?
+- show me the [weather](B-weather/noun) channel
+- what is the [weather](B-weather/noun) [today](B-datetime)
+- [nashville](B-location) [weekend](B-datetime) [weather](B-weather/noun)
+- what is the [temperature](B-weather/noun)
+- what is the [temperature](B-weather/noun) [for](B-datetime) [9](I-datetime) [am](I-datetime) ?
+- should i bring my [umbrella](B-weather/attribute) [tomorrow](B-datetime)
+- what is the [temperature](B-weather/noun) [tomorrow](B-datetime)
+- will it [rain](B-weather/attribute) in [wisconsin](B-location) [today](B-datetime) ?
+- will it [pour](B-weather/attribute) ?
+- is it going to be [hot](B-weather/attribute) [today](B-datetime)
+- do i need a [umbrella](B-weather/attribute) [tomorrow](B-datetime) ?
+- what is the [weather](B-weather/noun) looking like [on](B-datetime) [christmas](I-datetime)
+- is [today](B-datetime) a good [beach](B-location) day in [wild](B-location) [wood](I-location) ?
+- what will the high be [today](B-datetime) ?
+- is it a good idea to bring an [umbrella](B-weather/attribute) ?
+- did the [temperature](B-weather/noun) get over 100 [today](B-datetime) ?
+- what's the [humidity](B-weather/attribute) level ?
+- what is the [temperature](B-weather/noun) in [orlando](B-location) [,](I-location) [florida](I-location) [next](B-datetime) [week](I-datetime)
+- should i bring an [umbrella](B-weather/attribute) [today](B-datetime)
+- i need to know if it is going to [rain](B-weather/attribute) in [north](B-location) [branch](I-location)
+- what will the [temperature](B-weather/noun) be [tonight](B-datetime) in [lawrence](B-location) ?
+- what is the [heat](B-weather/attribute) [index](I-weather/attribute) ?
+- what is [tomorrow's](B-datetime) [forecast](B-weather/noun) ?
+- is it going to be [hot](B-weather/attribute) [out](B-location) [tomorrow](B-datetime)
+- what's the [weather](B-weather/noun) like in [santa](B-location) [fe](I-location) [this](B-datetime) [weekend](I-datetime) ?
+- will it [rain](B-weather/attribute) any [this](B-datetime) [week](I-datetime)
+- how much [precipitation](B-weather/attribute) is there [today](B-datetime)
+- what time should i expect to see [rain](B-weather/attribute) ?
+- how [hot](B-weather/attribute) will it be in [orlando](B-location) [on](B-datetime) [saturday](I-datetime) ?
+- when is the [rain](B-weather/attribute) starting [today](B-datetime) ?
+- how [hot](B-weather/attribute) is it supposed to get [next](B-datetime) [week](I-datetime) in [brinkley](B-location) ?
+- is it going to [snow](B-weather/attribute) [today](B-datetime)
+- [humidity](B-weather/noun) [tomorrow](B-datetime) .
+- will it be [over](B-weather/attribute) [100](I-weather/attribute) [degrees](B-weather/noun) [today](B-datetime) ?
+- is there [snow](B-weather/attribute) in [denver](B-location) right [now](B-datetime) ?
+- how long before it [rains](B-weather/attribute) ?
+- how [hot](B-weather/attribute) is it [outside](B-location) ?
+- is it [raining](B-weather/attribute) ?
+- please tell me if it is supposed to [rain](B-weather/attribute) [today](B-datetime) .
+- [londons](B-location) [weather](B-weather/noun) [for](B-datetime) [tuesday](I-datetime)
+- is it going to [rain](B-weather/attribute) [today](B-datetime) ?
+- do i need an [umbrella](B-weather/attribute) [today](B-datetime) ?
+- is there a [tornado](B-weather/noun) [warning](I-weather/noun) ?
+- how [hot](B-weather/attribute) is it [today](B-datetime)
+- do i need an [umbrella](B-weather/attribute)
+- will it [rain](B-weather/attribute) [today](B-datetime) ?
+- how's the [weather](B-weather/noun) ?
+- what is the chance of [rain](B-weather/attribute) [today](B-datetime) ?
+- show me [weather](B-weather/noun) for [nassau](B-location) [,](I-location) [bahamas](I-location)
+- what will the [weather](B-weather/noun) be like [this](B-datetime) [weekend](I-datetime) ?
+- what's the [weather](B-weather/noun) like [tomorrow](B-datetime) ?
+- is it [raining](B-weather/attribute) in [nyc](B-location) ?
+- should i bring a [rain](B-weather/attribute) [jacket](I-weather/attribute) to the concert [tonight](B-datetime) ?
+- what is the [weather](B-weather/noun) like in [denver](B-location) [today](B-datetime) ?
+- is it going to [snow](B-weather/attribute) [this](B-datetime) [evening](I-datetime)
+- how much [snow](B-weather/attribute) will we get ?
+- what is the chance of severe [weather](B-weather/noun)
+- what is the [temperature](B-weather/noun) in [miami](B-location) ?
+- will it be [sunny](B-weather/attribute) [today](B-datetime)
+- is an [umbrella](B-weather/attribute) required
+- when will the [snow](B-weather/attribute) [storm](I-weather/attribute) start
+- what is [today's](B-datetime) [forecast](B-weather/noun) for [fayettville](B-location) [arkansas](I-location) ?
+- will it [rain](B-weather/attribute) ?
+- what is the [temperature](B-weather/noun) [for](B-datetime) [the](I-datetime) [next](I-datetime) [10](I-datetime) [days](I-datetime) ?
+- is it likely to [rain](B-weather/attribute) [tomorrow](B-datetime)
+- when will it [rain](B-weather/attribute) [this](B-datetime) [week](I-datetime) ?
+- what is the chance of [rain](B-weather/attribute) in [seattle](B-location) [today](B-datetime) ?
+- what is the [weather](B-weather/noun) like [this](B-datetime) [week](I-datetime) ?
+- are there any [weather](B-weather/noun) watches [now](B-datetime) in [my](B-location) [location](I-location) ?
+- when will it next [rain](B-weather/attribute)
+- should i wear [long](B-weather/attribute) [sleeves](I-weather/attribute)
+- will it [snow](B-weather/attribute) [this](B-datetime) [week](I-datetime)
+- what is the [weather](B-weather/noun) in [new](B-location) [york](I-location)
+- what will the [weather](B-weather/noun) be like [this](B-datetime) [weekend](I-datetime) ?
+- how [hot](B-weather/attribute) will it get in [monte](B-location) [cristo](I-location) [campgrounds](I-location) [tonight](B-datetime)
+- any chance of [freezing](B-weather/attribute) [rain](I-weather/attribute) [this](B-datetime) [week](I-datetime) ?
+- is [snow](B-weather/attribute) predicted [overnight](B-datetime) ?
+- what's the [temperature](B-weather/noun) [for](B-datetime) [tomorrow](I-datetime) ?
+- is it likely to [rain](B-weather/attribute) [at](B-datetime) [6](I-datetime) [pm](I-datetime)
+- how [cold](B-weather/attribute) is it going to be [tonight](B-datetime)
+- will it [rain](B-weather/attribute) [today](B-datetime) ?
+- is [rain](B-weather/attribute) [forecast](B-weather/noun) in [new](B-location) [york](I-location) [city](I-location) [today](B-datetime)
+- is it going to [rain](B-weather/attribute) [tomorrow](B-datetime)
+- will it [rain](B-weather/attribute) [today](B-datetime) [afternoon](I-datetime) ?
+- what time is it supposed to [rain](B-weather/attribute) ?
+- what will the [weather](B-weather/noun) be like in [pa](B-location) [next](B-datetime) [week](I-datetime) ?
+- could you please tell me what [today's](B-datetime) [weather](B-weather/noun) looks like ?
+- what will the [weather](B-weather/noun) be like in [portland](B-location) [at](B-datetime) [10](I-datetime) [pm](I-datetime) ?
+- what is the [temperature](B-weather/noun) going to be [today](B-datetime) ?
+- should i bring an [umbrella](B-weather/attribute)
+- will [today](B-datetime) be [windy](B-weather/attribute) ?
+- show me [this](B-datetime) [weeks](I-datetime) [forecast](B-weather/noun) please
+- is it going to get [hot](B-weather/attribute) [next](B-datetime) [week](I-datetime) ?
+- what is the [temperature](B-weather/noun) in the [house](B-location) ?
+- will the [temperature](B-weather/noun) drop below 70 degrees [today](B-datetime) ?
+- i need to know the [weather](B-weather/noun) for the whole day in [long](B-location) [beach](I-location) .
+- what's the anticipated high [temperature](B-weather/noun) [today](B-datetime) in [toledo](B-location)
+- should i carry an [umbrella](B-weather/attribute) [today](B-datetime) ?
+- how many days [this](B-datetime) [week](I-datetime) will it [rain](B-weather/attribute) ?
+- what will the [weather](B-weather/noun) be like in [steamboat](B-location) [this](B-datetime) [weekend](I-datetime) ?
+- i'd like to know if it's going to [rain](B-weather/attribute) [today](B-datetime) .
+- what's the status of the [hurricane](B-weather/attribute) in [miami](B-location)
+- will it be [cloudy](B-weather/attribute) [today](B-datetime) ?
+- is it going to [monsoon](B-weather/attribute) [today](B-datetime)
+- do i need [winter](B-weather/attribute) [clothing](I-weather/attribute) in [alaska](B-location) [this](B-datetime) [week](I-datetime)
+- is it going to [snow](B-weather/attribute) [tomorrow](B-datetime) ?
+- is the [hurricane](B-weather/attribute) getting closer ?
+- is a [hurricane](B-weather/attribute) forming in the [gulf](B-location) [coast](I-location) ?
+- what is [the](B-datetime) [10](I-datetime) [day](I-datetime) outlook ?
+- will there be a [blizzard](B-weather/attribute) [on](B-datetime) [friday](I-datetime)
+- will the [temperature](B-weather/noun) be the same ?
+- what is the [weather](B-weather/noun) in [seattle](B-location) [washington](I-location)
+- what is the [weather](B-weather/noun) looking like [tomorrow](B-datetime) ?
+- what is the [max](B-weather/attribute) [tomorrow's](B-datetime) [temperature](B-weather/noun) ?
+- are the [dew](B-weather/attribute) [points](I-weather/attribute) going to be high ?
+- what is [the](B-datetime) [extended](I-datetime) [forecast](B-weather/noun) for [miami](B-location) [,](I-location) [fl](I-location) ?
+- will i need an [umbrella](B-weather/attribute) if i go [out](B-location) [at](B-datetime) [night](I-datetime) ?
+- is there a [thunderstorm](B-weather/attribute) [today](B-datetime) ?
+- [forecast](B-weather/noun) for [akron](B-location) [ohio](I-location)
+- let me know when it will [rain](B-weather/attribute)
+- what the [humidity](B-weather/attribute) like in [florida](B-location) [today](B-datetime) ?
+- are there [tornado](B-weather/attribute) with it
+- should i wear a [jacket](B-weather/attribute) [tonight](B-datetime) ?
+- will the [weather](B-weather/noun) be good for a dress
+- how much [snow](B-weather/attribute) is predicted ?
+- is there a [flood](B-weather/noun) [warning](I-weather/noun) for [my](B-location) [area](I-location) ?
+- how [humid](B-weather/attribute) is it in [chicago](B-location) [today](B-datetime) ?
+- will i need to wear a [jacket](B-weather/attribute) [tonight](B-datetime) ?
+- when will the [clouds](B-weather/attribute) [clear](B-weather/attribute)
+- what's the [forecast](B-weather/noun) [next](B-datetime) [week](I-datetime) in [dallas](B-location) ?
+- what will the [weather](B-weather/noun) be like [tomorrow](B-datetime) in [chicago](B-location) ?
+- will i need a [jacket](B-weather/attribute) in [chicago](B-location) [this](B-datetime) [week](I-datetime) ?
+- what is the [temp](B-weather/noun) in [new](B-location) [york](I-location)
+- what will the [weather](B-weather/noun) be like [on](B-datetime) [saturday](I-datetime)
+- do i need [scarf](B-weather/attribute) ?
+- is it going to [snow](B-weather/attribute) [today](B-datetime) ?
+- what is [this](B-datetime) [week's](I-datetime) [weather](B-weather/noun) [forecast](I-weather/noun) ?
+- is there any severe [weather](B-weather/noun) coming up soon ?
+- what is the chance of [rain](B-weather/attribute) [today](B-datetime) in [vero](B-location) [beach](I-location) ?
+- will it [rain](B-weather/attribute) [tomorrow](B-datetime) at [las](B-location) [vegas](I-location) ?
+- is it going to [rain](B-weather/attribute) [saturday](B-datetime) ?
+- should i wear [shorts](B-weather/attribute) [today](B-datetime)
+- what is going to be the [temperature](B-weather/noun) [at](B-datetime) [8](I-datetime) [pm](I-datetime) ?
+- what's the high [for](B-datetime) [today](I-datetime)
+- tell me the [temperature](B-weather/noun)
+- when will it [rain](B-weather/attribute) next ?
+- how [hot](B-weather/attribute) will it be [at](B-datetime) [2pm](I-datetime) ?
+- what's the [weather](B-weather/noun) like in [brazil](B-location) ?
+- chance of [rain](B-weather/attribute)
+- do i need an [umbrella](B-weather/attribute) ?
+- show me the [temperature](B-weather/noun)
+- where is [thunderstorm](B-weather/attribute)
+- what is the high [for](B-datetime) [today](I-datetime) ?
+- i need to know if it will be [over](B-weather/attribute) [90](I-weather/attribute) [degrees](B-weather/noun) [next](B-datetime) [week](I-datetime)
+- how [humid](B-weather/attribute) is it ?
+- when is it going to [rain](B-weather/attribute) next ?
+- is [rain](B-weather/attribute) [today's](B-datetime) [forecast](B-weather/noun)
+- is [today](B-datetime) a record low [temp](B-weather/noun) ?
+- what days will it be [warm](B-weather/attribute) [this](B-datetime) [week](I-datetime) ?
+- should i wear a [hat](B-weather/attribute) ?
+- how many inches of [snow](B-weather/attribute) will fall [today](B-datetime) ?
+- high [temperature](B-weather/noun) [for](B-datetime) [tomorrow](I-datetime) ?
+- how's the [beach](B-location) looking [today](B-datetime) ?
+- how about the [minimum](B-weather/attribute) [temperature](B-weather/noun)
+- do i need [rain](B-weather/attribute) [boots](I-weather/attribute) [today](B-datetime) ?
+- what's [next](B-datetime) [week's](I-datetime) [forecast](B-weather/noun)
+- [temperature](B-weather/noun)
+- do i need to bring a [sweatshirt](B-weather/attribute) [today](B-datetime) ?
+- will we get [rain](B-weather/attribute) [this](B-datetime) [week](I-datetime)
+- will it [rain](B-weather/attribute) in [austin](B-location) [today](B-datetime)
+- how many inches of [rain](B-weather/attribute) will we get [today](B-datetime) ?
+- [weather](B-weather/noun) [for](B-datetime) [today](I-datetime)
+- can i wear a [jacket](B-weather/attribute) [today](B-datetime) ?
+- what is going to be the low [tomorrow](B-datetime) for [phoenix](B-location) ?
+- will it [rain](B-weather/attribute) [next](B-datetime) [saturday](I-datetime) ?
+- does it [rain](B-weather/attribute) in [texas](B-location) [today](B-datetime)
+- what is the chance of [rain](B-weather/attribute)
+- what's the lowest [temperature](B-weather/noun) [today](B-datetime) ?
+- is it going to be above 80 degrees [today](B-datetime) ?
+- what are the chances of [tornadoes](B-weather/attribute) [today](B-datetime) ?
+- will there be [snow](B-weather/attribute) [today](B-datetime) ?
+- how [hot](B-weather/attribute) would it be [today](B-datetime) ?
+- what is the chance for a [thunderstorm](B-weather/attribute) [today](B-datetime)
+- should i wear a [coat](B-weather/attribute) [today](B-datetime) ?
+- will there be [snow](B-weather/attribute) in [buffalo](B-location) [today](B-datetime) ?
+- is this [umbrella](B-weather/attribute) [weather](B-weather/noun) ?
+- will it [rain](B-weather/attribute) [next](B-datetime) [week](I-datetime) ?
+- will it be [sunny](B-weather/attribute) or [stormy](B-weather/attribute) [today](B-datetime) ?
+- will the sun come out [today](B-datetime) ?
+- what is the [temp](B-weather/noun) [tonight](B-datetime)
+- what is the chance of [rain](B-weather/attribute) [for](B-datetime) [the](I-datetime) [day](I-datetime) [after](I-datetime) [tomorrow](I-datetime) ?
+- what is the [temperature](B-weather/noun) suppose to be [tomorrow](B-datetime) ?
+- how [hot](B-weather/attribute) is it in [kathmandu](B-location) right [now](B-datetime) ?
+- how much [snow](B-weather/attribute) does [nashville](B-location) get ?
+- do i need to bring a [jacket](B-weather/attribute) ?
+- how [warm](B-weather/attribute) will it be [around](B-datetime) [7pm](I-datetime) ?
+- is it going to [storm](B-weather/attribute) [today](B-datetime) in [tampa](B-location) ?
+- find [out](B-location) what the [temperature](B-weather/noun) is going to be [overnight](B-datetime) .
+- how [hot](B-weather/attribute) does it get in [las](B-location) [vegas](I-location) [during](B-datetime) [the](I-datetime) [summer](I-datetime) ?
+- how [hot](B-weather/attribute) is it in [australia](B-location)
+- will there be [rain](B-weather/attribute) in [new](B-location) [albany](I-location) ?
+- is it going to [rain](B-weather/attribute) [next](B-datetime) [week](I-datetime) ?
+- is it good [beach](B-location) [weather](B-weather/noun) [today](B-datetime) ?
+- do i need an [umbrella](B-weather/attribute) [this](B-datetime) [evening](I-datetime) ?
+- will it be [sunny](B-weather/attribute) [today](B-datetime) ?
+- what is the [temperature](B-weather/noun) in [juneau](B-location) ?
+- what is the [weather](B-weather/noun) in [quebec](B-location) ?
+- what will the [weather](B-weather/noun) be like [tomorrow](B-datetime) [at](I-datetime) [8](I-datetime) [am](I-datetime) ?
+- [weather](B-weather/noun) [for](B-datetime) [the](I-datetime) [week](I-datetime)
+- what's [the](B-datetime) [weekend](I-datetime) [weather](B-weather/noun) [forecast](I-weather/noun) for [california](B-location) ?
+- tell me what the [weather](B-weather/noun) will be [tomorrow](B-datetime) .
+- is it going to be [hot](B-weather/attribute) [this](B-datetime) [weekend](I-datetime) ?
+- is it going to [rain](B-weather/attribute) [this](B-datetime) [weekend](I-datetime) in [miami](B-location)
+- how is the [weather](B-weather/noun) in [jacksonville](B-location) [mississippi](I-location)
+- what will the [weather](B-weather/noun) be like [in](B-datetime) [6](I-datetime) [hours](I-datetime) ?
+- what's the [weather](B-weather/noun) going to be [today](B-datetime) ?
+- is it going to [snow](B-weather/attribute) [today](B-datetime) ?
+- is it going to [snow](B-weather/attribute) ?
+- will it be [cold](B-weather/attribute) [tomorrow](B-datetime)
+- is it going to [hail](B-weather/attribute) [today](B-datetime) ?
+- what's [the](B-datetime) [3](I-datetime) [-](I-datetime) [day](I-datetime) [forecast](B-weather/noun) ?
+- what is the [temperature](B-weather/noun) [for](B-datetime) [sunday](I-datetime)
+- is it [snowing](B-weather/attribute) [outside](B-location)
+- is it going to [rain](B-weather/attribute) in [marana](B-location) [,](I-location) [arizona](I-location) [today](B-datetime) ?
+- how [humid](B-weather/attribute) is it [outside](B-location) ?
+- what is the [temperature](B-weather/noun) supposed to be [on](B-datetime) [saturday](I-datetime) ?
+- when will the [storm](B-weather/attribute) arrive [today](B-datetime) ?
+- is it [raining](B-weather/attribute) in [san](B-location) [antonio](I-location) ?
+- should i wear [shorts](B-weather/attribute) [tomorrow](B-datetime)
+- how much [snow](B-weather/attribute) will we have [tomorrow](B-datetime) ?
+- what time will it [rain](B-weather/attribute)
+- should i grab a [jacket](B-weather/attribute)
+- how long is it going to [rain](B-weather/attribute)
+- whats the [forecast](B-weather/noun) for the [jersey](B-location) [shore](I-location) [next](B-datetime) [week](I-datetime)
+- is it going to [snow](B-weather/attribute) [this](B-datetime) [week](I-datetime) ?
+- how [hot](B-weather/attribute) will it get in [haiti](B-location) [next](B-datetime) [week](I-datetime) ?
+- what is the [temperature](B-weather/noun) in [miami](B-location) ?
+- what's [the](B-datetime) [current](I-datetime) [tropical](B-weather/attribute) [storm](I-weather/attribute) status in the [atlantic](B-location) ?
+- how [hot](B-weather/attribute) will it be [at](B-datetime) [1pm](I-datetime) ?
+- [rain](B-weather/attribute) chances [tomorrow](B-datetime) [morning](I-datetime)
+- what will the [temperature](B-weather/noun) be [tomorrow](B-datetime) ?
+- will it be [windy](B-weather/attribute) [today](B-datetime)
+- what is the [forecast](B-weather/noun) [for](B-datetime) [the](I-datetime) [month](I-datetime) ?
+- what's the [weather](B-weather/noun) at [san](B-location) [francisco](I-location) [airport](I-location) [at](B-datetime) [9](I-datetime) [pm](I-datetime) ?
+- will i need a [jacket](B-weather/attribute) [tomorrow](B-datetime) ?
+- what will the [weather](B-weather/noun) in [baltimore](B-location) be like [next](B-datetime) [week](I-datetime) .
+- give me the [seven](B-weather/attribute) [day](I-weather/attribute) [forecast](B-weather/noun) .
+- how many inches of [rain](B-weather/attribute) are we expecting ?
+- is there going to be a lot of [fog](B-weather/attribute) [at](B-datetime) [6](I-datetime) [a.m](I-datetime) .
+- is it going to [snow](B-weather/attribute) ?
+- should i bring my [umbrella](B-weather/attribute) [tomorrow](B-datetime)
+- tell me the [weather](B-weather/noun) [for](B-datetime) [tomorrow](I-datetime) [morning](I-datetime)
+- is there [rain](B-weather/attribute) in the [forecast](B-weather/noun) [for](B-datetime) [thursday](I-datetime) ?
+- how long will it be [raining](B-weather/attribute) [today](B-datetime) ?
+- is it good [weather](B-weather/noun) for a picnic [this](B-datetime) [afternoon](I-datetime) ?
+- what is the [temperature](B-weather/noun) [tomorrow](B-datetime)
+- what is the low [for](B-datetime) [next](I-datetime) [weekend](I-datetime)
+- will it be [sunny](B-weather/attribute) in [philadelphia](B-location) [today](B-datetime) ?
+- what is the [forecast](B-weather/noun) [for](B-datetime) [next](I-datetime) [wednesday](I-datetime) ?
+- what will the low [temperature](B-weather/noun) be [overnight](B-datetime) ?
+- what is in the [weather](B-weather/noun) [forecast](I-weather/noun) [on](B-datetime) [friday](I-datetime)
+- what's it like [outside](B-location) ?
+- how [hot](B-weather/attribute) does it get at the [salton](B-location) [sea](I-location) ?
+- will there be any [storms](B-weather/attribute) [today](B-datetime)
+- is it going to [snow](B-weather/attribute) [today](B-datetime) ?
+- what is the [forecast](B-weather/noun) [for](B-datetime) [the](I-datetime) [next](I-datetime) [three](I-datetime) [days](I-datetime) in [nyc](B-location) ?
+- am i going to need a [jacket](B-weather/attribute) at any point [today](B-datetime) ?
+- is there going to be a change in the [humidity](B-weather/attribute) any time soon
+- show me a [3](B-weather/attribute) [day](I-weather/attribute) [forecast](B-weather/noun) for [lubbock](B-location)
+- [weather](B-weather/noun) at [work](B-location)
+- should i wear [pants](B-weather/attribute) [today](B-datetime)
+- is it [cold](B-weather/attribute) [out](B-location) [today](B-datetime)
+- should i wear a [sweater](B-weather/attribute)
+- what is the [weather](B-weather/noun) in [california](B-location)
+- what is [the](B-datetime) [five](I-datetime) [day](I-datetime) [forecast](B-weather/noun) for [london](B-location) ?
+- show me [the](B-datetime) [hourly](I-datetime) [weather](B-weather/noun)
+- do i need a [parka](B-weather/attribute) in [alaska](B-location) [in](B-datetime) [august](I-datetime) ?
+- is it going to [rain](B-weather/attribute) [on](B-datetime) [thursday](I-datetime) ?
+- what is [today's](B-datetime) high [temp](B-weather/noun)
+- when will it be [sunny](B-weather/attribute) ?
+- is it [cold](B-weather/attribute) in [seattle](B-location) right [now](B-datetime)
+- will the high [temps](B-weather/noun) be more than 90 degrees ?
+- what's the [temperature](B-weather/noun) [now](B-datetime)
+- do i need a [jacket](B-weather/attribute) [today](B-datetime) ?
+- should i take an [umbrella](B-weather/attribute) [today](B-datetime) ?
+- is it going to be [sunny](B-weather/attribute) [today](B-datetime)
+- is it [thunderstorming](B-weather/attribute) in [new](B-location) [york](I-location)
+- whats the high [for](B-datetime) [today](I-datetime) ?
+- how much [rain](B-weather/attribute) is expected [here](B-location) [after](B-datetime) [midnight](I-datetime) [tonight](I-datetime) ?
+- any severe [weather](B-weather/noun) in the [forecast](B-weather/noun) ?
+- should i wear [shorts](B-weather/attribute) ?
+- will there be a [storm](B-weather/attribute) [today](B-datetime)
+- what's the [weather](B-weather/noun) [today](B-datetime) in [cape](B-location) [may](I-location) [,](I-location) [nj](I-location) ?
+- is there a [storm](B-weather/attribute) ?
+- is it going to [rain](B-weather/attribute) [today](B-datetime) ?
+- will it [rain](B-weather/attribute) [tonight](B-datetime) ?
+- how is the [weather](B-weather/noun) [today](B-datetime)
+- are we due for [rain](B-weather/attribute)
+- what is the [temperature](B-weather/noun) in [london](B-location) ?
+- is it going to be [hot](B-weather/attribute) [today](B-datetime) in [louisville](B-location) ?
+- how much [snow](B-weather/attribute) fell on [mt](B-location) [.](I-location) [hood](I-location) [today](B-datetime) ?
+- how soon can we expect [snow](B-weather/attribute) ?
+- is there [hail](B-weather/attribute) in the [forecast](B-weather/noun)
+- will it [hail](B-weather/attribute) [today](B-datetime) ?
+- how does it [snow](B-weather/attribute)
+- is it [windy](B-weather/attribute) [outside](B-location) ?
+- what is the [wind](B-weather/attribute) speed right [now](B-datetime) ?
+- should i wear a dress ?
+- any chance of [rain](B-weather/attribute) [today](B-datetime) ?
+- how many inches of [snow](B-weather/attribute) are going to fall [this](B-datetime) [week](I-datetime) ?
+- will it [rain](B-weather/attribute) in [houston](B-location) [today](B-datetime) ?
+- is it good swimming [weather](B-weather/noun) [today](B-datetime)
+- is there a [thunderstorm](B-weather/attribute) [nearby](B-location) ?
+- can i wear [shorts](B-weather/attribute) to [georgia](B-location) [tomorrow](B-datetime) ?
+- how much [rain](B-weather/attribute) will we get
+- how long is it going to [snow](B-weather/attribute) ?
+- will it be [sunny](B-weather/attribute)
+- is it going to get [colder](B-weather/attribute) [later](B-datetime) ?
+- what is the high [temperature](B-weather/noun) [today](B-datetime) in [detroit](B-location) ?
+- what is the [humidity](B-weather/attribute) [today](B-datetime) ?
+- how [cold](B-weather/attribute) will it get [today](B-datetime) ?
+- what is the [weather](B-weather/noun) in [new](B-location) [york](I-location) ?
+- is it going to be [raining](B-weather/attribute) [all](B-datetime) [day](I-datetime) [tomorrow](I-datetime) ?
+- is it going to [rain](B-weather/attribute) [this](B-datetime) [weekend](I-datetime) ?
+- is it going to be [foggy](B-weather/attribute) ?
+- what is the low [for](B-datetime) [tomorrow](I-datetime) ?
+- should i bring my [umbrella](B-weather/attribute) with me ?
+- what will the [weather](B-weather/noun) be for [flowood](B-location) [,](I-location) [ms](I-location) [tomorrow](B-datetime) [at](I-datetime) [11am](I-datetime) ?
+- how [hot](B-weather/attribute) will it get [this](B-datetime) [month](I-datetime) ?
+- will i need a [jacket](B-weather/attribute) ?
+- do i need [rain](B-weather/attribute) [boots](I-weather/attribute) ?
+- what is the [weather](B-weather/noun)
+- show me [the](B-datetime) [next](I-datetime) [5](I-datetime) [days](I-datetime) [forecast](B-weather/noun) in [my](B-location) [city](I-location)
+- how [rainy](B-weather/attribute) is it in [seattle](B-location) [today](B-datetime)
+- is it going to be [cold](B-weather/attribute) enough for a [coat](B-weather/attribute) [tonight](B-datetime) ?
+- what is the [temperature](B-weather/noun) going to be [today](B-datetime) ?
+- what is the [weather](B-weather/noun) in [chapel](B-location) [hill](I-location) [at](B-datetime) [8](I-datetime) [am](I-datetime) ?
+- do i need to wear a [jacket](B-weather/attribute) [outside](B-location) [today](B-datetime) ?
+- is it going to [snow](B-weather/attribute) [today](B-datetime) ?
+- should i wear [jeans](B-weather/attribute) [tomorrow](B-datetime) [night](I-datetime)
+- will i need an [umbrella](B-weather/attribute) [today](B-datetime) ?
+- how is the [weather](B-weather/noun) [outside](B-location)
+- do i need a [coat](B-weather/attribute) in [denver](B-location) [today](B-datetime) ?
+- [las](B-location) [vegas](I-location) [weather](B-weather/noun)
+- will i need [boots](B-weather/attribute) [today](B-datetime)
+- is it gonna [snow](B-weather/attribute) ?
+- whats the low [today](B-datetime)
+- whats the [weather](B-weather/noun) like in [jamaica](B-location) [next](B-datetime) [week](I-datetime) ?
+- whats the [weather](B-weather/noun) [for](B-datetime) [today](I-datetime) ?
+- what is the [temperature](B-weather/noun) ?
+- is it going to [rain](B-weather/attribute) [today](B-datetime) ?
+- what is the [highs](B-weather/attribute) [for](B-datetime) [tomorrow](I-datetime)
+- will there be any [rainfall](B-weather/attribute) [this](B-datetime) [week](I-datetime) ?
+- what is the [weather](B-weather/noun) like in [merced](B-location) [today](B-datetime) ?
+- what is the [temperature](B-weather/noun) in [afghanistan](B-location) ?
+- what is the [weather](B-weather/noun) like [for](B-datetime) [tomorrow](I-datetime)
+- is [snow](B-weather/attribute) predicted ?
+- [humidity](B-weather/attribute) [for](B-datetime) [this](I-datetime) [week](I-datetime)
+- what is the [precipitation](B-weather/attribute) chance [today](B-datetime) ?
+- is is [hot](B-weather/attribute) in [anaheim](B-location) [today](B-datetime) ?
+- is it going to [rain](B-weather/attribute) [this](B-datetime) [week](I-datetime)
+- is it [hot](B-weather/attribute) ?
+- update of the [weather](B-weather/noun) .
+- should i bring an [umbrella](B-weather/attribute) to [work](B-location) [today](B-datetime) ?
+- is it going to [rain](B-weather/attribute) later [today](B-datetime)
+- what is the [temperature](B-weather/noun) right [now](B-datetime)
+- any [tropical](B-weather/attribute) [depressions](I-weather/attribute) in the [caribeans](B-location) [today](B-datetime) ?
+- how much [rain](B-weather/attribute) is [forecast](B-weather/noun) [for](B-datetime) [today](I-datetime)
+- how much [snow](B-weather/attribute) is predicted /
+- what is the [weather](B-weather/noun) in [seattle](B-location)
+- whats the [forecast](B-weather/noun) [for](B-datetime) [next](I-datetime) [week](I-datetime)
+- has the [temperature](B-weather/noun) been [warm](B-weather/attribute) enough to [heat](B-weather/attribute) the ocean water
+- what's the [weather](B-weather/noun) [forecast](I-weather/noun) [for](B-datetime) [the](I-datetime) [next](I-datetime) [10](I-datetime) [days](I-datetime) [here](B-location) ?
+- what is the [heat](B-weather/attribute) [index](I-weather/attribute) right [now](B-datetime) ?
+- is the air pressure dropping in miami due to the [hurricane](B-weather/attribute) ?
+- what is the [temperature](B-weather/noun) in [nashville](B-location) [,](I-location) [tn](I-location) ?
+- when is the [blizzard](B-weather/noun) [warning](I-weather/noun) in effect until ?
+- are the roads [icy](B-weather/attribute) [today](B-datetime)
+- are there any [storms](B-weather/attribute) coming through
+- [weather](B-weather/noun) conditions [today](B-datetime)
+- how [cold](B-weather/attribute) is it supposed to get [tonight](B-datetime) ?
+- what is the [temperature](B-weather/noun) in [england](B-location) [this](B-datetime) [week](I-datetime) ?
+- is it going to be [sunny](B-weather/attribute) [all](B-datetime) [week](I-datetime)
+- what's the high [for](B-datetime) [today](I-datetime) ?
+- what is the [wind](B-weather/attribute) like [today](B-datetime)
+- what is [the](B-datetime) [current](I-datetime) [temperature](B-weather/noun) in [williston](B-location) [vt](I-location)
+- [chicago](B-location) [weather](B-weather/noun)
+- will i need to put on the [air](B-weather/attribute) [conditioner](I-weather/attribute) [today](B-datetime) ?
+- will it be [cold](B-weather/attribute) [today](B-datetime) ?
+- what's the [humidity](B-weather/attribute) like [today](B-datetime)
+- when will it stop [raining](B-weather/attribute)
+- will it [rain](B-weather/attribute) [today](B-datetime) ?
+- do i need to take my [umbrella](B-weather/attribute) to [work](B-location)
+- low [temperature](B-weather/noun) [on](B-datetime) [friday](I-datetime)
+- chance of [rain](B-weather/attribute) ?
+- is it going to be [humid](B-weather/attribute) [today](B-datetime) ?
+- will it be [cloudy](B-weather/attribute) [tomorrow](B-datetime) ?
+- is it going to [snow](B-weather/attribute) [today](B-datetime) ?
+- [oklahoma](B-location) [city](I-location) [weather](B-weather/noun) [next](B-datetime) [wednesday](I-datetime)
+- will it be this [hot](B-weather/attribute) [all](B-datetime) [week](I-datetime) ?
+- is it [raining](B-weather/attribute)
+- is it going to be [cold](B-weather/attribute) [in](B-datetime) [the](I-datetime) [morning](I-datetime) ?
+- what is going on with the [wind](B-weather/attribute) right [now](B-datetime) ?
+- what day will be the [warmest](B-weather/attribute) [this](B-datetime) [week](I-datetime) ?
+- is there [rain](B-weather/attribute) [in](B-datetime) [the](I-datetime) [ten](I-datetime) [-](I-datetime) [day](I-datetime) [forecast](B-weather/noun) for [bellevue](B-location) [,](I-location) [washington](I-location) ?
+- how [hot](B-weather/attribute) will it be [today](B-datetime)
+- hows the [humidity](B-weather/attribute) in [rockaway](B-location) [beach](I-location) [now](B-datetime)
+- should i wear a [jacket](B-weather/attribute) [tomorrow](B-datetime)
+- is it going to [hail](B-weather/attribute) [today](B-datetime) ?
+- should i wear [shorts](B-weather/attribute) [today](B-datetime) ?
+- [london](B-location) [weather](B-weather/noun) [for](B-datetime) [next](I-datetime) [week](I-datetime)
+- should i bring a [coat](B-weather/attribute) to [work](B-location) [today](B-datetime) ?
+- what is the [temperature](B-weather/noun) [tonight](B-datetime) ?
+- when is it going to [rain](B-weather/attribute) ?
+- how [warm](B-weather/attribute) is it [today](B-datetime) ?
+- should i bring an [umbrella](B-weather/attribute)
+- show me [the](B-datetime) [10](I-datetime) [day](I-datetime) [forecast](B-weather/noun) please .
+- [tomorrows](B-datetime) [forecast](B-weather/noun)
+- is there a [tornado](B-weather/noun) [warning](I-weather/noun) for [denton](B-location) [for](B-datetime) [next](I-datetime) [week](I-datetime)
+- should i carry an [umbrella](B-weather/attribute) [wednesday](B-datetime) ?
+- what is the [weather](B-weather/noun) in [chicago](B-location) [at](B-datetime) [5](I-datetime) [pm](I-datetime) [today](I-datetime) ?
+- will it stop [snowing](B-weather/attribute) [by](B-datetime) [1](I-datetime) ?
+- should i take my [umbrella](B-weather/attribute)
+- will i need a [coat](B-weather/attribute) ?
+- is [hail](B-weather/attribute) predicted [today](B-datetime) ?
+- should i expect to rise early because of [snow](B-weather/attribute) [overnight](B-datetime)
+- how [warm](B-weather/attribute) will it be [this](B-datetime) [afternoon](I-datetime) [at](I-datetime) [3](I-datetime) [:](I-datetime) [00](I-datetime) [pm](I-datetime) ?
+- will it [snow](B-weather/attribute) [today](B-datetime)
+- how much [rain](B-weather/attribute) is expected [today](B-datetime)
+- will it be [cold](B-weather/attribute) [this](B-datetime) [weekend](I-datetime) ?
+- will it be [cloudy](B-weather/attribute) [tomorrow](B-datetime) ?
+- should i wear a [sweatshirt](B-weather/attribute) [today](B-datetime) ?
+- [forecast](B-weather/noun) [for](B-datetime) [next](I-datetime) [week](I-datetime) please
+- will it [rain](B-weather/attribute) in [orlando](B-location) [tomorrow](B-datetime) ?
+- do i need to pack an [umbrella](B-weather/attribute) ?
+- is it [hot](B-weather/attribute) [today](B-datetime) in [alabama](B-location) ?
+- will it be [raining](B-weather/attribute) in [canada](B-location) [this](B-datetime) [week](I-datetime) ?
+- what is the [humidity](B-weather/attribute) [today](B-datetime) ?
+- what is the [temperature](B-weather/noun) in [iceland](B-location) right [now](B-datetime) ?
+- hi bot , tell me the [temperature](B-weather/noun) [today](B-datetime)
+- whats the [forecast](B-weather/noun) [for](B-datetime) [tomorrow](I-datetime)
+- is there a [flood](B-weather/noun) [warning](I-weather/noun) in [chicago](B-location) ?
+- what kind of [weather](B-weather/noun) will i see [today](B-datetime)
+- when will it [snow](B-weather/attribute) again
+- is it going to [rain](B-weather/attribute) [tomorrow](B-datetime)
+- will it [rain](B-weather/attribute) in [georgia](B-location) [on](B-datetime) [friday](I-datetime)
+- is there severe [weather](B-weather/noun) predicted for [my](B-location) [area](I-location) [today](B-datetime) ?
+- what is the [weather](B-weather/noun) in [philadelphia](B-location) ?
+- what is the average [temperature](B-weather/noun) in [hawaii](B-location) ?
+- how high are the [wind](B-weather/attribute) [gusts](I-weather/attribute) during this [storm](B-weather/attribute) ?
+- what is [the](B-datetime) [three](I-datetime) [day](I-datetime) [forecast](B-weather/noun) for [new](B-location) [york](I-location) [city](I-location)
+- will the [weather](B-weather/noun) be [nice](B-weather/attribute) enough that i can wear sandals [tomorrow](B-datetime) ?
+- what's the [weather](B-weather/noun) [forecast](I-weather/noun) [for](B-datetime) [saturday](I-datetime) in [toledo](B-location)
+- please show me a [weather](B-weather/noun) [report](I-weather/noun)
+- is there going to be chances of [hail](B-weather/attribute) [today](B-datetime) ?
+- what will be the low [temperature](B-weather/noun) [today](B-datetime)
+- what's the [hottest](B-weather/attribute) [temperature](B-weather/noun) [this](B-datetime) [week](I-datetime)
+- when will it [rain](B-weather/attribute) [this](B-datetime) [week](I-datetime) ?
+- what is the [temperature](B-weather/noun) in [miami](B-location) ?
+- what is [the](B-datetime) [current](I-datetime) [temperature](B-weather/noun) at [myrtle](B-location) [beach](I-location) ?
+- will the [hurricane](B-weather/attribute) affect [my](B-location) [area](I-location) ?
+- when will it be [sunny](B-weather/attribute) in [los](B-location) [angeles](I-location) [next](B-datetime) [week](I-datetime) ?
+- [weather](B-weather/noun) [now](B-datetime)
+- is it [raining](B-weather/attribute) in [seattle](B-location) right [now](B-datetime) ?
+- is it going to [snow](B-weather/attribute) [today](B-datetime)
+- how low will the [temperature](B-weather/noun) be [today](B-datetime) ?
+- what is the [forecast](B-weather/noun) [for](B-datetime) [tomorrow](I-datetime) in [irvine](B-location) ?
+- should i wear [shorts](B-weather/attribute) or [pants](B-weather/attribute) [today](B-datetime) ?
+- what is the chance of [rain](B-weather/attribute) [today](B-datetime) ?
+- what is the chance of [rain](B-weather/attribute) [this](B-datetime) [weekend](I-datetime)
+- will there be a lot of [wind](B-weather/attribute) [today](B-datetime)
+- how is the [weather](B-weather/noun) in [san](B-location) [francisco](I-location) ?
+- what's the high [temperature](B-weather/noun) going to be [monday](B-datetime) !
+- how [cold](B-weather/attribute) will it be [tonight](B-datetime) ?
+- what is it like [outside](B-location)
+- how's the [temperature](B-weather/noun) in [honolulu](B-location) ?
+- is it going to [rain](B-weather/attribute) [tomorrow](B-datetime) ?
+- when is the [rain](B-weather/attribute) suppose to stop ?
+- is it going to [sleet](B-weather/attribute) [today](B-datetime) ?
+- what will be the [temperature](B-weather/noun) [tonight](B-datetime) ?
+- [weather](B-weather/noun) for [london](B-location) [next](B-datetime) [week](I-datetime)
+- what is [today's](B-datetime) low ?
+- are we supposed to get a [blizzard](B-weather/attribute)
+- do we need [coats](B-weather/attribute)
+- what is the [humidity](B-weather/attribute) ?
+- what will the [weather](B-weather/noun) be like in [san](B-location) [francisco](I-location) [at](B-datetime) [6pm](I-datetime) ?
+- am i going to need an [umbrella](B-weather/attribute) [tonight](B-datetime) ?
+- will i need [snow](B-weather/attribute) [tires](I-weather/attribute) to drive the [sierra](B-location) [nevada](I-location) [mountains](I-location) [this](B-datetime) [afternoon](I-datetime) ?
+- what will the [weather](B-weather/noun) be like for the ballgame in [chicago](B-location)
+- what is the [weather](B-weather/noun) [at](B-datetime) [1pm](I-datetime) [today](I-datetime)
+- are we under a [weather](B-weather/noun) [advisory](I-weather/noun)
+- will it get below [freezing](B-weather/attribute) [tonight](B-datetime) ?
+- will there be [flooding](B-weather/attribute) [tomorrow](B-datetime)
+- should i wear [shorts](B-weather/attribute) [today](B-datetime) ?
+- whats the [weather](B-weather/noun) [tomorrow](B-datetime) [morning](I-datetime)
+- when is it expected to [snow](B-weather/attribute) ?
+- what is [next](B-datetime) [week's](I-datetime) [forecast](B-weather/noun) in [newport](B-location) [beach](I-location) ?
+- do i need an [umbrella](B-weather/attribute) [today](B-datetime) ?
+- is it supposed to [snow](B-weather/attribute) [this](B-datetime) [weekend](I-datetime) ?
+- is it going to be [sunny](B-weather/attribute) [today](B-datetime) ?
+- how [hot](B-weather/attribute) will it be [today](B-datetime) ?
+- should i bring my [umbrella](B-weather/attribute) ?
+- when can i expect [snow](B-weather/attribute) [this](B-datetime) [week](I-datetime) ?
+- what is the [weather](B-weather/noun) in [spain](B-location) ?
+- will we get any [snow](B-weather/attribute) [this](B-datetime) [week](I-datetime) ?
+- will it be [sunny](B-weather/attribute) [today](B-datetime) ?
+- how [hot](B-weather/attribute) is it
+- what is my travel [forecast](B-weather/noun) for [new](B-location) [york](I-location) [city](I-location) [next](B-datetime) [week](I-datetime)
+- is it [clear](B-weather/attribute) enough for yard [work](B-location) [today](B-datetime)
+- what is [today's](B-datetime) [lows](B-weather/attribute) ?
+- is there a [storm](B-weather/noun) [warning](I-weather/noun)
+- what is [the](B-datetime) [current](I-datetime) [temperature](B-weather/noun) ?
+- do i need to wear a [long](B-weather/attribute) [sleeve](I-weather/attribute) [shirt](I-weather/attribute)
+- is it going to [snow](B-weather/attribute) [today](B-datetime) ?
+- is it too [hot](B-weather/attribute) to go running ?
+- will it be [windy](B-weather/attribute) [today](B-datetime)
+- do i need a [sweatshirt](B-weather/attribute)
+- is it going to be [cold](B-weather/attribute) [tomorrow](B-datetime) ?
+- what's it going to be like [tomorrow](B-datetime)
+- what is the [weather](B-weather/noun) [today](B-datetime) ?
+- what is [the](B-datetime) [following](I-datetime) [week's](I-datetime) [forecast](B-weather/noun) in [jacksonville](B-location) ?
+- how many days of [sunshine](B-weather/attribute) [this](B-datetime) [week](I-datetime)
+- how much [snow](B-weather/attribute) are they predicting ?
+- is it supposed to [rain](B-weather/attribute) all [week](B-datetime) ?
+- is it going to [snow](B-weather/attribute) [today](B-datetime) ?
+- are there any [weather](B-weather/noun) [alerts](I-weather/noun) for [this](B-location) [area](I-location) ?
+- is there [hail](B-weather/attribute) projected [for](B-datetime) [this](I-datetime) [weekend](I-datetime)
+- is it going to be [hot](B-weather/attribute) [today](B-datetime)
+- is it going to [rain](B-weather/attribute) [this](B-datetime) [afternoon](I-datetime) ?
+- is it going to [snow](B-weather/attribute) [today](B-datetime) ?
+- what's the [temp](B-weather/noun) in [london](B-location)
+- [weather](B-weather/noun) [today](B-datetime)
+- what is the [weather](B-weather/noun) at [my](B-location) [location](I-location) [today](B-datetime)
+- are we expecting alot of [rain](B-weather/attribute) [today](B-datetime) in [mississippi](B-location) ?
+- will i need a [coat](B-weather/attribute) [today](B-datetime)
+- should i take a [jacket](B-weather/attribute) [today](B-datetime)
+- what's the [weather](B-weather/noun) [tomorrow](B-datetime) ?
+- is there a [flood](B-weather/noun) [warning](I-weather/noun) in [buffalo](B-location) [,](I-location) [new](I-location) [york](I-location) ?
+- are there any [current](B-datetime) [storms](B-weather/attribute) in [oregon](B-location) [state](I-location) ?
+- is it going to [snow](B-weather/attribute) [today](B-datetime) ?
+- do i need to wear my [coat](B-weather/attribute) [today](B-datetime) ?
+- will it be [sunny](B-weather/attribute) [tomorrow](B-datetime) ?
+- do i need a [coat](B-weather/attribute) [today](B-datetime)
+- what time is is suppose to [rain](B-weather/attribute) ?
+- is it going to [rain](B-weather/attribute) [on](B-datetime) [tuesday](I-datetime) ?
+- will i need a [umbrella](B-weather/attribute) [this](B-datetime) [week](I-datetime) ?
+- are there any [tropical](B-weather/attribute) [storms](I-weather/attribute) heading towards [florida](B-location) ?
+- is it going to [rain](B-weather/attribute) in [miami](B-location) [tomorrow](B-datetime) ?
+- is it going to [rain](B-weather/attribute) later [today](B-datetime)
+- do i need an [umbrella](B-weather/attribute) ?
+- what's the [forecast](B-weather/noun) like [for](B-datetime) [this](I-datetime) [weekend](I-datetime) ?
+- is it going to [storm](B-weather/attribute) [today](B-datetime) ?
+- should i carry an [umbrella](B-weather/attribute) [tomorrow](B-datetime) ?
+- will it be [hot](B-weather/attribute) [tomorrow](B-datetime) ?
+- display breaking [weather](B-weather/noun) news
+- what time will it [rain](B-weather/attribute) [tomorrow](B-datetime) ?
+- how bad will the [wind](B-weather/attribute) chill factor be [tomorrow](B-datetime) [morning](I-datetime) ?
+- how long will it [rain](B-weather/attribute) in [my](B-location) [area](I-location) ?
+- what's the [weather](B-weather/noun) [forecast](I-weather/noun) [for](B-datetime) [the](I-datetime) [weekend](I-datetime) ?
+- will need [shovel](B-weather/attribute) [today](B-datetime)
+- will there be a [blizzard](B-weather/attribute) [on](B-datetime) [sunday](I-datetime)
+- will there be a chance of [rain](B-weather/attribute) [today](B-datetime) ?
+- what is [the](B-datetime) [ten](I-datetime) [day](I-datetime) [forecast](B-weather/noun) for [washington](B-location) ?
+- is it [cold](B-weather/attribute) in [spain](B-location) [in](B-datetime) [january](I-datetime) ?
+- is it going to [snow](B-weather/attribute) [this](B-datetime) [weekend](I-datetime) or next ?
+- what is the [weather](B-weather/noun) in [mission](B-location) [at](B-datetime) [noon](I-datetime) [today](I-datetime) ?
+- how [cold](B-weather/attribute) will it be [today](B-datetime)
+- will it be [sunny](B-weather/attribute) [today](B-datetime) ?
+- what will be [today's](B-datetime) high [temperature](B-weather/noun) ?
+- is it [rainy](B-weather/attribute) in [miami](B-location) also
+- will i need a [jacket](B-weather/attribute) [today](B-datetime) ?
+- do i need an [umbrella](B-weather/attribute) ?
+- what's the [weather](B-weather/noun) going to be [tonight](B-datetime) ?
+- what is the [forecast](B-weather/noun) high for [eugene](B-location) [today](B-datetime)
+- should i pack a [poncho](B-weather/attribute) [today](B-datetime) ?
+- what's the [weather](B-weather/noun) in [new](B-location) [york](I-location) ?
+- how [windy](B-weather/attribute) will it be at [newport](B-location) [beach](I-location) [today](B-datetime) ?
+- what time is the [storm](B-weather/attribute) supposed to hit [this](B-datetime) [afternoon](I-datetime) ?
+- what is the [temperature](B-weather/noun) at the [beach](B-location) ?
+- is it [snowing](B-weather/attribute) in [juneau](B-location) ?
+- should i wear a [jacket](B-weather/attribute) [today](B-datetime)
+- is it going to [snow](B-weather/attribute) [this](B-datetime) [weekend](I-datetime) ?
+- any days above [ninety](B-weather/attribute) [degrees](B-weather/noun) [this](B-datetime) [week](I-datetime) ?
+- when is is going to get [cooler](B-weather/attribute)
+- what does the [weather](B-weather/noun) [forecast](I-weather/noun) [for](B-datetime) [sunday](I-datetime) look like
+- is it [sunny](B-weather/attribute) enough to wear [sunglasses](B-weather/attribute) [today](B-datetime) ?
+- will it [rain](B-weather/attribute) [today](B-datetime) ?
+- what is the [forecast](B-weather/noun) [for](B-datetime) [tomorrow](I-datetime) [morning](I-datetime) ?
+- is it going to [snow](B-weather/attribute) [today](B-datetime)
+- when will it start [hailing](B-weather/attribute) ?
+- whats the high [today](B-datetime)
+- how many inches of [snow](B-weather/attribute) are we expected to get [today](B-datetime) ?
+- when is it going to [rain](B-weather/attribute) in [seattle](B-location) ?
+- do i need an [umbrella](B-weather/attribute) ?
+- [weather](B-weather/noun) [for](B-datetime) [the](I-datetime) [weekend](I-datetime)
+- did the news say it was going to be heavy [rains](B-weather/attribute)
+- show me [the](B-datetime) [latest](I-datetime) [weather](B-weather/noun) news in [florida](B-location)
+- do i need [rain](B-weather/attribute) [gear](I-weather/attribute) ?
+- is there a [lightning](B-weather/attribute) [delay](I-weather/attribute) ?
+- tell me the local [weather](B-weather/noun) .
+- will it [rain](B-weather/attribute) [tomorrow](B-datetime) ?
+
+
+## intent:weather/checkSunrise
+- what time does the sun rise
+- what time is [the](B-datetime) [sunrise](I-datetime) [tomorrow](I-datetime)
+- what time is [sunrise](B-datetime) in manila
+- what time is [the](B-datetime) [sunrise](I-datetime) [tomorrow](I-datetime)
+- what time is the sunrise [tomorrow](B-datetime) [morning](I-datetime)
+- what time does the sun rise [tomorrow](B-datetime)
+- what time does the sun come up
+- what time is [sunrise](B-datetime)
+- when is [sunrise](B-datetime)
+- what time does [the](B-datetime) [sunrise](I-datetime)
+- when is [sunrise](B-datetime)
+- can you tell me at what time will the sun rise [tomorrow](B-datetime)
+- when is [sunrise](B-datetime)
+- what time will the sun come up [in](B-datetime) [the](I-datetime) [morning](I-datetime)
+- when is [sunrise](B-datetime)
+- when is [sunrise](B-datetime) [tomorrow](I-datetime)
+- what time was sunrise [this](B-datetime) [morning](I-datetime)
+- what time will the sunrise [tomorrow](B-datetime) [morning](I-datetime)
+- when is [sunrise](B-datetime) [tomorrow](I-datetime)
+- what time is sun rise [tomorrow](B-datetime) [morning](I-datetime)
+- what time does the sun rise [today](B-datetime) in [new](B-location) [york](I-location)
+- when is [sunrise](B-datetime) [tomorrow](I-datetime)
+- what time is [sunrise](B-datetime)
+- what time does the sun rise
+- when does the [sun](B-weather/attribute) [rise](I-weather/attribute) [tomorrow](B-datetime)
+- when is [sunrise](B-datetime) in portugal
+- what time is [the](B-datetime) [sunrise](I-datetime) in miami
+- what time does [the](B-datetime) [sunrise](I-datetime) [tomorrow](I-datetime)
+- what time is [the](B-datetime) [sunrise](I-datetime) ?
+- what time is [sunrise](B-datetime) [tomorrow](I-datetime) ?
+- when is [sunrise](B-datetime) ?
+- when is [the](B-datetime) [sunrise](I-datetime) and [sunset](B-datetime) ?
+- what time is [sunrise](B-datetime)
+- what time is [tomorrow's](B-datetime) [sunrise](B-datetime)
+
+
+## intent:weather/checkSunset
+- what time does the sun set
+- when is [sunset](B-datetime) [tonight](I-datetime)
+- at what time does the [sun](B-weather/attribute) set
+- when is [sunset](B-datetime)
+- what time is sun down
+- when is [dusk](B-datetime)
+- when is [sunset](B-datetime)
+- what time will the [sun](B-weather/attribute) set [tonight](B-datetime)
+- what time does the sun set
+- what time does the sun set [today](B-datetime)
+- what time does the [sun](B-weather/attribute) set in [atlanta](B-location)
+- when is [sunset](B-datetime)
+- what time does the [sun](B-weather/attribute) set on [maui](B-location)
+- when is [sunset](B-datetime)
+- what time is [sunset](B-weather/attribute)
+- what time will the [sun](B-weather/attribute) set [tonight](B-datetime)
+- when does the [sun](B-weather/attribute) set [today](B-datetime)
+- what time [sunset](B-datetime) [tomorrow](I-datetime)
+- what time will it be [sunset](B-weather/attribute) in [los](B-location) [angeles](I-location)
+- what time does the [sun](B-weather/attribute) set [tonight](B-datetime)
+- what time does the [sun](B-weather/attribute) set in [raleigh](B-location) [,](I-location) [nc](I-location) [today](B-datetime)
+- what time did the [sun](B-weather/attribute) set [on](B-datetime) [august](I-datetime) [5th](I-datetime) [1922](I-datetime)
+- what time does the [sun](B-weather/noun) go down in [colorado](B-location)
+- what time does the [sun](B-weather/attribute) go down
+- what time is the [sun](B-weather/attribute) going to set
+- when is [sunset](B-datetime)
+- what time is the [sunset](B-weather/attribute)
+- what time does the sun set
+- when is dusk [for](B-datetime) [tomorrow](I-datetime)
+- what time is [sunset](B-datetime) [today](I-datetime)
+- what time does the [sun](B-weather/attribute) set in [china](B-location)
+- when does the [sun](B-weather/attribute) set in [long](B-location) [beach](I-location)
+- what time does the sun set
+- what time is the [sunset](B-weather/attribute)
+- what time does the sun set
+- what time is [sunset](B-datetime) [tomorrow](I-datetime)
+- what time will [the](B-datetime) [sunset](I-datetime) [tomorrow](I-datetime)
+- when does the sun set [today](B-datetime)
+- when is [sunset](B-datetime) [today](I-datetime)
+- what time does the [sun](B-weather/attribute) set [tonight](B-datetime)
+- what time does the sun set
+- when does the sun go down [today](B-datetime)
+- what time does the [sun](B-weather/attribute) set
+- when is sunset [on](B-datetime) [sunday](I-datetime)
+- what time does sun set [today](B-datetime)
+- when [the](B-datetime) [sunset](I-datetime)
+- what time is [sunset](B-weather/attribute) ?
+- when does the sun set [tomorrow](B-datetime) ?
+- what times is [sunset](B-weather/attribute) [tonight](B-datetime) ?
+- what time is [sunset](B-weather/attribute) [tonight](B-datetime) ?
+- what time is [sun](B-weather/attribute) set
+- what time does the [sun](B-weather/attribute) set [tonight](B-datetime)
+- when is [sunset](B-datetime)
+- when is [sunset](B-datetime) [tonight](I-datetime)
+
+
