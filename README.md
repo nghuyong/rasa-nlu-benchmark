@@ -105,26 +105,50 @@ Note:
    <tr>
       <td rowspan="2">Snips(en)</td>
       <td >pretrained_embeddings_spacy</td>
-      <td>0.98</td>
-      <td>0.98</td>
-      <td>0.98</td>
-      <td>0.98</td>
-      <td>0.98</td>
-      <td>0.98</td>
-      <td>0.98</td>
-      <td>0.98</td>
+      <td>0.99</td>
+      <td>0.99</td>
+      <td>0.99</td>
+      <td>0.99</td>
+      <td>1.00</td>
+      <td>1.00</td>
+      <td>1.00</td>
+      <td>1.00</td>
    </tr>
    <tr>
       <td >supervised_embeddings</td>
-      <td>0.98</td>
-      <td>0.98</td>
-      <td>0.98</td>
-      <td>0.98</td>
-      <td>0.98</td>
-      <td>0.98</td>
-      <td>0.98</td>
-      <td>0.98</td>
+      <td>1.00</td>
+      <td>1.00</td>
+      <td>1.00</td>
+      <td>1.00</td>
+      <td>1.00</td>
+      <td>1.00</td>
+      <td>1.00</td>
+      <td>1.00</td>
    </tr>
+      <tr>
+      <td rowspan="2">AskUbuntuCorpus(en)</td>
+      <td >pretrained_embeddings_spacy</td>
+      <td>0.89</td>
+      <td>0.89</td>
+      <td>0.89</td>
+      <td>0.89</td>
+      <td>0.95</td>
+      <td>0.95</td>
+      <td>0.95</td>
+      <td>0.95</td>
+   </tr>
+   <tr>
+      <td >supervised_embeddings</td>
+      <td>0.86</td>
+      <td>0.86</td>
+      <td>0.86</td>
+      <td>0.86</td>
+      <td>0.95</td>
+      <td>0.95</td>
+      <td>0.95</td>
+      <td>0.95</td>
+   </tr>
+   
    <tr>
       <td rowspan="2">Facebook Multilingual Task Oriented Dataset(en)</td>
       <td >pretrained_embeddings_spacy</td>
