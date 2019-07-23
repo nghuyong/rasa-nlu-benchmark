@@ -136,4 +136,27 @@ Note:
       <td>0.79</td>
       <td>0.77</td>
    </tr>
+  <tr>
+      <td rowspan="2">Facebook Multilingual Task Oriented Dataset(en)</td>
+      <td >pretrained_embeddings_spacy</td>
+      <td>0.98</td>
+      <td>0.98</td>
+      <td>0.98</td>
+      <td>0.98</td>
+      <td>0.98</td>
+      <td>0.98</td>
+      <td>0.98</td>
+      <td>0.98</td>
+   </tr>
+   <tr>
+      <td >supervised_embeddings</td>
+      <td>0.98</td>
+      <td>0.98</td>
+      <td>0.98</td>
+      <td>0.98</td>
+      <td>0.98</td>
+      <td>0.98</td>
+      <td>0.98</td>
+      <td>0.98</td>
+   </tr>
 </table>
