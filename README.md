@@ -48,7 +48,7 @@ Following information is included for each dataset:
 |ATIS|en|Airline Travel Information|4978/893|26/129|[more detail](https://www.kaggle.com/siddhadev/atis-dataset)|
 |Snips|en|7 intents, including:AddToPlaylist, BookRestaurant...|13802/699|7/72|[more detail](https://github.com/snipsco/nlu-benchmark)|
 |SMP2019|zh|29 domains, including: app, email...|2063/480|24/62| [more detail](http://conference.cipsc.org.cn/smp2019/evaluation.html) |
-|Facebook Multilingual Task Oriented Dataset|en|3 intents, includeing:alarm,weather,remainder|30521/8621|12/|https://fb.me/multilingual_task_oriented_data |
+|Facebook Multilingual Task Oriented Dataset|en|3 intents, includeing:alarm,weather,remainder|30521/8621|12/|(https://fb.me/multilingual_task_oriented_data) |
 
 Note:
 - For the SMP2019 dataset, the official does not divide the training set and test set, we have divided according to 8:2 by ourselves.
