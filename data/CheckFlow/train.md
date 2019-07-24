@@ -1,0 +1,846 @@
+## intent:request_search
+- 帮我查一下我的[流量](item)有多少
+- 帮我查一下我的[流量](item)这里还有多少
+- 帮我查一下我一个月[消费](item)多少
+- 帮我查一下我[月租](item)多少
+- 帮我看一下这个手机的那个[流量](item)
+- 我想问一下我是用了多少话费
+- 帮我查一下看看我剩有多少[流量](item)
+- 我现在还有多少话费[余额](item)啊
+- 查一下话费[余额](item)
+- 我那个[流量](item)还有多少
+- 你好查下我这个[流量](item)有多少啊
+- 喂你好你帮我查看一下我的[流量](item)
+- 帮我查一下我[上个月](time)的[流量](item)有多少
+- 恩你好啊给我查查我的[流量](item)
+- 嗯你好啊给我查查我的[流量](item)
+- 恩你好啊给我查查我[话费](item)的使用情况
+- 我想看一下[话费](item)
+- 你给我查下我的月[消费](item)情况
+- 我的[话费](item)还剩多少
+- 能不能看下我还剩多少[钱](item)
+- 那个我的[话费](item)还有多少
+- 你能给我看下我[消费](item)多少了吗
+- 我想知道我的这个月的[话费](item)嗯嗯
+- 你给我说我的[消费](item)多少
+- 帮我看一下我[上个月](time)[消费](item)多少
+- 帮我查一下我[这个月](time)[消费](item)多少
+- 我想问一下我[这个月](time)是用了多少话费
+- 我[现在](time)还有多少话费[余额](item)啊
+- 你好查下我[这个月](time)[流量](item)有多少啊
+- 喂你好你帮我查看一下这个[本月](time)我的[流量](item)
+- 帮我查一下我[十二月](time)的[流量](item)有多少
+- 帮我看一下我[十二月](time)[消费](item)多少
+- 帮我查一下我[十二月](time)[消费](item)多少
+- 我想问一下我[十二月](time)是用了多少话费
+- 你好查下我[十二月](time)[流量](item)有多少啊
+- 喂你好你帮我查看一下这个[十二月](time)我的[流量](item)
+- 帮我查一下我[六月](time)的[流量](item)有多少
+- 帮我看一下我[六月](time)[消费](item)多少
+- 帮我查一下我[六月](time)[消费](item)多少
+- 我想问一下我[六月](time)是用了多少话费
+- 你好查下我[六月](time)[流量](item)有多少啊
+- 喂你好你帮我查看一下这个[六月](time)我的[流量](item)
+- 帮我查一下我[三月](time)的[流量](item)有多少
+- 帮我看一下我[一月](time)[消费](item)多少
+- 帮我查一下我[一月](time)[消费](item)多少
+- 我想问一下我[一月](time)是用了多少[话费](item)
+- 你好查下我[二月](time)的[流量](item)有多少啊
+- 喂你好你帮我查看一下这个[一月](time)我的[流量](item)
+- 你帮我查看一下[一月](time)我的[流量](item)
+- 恩你好啊给我查查我[当月](time)的[流量](item)
+- 嗯你好啊给我查查我[这个月](time)的[流量](item)
+- 恩你好啊给我查查我[话费](item)的使用情况[这个月](time)的
+- 我想看一下[这个月](time)份的[话费](item)
+- 能不能看下我[这个月](time)的还剩多少[钱](item)
+- 那个我的[话费](item)还有多少[这个月](time)
+- 你能给我看下我[三月](time)份消费多少了吗
+- 我想知道我的[这个月](time)的[话费](item)嗯嗯
+- 你能给我看下我[三月](time)份的消费多少了吗
+- 我想问一下我[一月](time)份是用了多少[话费](item)
+- 帮我查一下我的[三月](time)的[消费](item)多少
+- 帮我查一下我的[三月](time)份的[消费](item)多少
+- 查下我[三月](time)份的用了多少[钱](item)
+- 那个请问我[三月](time)份的一共[消费](item)多少
+- 请帮我查一下[18810397783](phone_number)的话费
+- 请帮我查一下[110](phone_number)的话费
+- 你是 请您 知道 [当前月](time) [余额](item) 多少钱
+- 哪个 查查 [五月](time) [18912936976](phone_number) 多少流量
+- [18912936976](phone_number)
+- hi 能否 看下 [本月](time) [18912936976](phone_number) 多少钱
+- 喂 请 看下 [四月](time) [流量](item) 多少[流量](item)
+- 你是谁 查一查 [六月](time) [18506107025](phone_number) 多少
+- 你是谁 请你 看一下 [二月](time) [钱](item) 多少话费
+- 您是哪个 给我 问 [三月](time) [18045905302](phone_number) 多少流量
+- hi 我想 查查 [本月](time) [钱](item) 多少话费
+- hi 你给我 看一看 [八月](time) [18506107025](phone_number) 多少钱
+- 哪个 帮我 查下 [当前月](time) [余额](item) 多少钱
+- 您是哪个 请你 知道 [上上个月](time) [18810397783](phone_number) 多少钱
+- 在吗 你给我 看下 [十月](time) [18506107025](phone_number) 多少流量
+- 你是哪个 帮我 问 [九月](time) [话费](item) 多少
+- 喂 给我 看一下 [十月](time) [18006208658](phone_number)
+- 您是哪个 给我 知道 [话费](item) 多少流量
+- 您好吗 请 知道 [四月](time) [17501667971](phone_number) 多少钱
+- 你是 我想 [当前月](time) [消费](item)
+- hey 帮我 看下 [九月](time) [18045905302](phone_number) 多少
+- 你好 能不能 知道 [十月](time) [钱](item)
+- 您是哪个 你能不能 看下 [本月](time) [17501667971](phone_number)
+- hello 请 问一下 [本月](time) [流量](item) 有多少
+- 在吗 [当前月](time) [18045905302](phone_number)
+- 在吗 能否 看一看 [八月](time) [18045905302](phone_number) 有多少
+- 哪个 看一下 [十二月](time) [钱](item) 多少话费
+- 哪个 帮我 查一下 [三月](time) [18912936976](phone_number) 有多少
+- 我想知道我[这个月](time)的话费有多少
+- 你是谁 请帮我 看一下 [二月](time) [话费](item) 剩下多少
+- 你好 你能给我 问一下 [三月](time) [18912936976](phone_number) 多少流量
+- 你是哪个 能否 查下 [本月](time) [钱](item)
+- hello 能否 看一下 [六月](time) [18045905302](phone_number) 多少
+- 你是 你能给我 查一查 [十二月](time) [话费](item) 剩下多少
+- hi 请你 看看 [上上个月](time) [18912936976](phone_number) 多少话费
+- 你是谁 你能给我 [六月](time) [流量](item) 多少[流量](item)
+- 您是 能否 问一下 [八月](time) [18006208658](phone_number) 多少钱
+- 你好吗 你能给我 问 [当前月](time) [17501667971](phone_number)
+- 您是 你能给我 看一看 [上个月](time) [话费](item) 多少
+- 喂 请 查一下 [这个月](time) [17501667971](phone_number) 多少钱
+- 你好 请 问一下 [二月](time) [流量](item) 多少话费
+- 哪个 你能不能 看一看 [上上个月](time) [18912936976](phone_number) 剩下多少
+- 您是 请帮我 知道 [当前月](time) [话费](item) 剩下多少
+- 您是 能否 知道 [三月](time) [18912936976](phone_number)
+- 你是哪个 我想 知道 [九月](time) [流量](item) 多少钱
+- 你是谁 你能不能 问 [五月](time) [18045905302](phone_number)
+- 你是谁 你能给我 问 [七月](time) [话费](item) 多少
+- 您好吗 查查 [十月](time) [18810397783](phone_number) 多少话费
+- 嗨 能不能 查下 [本月](time) [流量](item)
+- 你是谁 能不能 [18006208658](phone_number) 多少话费
+- hi 你能不能 知道 [十二月](time) [18006208658](phone_number) 多少
+- 你是哪个 帮我 问一下 [十一月](time) [余额](item) 多少流量
+- 你是 看看 [八月](time) [17501667971](phone_number) 多少话费
+- 您是 我想 问一下 [本月](time) [话费](item) 有多少
+- 请帮我 [十一月](time) [18912936976](phone_number) 多少流量
+- 您是 你给我 [八月](time) [钱](item) 剩下多少
+- 您是 请您 问 [二月](time) [18045905302](phone_number) 多少流量
+- 哪个 帮我 看一看 [上个月](time) [余额](item) 剩下多少
+- 您是 问一下 [上上个月](time) [17501667971](phone_number)
+- 哪个 给我 知道 [十一月](time) [钱](item) 多少话费
+- hello 请您 查查 [七月](time) [18506107025](phone_number) 多少
+- 你是哪个 看看 [这个月](time) [18045905302](phone_number) 多少钱
+- 喂 请你 看看 [四月](time) [钱](item) 多少流量
+- 你好 请您 查一查 [十月](time) [17501667971](phone_number) 多少话费
+- 你好 能不能 查一下 [一月](time) [流量](item)
+- hi 请你 看一看 [十月](time) [17501667971](phone_number)
+- 你是谁 请您 看一看 [八月](time) [流量](item) 多少[流量](item)
+- 你是谁 请 知道 [八月](time) [18006208658](phone_number) 剩下多少
+- 你好 帮我 看一看 [十二月](time) [余额](item) 剩下多少
+- 您是 请帮我 看下 [五月](time) [18045905302](phone_number) 多少
+- hi 请你 看一下 [四月](time) [余额](item) 剩下多少
+- hi 能否 问一下 [五月](time) [18912936976](phone_number) 剩下多少
+- 你给我 问一下 [二月](time) [17501667971](phone_number) 有多少
+- 你是谁 帮我 查一查 [七月](time) [话费](item)
+- 你是 请您 看一下 [上个月](time) [18912936976](phone_number) 多少流量
+- 您是哪个 能否 看看 [三月](time) [钱](item)
+- 你是哪个 你能不能 看看 [八月](time) [18506107025](phone_number) 有多少
+- 你好 请你 查查 [二月](time) [钱](item) 剩下多少
+- 你好吗 请 看看 [当前月](time) [18006208658](phone_number)
+- 嗨 请 看一下 [这个月](time) [流量](item) 多少[流量](item)
+- 您是 能否 查下 [八月](time) [18006208658](phone_number) 有多少
+- hello 能不能 [十二月](time) [余额](item) 剩下多少
+- 你是谁 你给我 看看 [当前月](time) [18810397783](phone_number) 多少钱
+- 您好吗 能不能 查一查 [十月](time) [18045905302](phone_number) 有多少
+- 你是谁 给我 [九月](time) [余额](item) 多少流量
+- 你是哪个 给我 问 [当前月](time) [18810397783](phone_number) 有多少
+- 嗨 你给我 查下 [三月](time) [消费](item)
+- 你是哪个 请帮我 知道 [五月](time) [18810397783](phone_number) 多少钱
+- 喂 帮我 查查 [七月](time) [流量](item) 多少钱
+- 能不能 查一查 [十月](time) [17501667971](phone_number) 剩下多少
+- 嗨 请 看看 [十二月](time) [余额](item) 多少钱
+- 在吗 请 看下 [当前月](time) [18912936976](phone_number) 多少
+- 嗨 给我 知道 [上上个月](time) [钱](item) 多少[钱](item)
+- 在吗 问 [八月](time) [18006208658](phone_number)
+- hello 能不能 查下 [这个月](time) [18810397783](phone_number) 多少钱
+- 您好 能否 看看 [当前月](time) [流量](item) 多少
+- 您是 请 看看 [二月](time) [17501667971](phone_number) 有多少
+- 你是谁 你能给我 查一查 [本月](time) [话费](item) 多少
+- 您是 你能不能 看下 [这个月](time) [18506107025](phone_number)
+- 你好吗 问 [消费](item) 有多少
+- 嗨 能否 知道 [这个月](time) [18045905302](phone_number) 多少流量
+- 您好 我想 知道 [十二月](time) [流量](item) 多少话费
+- 你是 你给我 看一下 [七月](time) [18506107025](phone_number) 多少流量
+- 喂 能否 看一下 [十月](time) [流量](item) 多少[流量](item)
+- 在吗 帮我 问一下 [十二月](time) [18045905302](phone_number)
+- hey 请您 看看 [二月](time) [18006208658](phone_number) 多少流量
+- 你能给我 知道 [十一月](time) [话费](item) 多少
+- 您好 [三月](time) [18045905302](phone_number) 多少流量
+- 您好吗 请你 查下 [三月](time) [余额](item) 多少话费
+- 您好 看一下 [一月](time) [18810397783](phone_number) 多少
+- 你是 你能给我 看一下 [消费](item) 有多少
+- 您是哪个 我想 查一下 [本月](time) [18810397783](phone_number)
+- 你是哪个 请您 看一下 [这个月](time) [流量](item) 剩下多少
+- 您是哪个 问 [17501667971](phone_number) 多少话费
+- 您是哪个 你给我 看一看 [当前月](time) [消费](item) 有多少
+- hi 请你 查一查 [二月](time) [18912936976](phone_number) 剩下多少
+- 在吗 能不能 查查 [上上个月](time) [18810397783](phone_number) 多少钱
+- 你是 请您 查一下 [流量](item) 多少话费
+- 你是谁 帮我 问一下 [五月](time) [18912936976](phone_number) 有多少
+- 在吗 能否 看一看 [四月](time) [消费](item) 多少
+- 你好吗 查查 [这个月](time) [18506107025](phone_number) 多少钱
+- 您是哪个 能不能 查一查 [六月](time) [流量](item) 剩下多少
+- 你能给我 问 [18810397783](phone_number) 多少钱
+- hey 你能给我 查一查 [三月](time) [消费](item) 多少流量
+- 您是哪个 给我 查查 [八月](time) [18506107025](phone_number) 多少话费
+- 哪个 我想 看一看 [五月](time) [消费](item) 多少钱
+- 你是哪个 你能不能 看一下 [七月](time) [17501667971](phone_number) 多少钱
+- 嗨 请您 问 [三月](time) [18506107025](phone_number) 有多少
+- 您好 你能给我 查查 [五月](time) [流量](item) 多少
+- hey 能否 看下 [三月](time) [18006208658](phone_number)
+- 你好 查一查 [上上个月](time) [消费](item) 多少钱
+- 您是 你能给我 查查 [十一月](time) [18006208658](phone_number) 多少流量
+- hey 帮我 查下 [十月](time) [余额](item) 多少钱
+- hi 请你 查一查 [八月](time) [18045905302](phone_number) 有多少
+- 您好吗 能不能 问 [八月](time) [钱](item) 有多少
+- 喂 请您 看下 [上上个月](time) [18912936976](phone_number) 剩下多少
+- 你好吗 请你 知道 [这个月](time) [18045905302](phone_number) 多少钱
+- 您好吗 你能不能 问一下 [本月](time) [消费](item) 多少
+- 您好 看一下 [上个月](time) [18912936976](phone_number) 多少
+- 您好 请帮我 看看 [这个月](time) [余额](item) 多少
+- 喂 请帮我 查查 [上上个月](time) [18006208658](phone_number) 剩下多少
+- 嗨 你给我 问一下 [八月](time) [流量](item)
+- 你好吗 你能给我 问一下 [当前月](time) [18045905302](phone_number) 多少流量
+- 你能不能 看看 [八月](time) [余额](item) 多少钱
+- 您好 帮我 查下 [九月](time) [18912936976](phone_number) 多少流量
+- hello 请帮我 问 [当前月](time) [流量](item) 多少[流量](item)
+- 您好 请您 看一看 [当前月](time) [17501667971](phone_number) 剩下多少
+- 喂 帮我 看一看 [九月](time) [消费](item) 多少话费
+- 请帮我 [八月](time) [18045905302](phone_number) 有多少
+- hey 给我 查一查 [本月](time) [18506107025](phone_number) 有多少
+- hello 你给我 问 [十月](time) [话费](item) 有多少
+- 您是哪个 请帮我 问一下 [上上个月](time) [17501667971](phone_number) 多少
+- 嗨 帮我 查一下 [五月](time) [钱](item) 多少话费
+- 你是哪个 请 查查 [八月](time) [18810397783](phone_number) 有多少
+- 喂 你能不能 问 [五月](time) [话费](item)
+- hi 看一看 [十月](time) [18006208658](phone_number) 多少钱
+- 您是 帮我 查下 [流量](item) 多少
+- hi 请你 看看 [八月](time) [18506107025](phone_number) 有多少
+- hello 请您 看一看 [二月](time) [钱](item) 多少[钱](item)
+- 哪个 请您 知道 [五月](time) [17501667971](phone_number) 有多少
+- 你是哪个 帮我 查一下 [一月](time) [18045905302](phone_number) 多少流量
+- 你是哪个 请您 看下 [本月](time) [消费](item) 多少话费
+- 你是哪个 能否 [五月](time) [18006208658](phone_number) 有多少
+- 您是哪个 请您 查一查 [五月](time) [话费](item) 多少钱
+- 你能不能 查下 [八月](time) [18506107025](phone_number)
+- 您是哪个 请帮我 查查 [十月](time) [流量](item) 多少钱
+- hello 能不能 问 [四月](time) [17501667971](phone_number) 多少流量
+- 哪个 你给我 知道 [上个月](time) [话费](item) 剩下多少
+- hello 你给我 [18006208658](phone_number) 剩下多少
+- 你能不能 看一下 [十一月](time) [17501667971](phone_number) 多少流量
+- 你是 你能不能 知道 [三月](time) [钱](item) 剩下多少
+- hello 能不能 查下 [上上个月](time) [18810397783](phone_number)
+- 嗨 知道 [本月](time) [话费](item) 有多少
+- 在吗 你能不能 查一查 [一月](time) [18810397783](phone_number) 有多少
+- 你是 你给我 看下 [本月](time) [流量](item) 有多少
+- 哪个 帮我 知道 [本月](time) [18045905302](phone_number) 多少
+- 你好吗 你能给我 [流量](item) 多少钱
+- 你好 能否 [八月](time) [18045905302](phone_number) 剩下多少
+- 您好吗 请您 查一查 [十月](time) [话费](item) 有多少
+- 你是谁 请你 查下 [上上个月](time) [18045905302](phone_number) 多少话费
+- 您好 你能给我 知道 [本月](time) [17501667971](phone_number) 多少
+- 喂 请你 查下 [上上个月](time) [消费](item) 有多少
+- hey 我想 看一下 [七月](time) [18506107025](phone_number) 多少流量
+- 你好 能不能 知道 [九月](time) [余额](item) 多少流量
+- hi 请您 问 [五月](time) [18006208658](phone_number) 多少话费
+- hello 你给我 查查 [十二月](time) [余额](item) 多少话费
+- 你好 请您 看一看 [七月](time) [18045905302](phone_number)
+- 嗨 请您 问 [一月](time) [余额](item) 多少钱
+- 哪个 请你 看一看 [当前月](time) [18045905302](phone_number) 多少
+- 你好 我想 查查 [十月](time) [流量](item) 多少[流量](item)
+- 哪个 你给我 问一下 [十月](time) [18006208658](phone_number) 多少钱
+- 你是 你给我 查查 [五月](time) [流量](item) 多少钱
+- hey 你能给我 查查 [上上个月](time) [18045905302](phone_number) 有多少
+- 你是哪个 帮我 问一下 [十二月](time) [18045905302](phone_number)
+- 您好吗 能不能 看一看 [上上个月](time) [钱](item) 多少
+- 您是哪个 请帮我 [七月](time) [18045905302](phone_number) 剩下多少
+- hello 帮我 问 [当前月](time) [消费](item) 多少
+- hello 请帮我 查下 [六月](time) [18810397783](phone_number) 多少钱
+- 喂 请 查一查 [六月](time) [钱](item) 多少流量
+- hi 请你 看一看 [五月](time) [18045905302](phone_number) 多少
+- 你好 我想 查查 [十一月](time) [钱](item) 剩下多少
+- hi 你给我 问一下 [五月](time) [18045905302](phone_number) 多少话费
+- 哪个 能不能 查下 [二月](time) [钱](item) 多少[钱](item)
+- 你是哪个 我想 查一下 [三月](time) [17501667971](phone_number) 有多少
+- 请你 知道 [五月](time) [17501667971](phone_number) 有多少
+- 在吗 请您 [上个月](time) [消费](item) 剩下多少
+- 喂 请 [本月](time) [18006208658](phone_number)
+- 你是 能不能 看一看 [六月](time) [余额](item) 多少
+- 嗨 我想 查一查 [十一月](time) [18912936976](phone_number) 剩下多少
+- 你好 请 查一下 [上上个月](time) [流量](item) 多少话费
+- 您是 你能不能 问 [十月](time) [18506107025](phone_number) 多少钱
+- 您是 请 看下 [四月](time) [话费](item) 有多少
+- 你好吗 我想 查下 [四月](time) [18810397783](phone_number) 多少
+- 在吗 请帮我 看一看 [八月](time) [余额](item) 有多少
+- hey 请你 查查 [十二月](time) [18045905302](phone_number) 多少流量
+- 你好吗 请帮我 查一查 [十一月](time) [18506107025](phone_number) 多少流量
+- 在吗 能否 查下 [十一月](time) [话费](item) 剩下多少
+- hi 能否 查查 [上个月](time) [18912936976](phone_number) 多少流量
+- 你好 我想 问 [六月](time) [余额](item) 多少话费
+- 您是 请帮我 [三月](time) [18506107025](phone_number) 多少钱
+- 在吗 你能给我 查一下 [十一月](time) [余额](item) 多少
+- 你好 你给我 查下 [五月](time) [18810397783](phone_number) 多少流量
+- 嗨 查查 [七月](time) [钱](item) 多少流量
+- 您好吗 我想 查一查 [上上个月](time) [18810397783](phone_number) 有多少
+- 在吗 你能给我 问一下 [九月](time) [余额](item) 有多少
+- 喂 请帮我 看看 [六月](time) [18506107025](phone_number) 有多少
+- 你是谁 查下 [十一月](time) [18506107025](phone_number) 多少话费
+- 你是谁 你能给我 查查 [八月](time) [消费](item)
+- 您是哪个 帮我 查一查 [18912936976](phone_number) 多少话费
+- 你是谁 你能不能 [五月](time) [话费](item) 多少[话费](item)
+- 你是哪个 能否 查一查 [这个月](time) [18006208658](phone_number) 多少
+- hi 能不能 查下 [一月](time) [余额](item) 剩下多少
+- 你是 看一看 [十二月](time) [18912936976](phone_number) 多少
+- 哪个 给我 问 [当前月](time) [钱](item) 多少流量
+- hi 你能不能 看看 [18006208658](phone_number) 有多少
+- 你是哪个 我想 看一看 [本月](time) [消费](item)
+- 喂 能不能 看一下 [六月](time) [18506107025](phone_number) 有多少
+- 你好吗 能否 知道 [五月](time) [17501667971](phone_number) 多少流量
+- hey 我想 查一下 [上上个月](time) [余额](item) 多少话费
+- 你好 帮我 看一看 [上个月](time) [18045905302](phone_number) 有多少
+- 你是谁 查查 [本月](time) [流量](item) 有多少
+- 请您 查一下 [十二月](time) [18006208658](phone_number)
+- 你好吗 帮我 看一看 [三月](time) [流量](item) 多少钱
+- 嗨 我想 问一下 [二月](time) [18506107025](phone_number) 多少
+- 你好吗 能不能 查一下 [十一月](time) [消费](item) 多少话费
+- 哪个 请帮我 看一下 [当前月](time) [18912936976](phone_number) 多少
+- 在吗 看下 [七月](time) [17501667971](phone_number)
+- 您是 请帮我 看一看 [七月](time) [钱](item)
+- 你是 你能不能 查下 [一月](time) [18506107025](phone_number)
+- 你是 你能给我 看一看 [本月](time) [钱](item) 有多少
+- 你好 我想 查一下 [当前月](time) [18912936976](phone_number)
+- 你好 你能给我 看一看 [八月](time) [钱](item) 剩下多少
+- 在吗 给我 [当前月](time) [18810397783](phone_number) 多少流量
+- 嗨 请您 看一看 [十二月](time) [话费](item) 剩下多少
+- 嗨 你能不能 [当前月](time) [18506107025](phone_number)
+- 您是 请帮我 查查 [五月](time) [消费](item) 多少钱
+- 喂 你能给我 查下 [当前月](time) [17501667971](phone_number) 多少
+- 您好 帮我 知道 [上上个月](time) [18506107025](phone_number) 剩下多少
+- 您好 能否 看一下 [本月](time) [余额](item) 剩下多少
+- 在吗 能否 看看 [十一月](time) [18912936976](phone_number) 多少钱
+- 您好 帮我 查下 [三月](time) [钱](item)
+- hey 我想 看下 [四月](time) [17501667971](phone_number) 多少流量
+- hi 请帮我 看一下 [钱](item) 多少话费
+- 喂 你能给我 查查 [十二月](time) [18912936976](phone_number) 多少话费
+- 哪个 你能不能 看看 [上上个月](time) [消费](item) 多少话费
+- 在吗 请 查下 [上个月](time) [18045905302](phone_number) 多少
+- 你好吗 你给我 看一看 [十一月](time) [流量](item) 有多少
+- 嗨 问 [本月](time) [18506107025](phone_number) 剩下多少
+- 能不能 问 [十一月](time) [话费](item) 有多少
+- 您是 请你 查一查 [十二月](time) [18006208658](phone_number) 剩下多少
+- 您好 你能不能 问一下 [这个月](time) [18912936976](phone_number) 多少
+- 嗨 查一下 [上上个月](time) [钱](item) 多少[钱](item)
+- 请您 看一看 [上上个月](time) [17501667971](phone_number)
+- 你好吗 请您 问一下 [十一月](time) [话费](item) 剩下多少
+- 哪个 请 看下 [十二月](time) [18912936976](phone_number) 多少钱
+- 你是哪个 帮我 查一下 [七月](time) [余额](item) 多少流量
+- hi 请你 看看 [一月](time) [18045905302](phone_number) 多少话费
+- hey 你给我 问一下 [当前月](time) [话费](item)
+- 看一下 [三月](time) [18006208658](phone_number) 多少话费
+- 哪个 你给我 [六月](time) [18912936976](phone_number)
+- 你是谁 你给我 查一下 [一月](time) [话费](item)
+- 你是 请帮我 看一下 [一月](time) [18506107025](phone_number) 多少话费
+- 你是哪个 请 知道 [七月](time) [钱](item) 剩下多少
+- 在吗 能否 问 [四月](time) [18810397783](phone_number) 多少流量
+- 你是谁 能不能 看看 [五月](time) [余额](item) 多少话费
+- 您好吗 你能不能 查查 [这个月](time) [18912936976](phone_number) 多少钱
+- 你是谁 我想 问 [七月](time) [话费](item)
+- 您是哪个 能不能 查一下 [六月](time) [18506107025](phone_number) 多少话费
+- 嗨 请帮我 查一查 [十一月](time) [消费](item) 剩下多少
+- 你是 你能给我 查下 [本月](time) [18045905302](phone_number) 多少
+- 你是谁 请帮我 看看 [二月](time) [18810397783](phone_number) 多少话费
+- 你是哪个 请帮我 看看 [本月](time) [余额](item) 多少话费
+- 您是 请 看一下 [十月](time) [18045905302](phone_number) 多少流量
+- 你是哪个 看下 [九月](time) [消费](item) 多少流量
+- hello 查一下 [上上个月](time) [18810397783](phone_number) 多少话费
+- 哪个 请 看一下 [这个月](time) [消费](item) 多少
+- 你是谁 能不能 看一下 [十一月](time) [18912936976](phone_number) 多少流量
+- 在吗 能否 看一看 [本月](time) [钱](item) 多少流量
+- 您是哪个 请您 看下 [八月](time) [18045905302](phone_number) 多少流量
+- 在吗 请你 问 [四月](time) [消费](item) 多少
+- 您好 我想 问 [上上个月](time) [17501667971](phone_number) 多少钱
+- 你好 你给我 问一下 [六月](time) [18912936976](phone_number)
+- 你是哪个 给我 看一看 [四月](time) [钱](item) 多少话费
+- 你好 查下 [这个月](time) [18810397783](phone_number)
+- 您好吗 看看 [十月](time) [流量](item) 多少钱
+- 嗨 给我 查下 [十一月](time) [18506107025](phone_number)
+- 喂 看看 [流量](item) 多少[流量](item)
+- 喂 能否 查下 [七月](time) [18006208658](phone_number) 多少流量
+- hey 你给我 看看 [五月](time) [钱](item) 剩下多少
+- 嗨 请你 问 [八月](time) [18045905302](phone_number) 有多少
+- 你好吗 请您 看一下 [二月](time) [流量](item) 剩下多少
+- 你是哪个 给我 看看 [八月](time) [17501667971](phone_number) 剩下多少
+- 你是谁 能否 看下 [一月](time) [17501667971](phone_number) 有多少
+- hey 请 查查 [十月](time) [流量](item) 多少
+- 您好吗 帮我 看下 [十二月](time) [18006208658](phone_number) 多少话费
+- 在吗 能否 看一下 [话费](item) 多少[话费](item)
+- hello 帮我 看一下 [18506107025](phone_number) 多少话费
+- hi 能否 问一下 [十二月](time) [流量](item) 有多少
+- 喂 帮我 查查 [十一月](time) [18045905302](phone_number) 剩下多少
+- 您是 帮我 知道 [八月](time) [消费](item) 有多少
+- 你是哪个 你能不能 问一下 [上个月](time) [18506107025](phone_number) 多少钱
+- 喂 请你 看下 [十月](time) [钱](item) 多少话费
+- 你好吗 你能不能 查一查 [十一月](time) [18506107025](phone_number) 多少钱
+- 您好 能否 查下 [这个月](time) [18506107025](phone_number) 多少话费
+- 您好 你能不能 知道 [十二月](time) [钱](item) 多少流量
+
+
+## intent:inform_time
+- [一月](time)
+- [一月](time)的
+- 是[一月](time)的
+- [一月](time)
+- [上月](time)的
+- [上个月](time)的
+- [二月](time)
+- [二月](time)的
+- 是[二月](time)的
+- [二月](time)
+- 三月份
+- 三月的
+- [十一月](time)
+- [十一月](time)的
+- 是[十一月](time)的
+- [十一月](time)
+- [上月](time)的
+- [一月份](time)
+- [本月](time)的
+- 十一份月的吧
+- [六月](time) 的 就行]
+- [上个月](time) 吧]
+- 是 [十月](time) 的 就好]
+- 是 [上上个月](time) 的 就好]
+- [本月](time) ]
+- 是 [五月](time) 就可以]
+- 是 [三月](time) 的 ]
+- [一月](time) 就行]
+- [十一月](time) ]
+- [十一月](time) 可以]
+- 是 [三月](time) 可以]
+- 是 [五月](time) 就行]
+- 是 [这个月](time) 的 ]
+- 是 [十二月](time) 就行]
+- 是 [二月](time) 吧]
+- [四月](time) 的 可以]
+- 是 [三月](time) 就可以]
+- [十月](time) 的 就行]
+- [一月](time) ]
+- 是 [当前月](time) 的 ]
+- 是 [这个月](time) 就可以]
+- [这个月](time) 的 吧]
+- [七月](time) 就好]
+- 是 [当前月](time) 就可以]
+- 是 [十月](time) 的 就行]
+- 是 [三月](time) 的 就可以]
+- 是 [九月](time) 吧]
+- [上上个月](time) 的 就好]
+- [十一月](time) 的 就可以]
+- 是 [十二月](time) 可以]
+- [四月](time) 的 就行]
+- [六月](time) 的 可以]
+- [上上个月](time) 可以]
+- [八月](time) 的 就好]
+- 是 [上上个月](time) 的 可以]
+- [六月](time) 可以]
+- 是 [当前月](time) ]
+- 是 [六月](time) 的 就可以]
+- 是 [八月](time) 的 可以]
+- [五月](time) 的 就行]
+- [一月](time) 的 ]
+- [六月](time) 就可以]
+- [四月](time) 可以]
+- 是 [上个月](time) ]
+- [四月](time) 的 就好]
+- 是 [本月](time) 就行]
+- 是 [当前月](time) 就好]
+- 是 [上上个月](time) 吧]
+- [九月](time) 的 就好]
+- 是 [五月](time) 的 就好]
+- 是 [十一月](time) 就好]
+- 是 [九月](time) 的 ]
+- 是 [十月](time) 吧]
+- [二月](time) 的 ]
+- 是 [这个月](time) 的 就好]
+- [二月](time) 吧]
+- [十月](time) ]
+- [当前月](time) 就可以]
+- 是 [三月](time) 的 吧]
+- 是 [本月](time) 的 吧]
+- 是 [八月](time) 吧]
+- [当前月](time) 的 可以]
+- 是 [本月](time) 的 可以]
+- [十二月](time) 就行]
+- [这个月](time) 可以]
+- [本月](time) 吧]
+- 是 [二月](time) 的 吧]
+- 是 [当前月](time) 的 就行]
+- [八月](time) 的 ]
+- 是 [九月](time) 的 就行]
+- [十月](time) 的 ]
+- 是 [二月](time) 的 就好]
+- 是 [四月](time) 就可以]
+- [六月](time) ]
+- [九月](time) 就好]
+- 是 [十一月](time) 的 就可以]
+
+
+## intent:inform_item
+- [话费](item)
+- [消费](item)
+- [流量](item)
+- [话费](item)吧
+- 是[消费](item)
+- [流量](item)就行
+- [十二月](time) 就行
+- [七月](time) 就好
+- [五月](time) 就行
+- [十一月](time) 就可以
+- 是 [一月](time)
+- [八月](time) 就行
+- 是 [七月](time) 可以
+- [十二月](time) 可以
+- [上上个月](time) 就好
+- [上个月](time) 就好
+- 是 [四月](time) 就好
+- 是 [九月](time) 可以
+- 是 [这个月](time) 可以
+- 是 [当前月](time) 可以
+- 是 [十二月](time) 就可以
+- 是 [二月](time) 就行
+- [这个月](time) 可以
+- 是 [七月](time) 就好
+- 是 [五月](time) 吧
+- [十二月](time) 吧
+- 是 [上个月](time) 吧
+- 是 [本月](time) 就好
+
+
+## intent:inform_package
+- [套餐一](package)吧
+- [套餐一](package)
+- [套餐二](package)
+- [套餐三](package)就好
+- [套餐](package) 二 就好
+- [业务](package) 一 吧
+- [业务](package) 二 就可以
+- [套餐](package) 二 就可以
+- [业务](package) 四 就可以
+- [套餐](package) 四 就行
+- [业务](package) 三 就好
+- [业务](package) 三 可以
+- [业务](package) 一
+- [业务](package) 一 就行
+- [套餐](package) 三
+- [套餐](package) 二
+- [套餐](package) 四 可以
+- [套餐](package) 一 就可以
+- [业务](package) 二 就行
+- [业务](package) 一 就可以
+- [业务](package) 三
+- [业务](package) 四 吧
+- [业务](package) 二
+- [套餐](package) 一
+- [业务](package) 二 就好
+- [套餐](package) 四 吧
+- [套餐](package) 一 吧
+
+
+## intent:request_management
+- 给我办一下[流量](item)[套餐](package)
+- 我想办[流量](item)[套餐](package)
+- 我想开一个新[流量](item)[套餐](package)
+- 给我办一个新[流量](item)[业务](package)
+- 给我办一下[便宜](price)点的[流量](item)[套餐](package)
+- 我想办[二十八](price)的[流量](item)套餐
+- 我想开一个[合适](price)的新[流量](item)套餐
+- 给我办理[流量](item)业务
+- 给我办理[流量](item)
+- 给我办一个[三十](price)的新[流量](item)业务
+- 你好吗 帮我 办个 [超贵](price) [流量](data_plan) [业务](package)
+- 在吗 给我 办一下 [昂贵](price) [套餐](package)
+- 您是 请帮我 开下 [便宜](price) [流量](data_plan) [套餐](package)
+- 您好 请帮我 办 [三十](price) [流量](data_plan) [套餐](package)
+- 你是 请您 办 [超贵](price) [流量](data_plan) [套餐](package)
+- 你是 你给我 办个 [便宜](price) [业务](package)
+- hey 能不能 办一下 [适中](price) [业务](package)
+- 您是哪个 给我 开一个 [三十](price) [套餐](package)
+- 您是 请帮我 开一个 [套餐](package)
+- hey 你能给我 开 [二十八](price) [业务](package)
+- 你是 请你 开一个 [三十](price) [业务](package)
+- hey 请你 办一下 [超贵](price) [套餐](package)
+- 你好吗 能否 开下 [便宜](price) [业务](package)
+- hello 能不能 办理 [昂贵](price) [流量](data_plan) [业务](package)
+- hey 你给我 开 [合适](price) [套餐](package)
+- 在吗 你能给我 办个 [二十八](price) [套餐](package)
+- 你是哪个 请帮我 办理 [三十](price) [业务](package)
+- 您好吗 请您 办理 [二十八](price) [流量](data_plan) [业务](package)
+- 哪个 帮我 开下 [超贵](price) [业务](package)
+- 您是哪个 办个 [便宜](price) [流量](data_plan) [套餐](package)
+- 我想 开一个 [二十八](price) [业务](package)
+- 哪个 请 办个 [流量](data_plan) [套餐](package)
+- hi 请你 开下 [合适](price) [流量](data_plan) [业务](package)
+- 您好吗 你给我 开下 [合适](price) [流量](data_plan) [套餐](package)
+- hello 能否 办个 [二十八](price) [套餐](package)
+- 请你 办一下 [适中](price) [业务](package)
+- 嗨 能不能 办一下 [三十](price) [套餐](package)
+- hey 请你 开 [六十](price) [流量](data_plan) [业务](package)
+- 你好吗 开下 [便宜](price) [流量](data_plan) [业务](package)
+- hi 请您 开下 [三十](price) [流量](data_plan) [套餐](package)
+- 您好吗 开一个 [超贵](price) [流量](data_plan) [套餐](package)
+- hello 你给我 办一下 [适中](price) [流量](data_plan) [业务](package)
+- 喂 请你 办理 [便宜](price) [业务](package)
+- 您好吗 我想 办理 [合适](price) [业务](package)
+- 你是谁 你能给我 开一个 [超贵](price) [流量](data_plan) [套餐](package)
+- 嗨 请 开一个 [适中](price) [流量](data_plan) [业务](package)
+- 你好 我想 开 [合适](price) [流量](data_plan) [业务](package)
+- 喂 给我 办一下 [流量](data_plan) [套餐](package)
+- hi 能否 办一下 [适中](price) [套餐](package)
+- 你是哪个 给我 办个 [六十](price) [流量](data_plan) [业务](package)
+- hi 能不能 开下 [昂贵](price) [流量](data_plan) [套餐](package)
+- 你是哪个 请帮我 办理 [六十](price) [套餐](package)
+- 喂 帮我 开一个 [二十八](price) [业务](package)
+- 您好吗 开 [昂贵](price) [业务](package)
+- 你好吗 你给我 办个 [适中](price) [流量](data_plan) [业务](package)
+- 你是哪个 你给我 办理 [合适](price) [流量](data_plan) [套餐](package)
+- 你好 能不能 开一个 [适中](price) [业务](package)
+- 你好 我想 办个 [便宜](price) [业务](package)
+- hi 你给我 办一下 [便宜](price) [流量](data_plan) [套餐](package)
+- 哪个 我想 办个 [业务](package)
+- 给我 办理 [六十](price) [业务](package)
+- 您是 请 办一下 [流量](data_plan) [业务](package)
+- 在吗 请你 开下 [三十](price) [流量](data_plan) [套餐](package)
+- hey 帮我 开 [超贵](price) [流量](data_plan) [业务](package)
+- hi 请你 办个 [三十](price) [流量](data_plan) [套餐](package)
+- 在吗 帮我 办一下 [便宜](price) [套餐](package)
+- hey 给我 开下 [合适](price) [流量](data_plan) [套餐](package)
+- 喂 给我 办 [六十](price) [套餐](package)
+- 你是 能不能 办一下 [便宜](price) [流量](data_plan) [套餐](package)
+- 嗨 请您 办 [流量](data_plan) [套餐](package)
+- 您是 你能给我 办个 [六十](price) [套餐](package)
+- 在吗 你能不能 办 [三十](price) [套餐](package)
+- 您是哪个 请你 开下 [昂贵](price) [业务](package)
+- 你好 给我 开下 [三十](price) [业务](package)
+- hi 请您 开 [合适](price) [套餐](package)
+- 你是 办 [超贵](price) [流量](data_plan) [套餐](package)
+- 您是哪个 请帮我 开 [昂贵](price) [套餐](package)
+- 您好 能否 开一个 [合适](price) [流量](data_plan) [套餐](package)
+- 你好 你能不能 办 [便宜](price) [套餐](package)
+- 你是谁 你给我 办一下 [适中](price) [流量](data_plan) [业务](package)
+- 你好 你能不能 办理 [便宜](price) [套餐](package)
+- 你是哪个 给我 办理 [昂贵](price) [套餐](package)
+- 在吗 你给我 开 [便宜](price) [流量](data_plan) [业务](package)
+- hello 请您 开下 [昂贵](price) [业务](package)
+- 你好吗 请您 开下 [三十](price) [流量](data_plan) [套餐](package)
+- hi 能否 办一下 [适中](price) [业务](package)
+- 喂 请 开一个 [合适](price) [业务](package)
+- 你是谁 帮我 办理 [昂贵](price) [业务](package)
+- 给我 开一个 [流量](data_plan) [业务](package)
+- 你是哪个 你能给我 开一个 [昂贵](price) [套餐](package)
+- 你是谁 请帮我 开 [二十八](price) [业务](package)
+- 您好 帮我 办个 [合适](price) [套餐](package)
+- hi 开一个 [昂贵](price) [业务](package)
+- 您是 我想 开 [二十八](price) [流量](data_plan) [套餐](package)
+- 喂 请您 开下 [便宜](price) [套餐](package)
+- hello 请 开一个 [超贵](price) [流量](data_plan) [套餐](package)
+- 在吗 办理 [便宜](price) [流量](data_plan) [业务](package)
+- 嗨 请帮我 办 [三十](price) [流量](data_plan) [套餐](package)
+- hello 能不能 办一下 [便宜](price) [业务](package)
+- 你是 帮我 开 [超贵](price) [业务](package)
+- 你好 你给我 办个 [超贵](price) [流量](data_plan) [业务](package)
+- 您好 你能不能 开 [流量](data_plan) [套餐](package)
+- hi 请帮我 开下 [便宜](price) [业务](package)
+- hey 办一下 [业务](package)
+- 您是 给我 办 [流量](data_plan) [套餐](package)
+- hello 你能不能 办一下 [便宜](price) [流量](data_plan) [套餐](package)
+- 在吗 帮我 开 [二十八](price) [套餐](package)
+- 您是哪个 给我 开下 [适中](price) [业务](package)
+- 你是 请你 办 [二十八](price) [流量](data_plan) [业务](package)
+- 哪个 请帮我 办一下 [适中](price) [业务](package)
+- 您好 请您 开一个 [便宜](price) [套餐](package)
+- 你好吗 给我 开一个 [流量](data_plan) [业务](package)
+- hey 开下 [六十](price) [流量](data_plan) [业务](package)
+- hello 请 办理 [合适](price) [流量](data_plan) [业务](package)
+- 您好吗 请您 办理 [流量](data_plan) [套餐](package)
+- hello 请 办个 [超贵](price) [套餐](package)
+- 在吗 请您 开 [二十八](price) [流量](data_plan) [套餐](package)
+- 喂 给我 办一下 [便宜](price) [业务](package)
+- 你好 开下 [适中](price) [流量](data_plan) [业务](package)
+- 嗨 你能给我 开下 [三十](price) [流量](data_plan) [套餐](package)
+- 在吗 你给我 办个 [适中](price) [流量](data_plan) [业务](package)
+- 喂 给我 开下 [流量](data_plan) [套餐](package)
+- 嗨 办 [超贵](price) [套餐](package)
+- 您好吗 开下 [合适](price) [流量](data_plan) [业务](package)
+- 你好吗 能否 办 [昂贵](price) [流量](data_plan) [业务](package)
+- 在吗 你给我 开一个 [六十](price) [流量](data_plan) [业务](package)
+- 您是 给我 办个 [便宜](price) [流量](data_plan) [业务](package)
+- 在吗 你能给我 开 [三十](price) [流量](data_plan) [套餐](package)
+- 嗨 能不能 办一下 [业务](package)
+- hello 请你 办理 [便宜](price) [套餐](package)
+- 您是哪个 请帮我 开 [二十八](price) [业务](package)
+- 您是 请您 开下 [六十](price) [流量](data_plan) [套餐](package)
+- 您是 能否 开下 [二十八](price) [套餐](package)
+- hello 能否 开一个 [超贵](price) [流量](data_plan) [套餐](package)
+- 您好 你能不能 开 [便宜](price) [套餐](package)
+- 你好吗 能不能 开下 [适中](price) [业务](package)
+- 嗨 你能给我 开下 [昂贵](price) [流量](data_plan) [业务](package)
+- 您是 请 办理 [合适](price) [流量](data_plan) [业务](package)
+- hi 请你 办理 [三十](price) [套餐](package)
+- 哪个 给我 开下 [昂贵](price) [业务](package)
+- 您好 请 办 [流量](data_plan) [套餐](package)
+- 您好吗 我想 开 [六十](price) [流量](data_plan) [业务](package)
+- 您是 请你 办 [流量](data_plan) [套餐](package)
+- 在吗 你能给我 开 [便宜](price) [流量](data_plan) [套餐](package)
+- 嗨 你给我 办理 [流量](data_plan) [套餐](package)
+- 你是谁 给我 开一个 [套餐](package)
+- 你好吗 请 开 [套餐](package)
+- hi 请 办理 [便宜](price) [流量](data_plan) [套餐](package)
+- 你好 帮我 开 [三十](price) [流量](data_plan) [业务](package)
+- 请 办一下 [三十](price) [流量](data_plan) [业务](package)
+- hello 请你 办 [适中](price) [套餐](package)
+- 喂 你给我 办 [适中](price) [流量](data_plan) [套餐](package)
+- 您是哪个 请您 办 [流量](data_plan) [业务](package)
+- 我想 开下 [二十八](price) [流量](data_plan) [套餐](package)
+- 你好 给我 开下 [二十八](price) [流量](data_plan) [业务](package)
+- 你是哪个 帮我 办 [六十](price) [流量](data_plan) [套餐](package)
+- 在吗 请您 开 [适中](price) [套餐](package)
+- hey 请帮我 办个 [二十八](price) [业务](package)
+- 你是 你给我 开一个 [六十](price) [流量](data_plan) [业务](package)
+- 你是 帮我 开一个 [二十八](price) [业务](package)
+- 你是 开一个 [昂贵](price) [流量](data_plan) [套餐](package)
+- 您是 请帮我 办个 [昂贵](price) [流量](data_plan) [套餐](package)
+- hi 给我 开 [三十](price) [流量](data_plan) [套餐](package)
+- 帮我 开下 [适中](price) [流量](data_plan) [业务](package)
+- 喂 给我 办个 [二十八](price) [流量](data_plan) [套餐](package)
+- 您是 请你 办一下 [二十八](price) [套餐](package)
+- hello 请帮我 办个 [二十八](price) [流量](data_plan) [套餐](package)
+- 你好吗 请帮我 办 [六十](price) [业务](package)
+
+
+## intent:inform_current_phone
+- 本机的
+- 自己的号码
+- 我自己的
+- 本机
+- 我查本机的
+
+
+## intent:inform_other_phone
+- 其他的
+- 其他号码的
+- 不是本机的
+- 别的号码的
+- 别的
+
+
+## intent:greet
+- 你好
+- 您好
+- 您好吗
+- 嗨
+- 你是谁
+- 您是
+- 你是哪个
+- 喂
+- hi 你好
+- 你是 你是
+- 你是谁 哪个
+- 你好 您是哪个
+- 在吗 你是谁
+- 您是哪个 您是哪个
+- hey 您是哪个
+- 你是谁 你好
+- 嗨
+- 您是 hey
+- 你是谁 hi
+- hey 您好吗
+- 您是哪个 您好吗
+- 在吗 嗨
+- 喂 你好吗
+- 您是哪个 哪个
+- 你是谁 您好
+- 你是谁 hello
+- 哪个 你好吗
+- 喂 在吗
+- hey 您好
+- 你是哪个 哪个
+
+
+## intent:goodbye
+- 再见
+- 拜拜
+- 很高兴和你说话
+- byebye
+- see you
+- 走你
+- 拜拜
+- bye
+- 再见
+- 很高兴和你说话
+
+
+## intent:confirm
+- 嗯
+- 好的
+- 行
+- 可以的
+- 恩
+- 中中
+- 中
+- 办吧
+- 办理吧
+- 行的
+- 确定
+- 肯定
+- 一定
+- 就这样
+- 就这么办
+- 就这么着
+- 就这么着吧
+- 没问题
+- 没问题
+- 中
+- 中中
+- 办
+- 办吧
+- 恩
+- 可以的
+
+
+## intent:thanks
+- 谢谢
+- 谢谢您
+- 谢谢你
+- 非常感谢
+
+
+## intent:deny
+- 不要
+- 不需要
+- 不要办
+- 不办
+- 暂时不要了
+- 不是
+- 有问题
+- 我再考虑考虑
+- 不好啦
+- 不行
+- 不可以的
+- 不中
+- 不可以
+- 没了
+- 没有了
+
+
+## intent:unknown_intent
+- =
+- &
+- 吃饭
+- 哪里有吃饭的地方？
+- 我想吃好吃的
+- 今晚吃什么
+- 你吃了吗？
+- 附近哪里有餐厅？

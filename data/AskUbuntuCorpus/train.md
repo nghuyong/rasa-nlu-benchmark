@@ -1,0 +1,136 @@
+## intent:Make Update
+- Upgrading from ubuntu [12.04](UbuntuVersion) to [13.10](UbuntuVersion)
+- Upgrade from [9.10](UbuntuVersion) to [11.04](UbuntuVersion)
+- Upgrading from [11.10](UbuntuVersion) to [12.04](UbuntuVersion)
+- How to upgrade from Ubuntu [10.10](UbuntuVersion) to [11.04](UbuntuVersion)?
+- Upgrade from 12.04 to 12.10 without losing files?(UbuntuVersion)(UbuntuVersion)
+- Using [12.04](UbuntuVersion) can I compile packages with gcc for [10.04](UbuntuVersion)?
+- Upgrading Ubuntu Server [9.10](UbuntuVersion) to 10.04(UbuntuVersion)
+- Upgrade [10.10](UbuntuVersion) to [11.04](UbuntuVersion)
+- How do I update [Xubuntu 11.10](UbuntuVersion) to [Xubuntu 12.04 LTS](UbuntuVersion)?
+- how to upgrade from ubuntu [15.04](UbuntuVersion) to [15.10](UbuntuVersion)?
+- Is it worth upgrading from [12.04 LTS](UbuntuVersion) to [13.04](UbuntuVersion)
+- How to upgrade from [12.10](UbuntuVersion) to [14.04](UbuntuVersion)
+- Upgrading from [10.04](UbuntuVersion) to [11.10](UbuntuVersion)
+- How to upgrade Ubuntu [14.04.1](UbuntuVersion) to [14.04.2](UbuntuVersion)?
+- How can i upgrade to Ubuntu [14.04](UbuntuVersion) final from [14.04 Beta](UbuntuVersion) correctly?
+- Problem upgrading [Ubuntu 9.10](UbuntuVersion)
+- Upgrade to [12.04 64 bit](UbuntuVersion)
+- Upgrading from [10.10](UbuntuVersion) to [11.04](UbuntuVersion) how much space is needed?
+- Doubts regarding the [15.04](UbuntuVersion) upgrade (is it inevitable and unavoidable?)
+- How do I upgrade to the release version of [16.04](UbuntuVersion) if I am running Beta?
+- Cannot upgrade from [12.04LTS](UbuntuVersion) to [14.04](UbuntuVersion)
+- How to upgrade from [14.04 LTS](UbuntuVersion) or [15.10](UbuntuVersion) to [16.04](UbuntuVersion) from terminal
+- Do I need to uninstall 10.04 to upgrade to 12.04?(UbuntuVersion)(UbuntuVersion)
+- Force upgrade [12.10](UbuntuVersion) to [13.04](UbuntuVersion)
+- Is any offline upgrade from [13.10](UbuntuVersion) to [14.04](UbuntuVersion) possible?
+- How to upgrade Ubuntu [9.10](UbuntuVersion) to [12.10](UbuntuVersion) via terminal?
+- How to partially upgrade Ubuntu [11.10](UbuntuVersion) from Ubuntu [11.04](UbuntuVersion)?
+- Problems upgrading from [12.04](UbuntuVersion) to [14.04](UbuntuVersion)
+- Is there an upgrade procedure from [12.04 LTS](UbuntuVersion) to [14.04 LTS](UbuntuVersion)
+- Upgrading from [12.04](UbuntuVersion) to [13.10](UbuntuVersion) ( Unanswered questions )
+- Upgrading From [11.04 (32bit)](UbuntuVersion) to [12.04 (64bit)](UbuntuVersion)
+- Upgrading from Ubuntu [14.04](UbuntuVersion) to [15.04](UbuntuVersion)
+- Is it necessary to upgrade to [15.10](UbuntuVersion) from [14.04](UbuntuVersion)?
+- Do I need to reinstall everything to upgrade from [13.10](UbuntuVersion) to [14.10](UbuntuVersion)?
+- Problems upgrading Ubuntu [12.10](UbuntuVersion) to [13.04](UbuntuVersion)
+- How to upgrade from [16.04 LTS](UbuntuVersion) to [16.04.1 LTS](UbuntuVersion)
+- Upgrading [16.04](UbuntuVersion) to [16.04.1](UbuntuVersion)
+
+## intent:None
+- How to provide user permission to read and write on /dev/sdax? What is the syntax?
+- How can I highlight or annotate PDFs?
+- How is rm command different from the delete button?
+- Torrent client for the command-line?
+- Security enhancements prevent mounting /dev/sdb1
+- How to record my screen?
+
+## intent:Setup Printer
+- How can I install a [Pantum 2502W](Printer) laser printer on Ubuntu
+- How to install a [Lexmark z600](Printer) series printer?
+- Cannot install printer driver [epson l210](Printer)
+- Install printer [Lexmark X4690](Printer) (ubuntu [12.04](UbuntuVersion))
+- How do I install [Dell 2150cdn] printer(Printer)
+- How to Install [Brother DCP-8110DN](Printer) Laser Printer on Ubuntu?
+- How to setup HP printer/scanner on ubuntu?
+- How do I setup my [HP C4140](Printer) printer wirelessly?
+- Installing [Epson XP-424](Printer) wireless printer
+- How to add a network printer on Ubuntu [15.10](UbuntuVersion)?
+- How to install [Canon LBP330](Printer) in [Lts 16.04](UbuntuVersion)
+- How to install a Brother [MFC-5890CN](Printer) network printer?
+- How To Install [Canon LBP2900B](Printer) printer in [14.04 LTS](UbuntuVersion) ? I tried the method for LBP2900 but it didnt work
+- How do I install the [HP F4280](Printer) printer?
+- How Do I Install [Canon MF8000C](Printer) Printer in Ubuntu [15.10](UbuntuVersion)?
+- How to setup wireless printing from a printer connected via usb on Ubuntu Server [12.10](UbuntuVersion)?
+- How do I install drivers for a [Konica Minolta 200](Printer)?
+- No matter what I do Ubuntu [15.04](UbuntuVersion) does not recognize [HP LaserJet 1020](Printer)
+
+## intent:Shutdown Computer
+- Shutdown problem in Ubuntu [16.04](UbuntuVersion)
+- My system doesn't go shutdown
+- How to shutdown the computer after Xsession ends?
+- What is the command to open the shutdown dialog?
+- Are there any Keyboard Shortcuts to Shutdown?
+- How can one shutdown a PC using the keyboard?
+- shutdown in specific way if no-one uses computer
+- what is the right way to shutdown ubuntu using the command line?
+- Shutdown after a certain time
+- shut down without extra question
+- What graphical utility can I use for Ubuntu auto shutdown?
+- No action when shutdown pressed
+- Hotkey to shut down from login screen?
+- Keyboard shortcut to shutdown?
+- How do I shut down without the confirmation prompt?
+- How can I enable shutdown verbosity?
+- What does my computer do when I click 'Shut Down'?
+- How can I shutdown the computer when a certain process ends?
+- shutdown 5:30pm every day
+- How to troubleshoot slow shutdown?
+- How can I automatically shutdown the system after a specific time?
+
+## intent:Software Recommendation
+- What's the best Mind Mapping Software?
+- Please recommend a hex editor for shell
+- On really old Ubuntu 6.06 - How to upgrade(UbuntuVersion)
+- Which PDF Viewer would you recommend?
+- Extracting embedded images from a PDF
+- Any command line calculator for Ubuntu?
+- Tool for recovering deleted data from a flash drive
+- Is there a lightweight tool to crop images quickly?
+- Password Management Applications?
+- What are some good ASCII art generators?
+- Are there any hardware diagnostic tools?
+- Is it recommended to upgrade to [Lubuntu 15.04](UbuntuVersion)?
+- What are some good GUI binary viewers/editors?
+- What new games are available for Ubuntu in 2011?
+- Can you recommend a good modern GUI download manager (wget wrapper?)
+- Which application do you recommend for watching TV (DVB)?
+- [MySQL](SoftwareName) GUI Tools
+- Is there a project management software for Ubuntu like [Microsoft](SoftwareName) Project?
+- Removing Recently used items in [12.04](UbuntuVersion)
+- Is there an application for reading mobi files?
+- What do you use to edit Microsoft [Word](SoftwareName) documents (docx)?
+- Software to create a video slideshow?
+- What software can I use to view epub documents?
+- What's a simple "colour picker" app for GNOME?
+- What Is The Best HDR Software?
+- A light alternative to gnome-system-monitor?
+- Is there any program for fuzzy string matching which provides a match score?
+- Is there an SSH connection manager?
+- Is there any recovery software available for ext4?
+- Is there a Linux file manager with a proper drop-down tree view? (like finder in OS X)
+- Any app that tells me to take regular breaks from working?
+- What scientific plotting software is available?
+- Software to read a QR code?
+- What blog editor software are available?
+- What's the best Wireframing tool?
+- What developer text editors are available for Ubuntu?
+- What [IRC](SoftwareName) clients are available?
+- Is there any software that will do face recognition in photos?
+- What screenshot tools are available?
+- UPNP / DLNA (client) player recommendations?
+- Wubi Device /dev/loop0 full. How to get more space?
+- In [Unity](SoftwareName) how do I see the details of a given launcher?
+- Applications to replace [iTunes](SoftwareName) for iPod synchronization?
+- Is there LAN topology mapping software available in Ubuntu?
+- What is a good [MongoDB](SoftwareName) GUI client?
