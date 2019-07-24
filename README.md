@@ -47,8 +47,9 @@ Following information is included for each dataset:
 |:----:|:----:|:----:|:----:|:----:|:----:|
 |ATIS|en|Airline Travel Information|4978/893|26/129|[more detail](https://www.kaggle.com/siddhadev/atis-dataset)|
 |Snips|en|7 intents, including:AddToPlaylist, BookRestaurant...|13802/699|7/72|[more detail](https://github.com/snipsco/nlu-benchmark)|
-|SMP2019|zh|29 domains, including: app, email...|2063/480|24/62| [more detail](http://conference.cipsc.org.cn/smp2019/evaluation.html) |
+|AsuUbuntuCorpus|en|5 intents, questions about Ubuntu|127/35|5/3|[more detail](https://github.com/kumar-shridhar/Know-Your-Intent)|
 |Facebook Multilingual Task Oriented Dataset|en|3 intents, includeing:alarm,weather,remainder|30521/8621|12/25|[more detail](https://fb.me/multilingual_task_oriented_data) |
+|SMP2019|zh|29 domains, including: app, email...|2063/480|24/62| [more detail](http://conference.cipsc.org.cn/smp2019/evaluation.html) |
 |Check flow dataset|zh|13 intents, includeing:request_search, inform_time, inform_item, inform_package, request_management, inform_current_phone, inform_other_phone, greet, goodbye, confirm, thanks, deny, unknown_intent|809/210|13/6|[more detail](https://github.com/FengXMGeek/rasa_nlu_chinese_example.git) |
 |ShowNews|zh|1 intent, includeing:ShowNews|20864/4636|1/3|N/A |
 |ToutiaoNews|zh|7 intent, includeing:news_culture, news_entertainment, news_sports, news_finance, news_house, news_car, news_edu|325279/57409|7/0|[more detail](https://github.com/fate233/toutiao-text-classfication-dataset) |
@@ -107,39 +108,51 @@ Note:
    <tr>
       <td rowspan="2">Snips(en)</td>
       <td >pretrained_embeddings_spacy</td>
-      <td>0.98</td>
-      <td>0.98</td>
-      <td>0.98</td>
-      <td>0.98</td>
-      <td>0.98</td>
-      <td>0.98</td>
-      <td>0.98</td>
-      <td>0.98</td>
+      <td>0.99</td>
+      <td>0.99</td>
+      <td>0.99</td>
+      <td>0.99</td>
+      <td>1.00</td>
+      <td>1.00</td>
+      <td>1.00</td>
+      <td>1.00</td>
    </tr>
    <tr>
       <td >supervised_embeddings</td>
-      <td>0.98</td>
-      <td>0.98</td>
-      <td>0.98</td>
-      <td>0.98</td>
-      <td>0.98</td>
-      <td>0.98</td>
-      <td>0.98</td>
-      <td>0.98</td>
+      <td>1.00</td>
+      <td>1.00</td>
+      <td>1.00</td>
+      <td>1.00</td>
+      <td>1.00</td>
+      <td>1.00</td>
+      <td>1.00</td>
+      <td>1.00</td>
+   </tr>
+      <tr>
+      <td rowspan="2">AskUbuntuCorpus(en)</td>
+      <td >pretrained_embeddings_spacy</td>
+      <td>0.89</td>
+      <td>0.89</td>
+      <td>0.89</td>
+      <td>0.89</td>
+      <td>0.95</td>
+      <td>0.95</td>
+      <td>0.95</td>
+      <td>0.95</td>
    </tr>
    <tr>
-      <td>SMP2019(zh)</td>
-      <td >rasa_nlu_chi</td>
-      <td>0.76</td>
-      <td>0.83</td>
-      <td>0.76</td>
-      <td>0.78</td>
-      <td>0.79</td>
-      <td>0.80</td>
-      <td>0.79</td>
-      <td>0.77</td>
+      <td >supervised_embeddings</td>
+      <td>0.86</td>
+      <td>0.86</td>
+      <td>0.86</td>
+      <td>0.86</td>
+      <td>0.95</td>
+      <td>0.95</td>
+      <td>0.95</td>
+      <td>0.95</td>
    </tr>
-  <tr>
+   
+   <tr>
       <td rowspan="2">Facebook Multilingual Task Oriented Dataset(en)</td>
       <td >pretrained_embeddings_spacy</td>
       <td>0.98</td>
@@ -161,5 +174,17 @@ Note:
       <td>0.98</td>
       <td>0.98</td>
       <td>0.98</td>
+   </tr>
+   <tr>
+      <td>SMP2019(zh)</td>
+      <td >rasa_nlu_chi</td>
+      <td>0.76</td>
+      <td>0.83</td>
+      <td>0.76</td>
+      <td>0.78</td>
+      <td>0.79</td>
+      <td>0.80</td>
+      <td>0.79</td>
+      <td>0.77</td>
    </tr>
 </table>
