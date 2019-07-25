@@ -199,4 +199,16 @@ Note:
       <td>1.00</td>
       <td>1.00</td>
    </tr>
+   <tr>
+      <td>MSRA_NER(zh)</td>
+      <td >rasa_nlu_chi</td>
+      <td>N/A</td>
+      <td>N/A</td>
+      <td>N/A</td>
+      <td>N/A</td>
+      <td>0.98</td>
+      <td>0.98</td>
+      <td>0.98</td>
+      <td>0.98</td>
+   </tr>
 </table>
