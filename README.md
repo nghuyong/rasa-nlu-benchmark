@@ -212,3 +212,9 @@ Note:
       <td>0.98</td>
    </tr>
 </table>
+
+
+We feather use Rasa official [`Comparing NLU Pipelines`](https://rasa.com/docs/rasa/user-guide/evaluating-models/#comparing-nlu-pipelines) tool to compare
+`pretrained_embeddings_spacy` and `supervised_embeddings` on AskUbuntuCorpus dataset on which these two methods have some gap.
+
+![](./images/Ubuntu.png)
