@@ -151,7 +151,7 @@ Note:
       <td>0.95</td>
       <td>0.95</td>
    </tr>
-   
+
    <tr>
       <td rowspan="2">Facebook Multilingual Task Oriented Dataset(en)</td>
       <td >pretrained_embeddings_spacy</td>
@@ -218,4 +218,4 @@ We feather use Rasa official [`Comparing NLU Pipelines`](https://rasa.com/docs/r
 `pretrained_embeddings_spacy` and `supervised_embeddings` on `AskUbuntuCorpus` dataset on which these two methods have some gap.
 
 
-<img src="./images/Ubuntu.png" width = "300" height = "200" alt="图片名称" align=center />
+<img src="./images/Ubuntu.png" width = "600" height = "400" alt="图片名称" align=center />
