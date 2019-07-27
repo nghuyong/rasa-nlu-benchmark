@@ -7,7 +7,7 @@
          alt="GitHub stars">
   </a>
   <a href="https://github.com/nghuyong/rasa-nlu-benchmark/network/members">
-    <img src="https://img.shields.io/github/forks/nghuyong/rasa-nlu-benchmark?style=social&logo=github"
+    <img src="https://img.shields.io/github/forks/nghuyong/rasa-nlu-benchmark.svg?colorA=orange&colorB=orange&logo=github"
          alt="GitHub forks">
   </a>
   <a href="https://github.com/nghuyong/rasa-nlu-benchmark/issues">
