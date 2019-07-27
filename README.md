@@ -215,7 +215,7 @@ Note:
 
 
 We feather use Rasa official [`Comparing NLU Pipelines`](https://rasa.com/docs/rasa/user-guide/evaluating-models/#comparing-nlu-pipelines) tool to compare
-`pretrained_embeddings_spacy` and `supervised_embeddings` on `AskUbuntuCorpus` dataset on which these two methods have some gap.
+`pretrained_embeddings_spacy` and `supervised_embeddings` on `AskUbuntuCorpus`(small size)  and `snip`(big size) dataset.
 
 
-<img src="./images/Ubuntu.png" width = "600" height = "400" alt="图片名称" align=center />
+<img src="./images/compare.png" width = "600" height = "400" alt="图片名称" align=center />
