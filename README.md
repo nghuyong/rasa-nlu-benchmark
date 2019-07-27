@@ -6,6 +6,10 @@
     <img src="https://img.shields.io/github/stars/nghuyong/rasa-nlu-benchmark.svg?colorA=orange&colorB=orange&logo=github"
          alt="GitHub stars">
   </a>
+  <a href="https://github.com/nghuyong/rasa-nlu-benchmark/network/members">
+    <img src="https://img.shields.io/github/forks/nghuyong/rasa-nlu-benchmark?style=social&logo=github"
+         alt="GitHub forks">
+  </a>
   <a href="https://github.com/nghuyong/rasa-nlu-benchmark/issues">
         <img src="https://img.shields.io/github/issues/nghuyong/rasa-nlu-benchmark.svg"
              alt="GitHub issues">
