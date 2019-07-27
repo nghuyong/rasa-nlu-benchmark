@@ -219,3 +219,6 @@ We feather use Rasa official [`Comparing NLU Pipelines`](https://rasa.com/docs/r
 
 
 <img src="./images/compare.png" width = "900" height = "400" alt="图片名称" align=center />
+
+We can see that when the training data is relatively small, ``pretrained_embeddings_spacy`` is better, and when the amount of data is sufficient, `supervised_embeddings` will be better.
+
